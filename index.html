@@ -1,0 +1,18 @@
+<html>
+   <head>
+      <title>Toy Search Engine</title>
+   </head>
+   <body>
+      <form action="{{ request.path }}" method="post">
+       <div>{{ _("Search") }} <input type="text" name="query"/></div>
+       <div><input type="submit" value="{{ _("Search") }}"/></div>
+       {% module xsrf_form_html() %}
+     </form>
+    <div> "Results for query" {{ escape(query) }} </div>
+     <ul>
+       {% for item in items %}
+         <li><a href="{{escape(item)}}">{{ escape(item) }}</a></li>
+       {% end %}
+     </ul>
+   </body>
+ </html>

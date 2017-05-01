@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Phallaceae - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phallaceae","wgTitle":"Phallaceae","wgCurRevisionId":778160657,"wgRevisionId":778160657,"wgArticleId":304551,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Wikipedia articles with LCCN identifiers","Mushroom types","Phallales","Basidiomycota families"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phallaceae","wgRelevantArticleId":304551,"wgRequestId":"WQdBhwrAIFQAAIbgFTsAAAEL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q784850","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/5e/Phallus_impudicus_Stinkmorchel.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phallaceae"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Phallaceae&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Phallaceae&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Phallaceae"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Phallaceae rootpage-Phallaceae skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Phallaceae</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)">Phallaceae</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Phallus_impudicus_Stinkmorchel.jpg" class="image"><img alt="Phallus impudicus Stinkmorchel.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Phallus_impudicus_Stinkmorchel.jpg/220px-Phallus_impudicus_Stinkmorchel.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Phallus_impudicus_Stinkmorchel.jpg/330px-Phallus_impudicus_Stinkmorchel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Phallus_impudicus_Stinkmorchel.jpg/440px-Phallus_impudicus_Stinkmorchel.jpg 2x" data-file-width="1200" data-file-height="1600" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">The common stinkhorn, <i><a href="/wiki/Phallus_impudicus" title="Phallus impudicus">Phallus&#160;impudicus</a></i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom"><a href="/wiki/Fungus" title="Fungus">Fungi</a></span></td>
+</tr>
+<tr>
+<td>Division:</td>
+<td><span class="division"><a href="/wiki/Basidiomycota" title="Basidiomycota">Basidiomycota</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class"><a href="/wiki/Agaricomycetes" title="Agaricomycetes">Agaricomycetes</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order"><a href="/wiki/Phallales" title="Phallales">Phallales</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family"><b>Phallaceae</b></span><br />
+<small><a href="/wiki/August_Carl_Joseph_Corda" title="August Carl Joseph Corda">Corda</a> (1842)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Type_genus" title="Type genus">Type genus</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><a href="/wiki/Phallus_(genus)" class="mw-redirect" title="Phallus (genus)">Phallus</a></i><br />
+<small><a href="/wiki/Hadrianus_Junius" title="Hadrianus Junius">Junius</a> ex <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">L.</a> (1753)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a><sup id="cite_ref-urlMycoBank:_Clathraceae_1-0" class="reference"><a href="#cite_note-urlMycoBank:_Clathraceae-1">[1]</a></sup><sup id="cite_ref-urlMycoBank:_Lysuraceae_2-0" class="reference"><a href="#cite_note-urlMycoBank:_Lysuraceae-2">[2]</a></sup></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>Clathraceae <small><a href="/wiki/Fran%C3%A7ois_Fulgis_Chevallier" title="François Fulgis Chevallier">Chevall.</a> 1826</small><br />
+Lysuraceae <small><a href="/wiki/August_Karl_Joseph_Corda" class="mw-redirect" title="August Karl Joseph Corda">Corda</a> 1842</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p><b>Phallaceae</b> is a <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> of fungi, commonly known as <b>stinkhorn</b> mushrooms, within the order <a href="/wiki/Phallales" title="Phallales">Phallales</a>. Stinkhorns have a worldwide distribution, but are especially prevalent in <a href="/wiki/Tropical" class="mw-redirect" title="Tropical">tropical</a> regions. They are known for their foul-smelling, sticky <a href="/wiki/Spore" title="Spore">spore</a> masses, or <a href="/wiki/Gleba" title="Gleba">gleba</a>, borne on the end of a stalk called the receptaculum. The characteristic fruiting-body structure, a single, unbranched receptaculum with an externally attached gleba on the upper part, distinguishes the Phallaceae from other families in the Phalalles. The spore mass typically smells of <a href="/wiki/Carrion" title="Carrion">carrion</a> or <a href="/wiki/Feces" title="Feces">dung</a>, and attracts <a href="/wiki/Fly" title="Fly">flies</a> and other insects to help disperse the spores. Although there is great diversity in body structure shape among the various genera, all species in the Phallaceae begin their development as oval or round structures known as "eggs". According to a 2008 estimate, the family contains 21 genera and 77 species.<sup id="cite_ref-Kirk2008_3-0" class="reference"><a href="#cite_note-Kirk2008-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Genera"><span class="tocnumber">2</span> <span class="toctext">Genera</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Books_cited"><span class="tocnumber">3.1</span> <span class="toctext">Books cited</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phallaceae&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Species of stinkhorns have <a href="/wiki/Gasteroid" class="mw-redirect" title="Gasteroid">gasteroid</a>, or internally produced spores. Fruit bodies originate as a gelatinous, spherical, or egg-shaped structure that may be completely or partially buried underground. The peridium, the outer layer of the egg, is white, or purple/red, with two or three layers. The outer layer is thin, membranous, and elastic, while the inner layer is thicker, gelatinous, and continuous. At maturity, the peridium opens up and remains as a volva at the base of the receptaculum.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hexenei.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hexenei.jpg/250px-Hexenei.jpg" width="250" height="243" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hexenei.jpg/375px-Hexenei.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/53/Hexenei.jpg 2x" data-file-width="400" data-file-height="389" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hexenei.jpg" class="internal" title="Enlarge"></a></div>
+A bisected stinkhorn egg (<i>Phallus&#160;impudicus</i>)</div>
+</div>
+</div>
+<p>The fertile portion of the fruiting body is often borne on the end of a wide, fleshy or spongy stalk (as in the <a href="/wiki/Phallales" title="Phallales">Phallales</a>), which may be cylindrical, star-shaped, or reticulate (forming a network). They may be brightly colored, sometimes with a lattice- or veil-like membrane enclosing and protecting the spores. The spore-containing substance, the <a href="/wiki/Gleba" title="Gleba">gleba</a>, is typically <a href="/wiki/Gelatin" title="Gelatin">gelatinous</a>, often foul-smelling, and deliquescent (becoming liquid from the absorption of water). The gleba is formed on the exterior face of the cap or the upper part of the receptacle.</p>
+<p>The <a href="/wiki/Basidia" class="mw-redirect" title="Basidia">basidia</a> are small and narrowly club-shaped or <a href="https://en.wiktionary.org/wiki/fusiform" class="extiw" title="wikt:fusiform">fusiform</a>, short-lived (evanescent), with four to eight <a href="/wiki/Sterigmata" class="mw-redirect" title="Sterigmata">sterigmata</a>. The spores are usually ellipsoid or cylindrical in shape, <a href="/wiki/Hyaline" title="Hyaline">hyaline</a> or pale brown, smooth, more or less smooth-walled, and truncated at the base.<sup id="cite_ref-isbn0-85199-827-5_5-0" class="reference"><a href="#cite_note-isbn0-85199-827-5-5">[5]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Genera">Genera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phallaceae&amp;action=edit&amp;section=2" title="Edit section: Genera">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt><i><a href="/wiki/Anthurus" title="Anthurus">Anthurus</a></i> <small>Kalchbr. &amp; MacOwan (1880)</small></dt>
+<dd>Fruiting bodies have a short stalk from which arises a spore-bearing structure (the receptaculum) of 5–8 arched arms. These arms, initially joined at the top, disconnect and curve irregularly to expose the inner surface of each arm, which is covered with green spore-containing gleba. Spores are 3–4&#160;×&#160;1–1.5&#160;µm.<sup id="cite_ref-Ellis219_6-0" class="reference"><a href="#cite_note-Ellis219-6">[6]</a></sup></dd>
+<dt><i><a href="/w/index.php?title=Aporophallus&amp;action=edit&amp;redlink=1" class="new" title="Aporophallus (page does not exist)">Aporophallus</a></i> <small>Möller (1895)</small></dt>
+<dt><i><a href="/wiki/Asero%C3%AB" class="mw-redirect" title="Aseroë">Aseroë</a></i> <small>Labill. (1800)</small></dt>
+<dd>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Stinkhorn_Springbrook.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stinkhorn_Springbrook.jpg/250px-Stinkhorn_Springbrook.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stinkhorn_Springbrook.jpg/375px-Stinkhorn_Springbrook.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stinkhorn_Springbrook.jpg/500px-Stinkhorn_Springbrook.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stinkhorn_Springbrook.jpg" class="internal" title="Enlarge"></a></div>
+<i>Aseroë rubra</i></div>
+</div>
+</div>
+Mature fruiting bodies contain a roughly cylindrical white or pinkish stalk approximately 6&#160;×&#160;2&#160;cm, with a volva at the base. At the top is a bright red disc with a variable number of arms, typically 3–7&#160;cm long. The gleba found on the disc and inner side of the arms is slimy, foetid, and green colored. Spores are <a href="/wiki/Hyaline" title="Hyaline">hyaline</a>, with dimensions of 4–6&#160;1.5–2&#160;µm.<sup id="cite_ref-Ellis219_6-1" class="reference"><a href="#cite_note-Ellis219-6">[6]</a></sup> <i><a href="/wiki/Asero%C3%AB_rubra" class="mw-redirect" title="Aseroë rubra">Aseroë rubra</a></i>, an Australian and Pacific species which has spread to Europe and North America.</dd>
+<dt><i><a href="/wiki/Blumenavia" title="Blumenavia">Blumenavia</a></i> <small>Möller (1895)</small></dt>
+<dt><i><a href="/wiki/Clathrus" title="Clathrus">Clathrus</a></i> <small><a href="/wiki/Pier_Antonio_Micheli" title="Pier Antonio Micheli">P. Micheli</a> ex <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">L.</a></small></dt>
+<dd>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Clathrus_columnatus_two.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Clathrus_columnatus_two.jpeg/250px-Clathrus_columnatus_two.jpeg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Clathrus_columnatus_two.jpeg/375px-Clathrus_columnatus_two.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Clathrus_columnatus_two.jpeg/500px-Clathrus_columnatus_two.jpeg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Clathrus_columnatus_two.jpeg" class="internal" title="Enlarge"></a></div>
+<i>Clathrus&#160;columnatus</i></div>
+</div>
+</div>
+Fruiting bodies are latticed (clathrate), and made of hollow tubular arms that originate from the basal tissue within the volva. Spores are elliptical, smooth, hyaline, with dimensions of 4–6&#160;×1.5–2.5&#160;µm.<sup id="cite_ref-Miller80_7-0" class="reference"><a href="#cite_note-Miller80-7">[7]</a></sup> Examples include <i><a href="/wiki/Clathrus_ruber" title="Clathrus ruber">Clathrus ruber</a></i>, the lattice stinkhorn, <i><a href="/wiki/Clathrus_archeri" title="Clathrus archeri">Clathrus archeri</a></i>, the octopus stinkhorn, and <i><a href="/wiki/Clathrus_columnatus" title="Clathrus columnatus">Clathrus columnatus</a></i>, the columned stinkhorn.</dd>
+<dt><i><a href="/wiki/Colus_(fungus)" title="Colus (fungus)">Colus</a></i> <small>Cavalier &amp; Séchier (1835)</small></dt>
+<dd>A genus of four species with fruit bodies that are a short stalk from which six columns arise, joining at the top to form a red, arching, clathrate receptaculum. The gleba is smeared on the inside surface of the receptaculum.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd>
+<dt><i><a href="/w/index.php?title=Echinophalus&amp;action=edit&amp;redlink=1" class="new" title="Echinophalus (page does not exist)">Echinophalus</a></i> <small>Henn. (1898)</small></dt>
+<dt><i><a href="/w/index.php?title=Endophallus&amp;action=edit&amp;redlink=1" class="new" title="Endophallus (page does not exist)">Endophallus</a></i> <small>Zang &amp; Petersen (1989)</small></dt>
+<dd>Contains a single species, <i>E. yunnanensis</i> found in China, that resembles <i>Phallus</i> except for a peridium that is separated from the base of the stem and which does not persist as a volva.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd>
+<dt><i><a href="/wiki/Ileodictyon" title="Ileodictyon">Ileodictyon</a></i> <small><a href="/wiki/Louis_Ren%C3%A9_Tulasne" class="mw-redirect" title="Louis René Tulasne">Tul.</a> ex M. Raoul (1844)</small></dt>
+<dd>Fruiting bodies are latticed (clathrate), and have gelatinous arms that lie sessile within the <a href="/wiki/Volva_(mycology)" title="Volva (mycology)">volva</a>. Spores are elliptical, and have dimensions of 4–6&#160;1.5–2.5&#160;µm.<sup id="cite_ref-Miller80_7-1" class="reference"><a href="#cite_note-Miller80-7">[7]</a></sup> The New Zealand native, <i><a href="/wiki/Ileodictyon_cibarium" title="Ileodictyon cibarium">Ileodictyon cibarium</a></i>, known as the basket fungus, has a fruiting body shaped somewhat like a round or oval ball with interlaced or latticed branches.</dd>
+<dt><i><a href="/wiki/Itajahya" title="Itajahya">Itajahya</a></i> <small>Möller (1895)</small></dt>
+<dd>Characters in this genus include a white calyptra (tissue which covers the top of the fruiting body to which the gleba is attached), lamellate plates covered with gleba. The gleba has a white mottled surface, and the pileus appears wig-like when removed of the gleba. The thick, stout stalk has many chambered walls.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
+<dt><i><a href="/wiki/Kobayasia" title="Kobayasia">Kobayasia</a></i> <small>(Kobayasi) S. Imai &amp; A. Kawam. (1958)</small></dt>
+<dd>This genus circumscribes the single species <i>Kobayasia nipponica</i>, found in Japan in 1958.</dd>
+<dt><i><a href="/wiki/Laternea" title="Laternea">Laternea</a></i> <small>Turpin (1822)</small></dt>
+<dd>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Laternea_pusilla_68902.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Laternea_pusilla_68902.jpg/250px-Laternea_pusilla_68902.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Laternea_pusilla_68902.jpg/375px-Laternea_pusilla_68902.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Laternea_pusilla_68902.jpg/500px-Laternea_pusilla_68902.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Laternea_pusilla_68902.jpg" class="internal" title="Enlarge"></a></div>
+<i>Laternea pusilla</i></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt><i><a href="/wiki/Ligiella" title="Ligiella">Ligiella</a></i> <small>J.A. Sáenz (1980)</small></dt>
+<dd>Fruiting bodies are 4.5–6.5&#160;cm long, 2.2–5&#160;cm in diameter, and have four or five thick white chambered arms that are joined at the top, but free at the base. This <a href="/wiki/Monotypic" class="mw-redirect" title="Monotypic">monotypic</a> genus, containing the single species <i>L. rodrigueziana</i>, is known only from <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd>
+<dt><i><a href="/wiki/Lysurus_(fungus)" title="Lysurus (fungus)">Lysurus</a></i> <small><a href="/wiki/Elias_Magnus_Fries" title="Elias Magnus Fries">Fr.</a> (1823)</small></dt>
+<dd>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Lysurus_mokusin_apex.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lysurus_mokusin_apex.jpg/250px-Lysurus_mokusin_apex.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lysurus_mokusin_apex.jpg/375px-Lysurus_mokusin_apex.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lysurus_mokusin_apex.jpg/500px-Lysurus_mokusin_apex.jpg 2x" data-file-width="1368" data-file-height="1026" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lysurus_mokusin_apex.jpg" class="internal" title="Enlarge"></a></div>
+<i>Lysurus&#160;mokusin</i></div>
+</div>
+</div>
+Fruiting bodies consist of a long stalk with 3 or 4 short, thick arms. These arms, initially joined together, but usually separate at maturity, are covered with the brownish-olivaceous gleba. Spores are ellipsoidal, with dimensions of 4–5&#160;×&#160;1.5–2&#160;µm.<sup id="cite_ref-Miller80_7-2" class="reference"><a href="#cite_note-Miller80-7">[7]</a></sup></dd>
+<dt><i><a href="/wiki/Mutinus" title="Mutinus">Mutinus</a></i> <small>(Huds.) Fr. (1849)</small></dt>
+<dd>The mature fruiting body has a spongy, cylindrical hollow stalk which ends in a slender, tapered, sometimes curved head covered with the dark olivaceous, slimy gleba. In older specimens, the gleba may be washed or worn off to show the orange or red color of the head itself. Notable species include the dog stinkhorn <i><a href="/wiki/Mutinus_caninus" title="Mutinus caninus">Mutinus caninus</a></i>.</dd>
+<dt><i><a href="/wiki/Neolysurus" title="Neolysurus">Neolysurus</a></i> <small>O.K. Mill., Ovrebo &amp; Burk (1991)</small></dt>
+<dd>This genus contains the single species <i>Neolysurus arcipulvinus</i>, described from <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>. The stipe and arms have a tubular construction, similar to species from <i>Lysurus</i>. <i>Neolysurus</i> is unique in having a long stipe, ending in arms or columns that branch and interconnect to support a cushion-shaped, olive green gleba. The glebal cushion is divided into polygonal compartments by a fine pinkish white, solid mesh. The <a href="/wiki/Hymenium" title="Hymenium">hymenium</a> is continuous between the mesh.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd>
+<dt><i><a href="/wiki/Phallus_(genus)" class="mw-redirect" title="Phallus (genus)">Phallus</a></i> <small>Junius ex L. (1753)</small></dt>
+<dd>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Phallus_ravenelii_59474.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phallus_ravenelii_59474.jpg/250px-Phallus_ravenelii_59474.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phallus_ravenelii_59474.jpg/375px-Phallus_ravenelii_59474.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phallus_ravenelii_59474.jpg/500px-Phallus_ravenelii_59474.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phallus_ravenelii_59474.jpg" class="internal" title="Enlarge"></a></div>
+<i>Phallus&#160;ravenelii</i></div>
+</div>
+</div>
+In species of <i>Phallus</i>, the receptaculum is a tall unbranched stalk that ends in a <a href="/wiki/Pileus_(mycology)" title="Pileus (mycology)">cap</a>-like structure that bears the gleba. Notable species include <i><a href="/wiki/Phallus_impudicus" title="Phallus impudicus">Phallus impudicus</a></i>, the common stinkhorn, <i><a href="/wiki/Phallus_hadriani" title="Phallus hadriani">Phallus hadriani</a></i>, <i><a href="/wiki/Phallus_ravenelii" title="Phallus ravenelii">Phallus ravenelii</a></i>, and <i><a href="/wiki/Phallus_indusiatus" title="Phallus indusiatus">Phallus indusiatus</a></i> (syn. <i>Dictyophora indusiata</i>), the Chinese "bamboo fungus", eaten as a food in southwestern China after the foul smelling cap is removed.</dd>
+<dt><i><a href="/wiki/Protubera" title="Protubera">Protubera</a></i> <small>Möller (1895)</small></dt>
+<dd>Fruiting bodies are egg-shaped, 2.2–3.5&#160;cm in diameter by 3–4&#160;cm high, with a dull white, soft exoperidium (roughly 1&#160;mm thick) and a grayish exoperidium (3–4&#160;mm thick). The gleba is contained within internal chambers that are separated by whitish, gelatinous tissue that originates from a columella-like, gelatinous central core. Spores are elliptical, smooth, nearly hyaline, and 3.5–4.5&#160;1.5–2&#160;µm.<sup id="cite_ref-Miller_and_Miller.2C_p._83_13-0" class="reference"><a href="#cite_note-Miller_and_Miller.2C_p._83-13">[13]</a></sup></dd>
+<dt><i><a href="/wiki/Protuberella" title="Protuberella">Protuberella</a></i> <small>(S. Imai) S. Imai &amp; Kawam. (1958)</small></dt>
+<dd>This genus resembles the <i>Protubera</i>, except that the tissue is "gelatinous fleshy in the peridium and not so distinctly gelatinous as in <i>Protubera maracuja</i>, they are less gelatinous in the nature of the sterile strands than those of <i>P. maracuja</i>".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Spores are clylindric, thin-walled, and 3.7–5&#160;2–2.5&#160;µm. This monotypic genus contains the single species <i>Protuberella borealis</i>, known only from Asia.</dd>
+<dt><i><a href="/w/index.php?title=Pseudoclathrus&amp;action=edit&amp;redlink=1" class="new" title="Pseudoclathrus (page does not exist)">Pseudoclathrus</a></i> <small>B. Liu &amp; Y.S. Bau (1980)</small></dt>
+<dt><i><a href="/wiki/Pseudocolus" title="Pseudocolus">Pseudocolus</a></i> <small>Lloyd (1907)</small></dt>
+<dt><i><a href="/wiki/Staheliomyces" title="Staheliomyces">Staheliomyces</a></i> <small>E. Fisch. (1921)</small></dt>
+</dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phallaceae&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-urlMycoBank:_Clathraceae-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlMycoBank:_Clathraceae_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mycobank.org/MycoTaxo.aspx?Link=T&amp;Rec=80602">"Clathraceae Chevall. 1826"</a>. <i>MycoBank</i>. International Mycological Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Clathraceae+Chevall.+1826&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mycobank.org%2FMycoTaxo.aspx%3FLink%3DT%26Rec%3D80602&amp;rft.jtitle=MycoBank&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-urlMycoBank:_Lysuraceae-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlMycoBank:_Lysuraceae_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mycobank.org/MycoTaxo.aspx?Link=T&amp;Rec=80970">"Lysuraceae Corda 1842"</a>. <i>MycoBank</i>. International Mycological Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-08-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Lysuraceae+Corda+1842&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mycobank.org%2FMycoTaxo.aspx%3FLink%3DT%26Rec%3D80970&amp;rft.jtitle=MycoBank&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kirk2008-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kirk2008_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kirk PM, Cannon PF, Minter DW, Stalpers JA (2008). <i>Dictionary of the Fungi</i> (10th ed.). Wallingford: CABI. p.&#160;519. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85199-826-8" title="Special:BookSources/978-0-85199-826-8">978-0-85199-826-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.au=Cannon%2C+PF&amp;rft.aufirst=PM&amp;rft.aulast=Kirk&amp;rft.au=Minter%2C+DW&amp;rft.au=Stalpers%2C+JA&amp;rft.btitle=Dictionary+of+the+Fungi&amp;rft.date=2008&amp;rft.edition=10th&amp;rft.genre=book&amp;rft.isbn=978-0-85199-826-8&amp;rft.pages=519&amp;rft.place=Wallingford&amp;rft.pub=CABI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Jülich W. (1982). Higher taxa of Basidiomycetes. Bibliotheca Mycologia 85. Cramer, Vaduz. 485 pp.</span></li>
+<li id="cite_note-isbn0-85199-827-5-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-isbn0-85199-827-5_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Cannon PF, Kirk PM (2007). <i>Fungal families of the world</i>. Wallingford: CABI. p.&#160;270–1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85199-827-5" title="Special:BookSources/0-85199-827-5">0-85199-827-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.aufirst=PF&amp;rft.au=Kirk%2C+PM&amp;rft.aulast=Cannon&amp;rft.btitle=Fungal+families+of+the+world&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0-85199-827-5&amp;rft.pages=270-1&amp;rft.place=Wallingford&amp;rft.pub=CABI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ellis219-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ellis219_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ellis219_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ellis and Ellis, p. 219.</span></li>
+<li id="cite_note-Miller80-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Miller80_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Miller80_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Miller80_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Miller and Miller, p. 80.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Miller and Miller, p. 91.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zang, Mu; Petersen, Ronald H. (May–June 1989). <a rel="nofollow" class="external text" href="http://www.cybertruffle.org.uk/cyberliber/59350/0081/003/0486.htm">"<i>Endophallus</i>, a new genus in the Phallaceae from China"</a>. <i>Mycologia</i>. <b>81</b> (3): 486–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F3760091">10.2307/3760091</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3760091">3760091</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Endophallus%2C+a+new+genus+in+the+Phallaceae+from+China&amp;rft.aufirst=Mu&amp;rft.aulast=Zang&amp;rft.au=Petersen%2C+Ronald+H.&amp;rft.date=1989-05%2F1989-06&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3760091&amp;rft_id=http%3A%2F%2Fwww.cybertruffle.org.uk%2Fcyberliber%2F59350%2F0081%2F003%2F0486.htm&amp;rft_id=info%3Adoi%2F10.2307%2F3760091&amp;rft.issue=3&amp;rft.jtitle=Mycologia&amp;rft.pages=486-89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=81" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Long, W.H.; Stouffer, David J. (Nov–Dec 1943). <a rel="nofollow" class="external text" href="http://www.cybertruffle.org.uk/cyberliber/59350/0035/006/0620.htm">"Studies in the Gasteromycetes: IX. The genus, <i>Itajahya</i>, in North America"</a>. <i><a href="/wiki/Mycologia" title="Mycologia">Mycologia</a></i>. <b>35</b> (6): 620–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F3754905">10.2307/3754905</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3754905">3754905</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Studies+in+the+Gasteromycetes%3A+IX.+The+genus%2C+Itajahya%2C+in+North+America&amp;rft.aufirst=W.H.&amp;rft.aulast=Long&amp;rft.au=Stouffer%2C+David+J.&amp;rft.date=1943-11%2F1943-12&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3754905&amp;rft_id=http%3A%2F%2Fwww.cybertruffle.org.uk%2Fcyberliber%2F59350%2F0035%2F006%2F0620.htm&amp;rft_id=info%3Adoi%2F10.2307%2F3754905&amp;rft.issue=6&amp;rft.jtitle=Mycologia&amp;rft.pages=620-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Saenz, JA (1980). "<i>Ligiella</i>, a new genus for the Clathraceae". <i><a href="/wiki/Mycologia" title="Mycologia">Mycologia</a></i>. <b>72</b>: 338–49. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F3759257">10.2307/3759257</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Ligiella%2C+a+new+genus+for+the+Clathraceae&amp;rft.aufirst=JA&amp;rft.aulast=Saenz&amp;rft.date=1980&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F3759257&amp;rft.jtitle=Mycologia&amp;rft.pages=338-49&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=72" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Miller, O. K.; Ovrebo, C. L.; Burk, W. R. (October 1991). "<i>Neolysurus</i>: A new genus in the Clathraceae". <i>Mycological Research</i>. <b>95</b> (10): 1230–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0953-7562%2809%2980016-6">10.1016/S0953-7562(09)80016-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=Neolysurus%3A+A+new+genus+in+the+Clathraceae&amp;rft.au=Burk%2C+W.+R.&amp;rft.aufirst=O.+K.&amp;rft.aulast=Miller&amp;rft.au=Ovrebo%2C+C.+L.&amp;rft.date=1991-10&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0953-7562%2809%2980016-6&amp;rft.issue=10&amp;rft.jtitle=Mycological+Research&amp;rft.pages=1230-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=95" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="position:relative; top: -2px;"><a href="/wiki/Paywall" title="closed access publication – behind paywall"><img alt="closed access publication – behind paywall" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/9px-Closed_Access_logo_alternative.svg.png" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/14px-Closed_Access_logo_alternative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/18px-Closed_Access_logo_alternative.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span></li>
+<li id="cite_note-Miller_and_Miller.2C_p._83-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Miller_and_Miller.2C_p._83_13-0">^</a></b></span> <span class="reference-text">Miller and Miller, p. 83.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Imai, S; Kawamura, A (1958). "On the Japanese species of <i>Protubera</i>". <i>Science Reports of the Yokohama National University</i>. <b>2</b> (7): 1–6.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.atitle=On+the+Japanese+species+of+Protubera&amp;rft.aufirst=S&amp;rft.au=Kawamura%2C+A&amp;rft.aulast=Imai&amp;rft.date=1958&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=Science+Reports+of+the+Yokohama+National+University&amp;rft.pages=1-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Books_cited">Books cited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phallaceae&amp;action=edit&amp;section=4" title="Edit section: Books cited">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book">Ellis JB, Ellis MB (1990). <i>Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook</i>. London: Chapman and Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-412-36970-2" title="Special:BookSources/0-412-36970-2">0-412-36970-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.au=Ellis%2C+MB&amp;rft.aufirst=JB&amp;rft.aulast=Ellis&amp;rft.btitle=Fungi+without+Gills+%28Hymenomycetes+and+Gasteromycetes%29%3A+An+Identification+Handbook&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-412-36970-2&amp;rft.place=London&amp;rft.pub=Chapman+and+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Miller HR, Miller OK (1988). <i>Gasteromycetes: Morphological and Developmental Features, with keys to the Orders, Families, and Genera</i>. Eureka, CA: Mad River Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-916422-74-7" title="Special:BookSources/0-916422-74-7">0-916422-74-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhallaceae&amp;rft.aufirst=HR&amp;rft.aulast=Miller&amp;rft.au=Miller%2C+OK&amp;rft.btitle=Gasteromycetes%3A+Morphological+and+Developmental+Features%2C+with+keys+to+the+Orders%2C+Families%2C+and+Genera&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=0-916422-74-7&amp;rft.place=Eureka%2C+CA&amp;rft.pub=Mad+River+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phallaceae&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Phallaceae" class="extiw" title="commons:Category:Phallaceae">Phallaceae</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="https://species.wikimedia.org/wiki/Phallaceae" class="extiw" title="wikispecies:Phallaceae">Phallaceae</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.indexfungorum.org/Names/familyrecord.asp?strRecordID=81146">Index Fungorum</a></li>
+<li><a rel="nofollow" class="external text" href="http://botit.botany.wisc.edu/toms_fungi/july99.html"><i>Dictyophora duplicata</i>, the veiled stinkhorn or the netted stinkhorn</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mushroomexpert.com/phallaceae.html">Stinkhorns: The Phallaceae and Clathraceae</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="&quot;letter-spacing: .1px;&quot;"><a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy" class="extiw" title="wikidata:Wikidata:WikiProject Taxonomy">Taxon identifiers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://eol.org/pages/5921">5921</a></li>
+<li><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.gbif.org/species/3292">3292</a></li>
+<li><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=936563">936563</a></li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=90951">90951</a></li>
+<li><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=426219">426219</a></li>
+<li><a href="/wiki/MycoBank" title="MycoBank">MycoBank</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&amp;MycoBankNr_=81146">81146</a></li>
+<li><a href="/wiki/Index_Fungorum" title="Index Fungorum">Index Fungorum</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=81146">81146</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh86001571">sh86001571</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2200
+Cached time: 20170501140842
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.491 seconds
+Preprocessor visited node count: 5398/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42220/2097152 bytes
+Template argument size: 4899/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 7/500
+Lua time usage: 0.137/10.000 seconds
+Lua memory usage: 4.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  441.219      1 -total
+ 40.62%  179.207      1 Template:Taxonbar
+ 39.19%  172.913      1 Template:Navbox
+ 36.69%  161.884      1 Template:1x
+ 35.42%  156.284     34 Template:Taxonbar/Link
+ 28.72%  126.734     50 Template:If_empty
+ 24.17%  106.657      1 Template:Taxobox
+ 22.70%  100.153      1 Template:Reflist
+ 21.80%   96.164      1 Template:Taxobox/core
+ 15.35%   67.710     14 Template:Taxobox_colour
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:304551-0!*!0!!en!4!* and timestamp 20170501140853 and revision id 778160657
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phallaceae&amp;oldid=778160657">https://en.wikipedia.org/w/index.php?title=Phallaceae&amp;oldid=778160657</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mushroom_types" title="Category:Mushroom types">Mushroom types</a></li><li><a href="/wiki/Category:Phallales" title="Category:Phallales">Phallales</a></li><li><a href="/wiki/Category:Basidiomycota_families" title="Category:Basidiomycota families">Basidiomycota families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Phallaceae" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Phallaceae" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Phallaceae"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Phallaceae"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Phallaceae" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Phallaceae&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Phallaceae&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Phallaceae" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Phallaceae" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Phallaceae&amp;oldid=778160657" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Phallaceae&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q784850" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phallaceae&amp;id=778160657" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phallaceae">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Phallaceae&amp;returnto=Phallaceae&amp;oldid=778160657&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Phallaceae&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Phallaceae" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Phallaceae" hreflang="en">Wikispecies</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%84%D9%88%D8%B3%D9%8A%D8%A9" title="فالوسية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fal%C2%B7l%C3%A0cia_(fong)" title="Fal·làcia (fong) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stinkmorchelverwandte" title="Stinkmorchelverwandte – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%AF%D9%88%D9%82%D8%A7%D8%B1%DA%86%D8%A7%D9%86" title="گندوقارچان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Phallaceae" title="Phallaceae – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Adharc_an_ph%C3%BAca" title="Adharc an phúca – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Poniabudiniai" title="Poniabudiniai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%83%E3%83%9D%E3%83%B3%E3%82%BF%E3%82%B1%E7%A7%91" title="スッポンタケ科 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Stanksopp" title="Stanksopp – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Tevsoppar" title="Tevsoppar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sromotnikowate" title="Sromotnikowate – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%91%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE)" title="Весёлковые (семейство) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Stinkhorn" title="Stinkhorn – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Stinksvampar" title="Stinksvampar – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Phallaceae" title="Phallaceae – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%AC%BC%E7%AD%86%E7%A7%91" title="鬼筆科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q784850#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 May 2017, at 14:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Phallaceae&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.491","ppvisitednodes":{"value":5398,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42220,"limit":2097152},"templateargumentsize":{"value":4899,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  441.219      1 -total"," 40.62%  179.207      1 Template:Taxonbar"," 39.19%  172.913      1 Template:Navbox"," 36.69%  161.884      1 Template:1x"," 35.42%  156.284     34 Template:Taxonbar/Link"," 28.72%  126.734     50 Template:If_empty"," 24.17%  106.657      1 Template:Taxobox"," 22.70%  100.153      1 Template:Reflist"," 21.80%   96.164      1 Template:Taxobox/core"," 15.35%   67.710     14 Template:Taxobox_colour"]},"scribunto":{"limitreport-timeusage":{"value":"0.137","limit":"10.000"},"limitreport-memusage":{"value":4658034,"limit":52428800}},"cachereport":{"origin":"mw2200","timestamp":"20170501140842","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2196"});});</script>
+	</body>
+</html>

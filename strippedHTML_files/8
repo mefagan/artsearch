@@ -1,0 +1,248 @@
+
+
+
+
+Wikipedia:Introduction - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Introduction","wgTitle":"Introduction","wgCurRevisionId":680454568,"wgRevisionId":680454568,"wgArticleId":1226609,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia basic information","Wikipedia quick introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Introduction","wgRelevantArticleId":1226609,"wgRequestId":"WQN16grAIDQAABk1IvoAAAAD","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3945","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+			Wikipedia:Introduction
+									
+									From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Help:Contents
+
+
+
+
+Introduction
+
+Learnmoreaboutediting
+
+ExploreWikipedia
+
+Tutorial
+
+
+
+What is Wikipedia?
+
+
+Play media
+
+
+A short video about the satisfaction editors get from contributing
+
+
+Wikipedia is a free encyclopedia, written collaboratively by the people who use it. It is a special type of website designed to make collaboration easy, called a wiki. Many people are constantly improving Wikipedia, making thousands of changes per hour. All of these changes are recorded in article histories and recent changes. For a more detailed account of the project, see About Wikipedia.
+
+How you can contribute
+
+
+
+
+Click "Edit" to change an article
+
+
+
+
+Play media
+
+
+Editing tutorial for Wikipedia
+
+
+Don't be afraid to edit – anyone can edit almost every page, and we are encouraged to be bold! Find something that can be improved and make it better—for example, spelling, grammar, rewriting for readability, adding content, or removing non-constructive edits. If you wish to add new facts, please try to provide references so they may be verified, or suggest them on the article's discussion page. Changes to controversial topics and Wikipedia's main pages should usually be discussed first. Contributing to Wikipedia will provide you with resources on all the basics needed to use, comment on, and contribute to Wikipedia.
+Remember – you can't break Wikipedia; all edits can be reversed, fixed or improved later. Wikipedia is allowed to be imperfect. So go ahead, edit an article and help make Wikipedia the best information source on the Internet!
+Donate – Wikipedia is free to use, but relies on donations and grants to do so. Please consider donating using the Donate to Wikipedia link on the left to help with the project's running costs and expansion.
+
+
+Why not try out the editor right now?
+
+Click here to edit the sandbox, a place to make test edits. (If there is already some text there, add to the end of the text.)
+Type some text.
+Click Show preview to test your changes, or Save page when you're happy with the way it looks.
+
+
+Next: Learn more about editing →
+
+
+
+
+
+
+
+
+
+					
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Introductionoldid=680454568"					
+				Categories: Wikipedia basic informationWikipedia quick introductions				
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+															Project page
+															Talk
+													
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+															Read
+															View source
+															View history
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item					
+							
+		
+			
+			Print/export
+
+			
+									
+						Create a bookDownload as PDFPrintable version					
+							
+		
+			
+			In other projects
+
+			
+									
+						WikisourceWikiversity					
+							
+		
+			
+			Languages
+
+			
+									
+						AfrikaansAlemannischÆngliscالعربيةঅসমীয়াАварবাংলাBân-lâm-gúBasa BanyumasanБашҡортсаБългарскиBoarischBosanskiБуряадCatalàCebuanoČeštinaCymraegDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraFøroysktFrançaisGaeilgeGaelgGàidhligGalegoગુજરાતી한국어HrvatskiBahasa IndonesiaInterlinguaÍslenskaItalianoעבריתKapampanganКъарачай-малкъарქართულიҚазақшаKurdîLadinoລາວLatinaLatviešuLëtzebuergeschLietuviųLimburgsMagyarМакедонскиമലയാളംمصرىBahasa MelayuМонголမြန်မာဘာသာ日本語NapulitanoNorsk bokmålNorsk nynorskپښتوPlattdüütschPolskiPortuguêsRomânăRomaniRuna SimiРусскийSámegiellaसंस्कृतम्SarduScotsSicilianuSimple EnglishسنڌيSlovenčinaSlovenščinaکوردیی ناوەندیСрпски / srpskiBasa SundaSuomiSvenskaTagalogTarandíneТатарча/tatarçaไทยTürkçeУдмуртУкраїнськаاردوTiếng Việtייִדיש粵語中文					
+				Edit links			
+		
+				
+		
+		
+							
+											 This page was last edited on 10 September 2015, at 23:28.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.052","walltime":"0.066","ppvisitednodes":{"value":41,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2211,"limit":2097152},"templateargumentsize":{"value":189,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    8.437      1 -total"," 87.89%    7.415      1 Wikipedia:Introduction/Header"," 16.49%    1.391      2 Wikipedia:Introduction/Tab2"," 15.42%    1.301      1 Wikipedia:Introduction/Tab3"," 14.77%    1.246      1 Wikipedia:Introduction/TabsTop"," 11.71%    0.988      1 Wikipedia:Introduction/TabsBottom"," 11.34%    0.957      1 Wikipedia:Introduction/Tab1"," 11.30%    0.953      1 Template:Help_contents_back"]},"cachereport":{"origin":"mw1248","timestamp":"20170330073735","ttl":2592000,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw2164"});});
+	
+

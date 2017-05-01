@@ -1,0 +1,780 @@
+
+
+
+
+Portal:Technology - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Technology","wgTitle":"Technology","wgCurRevisionId":737901506,"wgRevisionId":737901506,"wgArticleId":2072925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Featured portals","Technology portal","Technology portals","Technology","Science portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Technology","wgRelevantArticleId":2072925,"wgRequestId":"WQd1IQrAADQAAQGt5LIAAAAK","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4843868","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+
+
+			Portal:Technology
+									
+									From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+Topics
+Culture
+Geography
+Health
+History
+Mathematics
+Nature
+People
+Philosophy
+Religion
+Society
+Technology
+
+
+Science
+ History of science  Philosophy of science  Systems science  Mathematics  Biology  Chemistry  Physics  Earth sciences  Technology 
+
+
+
+
+edit
+The Technology Portal
+
+
+
+Gunpowder
+
+
+
+Technology is the practical use of science, including the making, modification or improvement, applied activity or behavior, use and knowledge of tools, machines, techniques, crafts, systems, methods of organization, or environmental modifications or arrangement in order to solve a problem, improve a preexisting solution to a problem, achieve a goal or perform a specific function. It can also refer to the collection of such tools, machinery, modifications, environmental arrangement and procedures. Technologies significantly affect human as well as other animal species' ability to control and adapt to their natural environments. The word technology comes from Greek τεχνολογία (technología); from τέχνη (téchnē), meaning 'art, skill, craft', and -λογία (-logía), meaning 'study of-'. The term can be applied either generally or to many specific areas, examples of which include construction technology, medical technology and information technology.
+The human species' use of technology began with the conversion of natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press, the telephone, and the Internet, have lessened physical barriers to communication and allowed humans to interact freely on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear weapons.
+Technology has affected society and its surroundings in a number of ways. In many societies, technology has helped develop more advanced economies (including today's global economy) and has allowed the rise of a leisure class. Many technological processes produce unwanted by-products, known as pollution, and deplete natural resources, to the detriment of the Earth and its environment. Various implementations of technology influence the values of a society and new technology often raises new ethical questions. Examples include the rise of the notion of efficiency in terms of human productivity, a term originally applied only to machines, and the challenge of traditional norms.
+Philosophical debates have arisen over the present and future use of technology in society, with disagreements over whether technology improves the human condition or worsens it. Neo-Luddism, anarcho-primitivism, and similar movements criticise the pervasiveness of technology in the modern world, opining that it harms the environment and alienates people; proponents of ideologies such as transhumanism and techno-progressivism view continued technological progress as beneficial to society and the human condition. Indeed, until recently, it was believed that the development of technology was restricted only to human beings, but recent scientific studies indicate that other primates and certain dolphin communities have developed simple tools and learned to pass their knowledge to other generations.
+
+
+More about Technology...
+
+
+
+
+
+
+
+Refresh selections
+
+
+edit
+Selected article
+
+
+
+The Macintosh Classic is a personal computer that was manufactured by Apple Computer from October 15, 1990 to September 14, 1992. It was the first Apple Macintosh sold under US$1,000. Production of the Classic was prompted by the success of the Macintosh Plus and the SE. The Classic was very similar to its predecessors: due to limited technological advances, it used the same 9-inch (23cm) monochrome CRT display, 512×342pixel resolution, and its performance was hampered by the same 4megabyte (MB) memory limit of the older Macintosh computers. Nevertheless, the Classic featured several improvements over the Macintosh Plus, which it replaced as Apple's low-end Mac computer. It was up to 25percent faster than the Plus and included an Apple SuperDrive 3.5" floppy disk drive as standard. The Classic was an adaptation of Jerry Manock and Terry Oyama's Macintosh 128K industrial design, as was the earlier Macintosh SE. Apple released two versions that ranged in price from $1,000 to $1,500. Reviewers' reactions were mixed; most focused on the slow processor performance and lack of expansion slots. The consensus was that the Classic was only useful for word processing, spreadsheets and databases.
+
+
+
+...Archive/Nominations
+
+
+
+More...
+
+
+
+
+
+
+
+
+edit
+In this month
+
+
+
+
+
+
+3 May 2000 – The outdoor recreation activity Geocaching (logo pictured), in which players use GPS to find hidden containers, is first played
+16 May 1919 – A naval Curtiss aircraft NC-4 commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight
+21 May 1844 – After seeing the samples produced by Charles Goodyear, Thomas Hancock becomes the first person to patent vulcanization of rubber
+28 May 1937 – German automobile manufacturer Volkswagen is founded
+
+More anniversaries...
+
+
+
+
+
+
+edit
+Did you know...
+
+
+
+
+
+
+... that scientists at the Fraunhofer Institute for Chemical Technology (pictured) won the 2010 European Inventor Award for their work on the development of liquid wood?
+... that 2012 Australian Paralympic athletics competitor Simon Patmore has Erb's palsy and works as a technology officer?
+... that DARPA director Arati Prabhakar was the first female director of National Institute of Standards and Technology, and also the first woman to earn a Ph.D. in applied physics from Caltech?
+
+
+
+
+...Archive/Nominations
+
+
+
+More...
+
+
+
+
+
+
+
+
+
+edit
+Featured biography
+
+
+
+Edmund Sharpe (1809–77) was an English architect, architectural historian, railway engineer, and sanitary reformer. Sharpe's main focus was on churches, and he was a pioneer in the use of terracotta as a structural material in church building, designing what were known as "pot" churches. He also designed secular buildings, including domestic properties and schools, and worked on the development of railways in Northwest England, designing bridges and planning new lines. In 1851 he resigned from his architectural practice, and in 1856 he moved from Lancaster, spending the remainder of his career mainly as a railway engineer. Sharpe was involved in Lancaster's civic affairs. He was an elected town councillor and served as mayor in 1848–49. Concerned about the town's poor water supply and sanitation, he championed the construction of new sewers and a waterworks. Sharpe achieved national recognition as an architectural historian. He published books of detailed architectural drawings, wrote a number of articles on architecture, devised a scheme for the classification of English Gothic architectural styles, and in 1875 was awarded the Royal Gold Medal of the Royal Institute of British Architects.
+
+
+
+...Archive/Nominations
+
+
+
+More...
+
+
+
+
+
+
+
+
+edit
+Wikiprojects
+
+
+
+Parent project
+
+
+
+Technology
+
+
+Related projects
+
+
+
+
+
+
+Architecture
+Computing
+
+
+
+
+Computer Science
+
+
+
+
+Electronics
+Energy development
+Energy
+
+
+
+
+History of Science
+Metalworking
+Telecommunications
+Woodworking
+
+
+
+
+
+What are WikiProjects?
+
+
+
+
+
+
+edit
+Selected quote
+
+
+
+
+
+
+
+
+
+“
+Ours is a world of nuclear giants and ethical infants. We know more about war than we know about peace, more about killing than we know about living. If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner.
+”
+
+
+— Omar Bradley, Armistice Day speech (1948)
+
+
+
+
+
+
+
+...Archive/Nominations
+
+
+More...
+
+
+
+
+
+
+
+
+
+edit
+Selected picture
+
+
+
+
+
+
+
+
+Credit: Berthold Werner
+
+
+
+A telephone, or phone, is a telecommunications device that converts sound, typically the human voice, into electronic signals suitable for transmission via cables or other transmission media over long distances through satellite.
+
+
+
+...Archive/Nominations
+
+
+
+More...
+
+
+
+
+
+
+
+
+edit
+Categories
+
+
+
+
+
+
+
+Computing · Classes of computers · Companies · Computer architecture · Computer model · Computer science · Computer security · Computing and society · Data · Embedded systems · Information systems · Information technology · Internet · Languages · Multimedia · Networks · Operating systems · Platforms · Product lifecycle management · Real-time computing · Software · Security ·More...
+
+
+Electronics · Avionics · RF  MMIC Design · Circuits · Companies · Connectors · Consumer electronics · Digital electronics · Digital media · Electrical components · Electronic design · Electronics manufacturing · Embedded systems · Integrated circuits · Microwave technology · Molecular electronics · Water technology · Optoelectronics · Quantum electronics · Radio-frequency identification · Radio electronics · Semiconductors · Signal cables · Surveillance · Telecommunications · Terminology · More...
+
+
+Engineering: Aerospace engineering · Biological engineering · Chemical engineering · Civil engineering · Computer engineering · Electrical engineering · Electronic engineering · Environmental engineering · Geotechnical engineering · Industrial engineering · Marine engineering · Materials science · Mechanical engineering · Nuclear technology · Signal processing · Software engineering · Structural engineering
+
+
+Transport · Aviation · Rail transport · Spaceflight · Road transport · Water transport
+
+
+Timelines: Technology timelines
+
+
+Other sub-categories: Agriculture · Animation · Architecture · Carpentry · Communications · Education · Electrical wiring · Machining · Manufacturing · Medicine · Metalworking · Optics · Plumbing · Tools · Welding · Woodworking
+
+
+
+
+
+
+
+
+
+
+edit
+Main topics
+
+
+Technology
+Technological concepts and issues– Appropriate technology• Clean technology• Diffusion of innovations in science• Doomsday device• Ecotechnology• Environmental technology• High technology• History of science and technology• History of technology• Industry• Innovation• Knowledge economy• Persuasion technology• Pollution• Posthumanism• Precautionary principle• Research and development• Science, technology, and society• Strategy of technology• Superpowers• Sustainable technology• Technicism• Technocapitalism• Technocriticism• Techno-progressivism• Technological convergence• Technological evolution• Technological determinism• Technological diffusion• Technological singularity• Technology acceptance model• Technology assessment• Technology lifecycle• Technology transfer• Technology Tree• Technorealism• Timeline of invention• Transhumanism
+Technologies and applied sciences– Aerospace• Agriculture, Agricultural science  Agronomy• Architecture• Artificial intelligence• Automation• Automobile• Big Science• Biotechnology• Cartography• Chemical engineering• Communication• Computing (Computer science, List of open problems in computer science, Programming, Software engineering, Information technology, Computer engineering)• Construction• Design• Electronics• Energy development• Energy storage• Engineering• Ergonomics• Firefighting• Forensics• Forestry• Free software• Health sciences• Health Informatics• Industry• Information science• Internet• Library and information science• Machines• Management• Manufacturing• Mass communication• Mass production• Medicine (Unsolved problems in neuroscience)• Military science• Military technology and equipment• Mining• Nanotechnology• Nuclear technology• Packaging and labeling• Processes• Robotics• Space exploration• Technology forecasting• Telecommunications• Tools• Transport• Vehicles• Weapons
+
+
+
+
+
+
+edit
+News
+
+
+From the Wikinews Science and technology portal
+
+
+April 28: Shrink-wrapped sheep survive: Researchers say 'Biobag' artificial uterus, successful on lambs, may one day be suitable for use on premature human babies
+April 8: GNOME to be Ubuntu's default desktop environment, Canonical to stop investing in Ubuntu Phone
+March 27: President Trump tells NASA to aim for Mars
+March 22: Jeff Jones resigns as president of Uber
+March 9: Scientists say excess cerebrospinal fluid may serve as early sign of autism
+February 9: Scientists say new medical diagnostic chip can sort cells anywhere with an inkjet
+January 15: Geneticists produce laser-activated killer mice
+January 4: Slow-cooking dinosaur eggs may have contributed to extinction, say scientists
+December 29: Around 7,100 cheetahs remain, say experts
+December 26: Study confirms efficacy of NewLink Genetics ebola vaccine
+
+
+
+
+
+
+
+edit
+Things you can do
+
+
+
+
+
+
+
+
+Check the recent changes page for improvements, other changes, and vandalism to these articles
+Article requests: Computer science, computing, and Internet topics · Engineering topics · Technology and tools topics
+Deletion discussions: Listed at Wikipedia:WikiProject Deletion sorting/Technology
+Expand: check Electronics · Engineer · Optics · Robotics · Telecommunications · Wireless
+Notability: Articles with notability concerns, listed at WikiProject Notability
+Requested pictures: Technology topics, requested pictures
+
+
+
+
+
+
+
+
+
+
+
+edit
+Related portals
+
+
+
+
+
+Agriculture and Agronomy
+
+
+
+Astronomy
+
+
+
+Aviation
+
+
+
+Biotechnology
+
+
+
+Bridges
+
+
+
+Computer science
+
+
+
+Electronics
+
+
+
+Energy
+
+
+
+Engineering
+
+
+
+Film
+
+
+
+Geography
+
+
+
+Health
+
+
+
+Infrastructure
+
+
+
+Information technology
+
+
+
+Mathematics
+
+
+
+Medicine
+
+
+
+Nanotechnology
+
+
+
+Nuclear technology
+
+
+
+Philosophy of science
+
+
+
+Radio
+
+
+
+Renewable energy
+
+
+
+Robotics
+
+
+
+Science
+
+
+
+Software
+
+
+
+Spaceflight
+
+
+
+Sustainable development
+
+
+
+Telecom
+
+
+
+Television
+
+
+
+Trains
+
+
+
+Transport
+
+
+
+War
+
+
+
+
+
+
+
+
+
+
+edit
+Associated Wikimedia
+
+
+
+
+Technology onWikibooks
+Technology on Wikimedia Commons
+Technology onWikinews
+Technology onWikiquote
+Technology onWikisource
+Technology onWikiversity
+Technology onWiktionary
+
+
+Manuals and books
+Images and media
+News
+Quotations
+Texts
+Learning resources
+Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+edit
+Wikipedia's portals
+
+
+
+All Portals Overview Glossaries Indices Lists Outlines Categories
+
+
+Reference Culture Geography Health History Mathematics Nature People Philosophy Religion Society Technology
+
+
+
+About portals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Portal:Technologyoldid=737901506"					
+				Categories: Technology portalTechnology portalsTechnologyScience portalsHidden categories: Wikipedia semi-protected portalsFeatured portals				
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+															Portal
+															Talk
+													
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+															Read
+															View source
+															View history
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item					
+							
+		
+			
+			Print/export
+
+			
+									
+						Create a bookDownload as PDFPrintable version					
+							
+		
+			
+			In other projects
+
+			
+									
+						Wikiversity					
+							
+		
+			
+			Languages
+
+			
+									
+						አማርኛالعربيةБашҡортсаБеларуская (тарашкевіца)‎БългарскиBoarischBosanskiCatalàCebuanoDeutschEestiΕλληνικάEspañolEsperantoفارسیFrançaisFryskGĩkũyũ한국어Bahasa IndonesiaעבריתქართულიKurdîLatinaLëtzebuergeschLietuviųMagyarМакедонскиBahasa MelayuМонголမြန်မာဘာသာNederlands日本語НохчийнOccitanଓଡ଼ିଆپښتوPolskiPortuguêsRomânăРусскийSeelterskShqipසිංහලکوردیی ناوەندیSuomiSvenskaதமிழ்TaqbaylitTürkçeᨅᨔ ᨕᨘᨁᨗУкраїнськаاردوWolof粵語Zazaki中文					
+				Edit links			
+		
+				
+		
+		
+							
+											 This page was last edited on 5 September 2016, at 18:25.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.977","ppvisitednodes":{"value":4257,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":160491,"limit":2097152},"templateargumentsize":{"value":28910,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  768.526      1 -total"," 26.72%  205.321      5 Template:Random_portal_component"," 25.13%  193.148      1 Portal:Technology/Related_portals"," 23.84%  183.246      1 Template:Related_portals2"," 22.60%  173.666     31 Template:Related_portal_item"," 22.06%  169.538     31 Template:Portal_image"," 14.10%  108.347      1 Portal:Technology/Intro"," 12.37%   95.049      1 Template:Pp-semi-indef","  9.58%   73.618      2 Template:Ety","  7.98%   61.332      3 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":5863000,"limit":52428800}},"cachereport":{"origin":"mw2230","timestamp":"20170501174908","ttl":86400,"transientcontent":true}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2227"});});
+	
+
