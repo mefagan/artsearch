@@ -1,11 +1,6 @@
 #http://stackoverflow.com/questions/9745056/how-to-save-user-input-data-to-redis-using-tornado-python
 from stripHTML import strip_tags
-from calculateWordScore import calculateWordScore
 from removeStopWords import stripStopWords
-from getWordsForScoring import getWordsForScoring
-from calculateDocScore import calculateDocScore
-from calculateKNewWords import calcNewQuery
-from calczWQ import calczWQ
 import os
 import codecs
 import tornado.ioloop
@@ -13,7 +8,6 @@ import operator
 import tornado.web
 import pickle
 import lucene
-from indexer import createIndex
 from lucene import \
     SimpleFSDirectory, System, File, \
     Document, Field, StandardAnalyzer, IndexSearcher, Version, QueryParser
@@ -63,50 +57,8 @@ class MainHandler(tornado.web.RequestHandler):
           print(doc_urls[str(hit.doc)])
           doc = searcher.doc(hit.doc) 
           print(hit.doc)
-          rQ.append("html_files/" + str(hit.doc))
-      
-      i = 0
-      rqSize = 0
-      for url in rQ:
-        rqSize = rqSize +1
-        print(url)
-        f=codecs.open(url, 'r')
-        html = f.read()
-        html = html.decode('utf-8')
-        tag_free = strip_tags(html)
-        path = 'strippedHTML_files'
-        if not os.path.exists(path):
-          os.makedirs(path)
-        filename = str(i)
-        with open(os.path.join(path, filename), 'wb') as temp_file:
-          temp_file.write(tag_free.encode('utf-8'))
-        i=i+1
-
-
-      path = 'strippedHTML_files'
-      i = 0
-      for filename in os.listdir(path):
-        with open(os.path.join(path, filename), 'r') as myfile:
-          data=myfile.read()
-          stripStopWords(data, i)
-          i = i+1
-      if k>0:
-        newQuery = calcNewQuery(k, q, rqSize)
-        q = newQuery
-        print("new query is ")
-        print(q)
-
-      
-
-
-
-
         
       self.render("index.html", title="Results", items=items, query=q, kTerms = k)
-
-
-
-
 
 
 def make_app():
