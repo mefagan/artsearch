@@ -18,13 +18,14 @@ def stripStopWords(text, i):
 	clean_text = ' '.join([word for word in text.lower().split() if word not in stop_words])
 	#print(clean_text)
 	#print(clean_text)
-	path = 'noStopWords_files'
-	if not os.path.exists(path):
-		os.makedirs(path)
-	f = str(i)
-
-	with open(os.path.join(path, f), 'wb') as temp_file:
-		temp_file.write(clean_text)
+	#path = 'noStopWords_files'
+	#if not os.path.exists(path):
+	#	os.makedirs(path)
+	#f = str(i)
+	#clean_text.decode('utf-8')
+	#with open(os.path.join(path, f), 'wb') as temp_file:
+	#	temp_file.write(clean_text)
+	return clean_text
 
 def main():
 	path = 'strippedHTML_files'
