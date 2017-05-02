@@ -27,10 +27,17 @@ if __name__ == "__main__":
         #stripStopWords(data, i)
         #print(l)
         document = stripStopWords(tag_free, i)
-        print(document)
         i += 1
+        #create a list of words in the document
+        words = document.split()
+        #create a document to add to the index
         doc = Document()
-        doc.add(Field("text", document, Field.Store.YES, Field.Index.ANALYZED))
+        for word in words:
+            #add a field to the document
+            field = Field("text", word, Field.Store.YES, Field.Index.ANALYZED)
+            #add the field to the document
+            doc.add(field)
+        #add the document to the index
         writer.addDocument(doc)
     print ("Indexed lines from stdin (%d documents in index)" % (writer.numDocs()))
     print ("About to optimize index of %d documents..." % writer.numDocs())
