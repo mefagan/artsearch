@@ -49,8 +49,7 @@ class MainHandler(tornado.web.RequestHandler):
           #items.append({'score':hit.score, 'doc':hit.doc, 'blah':hit.toString(), 'url':doc_urls[str(hit.doc)]})
           print hit.score, hit.doc, hit.toString()
           print(len(doc_urls))
-          items.append(doc_urls[str(hit.doc)])
-          print(doc_urls[str(hit.doc)])
+          items.append(doc_urls[str(hit.doc - 1)])
           doc = searcher.doc(hit.doc) 
           print(hit.doc)
         

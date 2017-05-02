@@ -1,9 +1,21 @@
 from htmlparser import parsehtml
 from stripHTML import strip_tags
 from removeStopWords import stripStopWords
+import sys, threading, time
+from datetime import datetime
 import lucene
 import os
 from lucene import SimpleFSDirectory, System, File, Document, Field, StandardAnalyzer, IndexWriter, Version
+
+#from java.nio.file import Paths
+from lucene import LimitTokenCountAnalyzer
+from lucene import StandardAnalyzer
+from lucene import Document, Field #FieldType
+from lucene import \
+    IndexWriter, IndexWriterConfig
+from lucene import SimpleFSDirectory
+
+
 if __name__ == "__main__":
     lucene.initVM()
     src_dir = "html_files"
