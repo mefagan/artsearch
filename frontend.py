@@ -17,16 +17,12 @@ doc_urls = pickle.load(open("doc_urls.p", "rb"))
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
       self.write('<html><body><form action="/" method="post">'
-           '<p>Number of terms for relevance feedback.</p>'
-           '<input type="text" name="kTerms" value="0">'
-           '<html><body><form action="/" method="post">'
            '<p>Search for query here.</p>'
            '<input type="text" name="query" value="type query here">'
            '<input type="submit" value="Submit">'
            '</form></body></html>')
     def post(self):
       q= self.get_argument("query")
-      k =self.get_argument("kTerms")
 
       # self.write(key)
 
@@ -58,7 +54,7 @@ class MainHandler(tornado.web.RequestHandler):
           doc = searcher.doc(hit.doc) 
           print(hit.doc)
         
-      self.render("index.html", title="Results", items=items, query=q, kTerms = k)
+      self.render("index.html", title="Results", items=items, query=q)
 
 
 def make_app():

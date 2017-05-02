@@ -34,7 +34,7 @@ if __name__ == "__main__":
         doc = Document()
         for word in words:
             #add a field to the document
-            field = Field("text", word, Field.Store.YES, Field.Index.ANALYZED)
+            field = Field("text", word.lower(), Field.Store.YES, Field.Index.ANALYZED)
             #add the field to the document
             doc.add(field)
         #add the document to the index
