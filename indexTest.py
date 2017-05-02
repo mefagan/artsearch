@@ -1,4 +1,5 @@
 from htmlparser import parsehtml
+from stripHTML import strip_tags
 import lucene
 import os
 from lucene import SimpleFSDirectory, System, File, Document, Field, StandardAnalyzer, IndexWriter, Version
@@ -17,6 +18,12 @@ if __name__ == "__main__":
         with open(l, 'r') as myfile:
             data=myfile.read()
         document, errors = parsehtml(data)
+        print(document)
+        html = document.decode('utf-8')
+        tag_free = strip_tags(html)
+        tag_free.encode('utf-8')
+        print(tag_free)
+        #stripStopWords(data, i)
         print(l)
         i += 1
         doc = Document()
