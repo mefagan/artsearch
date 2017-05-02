@@ -28,6 +28,9 @@ if __name__ == "__main__":
     i = 0
     for l in os.listdir(src_dir):
         l = os.path.join(src_dir, l)
+        if l.endswith('.DS_Store'):
+            continue
+        print(l)
         with open(l, 'r') as myfile:
             data=myfile.read()
         document, errors = parsehtml(data)
@@ -39,12 +42,14 @@ if __name__ == "__main__":
         #stripStopWords(data, i)
         #print(l)
         document = stripStopWords(tag_free, i)
+        #print(document)
         i += 1
         #create a list of words in the document
         words = document.split()
         #create a document to add to the index
         doc = Document()
         for word in words:
+            #print(word)
             #add a field to the document
             field = Field("text", word.lower(), Field.Store.YES, Field.Index.ANALYZED)
             #add the field to the document

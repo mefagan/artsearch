@@ -30,13 +30,15 @@ class IndexFiles(object):
 	def indexDocs(self, root, writer):
 		for root, dirnames, filenames in os.walk(root):
 			for filename in filenames:
-				if not filename.endswith('.txt'):
+				if filename.endswith('.DS_Store'):
 					continue
-				print "adding", filename
+				print("adding" + filename)
 				try:
 					path = os.path.join(root, filename)
 					file = open(path)
 					contents = unicode(file.read(), 'iso-8859-1')
+					#contents = file.read()
+					print(contents)
 					file.close()
 					doc = lucene.Document()
 					doc.add(lucene.Field("name", filename,
@@ -50,21 +52,24 @@ class IndexFiles(object):
 							lucene.Field.Store.NO,
 							lucene.Field.Index.ANALYZED))
 					else:
-						print "warning: no content in %s" % filename
+						print("no content")
+						print("warning: no content in %s" % filename)
 					writer.addDocument(doc)
 				except Exception, e:
-					print "Failed in indexDocs:", e
+					print("Failed in indexDocs:" + e)
 
 if __name__ == '__main__':
 	if len(sys.argv) < 2:
+		print("here")
 		print IndexFiles.__doc__
 		sys.exit(1)
 	lucene.initVM()
-	print 'lucene', lucene.VERSION
+	print("lucene", lucene.VERSION)
 	start = datetime.now()
 	try:
 		IndexFiles(sys.argv[1], "index", lucene.StandardAnalyzer(lucene.Version.LUCENE_CURRENT))
 		end = datetime.now()
 		print end - start
+		print("finished")
 	except Exception, e:
 		print "Failed: ", e
