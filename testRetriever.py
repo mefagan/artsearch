@@ -40,9 +40,9 @@ class MainHandler(tornado.web.RequestHandler):
             print hit.score, hit.doc, hit.toString()
             doc = searcher.doc(hit.doc)
             print doc.get("text").encode("utf-8")
-            print(new_urls[str(hit.doc)])
+            #print(new_urls[str(hit.doc)])
             result = str(hit.score)+ " " + str(hit.doc) + " " + hit.toString()
-            items.append(result)
+            items.append(new_urls[str(hit.doc)])
 
         self.render("index.html", title="Results", items=items, query=q)
 
