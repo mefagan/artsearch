@@ -48,6 +48,7 @@ def checkRobots(url):
 
 def spider(url, maxPages, domain):
     crawled = []
+    src_dir = "html_files"
     pagesToVisit = [url]
     numberVisited = 0
     while len(doc_urls) < maxPages and pagesToVisit != []:
@@ -72,12 +73,15 @@ def spider(url, maxPages, domain):
                 parser = LinkParser()
                 data, links = parser.getLinks(url)
                 urllib.request.urlcleanup()
+                #f = urllib.urlopen(str(url))
                 urllib.request.urlretrieve(url, "html_files/" + str(len(crawled)))
+                print(str(len(crawled)))
                 doc_urls[str(len(crawled))] = url
                 crawled.append(url)
                 pagesToVisit = pagesToVisit + links
                 print(" **Success!**")
                 i = i+1
+
             else:
                 if not checkRobots(robot_url):
                     print ("Robot exclusion forbids crawling this page", url)

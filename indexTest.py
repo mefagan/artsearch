@@ -14,6 +14,10 @@ from lucene import Document, Field #FieldType
 from lucene import \
     IndexWriter, IndexWriterConfig
 from lucene import SimpleFSDirectory
+import pickle
+new_urls = {}
+
+doc_urls = pickle.load(open("doc_urls.p", "rb"))
 
 
 if __name__ == "__main__":
@@ -27,12 +31,17 @@ if __name__ == "__main__":
     print ("Reading lines from directory...")
     i = 0
     for l in os.listdir(src_dir):
+        num = l
         l = os.path.join(src_dir, l)
         if l.endswith('.DS_Store'):
             continue
-        print(l)
+        website = doc_urls[str(num)]
+        new_urls[str(i)] = website
+        print(i, website)
+        print(website)
         with open(l, 'r') as myfile:
             data=myfile.read()
+            print(l)
         document, errors = parsehtml(data)
         #print(document)
         html = document.decode('utf-8')
@@ -63,3 +72,4 @@ if __name__ == "__main__":
     print ("Closing index of %d documents..." % writer.numDocs())
     writer.close()
     print ("...done closing index of %d documents" % writer.numDocs())
+    pickle.dump(new_urls, open("new_urls.p","wb"), protocol=2)

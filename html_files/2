@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, the free encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQjS@grAEFAAAF2UKz0AAABU","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQkiGArAIDgAACDIDL4AAABL","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -51,7 +51,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="width:280px; text-align:center; white-space:nowrap;">
 <div style="font-size:162%; border:none; margin:0; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
 <div style="top:+0.2em; font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,303</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,493</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </td>
 </tr>
 </table>
@@ -90,13 +90,13 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </tr>
 <tr>
 <td style="color:#000;">
-<div id="mp-tfa" style="padding:2px 5px"><a href="/wiki/James_Moore_(Continental_Army_officer)" title="James Moore (Continental Army officer)"><b>James Moore</b></a> (<abbr title="circa">c.</abbr> 1737 – 1777) was a <a href="/wiki/Continental_Army" title="Continental Army">Continental Army</a> general during the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">American Revolutionary War</a>. Born into a <a href="/wiki/Moore_family_(Carolinas)" title="Moore family (Carolinas)">prominent political family</a> in the lower <a href="/wiki/Cape_Fear_River" title="Cape Fear River">Cape Fear River</a> area of <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, he was one of only five Continental Army generals from the state. He served in the colonial <a href="/wiki/Militia_(United_States)#History" title="Militia (United States)">militia</a> during the <a href="/wiki/French_and_Indian_War" title="French and Indian War">French and Indian War</a>, and commanded the colonial governor's artillery at the <a href="/wiki/Battle_of_Alamance" title="Battle of Alamance">Battle of Alamance</a>, which ended the <a href="/wiki/War_of_the_Regulation" title="War of the Regulation">War of the Regulation</a>. In the independence movement, Moore played a prominent role in the local <a href="/wiki/Sons_of_Liberty" title="Sons of Liberty">Sons of Liberty</a> organizations, and assisted in organizing the colony-wide <a href="/wiki/North_Carolina_Provincial_Congress" title="North Carolina Provincial Congress">Provincial Congress</a>. In 1775, he was elected the first commander of a Continental Line regiment in North Carolina, which had been raised following the instructions of the <a href="/wiki/Continental_Congress" title="Continental Congress">Continental Congress</a>. After distinguishing himself in the campaign that led to the <a href="/wiki/Patriot_(American_Revolution)" title="Patriot (American Revolution)">Patriot</a> victory at the <a href="/wiki/Battle_of_Moore%27s_Creek_Bridge" title="Battle of Moore's Creek Bridge">Battle of Moore's Creek Bridge</a> in February 1776, Moore was promoted to brigadier general in the Continental Army. He held de facto command of the <a href="/wiki/Departments_of_the_Continental_Army" title="Departments of the Continental Army">Southern Department</a> before his death due to illness. (<a href="/wiki/James_Moore_(Continental_Army_officer)" title="James Moore (Continental Army officer)"><b>Full&#160;article...</b></a>)
+<div id="mp-tfa" style="padding:2px 5px"><i><b><a href="/wiki/Temperatures_Rising" title="Temperatures Rising">Temperatures Rising</a></b></i> is an American television <a href="/wiki/Sitcom" title="Sitcom">sitcom</a> that aired on the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> network with 46 episodes from September 1972 to August 1974. It was developed by <a href="/wiki/William_Asher" title="William Asher">William Asher</a> and <a href="/wiki/Harry_Ackerman" title="Harry Ackerman">Harry Ackerman</a>. The first <a href="/wiki/Season_(television)" class="mw-redirect" title="Season (television)">season</a>, set in a fictional <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> hospital, featured <a href="/wiki/James_Whitmore" title="James Whitmore">James Whitmore</a> as a no-nonsense chief-of-staff who endures the antics of a young intern (<a href="/wiki/Cleavon_Little" title="Cleavon Little">Cleavon Little</a>) and three nurses (<a href="/wiki/Joan_Van_Ark" title="Joan Van Ark">Joan Van Ark</a>, <a href="/wiki/Reva_Rose" title="Reva Rose">Reva Rose</a>, and Nancy Fox). In the 13-episode second season, produced by <a href="/wiki/E._Duke_Vincent" title="E. Duke Vincent">Duke Vincent</a> and Bruce Johnson, everyone except Little was replaced, and the show was retitled <i>The New Temperatures Rising Show</i>. Comedian <a href="/wiki/Paul_Lynde" title="Paul Lynde">Paul Lynde</a> played a penny-pinching chief-of-staff, accompanied by Sudie Bond, <a href="/wiki/Barbara_Cason" title="Barbara Cason">Barbara Cason</a>, <a href="/wiki/Jennifer_Darling" title="Jennifer Darling">Jennifer Darling</a>, <a href="/wiki/Jeff_Morrow" title="Jeff Morrow">Jeff Morrow</a>, and <a href="/wiki/John_Dehner" title="John Dehner">John Dehner</a>. Critics preferred the second-season cast, but the <a href="/wiki/Black_comedy" title="Black comedy">black comedy</a> approach led to lower ratings. In an unsuccessful seven-episode summer revival of the series, Asher returned as producer and restored the series to its original format and title, retaining Paul Lynde in the lead, with a cast of Little, Fox, <a href="/wiki/Alice_Ghostley" title="Alice Ghostley">Alice Ghostley</a> and Barbara Rucker. (<a href="/wiki/Temperatures_Rising" title="Temperatures Rising"><b>Full&#160;article...</b></a>)
 <div class="tfa-recent" style="text-align: right;">Recently featured:
 <div class="hlist inline">
 <ul>
+<li><a href="/wiki/James_Moore_(Continental_Army_officer)" title="James Moore (Continental Army officer)">James Moore (Continental Army officer)</a></li>
 <li><i><a href="/wiki/Clathrus_ruber" title="Clathrus ruber">Clathrus ruber</a></i></li>
 <li><a href="/wiki/St_Cuthbert_Gospel" title="St Cuthbert Gospel">St Cuthbert Gospel</a></li>
-<li><a href="/wiki/Little_Nemo_(1911_film)" title="Little Nemo (1911 film)"><i>Little Nemo</i> (1911 film)</a></li>
 </ul>
 </div>
 </div>
@@ -199,26 +199,26 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <tr>
 <td style="color:#000; padding:2px 5px 5px;">
 <div id="mp-otd">
-<p><b><a href="/wiki/May_2" title="May 2">May 2</a></b>: <b><a href="/wiki/Flag_of_Poland" title="Flag of Poland">Flag Day</a></b> in Poland</p>
+<p><b><a href="/wiki/May_3" title="May 3">May 3</a></b></p>
 <div style="float:right;margin-left:0.5em;" id="mp-otd-img">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 147px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-P054320,_Berlin,_Brandenburger_Tor_und_Pariser_Platz.jpg" class="image" title="Damaged Brandenburg Gate"><img alt="Damaged Brandenburg Gate" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg/145px-Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg" width="145" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg/218px-Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg/290px-Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg 2x" data-file-width="800" data-file-height="553" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Damaged <span class="nowrap">Brandenburg Gate</span></div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 150px;"><a href="/wiki/File:RAF_Northolt_aerial_view_1917.jpg" class="image" title="Aerial view of RAF Northolt"><img alt="Aerial view of RAF Northolt" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/RAF_Northolt_aerial_view_1917.jpg/150px-RAF_Northolt_aerial_view_1917.jpg" width="150" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/d/df/RAF_Northolt_aerial_view_1917.jpg 1.5x" data-file-width="220" data-file-height="158" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Aerial view of RAF Northolt</div>
 </div>
 </div>
 <ul>
-<li><a href="/wiki/1559" title="1559">1559</a> – Scottish clergyman <b><a href="/wiki/John_Knox" title="John Knox">John Knox</a></b> returned from exile to lead the <a href="/wiki/Scottish_Reformation" title="Scottish Reformation">Scottish Reformation</a>.</li>
-<li><a href="/wiki/1863" title="1863">1863</a> – <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>: <a href="/wiki/Confederate_Army" class="mw-redirect" title="Confederate Army">Confederate</a> general <a href="/wiki/Stonewall_Jackson" title="Stonewall Jackson">Stonewall Jackson</a> was wounded by <a href="/wiki/Friendly_fire" title="Friendly fire">friendly fire</a> during the <b><a href="/wiki/Battle_of_Chancellorsville" title="Battle of Chancellorsville">Battle of Chancellorsville</a></b>, leading to his death by <a href="/wiki/Pneumonia" title="Pneumonia">pneumonia</a> eight days later.</li>
-<li><a href="/wiki/1945" title="1945">1945</a> – <a href="/wiki/World_War_II" title="World War II">World War II</a>: General <a href="/wiki/Helmuth_Weidling" title="Helmuth Weidling">Helmuth Weidling</a>, commander of the <a href="/wiki/Wehrmacht" title="Wehrmacht">German troops</a> in <a href="/wiki/Berlin" title="Berlin">Berlin</a>, surrendered the city to Soviet forces led by Marshal <a href="/wiki/Georgy_Zhukov" title="Georgy Zhukov">Georgy Zhukov</a>, ending the <b><a href="/wiki/Battle_of_Berlin" title="Battle of Berlin">Battle of Berlin</a></b> <i>(<a href="/wiki/Brandenburg_Gate" title="Brandenburg Gate">Brandenburg Gate</a> pictured)</i>.</li>
-<li><a href="/wiki/1999" title="1999">1999</a> – <b><a href="/wiki/Mireya_Moscoso" title="Mireya Moscoso">Mireya Moscoso</a></b> became the first woman to be elected <a href="/wiki/List_of_Presidents_of_Panama" class="mw-redirect" title="List of Presidents of Panama">President of Panama</a>.</li>
-<li><a href="/wiki/2014" title="2014">2014</a> – <a href="/wiki/Ukrainian_crisis" title="Ukrainian crisis">Ukrainian crisis</a>: Forty-eight people were killed <b><a href="/wiki/2014_Odessa_clashes" title="2014 Odessa clashes">during a confrontation</a></b> between <a href="/wiki/2014_pro-Russian_unrest_in_Ukraine" title="2014 pro-Russian unrest in Ukraine">pro-Russian protesters</a> and pro-Ukrainian unity protesters in the southern Ukrainian port city of <a href="/wiki/Odessa" title="Odessa">Odessa</a>.</li>
+<li><a href="/wiki/1491" title="1491">1491</a> – Nkuwu Nzinga of the <a href="/wiki/Kingdom_of_Kongo" title="Kingdom of Kongo">Kingdom of Kongo</a> was baptised as <b><span class="nowrap"><a href="/wiki/Jo%C3%A3o_I_of_Kongo" title="João I of Kongo">João I</a></span></b> by Portuguese missionaries.</li>
+<li><a href="/wiki/1791" title="1791">1791</a> – The <b><a href="/wiki/Constitution_of_May_3,_1791" title="Constitution of May 3, 1791">Polish–Lithuanian Constitution of May 3</a></b>, the oldest <a href="/wiki/Codification_(law)" title="Codification (law)">codified</a> national <a href="/wiki/Constitution" title="Constitution">constitution</a> in Europe, was adopted by the <a href="/wiki/Great_Sejm" title="Great Sejm">Great Sejm</a>.</li>
+<li><a href="/wiki/1915" title="1915">1915</a> – The oldest continually operational <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> station, <b><a href="/wiki/RAF_Northolt" title="RAF Northolt">RAF Northolt</a></b> <i>(pictured)</i>, opened as the home to No. 4 Reserve Aeroplane Squadron.</li>
+<li><a href="/wiki/1942" title="1942">1942</a> – <a href="/wiki/World_War_II" title="World War II">Second World War</a>: Japanese forces <b><a href="/wiki/Invasion_of_Tulagi_(May_1942)" title="Invasion of Tulagi (May 1942)">began invading</a></b> <a href="/wiki/Tulagi" title="Tulagi">Tulagi</a> and nearby islands in the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>, enabling them to threaten and interdict the supply and communication routes between the United States and Australia and New Zealand.</li>
+<li><a href="/wiki/2007" title="2007">2007</a> – Three-year-old <b><a href="/wiki/Disappearance_of_Madeleine_McCann" title="Disappearance of Madeleine McCann">Madeleine McCann</a></b> disappeared while on holiday with her family in Portugal, sparking "the most heavily reported missing-person case in modern history."</li>
 </ul>
-<p><b><a href="/wiki/Blanche_of_Artois" title="Blanche of Artois">Blanche of Artois</a></b> (d.&#160;1302)&#160;<b>·</b>  <b><a href="/wiki/Catherine_Labour%C3%A9" title="Catherine Labouré">Catherine Labouré</a></b> (b.&#160;1806)&#160;<b>·</b>  <b><a href="/wiki/Engelbert_Humperdinck_(singer)" title="Engelbert Humperdinck (singer)">Engelbert Humperdinck</a></b> (b.&#160;1936)</p>
+<p><b><a href="/wiki/Alexios_II_of_Trebizond" title="Alexios II of Trebizond">Alexios II of Trebizond</a></b> (d.&#160;1330)&#160;<b>·</b>  <b><a href="/wiki/Catherine_of_St._Augustine" title="Catherine of St. Augustine">Catherine of St. Augustine</a></b> (b.&#160;1632)&#160;<b>·</b>  <b><a href="/wiki/Len_Shackleton" title="Len Shackleton">Len Shackleton</a></b> (b.&#160;1922)</p>
 <div style="margin-top: 0.5em;">More anniversaries:
 <div class="hlist inline nowraplinks">
 <ul>
-<li><a href="/wiki/May_1" title="May 1">May 1</a></li>
-<li><b><a href="/wiki/May_2" title="May 2">May 2</a></b></li>
-<li><a href="/wiki/May_3" title="May 3">May 3</a></li>
+<li><a href="/wiki/May_2" title="May 2">May 2</a></li>
+<li><b><a href="/wiki/May_3" title="May 3">May 3</a></b></li>
+<li><a href="/wiki/May_4" title="May 4">May 4</a></li>
 </ul>
 </div>
 </div>
@@ -250,16 +250,16 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div id="mp-tfp">
 <table style="margin:0 3px 3px; width:100%; text-align:left; background-color:transparent; border-collapse: collapse;">
 <tr>
-<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Rhinotia_hemistictus_(Long_Nosed_Weevil).jpg" class="image" title="Rhinotia hemistictus"><img alt="Rhinotia hemistictus" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg/380px-Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg" width="380" height="252" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg/570px-Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg/760px-Rhinotia_hemistictus_%28Long_Nosed_Weevil%29.jpg 2x" data-file-width="3000" data-file-height="1987" /></a></td>
+<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Paisley_Abbey_from_the_south_east.jpg" class="image" title="Paisley Abbey"><img alt="Paisley Abbey" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/380px-Paisley_Abbey_from_the_south_east.jpg" width="380" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/570px-Paisley_Abbey_from_the_south_east.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/760px-Paisley_Abbey_from_the_south_east.jpg 2x" data-file-width="13609" data-file-height="5352" /></a></td>
 <td style="padding:0 6px 0 0">
-<p>A <a href="/wiki/Focus_stacking" title="Focus stacking">focus stacked</a> composite image showing head detail of <i><b><a href="/wiki/Rhinotia_hemistictus" title="Rhinotia hemistictus">Rhinotia hemistictus</a></b></i>, a species of <a href="/wiki/Beetle" title="Beetle">beetle</a>.</p>
-<p><small>Photograph: <a href="/wiki/User_talk:Spongepuppy" title="User talk:Spongepuppy">Spongepuppy</a></small></p>
+<p><b><a href="/wiki/Paisley_Abbey" title="Paisley Abbey">Paisley Abbey</a></b> is a <a href="/wiki/Church_of_Scotland" title="Church of Scotland">Church of Scotland</a> parish <a href="/wiki/Kirk" title="Kirk">kirk</a> located on the east bank of the <a href="/wiki/River_Cart" title="River Cart">White Cart Water</a> in <a href="/wiki/Paisley,_Renfrewshire" title="Paisley, Renfrewshire">Paisley, Renfrewshire</a>. The site has been used for religious purposes since the 7th century, and a <a href="/wiki/Cluniac" class="mw-redirect" title="Cluniac">Cluniac</a> monastery was on the site from the 11th century. <a href="/wiki/Marjorie_Bruce" title="Marjorie Bruce">Marjorie Bruce</a>, the mother of <a href="/wiki/Robert_II_of_Scotland" title="Robert II of Scotland">King Robert II</a>, is thought to have been buried in the abbey.</p>
+<p><small>Photograph: <a href="/wiki/User:Colin" title="User:Colin">Colin</a></small></p>
 <div class="potd-recent" style="text-align:right;">Recently featured:
 <div class="hlist inline">
 <ul>
+<li><a href="/wiki/Template:POTD/2017-05-02" title="Template:POTD/2017-05-02"><i>Rhinotia hemistictus</i></a></li>
 <li><a href="/wiki/Template:POTD/2017-05-01" title="Template:POTD/2017-05-01">Sultan Qaboos Grand Mosque</a></li>
 <li><a href="/wiki/Template:POTD/2017-04-30" title="Template:POTD/2017-04-30">Franz Lehár</a></li>
-<li><a href="/wiki/Template:POTD/2017-04-29" title="Template:POTD/2017-04-29"><i>The Threatened Swan</i></a></li>
 </ul>
 </div>
 </div>
@@ -343,7 +343,7 @@ Dictionary and thesaurus</td>
 <div id="mp-lang">
 <h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
 <div id="lang" class="nowraplinks nourlexpansion plainlinks">
-<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,303</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,493</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
 <ul>
 <li id="lang-3">More than 1,000,000 articles:
 <div class="hlist inline">
@@ -415,36 +415,36 @@ Dictionary and thesaurus</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw2108
-Cached time: 20170502184150
+Parsed by mw2170
+Cached time: 20170503001926
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.204 seconds
-Real time usage: 0.283 seconds
-Preprocessor visited node count: 2875/1000000
+CPU time usage: 0.164 seconds
+Real time usage: 0.237 seconds
+Preprocessor visited node count: 2973/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 98594/2097152 bytes
-Template argument size: 4631/2097152 bytes
+Post‐expand include size: 100645/2097152 bytes
+Template argument size: 4633/2097152 bytes
 Highest expansion depth: 14/40
 Expensive parser function count: 5/500
-Lua time usage: 0.043/10.000 seconds
-Lua memory usage: 1.72 MB/50 MB
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.81 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  191.440      1 -total
- 48.13%   92.146      1 Wikipedia:Main_Page/Tomorrow
- 26.87%   51.449      5 Template:Main_page_image
- 23.88%   45.724      1 Template:Did_you_know/Queue/1
- 22.87%   43.773      1 User:DYKUpdateBot/REMOVE_THIS_LINE
- 18.81%   36.015      2 Template:Wikipedia_languages
- 17.28%   33.074      1 Template:Mbox
- 13.65%   26.140     88 Template:Wikipedia_languages/core
- 12.13%   23.231      2 Template:In_the_news
- 11.91%   22.802      1 Template:Did_you_know
+100.00%  165.844      1 -total
+ 43.41%   71.995      1 Wikipedia:Main_Page/Tomorrow
+ 35.87%   59.491      5 Template:Main_page_image
+ 20.95%   34.739      1 Template:Did_you_know
+ 19.14%   31.740      1 Template:Did_you_know/Queue/1
+ 18.58%   30.821      1 User:DYKUpdateBot/REMOVE_THIS_LINE
+ 17.31%   28.709      2 Template:Wikipedia_languages
+ 16.15%   26.783      5 Template:Str_number/trim
+ 13.55%   22.470      1 Template:Mbox
+ 12.62%   20.936      2 Template:In_the_news
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170502184150 and revision id 777395573
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503001926 and revision id 777395573
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573</a>"					</div>
@@ -583,6 +583,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.283","ppvisitednodes":{"value":2875,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98594,"limit":2097152},"templateargumentsize":{"value":4631,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  191.440      1 -total"," 48.13%   92.146      1 Wikipedia:Main_Page/Tomorrow"," 26.87%   51.449      5 Template:Main_page_image"," 23.88%   45.724      1 Template:Did_you_know/Queue/1"," 22.87%   43.773      1 User:DYKUpdateBot/REMOVE_THIS_LINE"," 18.81%   36.015      2 Template:Wikipedia_languages"," 17.28%   33.074      1 Template:Mbox"," 13.65%   26.140     88 Template:Wikipedia_languages/core"," 12.13%   23.231      2 Template:In_the_news"," 11.91%   22.802      1 Template:Did_you_know"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":1802500,"limit":52428800}},"cachereport":{"origin":"mw2108","timestamp":"20170502184150","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw2107"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.237","ppvisitednodes":{"value":2973,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100645,"limit":2097152},"templateargumentsize":{"value":4633,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  165.844      1 -total"," 43.41%   71.995      1 Wikipedia:Main_Page/Tomorrow"," 35.87%   59.491      5 Template:Main_page_image"," 20.95%   34.739      1 Template:Did_you_know"," 19.14%   31.740      1 Template:Did_you_know/Queue/1"," 18.58%   30.821      1 User:DYKUpdateBot/REMOVE_THIS_LINE"," 17.31%   28.709      2 Template:Wikipedia_languages"," 16.15%   26.783      5 Template:Str_number/trim"," 13.55%   22.470      1 Template:Mbox"," 12.62%   20.936      2 Template:In_the_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1894886,"limit":52428800}},"cachereport":{"origin":"mw2170","timestamp":"20170503001926","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2168"});});</script>
 	</body>
 </html>
