@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, the free encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQkiGArAIDgAACDIDL4AAABL","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQnrRgpAAD0AAbJnWpAAAACW","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -14,7 +14,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Gokayama_suganuma_%28cropped%29.JPG"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_13_%28cropped%29.jpg/1200px-Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_13_%28cropped%29.jpg"/>
 <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Main_Page"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia picture of the day feed" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia featured articles feed" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
@@ -51,7 +51,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="width:280px; text-align:center; white-space:nowrap;">
 <div style="font-size:162%; border:none; margin:0; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
 <div style="top:+0.2em; font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,493</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,913</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </td>
 </tr>
 </table>
@@ -119,19 +119,19 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="color:#000; padding:2px 5px 5px;">
 <div id="mp-dyk">
 <div class="dyk-img" style="float: right; margin-left: 0.5em;">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 160px;"><a href="/wiki/File:Gokayama_suganuma_(cropped).JPG" class="image" title="Tall houses at Gokayama village"><img alt="Tall houses at Gokayama village" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gokayama_suganuma_%28cropped%29.JPG/160px-Gokayama_suganuma_%28cropped%29.JPG" width="160" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gokayama_suganuma_%28cropped%29.JPG/240px-Gokayama_suganuma_%28cropped%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gokayama_suganuma_%28cropped%29.JPG/320px-Gokayama_suganuma_%28cropped%29.JPG 2x" data-file-width="1200" data-file-height="752" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Tall houses at <span class="nowrap">Gokayama village</span></div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:PFE_Albee_1886.jpg" class="image" title="PFE Albee in her saleslady's outfit"><img alt="PFE Albee in her saleslady's outfit" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/72px-PFE_Albee_1886.jpg" width="72" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/109px-PFE_Albee_1886.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/145px-PFE_Albee_1886.jpg 2x" data-file-width="150" data-file-height="275" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">PFE Albee in her saleslady's outfit</div>
 </div>
 </div>
 <ul>
-<li>... that the tall roof spaces of Japanese houses in the <b><a href="/wiki/Historic_Villages_of_Shirakawa-g%C5%8D_and_Gokayama" title="Historic Villages of Shirakawa-gō and Gokayama">Historic Villages of Shirakawa-gō and Gokayama</a></b> <i>(pictured)</i> were built with two or three levels in them for rearing <a href="/wiki/Silkworm" class="mw-redirect" title="Silkworm">silkworms</a> and storing <a href="/wiki/Morus_alba" title="Morus alba">mulberry</a> leaves?</li>
-<li>... that the <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a> prince <b><a href="/wiki/Pangeran_Pekik" title="Pangeran Pekik">Pangeran Pekik</a></b> was killed by order of his son-in-law, <a href="/wiki/Amangkurat_I_of_Mataram" title="Amangkurat I of Mataram">Amangkurat I</a>?</li>
-<li>... that a rented flat in <b><a href="/wiki/Grosvenor_Gardens_House" title="Grosvenor Gardens House">Grosvenor Gardens House</a></b> may have been the birthplace of <a href="/wiki/Queen_Elizabeth_The_Queen_Mother" title="Queen Elizabeth The Queen Mother">Queen Elizabeth The Queen Mother</a>?</li>
-<li>... that <b><a href="/wiki/Hazard_substitution" title="Hazard substitution">substitution</a></b> of a <a href="/wiki/Chemical_hazard" title="Chemical hazard">hazardous chemical</a> can backfire if it turns out to be a "regrettable substitution" that unwittingly introduces a new hazard?</li>
-<li>... that <b><a href="/wiki/Mia_Borders" title="Mia Borders">Mia Borders</a></b> has an arm tattoo of a saying which means "Better to die standing than to live on your knees"?</li>
-<li>... that the volcanic area of <b><a href="/wiki/Kula_Volcanic_Geopark" title="Kula Volcanic Geopark">Kula Geopark</a></b> was mentioned by the Ancient Greek geographer <a href="/wiki/Strabo" title="Strabo">Strabo</a> in the encyclopedia <i><a href="/wiki/Geographica" title="Geographica">Geographica</a></i> as <a href="/wiki/Katakekaumene" title="Katakekaumene">Katakekaumene</a>, literally "Burnt Land"?</li>
-<li>... that when the Vikings <b><a href="/wiki/Viking_raid_on_Seville_(844)" title="Viking raid on Seville (844)">occupied Seville in 844</a></b>, they tried unsuccessfully to burn the city's great mosque?</li>
-<li>... that <i><b><a href="/wiki/Sigurd_Slembe_(trilogy)" title="Sigurd Slembe (trilogy)">Sigurd Slembe</a></b></i> is a trilogy of plays by <a href="/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson" title="Bjørnstjerne Bjørnson">Bjørnstjerne Bjørnson</a> about <a href="/wiki/Sigurd_Slembe" title="Sigurd Slembe">a worthless bastard</a> who tries to seize the throne of Norway?</li>
+<li>... that <b><a href="/wiki/Persis_Foster_Eames_Albee" title="Persis Foster Eames Albee">PFE Albee</a></b> <i>(pictured)</i> is considered the first "<a href="/wiki/Avon_Products" title="Avon Products">Avon Lady</a>", and was followed by over half a million others?</li>
+<li>... that the <b><a href="/wiki/Shooter%27s_sandwich" title="Shooter's sandwich">shooter's sandwich</a></b> became a minor internet meme after an article in <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> declared it to be the best sandwich in the world?</li>
+<li>... that Indonesian <a href="/wiki/Constitutional_Court_of_Indonesia" title="Constitutional Court of Indonesia">Constitutional Court</a> Justice <b><a href="/wiki/Saldi_Isra" title="Saldi Isra">Saldi Isra</a></b> twice failed university entrance exams, but later went on to be awarded <i><a href="/wiki/Summa_cum_laude" class="mw-redirect" title="Summa cum laude">summa cum laude</a></i>?</li>
+<li>... that in order to put the silver <b><a href="/wiki/Kal%C4%81kaua_coinage" title="Kalākaua coinage">Kalākaua coinage</a></b> into circulation, <a href="/wiki/Claus_Spreckels" title="Claus Spreckels">Claus Spreckels</a> formed the Spreckels &amp; Company Bank in Hawaii?</li>
+<li>... that arriving penniless in Oregon in 1903, <b><a href="/wiki/Harley_J._Overturf" title="Harley J. Overturf">Harley J. Overturf</a></b> financed his education at the <a href="/wiki/University_of_Oregon" title="University of Oregon">University of Oregon</a> by filing a <a href="/wiki/Timber_Culture_Act" title="Timber Culture Act">timber claim</a> and selling the property for a profit?</li>
+<li>... that at a show during the <b><a href="/wiki/2nd_Global_Indian_Film_Awards" title="2nd Global Indian Film Awards">2nd Global Indian Film Awards</a></b>, around <span class="nowrap"><span style="white-space: nowrap"><a href="/wiki/Indian_rupee" title="Indian rupee">₹</a></span>2.2 million</span> (US$34,000) was raised by auctioning off costumes of <a href="/wiki/Bollywood" title="Bollywood">Bollywood</a> actors?</li>
+<li>... that the <b><a href="/wiki/Bismuth_phosphate_process" title="Bismuth phosphate process">bismuth phosphate process</a></b> was used by the <a href="/wiki/Manhattan_Project" title="Manhattan Project">Manhattan Project</a> to extract <a href="/wiki/Plutonium" title="Plutonium">plutonium</a> for use in atomic bombs?</li>
+<li>... that after <b><a href="/wiki/Christian_Hamburger" title="Christian Hamburger">Christian Hamburger</a></b> oversaw her sex reassignment, <a href="/wiki/Christine_Jorgensen" title="Christine Jorgensen">Christine Jorgensen</a> chose her new name in his honor?</li>
 </ul>
 <div class="dyk-footer hlist noprint" style="margin-top: 0.5em; text-align: right;">
 <ul>
@@ -343,7 +343,7 @@ Dictionary and thesaurus</td>
 <div id="mp-lang">
 <h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
 <div id="lang" class="nowraplinks nourlexpansion plainlinks">
-<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,493</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,913</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
 <ul>
 <li id="lang-3">More than 1,000,000 articles:
 <div class="hlist inline">
@@ -415,36 +415,36 @@ Dictionary and thesaurus</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw2170
-Cached time: 20170503001926
+Parsed by mw1261
+Cached time: 20170503143745
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.164 seconds
-Real time usage: 0.237 seconds
-Preprocessor visited node count: 2973/1000000
+CPU time usage: 0.184 seconds
+Real time usage: 0.266 seconds
+Preprocessor visited node count: 3152/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 100645/2097152 bytes
-Template argument size: 4633/2097152 bytes
-Highest expansion depth: 14/40
+Post‐expand include size: 96455/2097152 bytes
+Template argument size: 4742/2097152 bytes
+Highest expansion depth: 18/40
 Expensive parser function count: 5/500
-Lua time usage: 0.037/10.000 seconds
-Lua memory usage: 1.81 MB/50 MB
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  165.844      1 -total
- 43.41%   71.995      1 Wikipedia:Main_Page/Tomorrow
- 35.87%   59.491      5 Template:Main_page_image
- 20.95%   34.739      1 Template:Did_you_know
- 19.14%   31.740      1 Template:Did_you_know/Queue/1
- 18.58%   30.821      1 User:DYKUpdateBot/REMOVE_THIS_LINE
- 17.31%   28.709      2 Template:Wikipedia_languages
- 16.15%   26.783      5 Template:Str_number/trim
- 13.55%   22.470      1 Template:Mbox
- 12.62%   20.936      2 Template:In_the_news
+100.00%  197.577      1 -total
+ 41.28%   81.552      1 Wikipedia:Main_Page/Tomorrow
+ 33.97%   67.122      6 Template:Main_page_image
+ 24.19%   47.788      1 Template:Did_you_know
+ 18.96%   37.458      1 Template:Did_you_know/Queue/2
+ 16.10%   31.811      2 Template:Wikipedia_languages
+ 14.38%   28.420      6 Template:Str_number/trim
+ 13.84%   27.354      1 Template:DYKbotdo
+ 12.98%   25.642      1 Template:Mbox
+ 12.48%   24.662      2 Template:In_the_news
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503001926 and revision id 777395573
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503143745 and revision id 777395573
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573</a>"					</div>
@@ -583,6 +583,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.237","ppvisitednodes":{"value":2973,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100645,"limit":2097152},"templateargumentsize":{"value":4633,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  165.844      1 -total"," 43.41%   71.995      1 Wikipedia:Main_Page/Tomorrow"," 35.87%   59.491      5 Template:Main_page_image"," 20.95%   34.739      1 Template:Did_you_know"," 19.14%   31.740      1 Template:Did_you_know/Queue/1"," 18.58%   30.821      1 User:DYKUpdateBot/REMOVE_THIS_LINE"," 17.31%   28.709      2 Template:Wikipedia_languages"," 16.15%   26.783      5 Template:Str_number/trim"," 13.55%   22.470      1 Template:Mbox"," 12.62%   20.936      2 Template:In_the_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1894886,"limit":52428800}},"cachereport":{"origin":"mw2170","timestamp":"20170503001926","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2168"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.266","ppvisitednodes":{"value":3152,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96455,"limit":2097152},"templateargumentsize":{"value":4742,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  197.577      1 -total"," 41.28%   81.552      1 Wikipedia:Main_Page/Tomorrow"," 33.97%   67.122      6 Template:Main_page_image"," 24.19%   47.788      1 Template:Did_you_know"," 18.96%   37.458      1 Template:Did_you_know/Queue/2"," 16.10%   31.811      2 Template:Wikipedia_languages"," 14.38%   28.420      6 Template:Str_number/trim"," 13.84%   27.354      1 Template:DYKbotdo"," 12.98%   25.642      1 Template:Mbox"," 12.48%   24.662      2 Template:In_the_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":2092197,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20170503143745","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1266"});});</script>
 	</body>
 </html>

@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ja" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"メインページ","wgTitle":"メインページ","wgCurRevisionId":63501059,"wgRevisionId":63501059,"wgArticleId":253348,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"メインページ","wgRelevantArticleId":253348,"wgRequestId":"WQnoTApAADoAAeDondoAAABM","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.categoryTree.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","ext.categoryTree","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.categoryTree.css%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d6/EMpylori.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia 秀逸な記事フィード" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-メインページ rootpage-メインページ skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">メインページ</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><div title="ウィキペディアへようこそ！">
+<table style="width:100%; margin-bottom:2px;">
+<tr>
+<td class="globegris" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:100%; background:transparent;">
+<tr>
+<td></td>
+<td style="height:3em; padding-left:155px">
+<div style="font-size:170%; line-height:1.05em;"><span style="white-space:nowrap;"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディア</a></span>へようこそ</div>
+<div style="margin-left:4px; font-size:95%;">ウィキペディアは<a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D" title="Wikipedia:ウィキペディアへようこそ">誰でも編集できる</a><a href="/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88" title="オープンコンテント">フリー</a><a href="/wiki/%E7%99%BE%E7%A7%91%E4%BA%8B%E5%85%B8" title="百科事典">百科事典</a>です</div>
+</td>
+<td style="padding:1em; text-align:right;"><br />
+<b><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%B5%B1%E8%A8%88" title="特別:統計">1,059,212</a></b>本の<span style="white-space:nowrap;"><a href="/wiki/Help:%E8%A8%98%E4%BA%8B%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Help:記事とは何か">記事</a>をあなたと</span><br />
+<span class="plainlinks" style="font-size:100%;"><a class="external text" href="//ja.m.wikipedia.org/">モバイル版</a><br />
+<a href="/wiki/Wikipedia:Help_for_Non-Japanese_Speakers" title="Wikipedia:Help for Non-Japanese Speakers">Help for Non-Japanese Speakers</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table style="margin-top:10px; background:none;">
+<tr>
+<td style="width:64%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E8%A8%98%E4%BA%8B" title="秀逸な記事を読む"><img alt="{{#if: 秀逸な記事を読む" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/38px-HSutvald2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/57px-HSutvald2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/76px-HSutvald2.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E9.81.B8.E3.82.8A.E6.8A.9C.E3.81.8D.E8.A8.98.E4.BA.8B">選り抜き記事</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div class="floatleft"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:EMpylori.jpg" class="image" title="ヘリコバクター・ピロリ"><img alt="ヘリコバクター・ピロリ" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/EMpylori.jpg/150px-EMpylori.jpg" width="150" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/EMpylori.jpg/225px-EMpylori.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/EMpylori.jpg/300px-EMpylori.jpg 2x" data-file-width="600" data-file-height="400" /></a></div>
+<p><b><a href="/wiki/%E3%83%98%E3%83%AA%E3%82%B3%E3%83%90%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%94%E3%83%AD%E3%83%AA" title="ヘリコバクター・ピロリ">ヘリコバクター・ピロリ</a></b>は、<a href="/wiki/%E3%83%92%E3%83%88" title="ヒト">ヒト</a>などの<a href="/wiki/%E8%83%83" title="胃">胃</a>に生息する<a href="/wiki/%E8%9E%BA%E6%97%8B" title="螺旋">らせん</a>型の<a href="/wiki/%E7%9C%9F%E6%AD%A3%E7%B4%B0%E8%8F%8C" title="真正細菌">細菌</a>である。単に<b>ピロリ菌</b>と呼ばれることも多い。<a href="/wiki/1983%E5%B9%B4" title="1983年">1983年</a>、<a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2" title="オーストラリア">オーストラリア</a>の<a href="/wiki/%E3%83%AD%E3%83%93%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%B3" title="ロビン・ウォレン">ロビン・ウォレン</a> と<a href="/wiki/%E3%83%90%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB" title="バリー・マーシャル">バリー・マーシャル</a>により発見された。</p>
+胃の内部は<a href="/wiki/%E8%83%83%E6%B6%B2" title="胃液">胃液</a>に含まれる<a href="/wiki/%E5%A1%A9%E9%85%B8" title="塩酸">塩酸</a>によって強<a href="/wiki/%E9%85%B8%E6%80%A7" class="mw-redirect" title="酸性">酸性</a>であるため、従来は細菌が生息できない環境だと考えられていた。しかし、ヘリコバクター・ピロリは<a href="/wiki/%E3%82%A6%E3%83%AC%E3%82%A2%E3%83%BC%E3%82%BC" title="ウレアーゼ">ウレアーゼ</a>と呼ばれる酵素を産生しており、この酵素で胃粘液中の<a href="/wiki/%E5%B0%BF%E7%B4%A0" title="尿素">尿素</a>を<a href="/wiki/%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2" title="アンモニア">アンモニア</a>と<a href="/wiki/%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0" title="二酸化炭素">二酸化炭素</a>に分解し、生じたアンモニアで、局所的に胃酸を中和することによって胃へ定着（<a href="/wiki/%E6%84%9F%E6%9F%93" title="感染">感染</a>）している。この菌の発見により動物の胃に適応して生息する細菌が存在することが明らかにされた。……
+<div style="text-align: right;"><span class="nowrap"><a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E8%A8%98%E4%BA%8B" title="Wikipedia:秀逸な記事">秀逸な記事</a></span> / <span class="nowrap"><a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97" title="Wikipedia:秀逸ピックアップ">つまみ読み</a></span> / <a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E8%A8%98%E4%BA%8B%E3%81%AE%E9%81%B8%E8%80%83" title="Wikipedia:秀逸な記事の選考">選考</a></div>
+<hr />
+<ul>
+<li><b><a href="/wiki/%E9%87%91%E9%88%B4%E5%A1%9A%E5%8F%A4%E5%A2%B3" title="金鈴塚古墳">金鈴塚古墳</a></b>は、<a href="/wiki/%E7%A5%87%E5%9C%92%E3%83%BB%E9%95%B7%E9%A0%88%E8%B3%80%E5%8F%A4%E5%A2%B3%E7%BE%A4" title="祇園・長須賀古墳群">祇園・長須賀古墳群</a>に属する<a href="/wiki/%E5%8D%83%E8%91%89%E7%9C%8C" title="千葉県">千葉県</a><a href="/wiki/%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82" title="木更津市">木更津市</a>にある全長約100メートルの<a href="/wiki/%E5%89%8D%E6%96%B9%E5%BE%8C%E5%86%86%E5%A2%B3" title="前方後円墳">前方後円墳</a>である。かつては二子塚古墳と呼ばれていたが、<a href="/wiki/1950%E5%B9%B4" title="1950年">1950年</a>に行われた発掘の結果、金製の鈴を始めとする多くの貴重な遺物が出土し、金鈴にちなみ金鈴塚古墳と改名された……</li>
+<li><b><a href="/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB%E3%81%AE%E6%AD%B4%E5%8F%B2" title="コスタリカの歴史">コスタリカの歴史</a></b>は、紀元前12000年ごろから人類の足跡が確認できる。<a href="/wiki/%E3%83%9E%E3%83%A4%E6%96%87%E6%98%8E" title="マヤ文明">マヤ文明</a>の影響を受けつつも<a href="/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB%E3%81%AE%E7%9F%B3%E7%90%83" title="コスタリカの石球">コスタリカの石球</a>など、独特の文化を形成していく。やがて<a href="/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%96%E3%82%B9" title="クリストファー・コロンブス">コロンブス</a>が1502年に同地を<b>コスタリカ</b>と命名し、1570年代にスペインの支配下に組み込まれる……</li>
+<li><b><a href="/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88" title="欧州連合">欧州連合</a></b>は、<a href="/wiki/%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%92%E3%83%88%E6%9D%A1%E7%B4%84" title="マーストリヒト条約">欧州連合条約</a>により設立された<a href="/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91" title="ヨーロッパ">ヨーロッパ</a>の地域統合体。<a href="/wiki/%E4%BA%BA%E6%A8%A9" title="人権">人権</a>の尊重という価値観に基づいて設置され、外交・安全保障分野と司法・内務分野での協力枠組み、通貨統合、市場統合といった取り組みが進められている……
+<div style="text-align: right;"><span class="nowrap"><a href="/wiki/Wikipedia:%E8%89%AF%E8%B3%AA%E3%81%AA%E8%A8%98%E4%BA%8B" title="Wikipedia:良質な記事">良質な記事</a></span> / <span class="nowrap"><a href="/wiki/Wikipedia:%E8%89%AF%E8%B3%AA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97" title="Wikipedia:良質ピックアップ">つまみ読み</a></span> / <a href="/wiki/Wikipedia:%E8%89%AF%E8%B3%AA%E3%81%AA%E8%A8%98%E4%BA%8B/%E8%89%AF%E8%B3%AA%E3%81%AA%E8%A8%98%E4%BA%8B%E3%81%AE%E9%81%B8%E8%80%83" title="Wikipedia:良質な記事/良質な記事の選考">選考</a></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="新しい記事を探す"><img alt="{{#if: 新しい記事を探す" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/38px-HSVissteduatt.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/57px-HSVissteduatt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/76px-HSVissteduatt.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E6.96.B0.E3.81.97.E3.81.84.E8.A8.98.E4.BA.8B">新しい記事</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div id="mf-tfa" title="新しい記事">
+<ul>
+<li><b><a href="/wiki/%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95%E3%82%A7%E3%83%B3" title="ビショッフェン">ビショッフェン</a></b>は<a href="/wiki/%E3%83%89%E3%82%A4%E3%83%84" title="ドイツ">ドイツ連邦共和国</a><a href="/wiki/%E3%83%98%E3%83%83%E3%82%BB%E3%83%B3%E5%B7%9E" title="ヘッセン州">ヘッセン州</a><a href="/wiki/%E3%82%AE%E3%83%BC%E3%82%BB%E3%83%B3%E8%A1%8C%E6%94%BF%E7%AE%A1%E5%8C%BA" title="ギーセン行政管区">ギーセン行政管区</a>の<a href="/wiki/%E3%83%A9%E3%83%BC%E3%83%B3%EF%BC%9D%E3%83%87%E3%82%A3%E3%83%AB%E9%83%A1" title="ラーン＝ディル郡">ラーン＝ディル郡</a>に属す町村である。ビショッフェンは、アールタール堰沿いのニーダーヴァイトバッハ盆地に位置する。<a href="/wiki/%E3%83%87%E3%82%A3%E3%83%AB%E5%B7%9D" title="ディル川">ディル川</a>左岸の支流である<a href="/w/index.php?title=%E3%82%A2%E3%83%BC%E3%83%AB%E5%B7%9D_(%E3%83%87%E3%82%A3%E3%83%AB%E5%B7%9D%E3%81%AE%E6%94%AF%E6%B5%81)&amp;action=edit&amp;redlink=1" class="new" title="アール川 (ディル川の支流) (存在しないページ)">アール川</a>を堰き止めた……</li>
+<li><b><a href="/wiki/%E7%95%B0%E7%A8%AE%E7%A7%BB%E6%A4%8D" title="異種移植">異種移植</a></b>は、生きている<a href="/wiki/%E7%B4%B0%E8%83%9E" title="細胞">細胞</a>、<a href="/wiki/%E7%B5%84%E7%B9%94_(%E7%94%9F%E7%89%A9%E5%AD%A6)" title="組織 (生物学)">組織</a>、または<a href="/wiki/%E8%87%93%E5%99%A8" class="mw-redirect" title="臓器">臓器</a>を、ある種の個体から別の種の個体へ<a href="/wiki/%E7%A7%BB%E6%A4%8D_(%E5%8C%BB%E7%99%82)" title="移植 (医療)">移植</a>することである。このような細胞、組織または臓器は、異種移植片といわれる。移植を分類すると、異種移植のほかには、……</li>
+<li><b><a href="/wiki/%E4%BC%8A%E5%8B%A2%E9%89%84%E9%81%93%E3%82%A4%E3%82%BBI%E5%BD%A2%E6%B0%97%E5%8B%95%E8%BB%8A" title="伊勢鉄道イセI形気動車">伊勢鉄道イセI形気動車</a></b>は、<a href="/wiki/1987%E5%B9%B4" title="1987年">1987年</a>（<a href="/wiki/%E6%98%AD%E5%92%8C" title="昭和">昭和</a>62年）に3両が製造され、<a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a>（<a href="/wiki/%E5%B9%B3%E6%88%90" title="平成">平成</a>16年）まで使用された<a href="/wiki/%E4%BC%8A%E5%8B%A2%E9%89%84%E9%81%93" title="伊勢鉄道">伊勢鉄道</a>の<a href="/wiki/%E6%B0%97%E5%8B%95%E8%BB%8A" title="気動車">気動車</a>である。本項では<a href="/wiki/1989%E5%B9%B4" title="1989年">1989年</a>（<a href="/wiki/%E5%B9%B3%E6%88%90" title="平成">平成</a>元年）にイセI形の仕様を一部変更して1両が製造され、……</li>
+<li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E7%99%BE%E7%A7%91%E4%BA%8B%E5%85%B8" title="インターネット百科事典">インターネット百科事典</a>である<b><a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E3%83%AD%E3%82%B4" title="ウィキペディアのロゴ">ウィキペディアのロゴ</a></b>は<a href="/wiki/%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB" title="ジグソーパズル">ジグソー</a>ピースで構成され、上部が未完成の球体という形をしている。ジグソーピースにはさまざまな<a href="/wiki/%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" class="mw-redirect" title="表記体系">表記体系</a>の<a href="/wiki/%E5%AD%97%E4%BD%93" title="字体">字体</a>が記されている。<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2" title="ウィキペディア">ウィキペディア</a>日本語版のページで表示されているように、……</li>
+</ul>
+</div>
+<div style="text-align: right;"><span class="nowrap"><a href="/wiki/Wikipedia:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E6%96%B0%E7%9D%80%E6%8A%95%E7%A5%A8%E6%89%80#.E6.96.B0.E3.81.97.E3.81.84.E8.A8.98.E4.BA.8B.E6.8A.95.E7.A5.A8.E6.89.80" title="Wikipedia:メインページ新着投票所">投票・推薦</a></span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E7%9D%80%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB" title="新しい画像を探す"><img alt="{{#if: 新しい画像を探す" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E6.96.B0.E3.81.97.E3.81.84.E7.94.BB.E5.83.8F">新しい画像</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div id="mf-ni" title="新しい画像">
+<table width="1%" style="float:left; margin-left:0.5em; background-color:transparent;border-style:none;border-collapse:collapse">
+<tr>
+<td style="text-align:center;vertical-align:bottom;">
+<p><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hakuba_Yari_Onsen_s2.jpg" class="image" title="白馬鑓温泉（長野県北安曇郡白馬村）"><img alt="白馬鑓温泉（長野県北安曇郡白馬村）" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hakuba_Yari_Onsen_s2.jpg/180px-Hakuba_Yari_Onsen_s2.jpg" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hakuba_Yari_Onsen_s2.jpg/270px-Hakuba_Yari_Onsen_s2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hakuba_Yari_Onsen_s2.jpg/360px-Hakuba_Yari_Onsen_s2.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">
+<p><a href="/wiki/%E7%99%BD%E9%A6%AC%E9%91%93%E6%B8%A9%E6%B3%89" title="白馬鑓温泉">白馬鑓温泉</a><br />
+（<a href="/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C" title="長野県">長野県</a><a href="/wiki/%E5%8C%97%E5%AE%89%E6%9B%87%E9%83%A1" title="北安曇郡">北安曇郡</a><a href="/wiki/%E7%99%BD%E9%A6%AC%E6%9D%91" title="白馬村">白馬村</a>）</p>
+</td>
+</tr>
+</table>
+<table width="1%" style="float:left; background-color:transparent;border-style:none;border-collapse:collapse">
+<tr>
+<td style="text-align:center;vertical-align:bottom;">
+<p><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg" class="image" title="岡山県倉敷市下津井から望む下津井瀬戸大橋と櫃石島"><img alt="岡山県倉敷市下津井から望む下津井瀬戸大橋と櫃石島" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg/180px-170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg/270px-170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg/360px-170319_Tatsuchinouranimashimasujinja_Shimotsui_Kurashiki_Okayama_pref_Japan04n.jpg 2x" data-file-width="6000" data-file-height="4000" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align:center">
+<p><a href="/wiki/%E5%B2%A1%E5%B1%B1%E7%9C%8C" title="岡山県">岡山県</a><a href="/wiki/%E5%80%89%E6%95%B7%E5%B8%82" title="倉敷市">倉敷市</a><a href="/wiki/%E4%B8%8B%E6%B4%A5%E4%BA%95" title="下津井">下津井</a>から望む<a href="/wiki/%E4%B8%8B%E6%B4%A5%E4%BA%95%E7%80%AC%E6%88%B8%E5%A4%A7%E6%A9%8B" title="下津井瀬戸大橋">下津井瀬戸大橋</a>と<a href="/wiki/%E6%AB%83%E7%9F%B3%E5%B3%B6" title="櫃石島">櫃石島</a></p>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align: right;">
+<div style="clear:both;"></div>
+<span class="nowrap"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E7%9D%80%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB" title="特別:新着ファイル">新しい画像</a> / <a href="/wiki/Wikipedia:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E6%96%B0%E7%9D%80%E6%8A%95%E7%A5%A8%E6%89%80#.E6.96.B0.E3.81.97.E3.81.84.E7.94.BB.E5.83.8F.E6.8A.95.E7.A5.A8.E6.89.80" title="Wikipedia:メインページ新着投票所">投票・推薦</a></span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E6%9C%80%E8%BF%91%E5%A4%A7%E5%B9%85%E5%8A%A0%E7%AD%86%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%98%E4%BA%8B" title="強化記事を読む"><img alt="{{#if: 強化記事を読む" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/38px-HS_VdQ.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/57px-HS_VdQ.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/76px-HS_VdQ.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E5.BC.B7.E5.8C.96.E8.A8.98.E4.BA.8B">強化記事</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<ul>
+<li><b><a href="/wiki/%E8%A6%81%E7%9F%B3" title="要石">要石</a></b>は、<a href="/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C" title="茨城県">茨城県</a><a href="/wiki/%E9%B9%BF%E5%B6%8B%E5%B8%82" title="鹿嶋市">鹿嶋市</a>の<a href="/wiki/%E9%B9%BF%E5%B3%B6%E7%A5%9E%E5%AE%AE" title="鹿島神宮">鹿島神宮</a>と<a href="/wiki/%E5%8D%83%E8%91%89%E7%9C%8C" title="千葉県">千葉県</a><a href="/wiki/%E9%A6%99%E5%8F%96%E5%B8%82" title="香取市">香取市</a>の<a href="/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE" title="香取神宮">香取神宮</a>にあり、<a href="/wiki/%E5%9C%B0%E9%9C%87" title="地震">地震</a>を鎮めているとされる、大部分が地中に埋まった<a href="/wiki/%E9%9C%8A%E7%9F%B3" class="mw-disambig" title="霊石">霊石</a>。地上に見えている部分はほんの十数<a href="/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB" title="センチメートル">センチメートル</a>である。香取神宮の要石の地上部分は丸く、総門の手前にある。鹿島神宮の要石は<a href="/wiki/%E8%8A%B1%E5%B4%97%E5%B2%A9" title="花崗岩">花崗岩</a>で、地上露出部分は凹んでおり、鹿島神宮奥宮（<a href="/wiki/%E3%82%BF%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%85%E3%83%81" title="タケミカヅチ">武甕槌神</a>の荒魂）の背後約50ｍ、本宮より東南東約300ｍ離れた、境内の森の中に位置する。鹿島神宮の要石は、「山の宮」、「御座石（みましいし）、石御座（いしのみまし）」と呼ばれる。鹿島神宮社伝によれば<a href="/wiki/%E8%91%A6%E5%8E%9F%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%9A" title="葦原中国平定">葦原中国平定</a>において<a href="/wiki/%E3%82%BF%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%85%E3%83%81" title="タケミカヅチ">武甕槌神</a>が降りた<a href="/wiki/%E7%A3%90%E5%BA%A7" title="磐座">磐座</a>が現在の要石である。……</li>
+<li><b><a href="/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%B3%E6%89%B9%E5%88%A4" title="スターリン批判">スターリン批判</a></b>とは、<a href="/wiki/1956%E5%B9%B4" title="1956年">1956年</a>の<a href="/wiki/%E3%82%BD%E9%80%A3%E5%85%B1%E7%94%A3%E5%85%9A%E7%AC%AC20%E5%9B%9E%E5%A4%A7%E4%BC%9A" title="ソ連共産党第20回大会">ソ連共産党第20回大会</a>における党第一書記の<a href="/wiki/%E3%83%8B%E3%82%AD%E3%83%BC%E3%82%BF%E3%83%BB%E3%83%95%E3%83%AB%E3%82%B7%E3%83%81%E3%83%A7%E3%83%95" title="ニキータ・フルシチョフ">ニキータ・フルシチョフ</a>による秘密報告「個人崇拝とその結果について」のこと。そこでは<a href="/wiki/%E3%83%A8%E3%82%B7%E3%83%95%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%B3" title="ヨシフ・スターリン">スターリン</a>執政期における政治指導や粛清の実態が暴露され、その原因として<a href="/wiki/%E5%80%8B%E4%BA%BA%E5%B4%87%E6%8B%9D" title="個人崇拝">個人崇拝</a>が批判された。<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%9B%BD%E5%8B%99%E7%9C%81" title="アメリカ合衆国国務省">アメリカ合衆国国務省</a>がフルシチョフの秘密報告の英文訳を発表したことで世界中に知られるきっかけとなった。このフルシチョフ報告に前後してスターリン時代の思想や政策が批判され、ソビエト連邦の政治・社会の画期をなすとともに、世界各国の共産主義運動に影響を与えた。……
+<div style="text-align: right;">
+<div style="clear:both;"></div>
+<span class="nowrap"><a href="/wiki/Wikipedia:%E6%9C%80%E8%BF%91%E5%A4%A7%E5%B9%85%E5%8A%A0%E7%AD%86%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%98%E4%BA%8B/2017%E5%B9%B4" title="Wikipedia:最近大幅加筆された記事/2017年">強化記事</a> / <a href="/wiki/Wikipedia:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E5%BC%B7%E5%8C%96%E8%A8%98%E4%BA%8B%E6%8A%95%E7%A5%A8%E6%89%80/%E9%A0%85%E7%9B%AE%E5%80%99%E8%A3%9C" title="Wikipedia:メインページ強化記事投票所/項目候補">投票・推薦</a></span></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:5px solid transparent;"></td>
+<td style="width:36%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent; text-align: left;">
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E7%94%BB%E5%83%8F" title="秀逸な画像を閲覧する"><img alt="{{#if: 秀逸な画像を閲覧する" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/HSPolitic.svg/38px-HSPolitic.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/HSPolitic.svg/57px-HSPolitic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/HSPolitic.svg/76px-HSPolitic.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E4.BB.8A.E6.97.A5.E3.81.AE.E4.B8.80.E6.9E.9A"><a href="/wiki/Wikipedia:%E4%BB%8A%E6%97%A5%E3%81%AE%E4%B8%80%E6%9E%9A" title="Wikipedia:今日の一枚">今日の一枚</a></span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div style="overflow: auto; width: 300px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:20100724_Iwakuni_5235.jpg" class="image" title="錦帯橋"><img alt="錦帯橋" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/20100724_Iwakuni_5235.jpg/300px-20100724_Iwakuni_5235.jpg" width="300" height="199" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/20100724_Iwakuni_5235.jpg/450px-20100724_Iwakuni_5235.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/20100724_Iwakuni_5235.jpg/600px-20100724_Iwakuni_5235.jpg 2x" data-file-width="4288" data-file-height="2848" /></a><br />
+<a href="/wiki/%E9%8C%A6%E5%B7%9D" title="錦川">錦川</a>に架橋された<a href="/wiki/%E9%8C%A6%E5%B8%AF%E6%A9%8B" title="錦帯橋">錦帯橋</a>。所在地は<a href="/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C" title="山口県">山口県</a><a href="/wiki/%E5%B2%A9%E5%9B%BD%E5%B8%82" title="岩国市">岩国市</a>。</div>
+<div style="text-align: right;"><span class="nowrap"><a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E7%94%BB%E5%83%8F" title="Wikipedia:秀逸な画像">秀逸な画像</a> /</span> <a href="/wiki/Wikipedia:%E7%A7%80%E9%80%B8%E3%81%AA%E7%94%BB%E5%83%8F%E3%81%AE%E6%8E%A8%E8%96%A6" title="Wikipedia:秀逸な画像の推薦">投票・推薦</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E4%BB%8A%E6%97%A5%E3%81%AF%E4%BD%95%E3%81%AE%E6%97%A5_5%E6%9C%88" title="きょうは何の日？の話題"><img alt="{{#if: きょうは何の日？の話題" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/38px-HSDagensdatum.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/57px-HSDagensdatum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/76px-HSDagensdatum.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E4.BB.8A.E6.97.A5.E3.81.AF.E4.BD.95.E3.81.AE.E6.97.A5_5.E6.9C.883.E6.97.A5"><a href="/wiki/Wikipedia:%E4%BB%8A%E6%97%A5%E3%81%AF%E4%BD%95%E3%81%AE%E6%97%A5_5%E6%9C%88" title="Wikipedia:今日は何の日 5月">今日は何の日</a> <a href="/wiki/5%E6%9C%883%E6%97%A5" title="5月3日">5月3日</a></span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div id="mf-itn" title="今日は何の日">
+<ul>
+<li><a href="/wiki/%E6%86%B2%E6%B3%95%E8%A8%98%E5%BF%B5%E6%97%A5" title="憲法記念日">憲法記念日</a></li>
+<li><a href="/wiki/%E4%B8%96%E7%95%8C%E5%A0%B1%E9%81%93%E8%87%AA%E7%94%B1%E3%83%87%E3%83%BC" title="世界報道自由デー">世界報道自由デー</a></li>
+<li><a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD" title="ポーランド・リトアニア共和国">ポーランド王国</a>でヨーロッパ初の近代的成文憲法である<a href="/wiki/5%E6%9C%883%E6%97%A5%E6%86%B2%E6%B3%95" title="5月3日憲法">5月3日憲法</a>が成立する（<a href="/wiki/1791%E5%B9%B4" title="1791年">1791年</a>）</li>
+<li><a href="/wiki/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%8A%E3%83%91%E3%83%AB%E3%83%88" title="ナポレオン・ボナパルト">ナポレオン・ボナパルト</a>、<a href="/wiki/%E3%82%A8%E3%83%AB%E3%83%90%E5%B3%B6" title="エルバ島">エルバ島</a>配流（<a href="/wiki/1814%E5%B9%B4" title="1814年">1814年</a>）</li>
+<li><a href="/wiki/%E6%B1%9F%E6%88%B8%E5%9F%8E" title="江戸城">江戸城</a>が明治政府軍に<a href="/wiki/%E6%B1%9F%E6%88%B8%E9%96%8B%E5%9F%8E" title="江戸開城">無血開城</a>（<a href="/wiki/1868%E5%B9%B4" title="1868年">1868年</a> - <a href="/wiki/%E6%85%B6%E5%BF%9C" title="慶応">慶応</a>4年<a href="/wiki/4%E6%9C%8811%E6%97%A5_(%E6%97%A7%E6%9A%A6)" title="4月11日 (旧暦)">4月11日</a>）</li>
+<li><a href="/wiki/%E6%B8%88%E5%8D%97%E4%BA%8B%E4%BB%B6" title="済南事件">済南事件</a>（<a href="/wiki/1928%E5%B9%B4" title="1928年">1928年</a>）</li>
+<li><a href="/wiki/%E6%A5%B5%E6%9D%B1%E5%9B%BD%E9%9A%9B%E8%BB%8D%E4%BA%8B%E8%A3%81%E5%88%A4" title="極東国際軍事裁判">極東国際軍事裁判</a>開廷（<a href="/wiki/1946%E5%B9%B4" title="1946年">1946年</a>）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95" title="日本国憲法">日本国憲法</a>施行（<a href="/wiki/1947%E5%B9%B4" title="1947年">1947年</a>）</li>
+<li><a href="/wiki/%E6%AC%A7%E5%B7%9E%E8%87%AA%E7%94%B1%E8%B2%BF%E6%98%93%E9%80%A3%E5%90%88" title="欧州自由貿易連合">欧州自由貿易連合</a> (EFTA) 発足（<a href="/wiki/1960%E5%B9%B4" title="1960年">1960年</a>）</li>
+<li><a href="/wiki/%E8%B5%A4%E5%A0%B1%E9%9A%8A%E4%BA%8B%E4%BB%B6" title="赤報隊事件">赤報隊事件</a>（<a href="/wiki/1987%E5%B9%B4" title="1987年">1987年</a>）</li>
+<li><a href="/wiki/%E8%A5%BF%E9%89%84%E3%83%90%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E4%BA%8B%E4%BB%B6" title="西鉄バスジャック事件">西鉄バスジャック事件</a>（<a href="/wiki/2000%E5%B9%B4" title="2000年">2000年</a>）</li>
+</ul>
+</div>
+<div style="text-align: right;"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E5%AD%A3%E7%AF%80%E3%81%AE%E8%A9%B1%E9%A1%8C" title="季節の話題について"><img alt="{{#if: 季節の話題について" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/38px-PL_Wiki_Aktualnosci_ikona.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/57px-PL_Wiki_Aktualnosci_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/76px-PL_Wiki_Aktualnosci_ikona.svg.png 2x" data-file-width="38" data-file-height="38" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E9.A2.A8.E7.89.A9.E8.A9.A9">風物詩</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<div id="mf-ist" title="風物詩">
+<div><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hamamatsu_matsuri.jpg" class="image" title="浜松まつり"><img alt="浜松まつり" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamamatsu_matsuri.jpg/160px-Hamamatsu_matsuri.jpg" width="160" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamamatsu_matsuri.jpg/240px-Hamamatsu_matsuri.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamamatsu_matsuri.jpg/320px-Hamamatsu_matsuri.jpg 2x" data-file-width="1000" data-file-height="664" /></a>
+<p><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihon_Kenpo01.jpg" class="image" title="憲法記念日"><img alt="憲法記念日" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nihon_Kenpo01.jpg/130px-Nihon_Kenpo01.jpg" width="130" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nihon_Kenpo01.jpg/195px-Nihon_Kenpo01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nihon_Kenpo01.jpg/260px-Nihon_Kenpo01.jpg 2x" data-file-width="320" data-file-height="500" /></a></p>
+</div>
+<a href="/wiki/%E6%98%A5" title="春">春</a> - <a href="/wiki/%E6%BD%AE%E5%B9%B2%E7%8B%A9%E3%82%8A" title="潮干狩り">潮干狩り</a> - <a href="/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF" title="ゴールデンウィーク">ゴールデンウィーク</a> - <a href="/wiki/%E3%82%BF%E3%82%B1%E3%83%8E%E3%82%B3" title="タケノコ">タケノコ</a> - <a href="/wiki/%E3%83%A1%E3%83%BC%E3%83%87%E3%83%BC" title="メーデー">メーデー</a> - <a href="/wiki/%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C" title="八十八夜">八十八夜</a> - <a href="/wiki/%E7%AB%AF%E5%8D%88%E3%81%AE%E7%AF%80%E5%8F%A5" class="mw-redirect" title="端午の節句">端午の節句</a> - <a href="/wiki/%E3%81%93%E3%81%84%E3%81%AE%E3%81%BC%E3%82%8A" title="こいのぼり">こいのぼり</a> - <a href="/wiki/%E6%9F%8F%E9%A4%85" title="柏餅">柏餅</a> - <a href="/wiki/%E3%81%A1%E3%81%BE%E3%81%8D" title="ちまき">ちまき</a> - <a href="/wiki/%E6%96%B0%E7%B7%91" title="新緑">新緑</a> - <a href="/wiki/%E3%83%95%E3%82%B8_(%E6%A4%8D%E7%89%A9)" title="フジ (植物)">藤</a> - <a href="/wiki/%E7%94%B0%E6%A4%8D%E3%81%88" title="田植え">田植え</a> - <a href="/wiki/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A6" title="エンドウ">エンドウ</a> - <a href="/wiki/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="カーネーション">カーネーション</a></div>
+<div style="text-align: right;"><span class="nowrap"><a href="/wiki/Wikipedia:%E5%AD%A3%E7%AF%80%E3%81%AE%E7%94%BB%E5%83%8F%E6%8A%95%E7%A5%A8%E6%89%80" title="Wikipedia:季節の画像投票所">画像の投票・推薦</a> / <a href="/wiki/Wikipedia:%E5%AD%A3%E7%AF%80%E3%81%AE%E8%A9%B1%E9%A1%8C" title="Wikipedia:季節の話題">話題</a></span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="ウィキペディア内のポータルサイト・ウィキポータルについて"><img alt="{{#if: ウィキペディア内のポータルサイト・ウィキポータルについて" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/38px-HSSamarbete.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/57px-HSSamarbete.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/76px-HSSamarbete.svg.png 2x" data-file-width="156" data-file-height="156" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E3.83.9D.E3.83.BC.E3.82.BF.E3.83.AB"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB#.E3.82.A6.E3.82.A3.E3.82.AD.E3.83.9D.E3.83.BC.E3.82.BF.E3.83.AB" title="Wikipedia:ウィキポータル">ポータル</a></span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;">
+<p><a href="/wiki/Category:%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:人文科学のポータル">人文科学</a> · <a href="/wiki/Category:%E6%AD%B4%E5%8F%B2%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:歴史のポータル">歴史</a> · <a href="/wiki/Category:%E5%9C%B0%E7%90%86%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:地理のポータル">地理</a> · <a href="/wiki/Category:%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:社会科学のポータル">社会科学</a> · <span style="white-space:nowrap;"><a href="/wiki/Category:%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:自然科学のポータル">自然科学</a></span> · <span style="white-space:nowrap;"><a href="/wiki/Category:%E6%8A%80%E8%A1%93%E3%81%A8%E7%94%A3%E6%A5%AD%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:技術と産業のポータル">技術産業</a></span> · <span style="white-space:nowrap;"><a href="/wiki/Category:%E6%96%87%E5%8C%96%E3%81%A8%E8%8A%B8%E8%A1%93%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:文化と芸術のポータル">文化と芸術</a></span> · <span style="white-space:nowrap;"><a href="/wiki/Category:%E5%A8%AF%E6%A5%BD%E3%81%A8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Category:娯楽とスポーツのポータル">娯楽とスポーツ</a></span></p>
+<div style="width:300px;">
+<div style="float:right; clear:right; margin-left:0.5em; font-size:90%;" class="CategoryTreeTag" data-ct-mode="20" data-ct-options="{&quot;mode&quot;:20,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" style="display: none;" data-ct-title="ウィキポータル" title="展開する" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB">ウィキポータル</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="Wikipedia:ウィキポータル">ポータルとは</a></div>
+<br style="clear: left" />
+<div style="text-align: right;"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="もくじ"><img alt="{{#if: もくじ" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" data-file-width="1500" data-file-height="1500" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E3.82.A4.E3.83.B3.E3.83.95.E3.82.A9.E3.83.A1.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3">インフォメーション</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;"><a href="/wiki/Wikipedia:%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF" title="Wikipedia:ガイドブック">ガイド</a> · <a href="/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85" title="Wikipedia:利用案内">利用案内</a> · <a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E3%81%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3" title="Wikipedia:方針とガイドライン">方針</a> · <span style="white-space:nowrap;"><a href="/wiki/Wikipedia:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="Wikipedia:カテゴリ">カテゴリ</a> · <a href="/wiki/Wikipedia:%E7%B4%A2%E5%BC%95" title="Wikipedia:索引">索引</a></span> · <span style="white-space:nowrap;"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="Wikipedia:連絡先">連絡先</a></span>
+<div style="text-align: right;"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:8px; top:8px; height:25px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/250px-Blue-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/375px-Blue-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blue-bg_rounded_cropped.svg/500px-Blue-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88" title="ウィキペディアとウィキメディア・プロジェクトについて"><img alt="{{#if: ウィキペディアとウィキメディア・プロジェクトについて" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/38px-HSWPedia.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/57px-HSWPedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/76px-HSWPedia.svg.png 2x" data-file-width="1500" data-file-height="1500" /></a></div>
+<div style="position:absolute; left:40px; top:0px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id=".E3.82.A6.E3.82.A3.E3.82.AD.E3.83.A1.E3.83.87.E3.82.A3.E3.82.A2.E3.83.97.E3.83.AD.E3.82.B8.E3.82.A7.E3.82.AF.E3.83.88">ウィキメディアプロジェクト</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:0px; padding-top:8px;"><a href="https://commons.wikimedia.org/wiki/Commons:%E7%A7%80%E9%80%B8%E3%81%AA%E7%94%BB%E5%83%8F" class="extiw" title="commons:Commons:秀逸な画像">コモンズを探検する</a> · <a href="/wiki/Wikipedia:%E6%9C%88%E9%96%93%E6%96%B0%E8%A8%98%E4%BA%8B%E8%B3%9E" title="Wikipedia:月間新記事賞">今月のおすすめ</a>
+<div style="text-align: right;"></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;">
+<tr>
+<td style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table width="100%" style="padding-left:10px; padding-right:10px; padding-top:4px; padding-bottom:8px; background:transparent;">
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="2" class="plainlinks" style="background-color:transparent;">
+<tr>
+<td align="right"><a href="https://meta.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メタウィキ"><img alt="メタウィキ" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/28px-Wikimedia_Community_Logo.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/42px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/56px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td align="left"><a href="https://meta.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="meta:メインページ"><b>メタウィキ</b></a><br />
+<small>プロジェクトの議論</small></td>
+<td align="right"><a href="https://commons.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="コモンズ"><img alt="コモンズ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/26px-Commons-logo.svg.png" width="26" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/39px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/52px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td align="left"><a href="https://commons.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="commons:メインページ"><b>コモンズ</b></a><br />
+<small>ファイルの集積</small></td>
+<td align="right"><a href="https://ja.wiktionary.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィクショナリー"><img alt="ウィクショナリー" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/30px-Wiktionary-logo.svg.png" width="30" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/45px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></td>
+<td align="left"><a href="https://ja.wiktionary.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="wikt:メインページ"><b>ウィクショナリー</b></a><br />
+<small>多機能辞典</small></td>
+<td align="right"><a href="https://ja.wikibooks.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキブックス"><img alt="ウィキブックス" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/28px-Wikibooks-logo.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/42px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/56px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td align="left"><a href="https://ja.wikibooks.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="b:メインページ"><b>ウィキブックス</b></a><br />
+<small>教科書や解説書</small></td>
+<td align="right"><a href="https://ja.wikiquote.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキクォート"><img alt="ウィキクォート" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/26px-Wikiquote-logo.svg.png" width="26" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/39px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/52px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td align="left"><a href="https://ja.wikiquote.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="q:メインページ"><b>ウィキクォート</b></a><br />
+<small>引用句集</small></td>
+</tr>
+<tr>
+<td align="right"><a href="https://ja.wikisource.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキソース"><img alt="ウィキソース" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/52px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td align="left"><a href="https://ja.wikisource.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="s:メインページ"><b>ウィキソース</b></a><br />
+<small>自由な情報源</small></td>
+<td align="right"><a href="https://species.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキスピーシーズ"><img alt="ウィキスピーシーズ" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/28px-Wikispecies-logo.svg.png" width="28" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/42px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/56px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td align="left"><a href="https://species.wikimedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="wikispecies:メインページ"><b>ウィキスピーシーズ</b></a><br />
+<small>生物種の分類目録</small></td>
+<td align="right"><a href="https://ja.wikinews.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキニュース"><img alt="ウィキニュース" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/28px-Wikinews-logo.svg.png" width="28" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/42px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/56px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td align="left"><a href="https://ja.wikinews.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="n:メインページ"><b>ウィキニュース</b></a><br />
+<small>自由なニュース</small></td>
+<td align="right"><a href="https://ja.wikiversity.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキバーシティ"><img alt="ウィキバーシティ" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/28px-Wikiversity-logo.svg.png" width="28" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/42px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/56px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td align="left"><a href="https://ja.wikiversity.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="v:メインページ"><b>ウィキバーシティ</b></a><br />
+<small>学習支援</small></td>
+<td align="right"><a href="https://www.wikidata.org/wiki/Wikidata:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ウィキデータ"><img alt="ウィキデータ" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/28px-Wikidata-logo.svg.png" width="28" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/42px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/56px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td align="left"><a href="https://www.wikidata.org/wiki/Wikidata:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="wikidata:Wikidata:メインページ"><b>ウィキデータ</b></a><br />
+<small>フリー知識ベース</small></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;">
+<tr>
+<td style="width:100%; border:1px solid #a7d7f9; background:#f9f9f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table width="100%" style="padding-left:10px; padding-right:10px; padding-top:8px; padding-bottom:0px; background:transparent;">
+<tr>
+<td align="left">ウィキペディアは日本語をはじめ約280の言語で執筆されています。全ての言語版については<a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E4%B8%80%E8%A6%A7" title="Wikipedia:ウィキペディアの一覧">ウィキペディアの一覧</a>や<a href="/wiki/Wikipedia:%E5%85%A8%E8%A8%80%E8%AA%9E%E7%89%88%E3%81%AE%E7%B5%B1%E8%A8%88" title="Wikipedia:全言語版の統計">全言語版の統計</a>をご覧ください。以下は特に規模の大きな言語版です。
+<div class="hlist" style="margin:0.1em;padding:0.2em 0.5em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:"><span lang="en" xml:lang="en">English</span><span style="font-size:smaller">（英語）</span></a></li>
+<li><a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:"><span lang="sv" xml:lang="sv">svenska</span><span style="font-size:smaller">（スウェーデン語）</span></a></li>
+<li><a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:"><span lang="nl" xml:lang="nl">Nederlands</span><span style="font-size:smaller">（オランダ語）</span></a></li>
+<li><a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:"><span lang="de" xml:lang="de">Deutsch</span><span style="font-size:smaller">（ドイツ語）</span></a></li>
+<li><a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:"><span lang="fr" xml:lang="fr">français</span><span style="font-size:smaller">（フランス語）</span></a></li>
+<li><a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:"><span lang="ru" xml:lang="ru">русский</span><span style="font-size:smaller">（ロシア語）</span></a></li>
+<li><a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:"><span lang="it" xml:lang="it">italiano</span><span style="font-size:smaller">（イタリア語）</span></a></li>
+<li><a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:"><span lang="es" xml:lang="es">español</span><span style="font-size:smaller">（スペイン語）</span></a></li>
+<li><a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:"><span lang="vi" xml:lang="vi">Tiếng Việt</span><span style="font-size:smaller">（ベトナム語）</span></a></li>
+<li><a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:"><span lang="pl" xml:lang="pl">polski</span><span style="font-size:smaller">（ポーランド語）</span></a></li>
+<li><a href="https://pt.wikipedia.org/wiki/" class="extiw" title="pt:"><span lang="pt" xml:lang="pt">português</span><span style="font-size:smaller">（ポルトガル語）</span></a></li>
+<li><a href="https://zh.wikipedia.org/wiki/" class="extiw" title="zh:"><span lang="zh" xml:lang="zh">中文</span><span style="font-size:smaller">（中国語）</span></a></li>
+<li><a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:"><span lang="uk" xml:lang="uk">українська</span><span style="font-size:smaller">（ウクライナ語）</span></a></li>
+<li><a href="https://ca.wikipedia.org/wiki/" class="extiw" title="ca:"><span lang="ca" xml:lang="ca">català</span><span style="font-size:smaller">（カタルーニャ語）</span></a></li>
+<li><a href="https://no.wikipedia.org/wiki/" class="extiw" title="no:"><span lang="no" xml:lang="no">norsk</span><span style="font-size:smaller">（ノルウェー語）</span></a></li>
+<li><a href="https://fa.wikipedia.org/wiki/" class="extiw" title="fa:"><span lang="fa" xml:lang="fa">فارسی</span><span style="font-size:smaller">（ペルシア語）</span></a></li>
+<li><a href="https://fi.wikipedia.org/wiki/" class="extiw" title="fi:"><span lang="fi" xml:lang="fi">suomi</span><span style="font-size:smaller">（フィンランド語）</span></a></li>
+<li><a href="https://id.wikipedia.org/wiki/" class="extiw" title="id:"><span lang="id" xml:lang="id">Bahasa Indonesia</span><span style="font-size:smaller">（インドネシア語）</span></a></li>
+<li><a href="https://ar.wikipedia.org/wiki/" class="extiw" title="ar:"><span lang="ar" xml:lang="ar">العربية</span><span style="font-size:smaller">（アラビア語）</span></a></li>
+<li><a href="https://cs.wikipedia.org/wiki/" class="extiw" title="cs:"><span lang="cs" xml:lang="cs">čeština</span><span style="font-size:smaller">（チェコ語）</span></a></li>
+<li><a href="https://ko.wikipedia.org/wiki/" class="extiw" title="ko:"><span lang="ko" xml:lang="ko">한국어</span><span style="font-size:smaller">（韓国語）</span></a></li>
+<li><a href="https://ms.wikipedia.org/wiki/" class="extiw" title="ms:"><span lang="ms" xml:lang="ms">Bahasa Melayu</span><span style="font-size:smaller">（マレー語）</span></a></li>
+<li><a href="https://hu.wikipedia.org/wiki/" class="extiw" title="hu:"><span lang="hu" xml:lang="hu">magyar</span><span style="font-size:smaller">（ハンガリー語）</span></a></li>
+<li><a href="https://ro.wikipedia.org/wiki/" class="extiw" title="ro:"><span lang="ro" xml:lang="ro">română</span><span style="font-size:smaller">（ルーマニア語）</span></a></li>
+<li><a href="https://sr.wikipedia.org/wiki/" class="extiw" title="sr:"><span lang="sr" xml:lang="sr">српски / srpski</span><span style="font-size:smaller">（セルビア語）</span></a></li>
+</ul>
+</div>
+<p>ウィキペディアの運営主体は非営利団体<a href="https://wikimediafoundation.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" class="extiw" title="wikimedia:メインページ">ウィキメディア財団</a>です。ウィキペディアの運営は皆様の寄付によって成り立っています。<b><a href="https://wikimediafoundation.org/wiki/%E5%AF%84%E4%BB%98" class="extiw" title="wikimedia:寄付">ご理解・ご協力</a></b>賜りますようよろしくお願い申し上げます。</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20170503142456
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.208 seconds
+Real time usage: 0.281 seconds
+Preprocessor visited node count: 1390/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58945/2097152 bytes
+Template argument size: 14185/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 882 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  182.566      1 -total
+ 92.41%  168.712     10 Template:メインページ/フレーム
+ 34.41%   62.828      1 Template:今日は何の日
+ 10.98%   20.046      1 Template:メインページ/今日の一枚
+  9.52%   17.385      1 Template:秀逸ピックアップ
+  8.45%   15.426      1 Template:メインページ/今日の一枚/rot
+  7.69%   14.048      1 Template:秀逸スケジュール
+  7.05%   12.873      1 Template:良質ピックアップ
+  6.28%   11.465      1 Template:季節の画像
+  4.12%    7.523      3 Template:良質スケジュール
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:253348-0!*!0!!*!4!* and timestamp 20170503142456 and revision id 63501059
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=メインページ&amp;oldid=63501059">https://ja.wikipedia.org/w/index.php?title=メインページ&amp;oldid=63501059</a>」から取得					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="本文を閲覧 [c]" accesskey="c">メインページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" >閲覧</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=edit"  title="このページは保護されています。&#10;ページのソースを閲覧できます。 [e]" accesskey="e">ソースを表示</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;oldid=63501059&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">コモンズ</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">メタウィキ</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">ウィキスピーシーズ</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://ja.wikibooks.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja">ウィキブックス</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">ウィキデータ</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://ja.wikinews.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja">ウィキニュース</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://ja.wikiquote.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja">ウィキクォート</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://ja.wikisource.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja">ウィキソース</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://ja.wikiversity.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja">ウィキバーシティ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;oldid=63501059" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;id=63501059" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="アラビア語" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/" title="アゼルバイジャン語" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="ブルガリア語" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="カタロニア語" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="チェコ語" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="デンマーク語" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="ドイツ語" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="ギリシャ語" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="英語" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="エスペラント語" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="スペイン語" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="エストニア語" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="バスク語" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="ペルシア語" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="フィンランド語" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="フランス語" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="ガリシア語" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="ヘブライ語" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="ヒンディー語" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="クロアチア語" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="ハンガリー語" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="インドネシア語" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="イタリア語" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="ジョージア語" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/" title="カザフ語" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="韓国語" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="ラテン語" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="リトアニア語" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/" title="マケドニア語" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="マレー語" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/" title="ネワール語" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="オランダ語" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="ノルウェー語(ニーノシュク)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="ノルウェー語" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="ポーランド語" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="ポルトガル語" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="ルーマニア語" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="ロシア語" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="セルボ・クロアチア語" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="シンプル英語" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="スロバキア語" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="スロベニア語" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="セルビア語" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="スウェーデン語" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="タイ語" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/" title="タガログ語" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="トルコ語" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ウクライナ語" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="ベトナム語" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="中国語" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2017年3月26日 (日) 10:37 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookieに関する声明</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.281","ppvisitednodes":{"value":1390,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58945,"limit":2097152},"templateargumentsize":{"value":14185,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  182.566      1 -total"," 92.41%  168.712     10 Template:メインページ/フレーム"," 34.41%   62.828      1 Template:今日は何の日"," 10.98%   20.046      1 Template:メインページ/今日の一枚","  9.52%   17.385      1 Template:秀逸ピックアップ","  8.45%   15.426      1 Template:メインページ/今日の一枚/rot","  7.69%   14.048      1 Template:秀逸スケジュール","  7.05%   12.873      1 Template:良質ピックアップ","  6.28%   11.465      1 Template:季節の画像","  4.12%    7.523      3 Template:良質スケジュール"]},"scribunto":{"limitreport-timeusage":{"value":"0.021","limit":"10.000"},"limitreport-memusage":{"value":903436,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20170503142456","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1263"});});</script>
+	</body>
+</html>

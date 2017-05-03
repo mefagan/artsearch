@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="hu" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipédia, a szabad enciklopédia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kezdőlap","wgTitle":"Kezdőlap","wgCurRevisionId":17612766,"wgRevisionId":17612766,"wgArticleId":684328,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kezdőlap"],"wgBreakFrames":false,"wgPageContentLanguage":"hu","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ymd","wgMonthNames":["","január","február","március","április","május","június","július","augusztus","szeptember","október","november","december"],"wgMonthNamesShort":["","jan","febr","márc","ápr","máj","jún","júl","aug","szept","okt","nov","dec"],"wgRelevantPageName":"Kezdőlap","wgRelevantArticleId":684328,"wgRequestId":"WQmkgArAADMAAEmsc3kAAABB","wgIsProbablyEditable":false,"wgRestrictionEdit":["templateeditor"],"wgRestrictionMove":["templateeditor"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":17612766,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"hu","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"hu","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"magyar","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.59"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.infobox":"ready","ext.gadget.wikiMenuStyles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0c1h3hu",function($,jQuery,require,module){mw.user.options.set({"variant":"hu"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.ImageAnnotator.loader","ext.gadget.collapsible","ext.gadget.kepdia","ext.gadget.kinai","ext.gadget.poziciosTerkep","ext.gadget.wikiMenu","ext.gadget.wiwosm","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hu&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%7Cext.gadget.infobox%2CwikiMenuStyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=hu&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hu&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg/1200px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/hu.m.wikipedia.org/wiki/Kezd%C5%91lap"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipédia a nap képe hírcsatorna" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="A(z) Wikipédia kiemelt szócikkeinek hírcsatornája" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipédia „Ezen a napon…” hírcsatorna" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipédia „Tudtad-e, hogy…?” hírcsatorna" href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (hu)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//hu.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://hu.wikipedia.org/wiki/Kezd%C5%91lap"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Kezdőlap rootpage-Kezdőlap skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Eelrejt\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"hu\" dir=\"ltr\"\u003E\u003Cdiv style=\"background:khaki;\"\u003E\u003Cb\u003EMájus 3-án magyar idő szerint 16 óra után 20-30 percig nem lehet szerkeszteni. Az ekkor mentett változtatások elvesznek!\u003C/b\u003E Részletek: \u003Ca href=\"/wiki/Wikip%C3%A9dia:Kocsmafal_(m%C5%B1szaki)#Tech_News:_2017-16\" title=\"Wikipédia:Kocsmafal (műszaki)\"\u003EWikipédia:Kocsmafal (műszaki)#Tech News: 2017-16\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="hu">Kezdőlap</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">A Wikipédiából, a szabad enciklopédiából</div>
+								<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint nomobile"><div class="flaggedrevs_short_basic"><img class="flaggedrevs-icon" src="/w/extensions/FlaggedRevs/frontend/modules/img/2.png" alt="Ez a lap egy ellenőrzött változata" title="Ez a lap egy ellenőrzött változata" /><img id="mw-fr-revisiontoggle" class="fr-toggle-arrow" src="/w/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;" alt="részletek megjelenítése/elrejtése" /></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Ez a <a href="/wiki/Wikip%C3%A9dia:Jel%C3%B6lt_lapv%C3%A1ltozatok" title="Wikipédia:Jelölt lapváltozatok">közzétett változat</a>, <a class="external text" href="//hu.wikipedia.org/w/index.php?title=Speci%C3%A1lis:Rendszernapl%C3%B3k&amp;type=review&amp;page=Kezd%C5%91lap">ellenőrizve</a>: <i>2016. június 11.</i><p><table id='mw-fr-revisionratings-box' style='margin: auto;' class='flaggedrevs-color-1' cellpadding='0'><tr><td class='fr-text' style='vertical-align: middle;'>Pontosság</td><td class='fr-value40' style='vertical-align: middle;'>ellenőrzött</td></tr>
+</table></p></div>
+</div>
+</div>
+</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Ugrás:					<a href="#mw-head">navigáció</a>, 					<a href="#p-search">keresés</a>
+				</div>
+				<div id="mw-content-text" lang="hu" dir="ltr" class="mw-content-ltr"><table cellspacing="5" style="width:100%; margin:0; border:1px solid #a7d7f9; background-color:#fafafa; vertical-align: top; color: #000000; padding: 5px;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<div style="float:left; padding-left:8px;">
+<p><span style="font-size:160%; font-weight:bold; line-height:normal;"><a href="/wiki/Wikip%C3%A9dia:%C3%9Cdv%C3%B6zl%C3%BCnk,_l%C3%A1togat%C3%B3!" title="Wikipédia:Üdvözlünk, látogató!">Üdvözlünk</a> a <a href="/wiki/Wikip%C3%A9dia:R%C3%B3lunk" title="Wikipédia:Rólunk">Wikipédiában</a>!</span><br />
+<span style="font-size:100%;"><i>Ezt az <a href="/wiki/Enciklop%C3%A9dia" title="Enciklopédia">enciklopédiát</a> az olvasói <a href="/wiki/Wikip%C3%A9dia:Az_els%C5%91_l%C3%A9p%C3%A9sek" title="Wikipédia:Az első lépések">szerkesztik</a>.</i></span><br />
+<span style="font-size:100%;">A <a href="/wiki/Magyar_Wikip%C3%A9dia" title="Magyar Wikipédia">magyar</a> változatnak <a href="/wiki/Wikip%C3%A9dia:Statisztik%C3%A1k" title="Wikipédia:Statisztikák">409&#160;365</a> <a href="/wiki/Wikip%C3%A9dia:Sz%C3%B3cikk" title="Wikipédia:Szócikk">szócikke</a> van,<br />
+<span style="white-space:nowrap;">ebből <a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikkek_list%C3%A1ja" title="Wikipédia:Kiemelt szócikkek listája">951</a> <a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikk" title="Wikipédia:Kiemelt szócikk">kiemelt</a>.</span></span></p>
+</div>
+</td>
+<td>
+<div style="float:right;">
+<div style="margin-top: 9px;">
+<table border="0" style="width:452px; margin:0; padding:0; border:1px solid #a7d7f9; background-color:#f6f6f6; vertical-align:top; color:#000000; padding:5px; padding-top:0px; padding-bottom:0px;">
+<tr>
+<td style="width:25%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Port%C3%A1l:T%C3%A1rsadalom" title="Portál:Társadalom">Társadalom</a></li>
+<li><a href="/wiki/Port%C3%A1l:T%C3%B6rt%C3%A9nelem" title="Portál:Történelem">Történelem</a></li>
+<li><a href="/wiki/Port%C3%A1l:F%C3%B6ldrajz" title="Portál:Földrajz">Földrajz</a></li>
+</ul>
+</td>
+<td style="width:25%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Port%C3%A1l:Kult%C3%BAra" title="Portál:Kultúra">Kultúra</a></li>
+<li><a href="/wiki/Port%C3%A1l:M%C5%B1v%C3%A9szet" title="Portál:Művészet">Művészet</a></li>
+<li><a href="/wiki/Port%C3%A1l:Sport" title="Portál:Sport">Sport</a></li>
+</ul>
+</td>
+<td style="width:25%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Port%C3%A1l:Term%C3%A9szet" title="Portál:Természet">Természet</a></li>
+<li><a href="/wiki/Port%C3%A1l:Fizika" title="Portál:Fizika">Fizika</a></li>
+<li><a href="/wiki/Port%C3%A1l:Biol%C3%B3gia" title="Portál:Biológia">Biológia</a></li>
+</ul>
+</td>
+<td style="width:25%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Port%C3%A1l:Matematika" title="Portál:Matematika">Matematika</a></li>
+<li><a href="/wiki/Port%C3%A1l:Technika" title="Portál:Technika">Technika</a></li>
+<li><b><a href="/wiki/Port%C3%A1l:Port%C3%A1lok" title="Portál:Portálok">Összes portál</a></b></li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="margin-top: 9px;">
+<div class="buttonsize-small">
+<div class="buttonstyle-megbeszelesek">
+<div class="buttonBar" style="text-align: right;"><span class="bigButton"><span class="plainlinks"><a class="external text" href="//hu.m.wikipedia.org">Mobilos változat</a></span></span><span class="bigButton"><a href="/wiki/Wikip%C3%A9dia:Kapcsolatfelv%C3%A9tel" title="Wikipédia:Kapcsolatfelvétel">Kapcsolatfelvétel / Contact</a></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table style="border-collapse: separate; border-spacing: 0 5px; width: 100%;">
+<tr>
+<td valign="top" style="width:60%; border:solid 1px #0099ff;">
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #0099ff; font-size:16px;">
+<h5><span class="mw-headline" id="Kiemelt_cikk.C2.A0.C2.A0">Kiemelt cikk&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_kiemelt_cikkei/2017-18-1&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div id="mp-tfa" title="Kiemelt cikk">
+<div class="tfa-summary">
+<div class="image" style="position:relative; float:right; clear: right; text-align:center; margin-left: 10px; width: 250px;"><a href="/wiki/F%C3%A1jl:%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg" class="image" title="Az újjáépített vár"><img alt="Az újjáépített vár" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg/250px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg" width="250" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg/375px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg/500px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_a_faluba_%C3%A9rkezve_TVM.jpg 2x" data-file-width="4288" data-file-height="2848" /></a><br />
+<small>Az újjáépített vár</small></div>
+<div class="image" style="position:relative; float:right; clear: right; text-align:center; margin-left: 10px; width: 250px;"><a href="/wiki/F%C3%A1jl:%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_(2)_TVM.jpg" class="image" title="A megújult alsóvári kaputorony"><img alt="A megújult alsóvári kaputorony" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg/250px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg" width="250" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg/375px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg/500px-%C3%9AJJ%C3%81%C3%89P%C3%9CLT_F%C3%9CZ%C3%89R_V%C3%81RA_als%C3%B3-v%C3%A1r_kaputorony_%282%29_TVM.jpg 2x" data-file-width="4288" data-file-height="2848" /></a><br />
+<small>A megújult alsóvári kaputorony</small></div>
+<p>A <a href="/wiki/K%C3%B6z%C3%A9pkor" title="Középkor">középkorban</a> épült <b><a href="/wiki/F%C3%BCz%C3%A9ri_v%C3%A1r" title="Füzéri vár">füzéri vár</a></b> <a href="/wiki/F%C3%BCz%C3%A9r_(telep%C3%BCl%C3%A9s)" title="Füzér (település)">Füzér</a> falu közvetlen közelében egy vulkanikus eredetű dombon áll. Első írásos említése 1264-ből maradt fenn, de valószínűleg már a <a href="/wiki/Tat%C3%A1rj%C3%A1r%C3%A1s" title="Tatárjárás">tatárjárás</a> előtt állt; feltételezik, hogy az <a href="/wiki/Aba_nemzets%C3%A9g" title="Aba nemzetség">Aba nemzetség</a> építtette. Egyike lehet az első magánbirtokú magyarországi kőváraknak.</p>
+<p>A 13. században <a href="/wiki/II._Andr%C3%A1s_magyar_kir%C3%A1ly" title="II. András magyar király">II. András</a> vette meg. A tatárjárásig királyi birtok volt, majd adományként visszakapták az Abák. A <a href="/wiki/Rozgonyi_csata" title="Rozgonyi csata">rozgonyi csata</a> után <a href="/wiki/I._K%C3%A1roly_magyar_kir%C3%A1ly" title="I. Károly magyar király">Károly Róbert</a> elkobozta, és <a href="/wiki/Drugeth_csal%C3%A1d" title="Drugeth család">Drugeth-</a>, majd Perényi-tulajdonba került. Amikor <a href="/wiki/Per%C3%A9nyi_G%C3%A1bor_(orsz%C3%A1gb%C3%ADr%C3%B3)" title="Perényi Gábor (országbíró)">Perényi Gábor</a> 1567-ben fiúutód nélkül meghalt, a vár előbb a <a href="/wiki/B%C3%A1thori-csal%C3%A1d" title="Báthori-család">Báthori</a>-, majd a <a href="/wiki/N%C3%A1dasdy_csal%C3%A1d" title="Nádasdy család">Nádasdy családhoz</a> került. A <a href="/wiki/Wessel%C3%A9nyi-%C3%B6sszeesk%C3%BCv%C3%A9s" title="Wesselényi-összeesküvés">Wesselényi-összeesküvés</a> után a várat elkobozták, a császári katonaság felégette és hátrahagyta.</p>
+Az évszázadokig omladozó épületegyüttes értékét a <a href="/wiki/Romantika" title="Romantika">romantika</a> idején ismerték fel, ekkor került az örökségvédelem látókörébe. 1977-ben kezdték régészeti feltárását, majd 1992-ben renoválását. 2014–15-ben a felsővárat felújították, elpusztult részeit részben rekonstruálták, így ma ez Magyarország egyik legjobb állapotú középkori vára.</div>
+<div style="text-align:right; font-weight:bold; clear:both;"><a href="/wiki/F%C3%BCz%C3%A9ri_v%C3%A1r" title="Füzéri vár">Tovább a szócikkhez</a></div>
+<hr />
+<p><i>A kezdőlapon legutóbb megjelent szócikkek:</i> <a href="/wiki/Miyavi" title="Miyavi">Miyavi</a>&#160;• <a href="/wiki/Pripjaty_(Kijevi_ter%C3%BClet)" title="Pripjaty (Kijevi terület)">Pripjaty (Kijevi terület)</a>&#160;• <a href="/wiki/Phenjan" title="Phenjan">Phenjan</a>&#160;• <a href="/wiki/Marija_Jurjevna_Sarapova" title="Marija Jurjevna Sarapova">Marija Jurjevna Sarapova</a>&#160;• <a href="/wiki/Szentgotth%C3%A1rdi_ciszterci_ap%C3%A1ts%C3%A1g" title="Szentgotthárdi ciszterci apátság">Szentgotthárdi ciszterci apátság</a>&#160;• <a href="/wiki/Ikarus_280T" title="Ikarus 280T">Ikarus 280T</a>&#160;• <a href="/wiki/Duna" title="Duna">Duna</a>&#160;</p>
+<div style="text-align:right;"><b><a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikkek_list%C3%A1ja" title="Wikipédia:Kiemelt szócikkek listája">További kiemelt lapok</a></b> <a href="http://feeds.feedburner.com/huwiki-kiemelt" title="Kiemelt szócikk RSS" rel="nofollow"><img alt="Kiemelt szócikk RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/20px-Feed-icon.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Wikip%C3%A9dia:Kezd%C5%91lapra_jel%C3%B6lt_sz%C3%B3cikkek_list%C3%A1ja" title="Wikipédia:Kezdőlapra jelölt szócikkek listája">Javaslatok</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+<td rowspan="2" style="border: 1px solid transparent;"></td>
+<td valign="top" style="width:40%; border:solid 1px #cc0000;">
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #cc0000; font-size:16px;">
+<h5><span class="mw-headline" id="A_nap_k.C3.A9pe.C2.A0.C2.A0.C2.A0.C2.A0">A nap képe&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Napk%C3%A9pe/2017-05-03&amp;action=edit">&#160;</a></span>&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Napk%C3%A9pe/2017-05-03_(hu)&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<center>
+<div>
+<div style=""><a href="/wiki/F%C3%A1jl:Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica,_Ceuta,_Espa%C3%B1a,_2015-12-10,_DD_70-72_HDR.JPG" class="image" title="A Santa María de África római katolikus templom (Ceuta, Spanyolország)"><img alt="A Santa María de África római katolikus templom (Ceuta, Spanyolország)" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG/320px-Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG" width="320" height="215" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG/480px-Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG/640px-Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica%2C_Ceuta%2C_Espa%C3%B1a%2C_2015-12-10%2C_DD_70-72_HDR.JPG 2x" data-file-width="8074" data-file-height="5425" /></a></div>
+<br />
+<p>A Santa María de África római katolikus templom (<a href="/wiki/Ceuta" title="Ceuta">Ceuta</a>, <a href="/wiki/Spanyolorsz%C3%A1g" title="Spanyolország">Spanyolország</a>)<br /></p>
+</div>
+<div align="right"><b><a href="/wiki/F%C3%A1jl:Iglesia_de_Nuestra_Se%C3%B1ora_de_%C3%81frica,_Ceuta,_Espa%C3%B1a,_2015-12-10,_DD_70-72_HDR.JPG" title="Fájl:Iglesia de Nuestra Señora de África, Ceuta, España, 2015-12-10, DD 70-72 HDR.JPG">Teljes méret</a>&#160;•&#160; <a href="/wiki/Wikip%C3%A9dia:A_nap_k%C3%A9pe" title="Wikipédia:A nap képe">Archívum</a></b> <a href="//hu.wikipedia.org/w/api.php?action=featuredfeed&amp;feed=potd" title="Kiemelt kép RSS"><img alt="Kiemelt kép RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/20px-Feed-icon.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</center>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #cc0000; font-size:16px;">
+<h5><span class="mw-headline" id="Tudtad-e.3F.C2.A0.C2.A0">Tudtad-e?&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_%C3%A9rdekess%C3%A9gei/2017-18-1&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div id="mp-dyk" title="Tudtad-e?">
+<p><b>Tudtad-e, hogy…</b></p>
+<div class="image" style="position:relative; float:right; clear: right; text-align:center; margin-left: 10px; width: 120px;"><a href="/wiki/F%C3%A1jl:Klm_f100_ph-kle_arp.jpg" class="image" title="Egy Fokker 100-as sugárfékezés közben"><img alt="Egy Fokker 100-as sugárfékezés közben" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Klm_f100_ph-kle_arp.jpg/120px-Klm_f100_ph-kle_arp.jpg" width="120" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Klm_f100_ph-kle_arp.jpg/180px-Klm_f100_ph-kle_arp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Klm_f100_ph-kle_arp.jpg/240px-Klm_f100_ph-kle_arp.jpg 2x" data-file-width="2213" data-file-height="1602" /></a><br />
+<small>Egy Fokker 100-as <a href="/wiki/Sug%C3%A1rf%C3%A9k" title="Sugárfék">sugárfékezés</a> közben</small></div>
+<ul>
+<li>… a repülőgépeket <a href="/wiki/Sug%C3%A1rf%C3%A9k" title="Sugárfék">sugárfékkel</a> is le lehet fékezni?</li>
+<li>… a <a href="/wiki/Cannaei_csata" title="Cannaei csata">cannaei csata</a> <a href="/wiki/Hannib%C3%A1l_(karth%C3%A1g%C3%B3i_hadvez%C3%A9r)" title="Hannibál (karthágói hadvezér)">Hannibál</a> legjelentősebb győzelme volt a <a href="/wiki/R%C3%B3mai_K%C3%B6zt%C3%A1rsas%C3%A1g" title="Római Köztársaság">Római Köztársaság</a> haderői ellen?</li>
+<li>… a <a href="/wiki/Nagy_mara" title="Nagy mara">nagy mara</a> (vagy pampanyúl) röfögő hangokkal jelzi, ha veszélyt érez?</li>
+<li>… a világ legnagyobb befogadóképességű sportarénája, a <a href="/wiki/Rungnado_M%C3%A1jus_Elseje_Stadion" title="Rungnado Május Elseje Stadion">Rungnado Május Elseje Stadion</a> <a href="/wiki/%C3%89szak-Korea" title="Észak-Korea">Észak-Korea</a> fővárosában, <a href="/wiki/Phenjan" title="Phenjan">Phenjanban</a> található?</li>
+</ul>
+<div style="text-align:right;"><b><a href="/wiki/Wikip%C3%A9dia:Kezd%C5%91lapra_ker%C3%BClt_%C3%A9rdekess%C3%A9gek_list%C3%A1ja" title="Wikipédia:Kezdőlapra került érdekességek listája">Archívum</a></b> <a href="//hu.wikipedia.org/w/api.php?action=featuredfeed&amp;feed=dyk" title="Kiemelt szócikk RSS"><img alt="Kiemelt szócikk RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/20px-Feed-icon.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" style="width:60%; border:solid 1px #cc9900;">
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #cc9900; font-size:16px;">
+<h5><span class="mw-headline" id="Aktu.C3.A1lis.C2.A0.C2.A0">Aktuális&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_aktualit%C3%A1sai&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div id="mp-itn" title="Aktuális">
+<hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: 140px;">
+<div><a href="/wiki/F%C3%A1jl:Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg" class="image" title="Kulcsár Krisztián"><img alt="Kulcsár Krisztián" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg/140px-Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg" width="140" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg/210px-Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg/280px-Krisztian_Kulcsar_podium_2013_Fencing_WCH_FMS-EQ_t214543.jpg 2x" data-file-width="2670" data-file-height="4000" /></a></div>
+<small><a href="/wiki/Kulcs%C3%A1r_Kriszti%C3%A1n" title="Kulcsár Krisztián">Kulcsár Krisztián</a></small></div>
+<ul>
+<li>Május 2-án a <b><a href="/wiki/Magyar_Olimpiai_Bizotts%C3%A1g" title="Magyar Olimpiai Bizottság">Magyar Olimpiai Bizottság</a></b> közgyűlése <b><a href="/wiki/Kulcs%C3%A1r_Kriszti%C3%A1n" title="Kulcsár Krisztián">Kulcsár Krisztián</a></b> párbajtőrvívót, a Nemzetközi Vívó Szövetség (FIE) technikai igazgatóját választotta a MOB elnökének.</li>
+<li>Május 1-jén <a href="/wiki/Joseph_Muscat" title="Joseph Muscat">Joseph Muscat</a> <a href="/wiki/M%C3%A1lta" title="Málta">máltai</a> miniszterelnök <b>előrehozott választásokat tűzött ki június 3-ra</b>.</li>
+<li>Április 30-án a német <b><a href="/wiki/Laura_Siegemund" title="Laura Siegemund">Laura Siegemund</a></b> nyerte az idei <b><a href="/wiki/Porsche_Tennis_Grand_Prix" title="Porsche Tennis Grand Prix">Porsche Tennis Grand Prix</a> döntőjét</b> a francia <a href="/wiki/Kristina_Mladenovic" title="Kristina Mladenovic">Kristina Mladenovic</a> ellen.</li>
+<li>Április 29-én <a href="/wiki/T%C3%B6r%C3%B6korsz%C3%A1g" title="Törökország">Törökországban</a> az Információs és Távközlés-technológiai Hatóság <b>blokkolta a <a href="/wiki/Wikip%C3%A9dia" title="Wikipédia">Wikipédiához</a> történő internetes hozzáférést</b>. A <a href="/wiki/Cenz%C3%BAra" title="Cenzúra">cenzúra</a> az összes nyelvi változatot érinti.</li>
+<li>Április 23-án tartották a <b><a href="/wiki/2017-es_franciaorsz%C3%A1gi_eln%C3%B6kv%C3%A1laszt%C3%A1s" title="2017-es franciaországi elnökválasztás">2017-es franciaországi elnökválasztás</a> első fordulóját</b>. Egyik jelölt sem ért el abszolút többséget, ezért május 7-én újabb fordulót tartanak a legtöbb szavazatot elért <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a> és a második helyen végzett <a href="/wiki/Marine_Le_Pen" title="Marine Le Pen">Marine Le Pen</a> részvételével.</li>
+</ul>
+<p><br /></p>
+<hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
+<p><b><a href="/wiki/2017" title="2017">Az év aktualitásai</a></b>: <a href="/wiki/Magyarorsz%C3%A1gi_tiltakoz%C3%A1sok_2017_tavasz%C3%A1n" title="Magyarországi tiltakozások 2017 tavaszán">Magyarországi tiltakozások 2017 tavaszán</a> – <a href="/wiki/2017-es_Eurov%C3%ADzi%C3%B3s_Dalfesztiv%C3%A1l" title="2017-es Eurovíziós Dalfesztivál">2017-es Eurovíziós Dalfesztivál</a> – <a href="/wiki/2017-es_%C3%BAsz%C3%B3-vil%C3%A1gbajnoks%C3%A1g" title="2017-es úszó-világbajnokság">2017-es úszó-világbajnokság</a></p>
+<hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
+<b><a href="/wiki/Hal%C3%A1loz%C3%A1sok_2017-ben" title="Halálozások 2017-ben">Halálesetek a közelmúltban</a></b>: <a href="/wiki/Abelardo_Castillo" title="Abelardo Castillo">Abelardo Castillo</a> – <a href="/wiki/Koml%C3%B3s_P%C3%A9ter" title="Komlós Péter">Komlós Péter</a> – <a href="/wiki/Pierre_Gaspard-Huit" title="Pierre Gaspard-Huit">Pierre Gaspard-Huit</a> – <a href="/wiki/Habsburg%E2%80%93Lotaringiai_J%C3%B3zsef_%C3%81rp%C3%A1d" title="Habsburg–Lotaringiai József Árpád">Habsburg–Lotaringiai József Árpád</a> – <a href="/wiki/Pint%C3%A9r_Tibor_(k%C3%B6lt%C5%91,_1954%E2%80%932017)" title="Pintér Tibor (költő, 1954–2017)">Pintér Tibor</a> – <a href="/wiki/Usztics_M%C3%A1ty%C3%A1s" title="Usztics Mátyás">Usztics Mátyás</a> – <a href="/wiki/Vito_Acconci" title="Vito Acconci">Vito Acconci</a></div>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #cc9900; font-size:16px;">
+<h5><span class="mw-headline" id="Ezen_a_napon.C2.A0.C2.A0">Ezen a napon&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_esem%C3%A9nyei&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div id="mp-otd" title="Ezen a napon"><b><a href="/wiki/H%C3%BAsv%C3%A9ti_%C3%BCnnepk%C3%B6r" title="Húsvéti ünnepkör">Húsvéti ünnepkör</a></b> <span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:%C3%9Cnnepek/%C3%9Cnnepk%C3%B6r&amp;action=edit">&#160;</a></span>
+<hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
+<p><b>Ma <a href="/wiki/2017" title="2017">2017</a>. <a href="/wiki/M%C3%A1jus_3." title="Május 3.">május 3.</a> van,</b> <span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:%C3%9Cnnepek/05-03&amp;action=edit">&#160;</a></span></p>
+<ul>
+<li><a href="/wiki/T%C3%ADmea" title="Tímea">Tímea</a>, <a href="/wiki/Irma" title="Irma">Irma</a> névnapja</li>
+</ul>
+<div class="image" style="position:relative; float:right; clear: right; text-align:center; margin-left: 10px; width: 140px;">
+<p><a href="/wiki/F%C3%A1jl:2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg" class="image" title="Lámpás fesztivál Buddha születésnapján"><img alt="Lámpás fesztivál Buddha születésnapján" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg/140px-2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg" width="140" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg/210px-2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg/280px-2008_Lotus_Lantern_Festival-Seoul-01_mirror.jpg 2x" data-file-width="3872" data-file-height="2592" /></a><br />
+<small>Lámpás fesztivál<br /></small></p>
+<small><a href="/wiki/Buddha_sz%C3%BClet%C3%A9snapja" title="Buddha születésnapja">Buddha születésnapján</a></small></div>
+<ul>
+<li><a href="/wiki/Buddha_sz%C3%BClet%C3%A9snapja" title="Buddha születésnapja">Buddha születésnapja</a>, <a href="/wiki/Gautama_Sziddh%C3%A1rtha" title="Gautama Sziddhártha">Gautama Sziddhártha herceg</a> születésnapja, amelyet hagyományosan megünnepel a <a href="/wiki/Mah%C3%A1j%C3%A1na" title="Mahájána">mahájána buddhizmus</a></li>
+</ul>
+<div class="image" style="position:relative; float:right; clear: right; text-align:center; margin-left: 10px; width: 96px;"><a href="/wiki/F%C3%A1jl:El_Greco_-_St._James_the_Less_(Glens_Falls).JPG" class="image" title="Szent Jakab"><img alt="Szent Jakab" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG/96px-El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG" width="96" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG/144px-El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG/192px-El_Greco_-_St._James_the_Less_%28Glens_Falls%29.JPG 2x" data-file-width="499" data-file-height="674" /></a><br />
+<small><a href="/wiki/Ifjabb_Jakab_apostol" title="Ifjabb Jakab apostol">Szent Jakab</a></small></div>
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: 100px;">
+<div><a href="/wiki/F%C3%A1jl:Rubens_apostel_philippus.jpg" class="image" title="Szent Fülöp"><img alt="Szent Fülöp" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rubens_apostel_philippus.jpg/100px-Rubens_apostel_philippus.jpg" width="100" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rubens_apostel_philippus.jpg/150px-Rubens_apostel_philippus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rubens_apostel_philippus.jpg/200px-Rubens_apostel_philippus.jpg 2x" data-file-width="520" data-file-height="678" /></a></div>
+<small><a href="/wiki/F%C3%BCl%C3%B6p_apostol" title="Fülöp apostol">Szent Fülöp</a></small></div>
+<ul>
+<li><a href="/wiki/F%C3%BCl%C3%B6p_apostol" title="Fülöp apostol">Szent Fülöp</a> és <a href="/wiki/Ifjabb_Jakab_apostol" title="Ifjabb Jakab apostol">Szent Jakab</a> <a href="/wiki/Apostol" title="Apostol">apostolok</a> ünnepe</li>
+<li>A <a href="/wiki/Nemzetk%C3%B6zi_sajt%C3%B3szabads%C3%A1g_napja" title="Nemzetközi sajtószabadság napja">nemzetközi sajtószabadság napja</a></li>
+<li><a href="/wiki/Lengyelorsz%C3%A1g" title="Lengyelország">Lengyelország</a> <a href="/wiki/Nemzeti_%C3%BCnnep" title="Nemzeti ünnep">nemzeti ünnepe</a>, a lengyel <a href="/wiki/Lengyelorsz%C3%A1g_m%C3%A1jusi_alkotm%C3%A1nya" title="Lengyelország májusi alkotmánya">alkotmány napja</a></li>
+<li>Az <a href="/wiki/Alkotm%C3%A1ny" title="Alkotmány">alkotmány</a> emléknapja <a href="/wiki/Jap%C3%A1n" title="Japán">Japánban</a></li>
+<li>A <a href="/wiki/Nap" title="Nap">Nap</a> napja</li>
+</ul>
+<p><b>Évfordulók</b> <span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:%C3%89vfordul%C3%B3k/%E2%80%992_%C3%A9s_%E2%80%997/05-03&amp;action=edit">&#160;</a></span></p>
+<ul>
+<li><b>405 éve</b>, <a href="/wiki/1612" title="1612">1612</a>-ben hunyt el <a href="/wiki/Beythe_Istv%C3%A1n" title="Beythe István">Beythe István</a> botanikus, protestáns prédikátor és <a href="/wiki/P%C3%BCsp%C3%B6k" title="Püspök">püspök</a> (*&#160;<a href="/wiki/1532" title="1532">1532</a>).</li>
+<li><b>195 éve</b>, <a href="/wiki/1822" title="1822">1822</a>-ben született <a href="/wiki/Bitt%C3%B3_Istv%C3%A1n" title="Bittó István">Bittó István</a> magyar politikus, <a href="/wiki/Minisztereln%C3%B6k" title="Miniszterelnök">miniszterelnök</a> (†&#160;<a href="/wiki/1903" title="1903">1903</a>).</li>
+<li><b>140 éve</b>, <a href="/wiki/1877" title="1877">1877</a>-ben született báró <a href="/wiki/Nopcsa_Ferenc" title="Nopcsa Ferenc">Nopcsa Ferenc</a> <a href="/wiki/Magyarok" title="Magyarok">magyar</a> paleontológus, <a href="/wiki/Geol%C3%B3gia" title="Geológia">geológus</a>, <a href="/w/index.php?title=Albanol%C3%B3gia&amp;action=edit&amp;redlink=1" class="new" title="Albanológia (a lap nem létezik)">albanológus</a>, <a href="/wiki/Alb%C3%A1nia" title="Albánia">albán</a> trónaspiráns, az <a href="/wiki/Magyar_Tudom%C3%A1nyos_Akad%C3%A9mia" title="Magyar Tudományos Akadémia">MTA</a> tagja (†&#160;<a href="/wiki/1933" title="1933">1933</a>).</li>
+<li><b>125 éve</b>, <a href="/wiki/1892" title="1892">1892</a>-ben született sir <a href="/wiki/George_Paget_Thomson" title="George Paget Thomson">George Paget Thomson</a> <a href="/wiki/Fizikai_Nobel-d%C3%ADj" title="Fizikai Nobel-díj">Nobel-díjas</a> angol fizikus (†&#160;<a href="/wiki/1975" title="1975">1975</a>).</li>
+<li><b>115 éve</b>, <a href="/wiki/1902" title="1902">1902</a>-ben született <a href="/wiki/Alfred_Kastler" title="Alfred Kastler">Alfred Kastler</a> <a href="/wiki/Fizikai_Nobel-d%C3%ADj" title="Fizikai Nobel-díj">Nobel-díjas</a> francia (<a href="/wiki/Elz%C3%A1sz" title="Elzász">elzászi</a> nemzetiségű) fizikus (†&#160;<a href="/wiki/1984" title="1984">1984</a>).</li>
+<li><b>105 éve</b>, <a href="/wiki/1912" title="1912">1912</a>-ben hunyt el <a href="/wiki/Hentaller_Lajos" title="Hentaller Lajos">Hentaller Lajos</a> politikus, publicista (*&#160;<a href="/wiki/1852" title="1852">1852</a>).</li>
+<li><b>85 éve</b>, <a href="/wiki/1932" title="1932">1932</a>-ben született <a href="/wiki/Czelnai_Rudolf" title="Czelnai Rudolf">Czelnai Rudolf</a> meteorológus, az <a href="/wiki/Magyar_Tudom%C3%A1nyos_Akad%C3%A9mia" title="Magyar Tudományos Akadémia">MTA</a> rendes tagja.</li>
+<li><b>70 éve</b>, <a href="/wiki/1947" title="1947">1947</a>-ben született <a href="/wiki/G%C3%B3r_Nagy_M%C3%A1ria" title="Gór Nagy Mária">Gór Nagy Mária</a> magyar színésznő, színészpedagógus.</li>
+<li><b>65 éve</b>, <a href="/wiki/1952" title="1952">1952</a>-ben hunyt el <a href="/wiki/Csan%C3%A1dy_Gy%C3%B6rgy" title="Csanády György">Csanády György</a> magyar költő, újságíró, rádiórendező, a <a href="/wiki/Sz%C3%A9kely_himnusz" title="Székely himnusz">Székely himnusz</a> szövegének szerzője (*&#160;<a href="/wiki/1895" title="1895">1895</a>).</li>
+<li><b>10 éve</b>, <a href="/wiki/2007" title="2007">2007</a>-ben hunyt el <a href="/wiki/Walter_Schirra" title="Walter Schirra">Walter Schirra</a> amerikai űrhajós <a href="/wiki/Sigma_7" class="mw-redirect" title="Sigma 7">Sigma 7</a>, <a href="/wiki/Gemini%E2%80%936A" title="Gemini–6A">Gemini–6</a>, <a href="/wiki/Apollo%E2%80%937" title="Apollo–7">Apollo–7</a> (*&#160;<a href="/wiki/1923" title="1923">1923</a>).</li>
+</ul>
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: x135px;">
+<div><a href="/wiki/F%C3%A1jl:Kastler.jpg" class="image" title="Alfred Kastler"><img alt="Alfred Kastler" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kastler.jpg/95px-Kastler.jpg" width="95" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kastler.jpg/143px-Kastler.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kastler.jpg/191px-Kastler.jpg 2x" data-file-width="280" data-file-height="396" /></a></div>
+<small><a href="/wiki/Alfred_Kastler" title="Alfred Kastler">Alfred Kastler</a></small></div>
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: x135px;">
+<div><a href="/wiki/F%C3%A1jl:George_Paget_Thomson.jpg" class="image" title="George Thomson"><img alt="George Thomson" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/George_Paget_Thomson.jpg/95px-George_Paget_Thomson.jpg" width="95" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/George_Paget_Thomson.jpg/143px-George_Paget_Thomson.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/George_Paget_Thomson.jpg/191px-George_Paget_Thomson.jpg 2x" data-file-width="280" data-file-height="396" /></a></div>
+<small><a href="/wiki/George_Paget_Thomson" title="George Paget Thomson">George Thomson</a></small></div>
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: x135px;">
+<div><a href="/wiki/F%C3%A1jl:BaronNopcsa.jpg" class="image" title="Nopcsa Ferenc"><img alt="Nopcsa Ferenc" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/BaronNopcsa.jpg/90px-BaronNopcsa.jpg" width="90" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/BaronNopcsa.jpg/135px-BaronNopcsa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/BaronNopcsa.jpg/180px-BaronNopcsa.jpg 2x" data-file-width="211" data-file-height="316" /></a></div>
+<small><a href="/wiki/Nopcsa_Ferenc" title="Nopcsa Ferenc">Nopcsa Ferenc</a></small></div>
+<div class="image" style="position:relative; float:right; text-align:center; margin-left: 10px; width: x135px;">
+<div><a href="/wiki/F%C3%A1jl:Bitto_Istvan.jpg" class="image" title="Bittó István"><img alt="Bittó István" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bitto_Istvan.jpg/114px-Bitto_Istvan.jpg" width="114" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bitto_Istvan.jpg/172px-Bitto_Istvan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bitto_Istvan.jpg/228px-Bitto_Istvan.jpg 2x" data-file-width="677" data-file-height="800" /></a></div>
+<small><a href="/wiki/Bitt%C3%B3_Istv%C3%A1n" title="Bittó István">Bittó István</a></small></div>
+<br style="clear: both;" />
+<div style="text-align:right; padding-top:5px;"><b><a href="/wiki/Wikip%C3%A9dia:%C3%9Cnnepek" title="Wikipédia:Ünnepek">További ünnepek</a></b> <a href="http://feeds.feedburner.com/huwiki-unnepek" title="Ünnepek RSS" rel="nofollow"><img alt="Ünnepek RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/20px-Feed-icon.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <b><a href="/wiki/Wikip%C3%A9dia:%C3%89vfordul%C3%B3k" title="Wikipédia:Évfordulók">További évfordulók</a></b> <a href="http://feeds.feedburner.com/huwiki-evfordulok" title="Évfordulók RSS" rel="nofollow"><img alt="Évfordulók RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/20px-Feed-icon.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" style="width:40%; border:solid 1px #339966;">
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #339966; font-size:16px;">
+<h5><span class="mw-headline" id="Ismerked.C3.A9s_a_Wikip.C3.A9di.C3.A1val.C2.A0.C2.A0">Ismerkedés a Wikipédiával&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_ismerked%C3%A9s&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div style="text-align:left;">
+<div class="floatright"><a href="//hu.wikipedia.org/wiki/Wikip%C3%A9dia:%C3%9Cdv%C3%B6zl%C3%BCnk,_l%C3%A1togat%C3%B3!"><img alt="Contactus-wmcolors.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Contactus-wmcolors.svg/110px-Contactus-wmcolors.svg.png" width="110" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Contactus-wmcolors.svg/165px-Contactus-wmcolors.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Contactus-wmcolors.svg/220px-Contactus-wmcolors.svg.png 2x" data-file-width="1050" data-file-height="1050" /></a></div>
+<ul>
+<li><b><a href="/wiki/Wikip%C3%A9dia:%C3%9Cdv%C3%B6zl%C3%BCnk,_l%C3%A1togat%C3%B3!" title="Wikipédia:Üdvözlünk, látogató!">Üdvözlőlap</a></b> <span style="font-size:90%;">– Bemutatkozik a Wikipédia.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Az_els%C5%91_l%C3%A9p%C3%A9sek" title="Wikipédia:Az első lépések">Első lépések</a></b> <span style="font-size:90%;">– Didaktikusan felépített bevezető a Wikipédia szerkesztésébe.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Seg%C3%ADts%C3%A9g" title="Wikipédia:Segítség">Segítség</a></b> <span style="font-size:90%;">– Egyszerű, közepes és haladó szerkesztési tippek, útmutatók.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Wikifogalmak_jegyz%C3%A9ke" title="Wikipédia:Wikifogalmak jegyzéke">Wikifogalmak</a></b> <span style="font-size:90%;">– Minden, ami elsőre kínaiul hangzik a Wikipédián, itt magyarázatra lel.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Kocsmafal_(kezd%C5%91knek)" title="Wikipédia:Kocsmafal (kezdőknek)">Kocsmafal kezdőknek</a></b> <span style="font-size:90%;">– Az új szerkesztő kérdez, aki tud, válaszol.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Homokoz%C3%B3" title="Wikipédia:Homokozó">Homokozó</a></b> <span style="font-size:90%;">– Újdonsült szerkesztőink szabadon garázdálkodhatnak benne.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:%C3%9Aj_szerkeszt%C5%91k_t%C3%A1mogat%C3%A1sa/Mentor%C3%A1l%C3%A1s" title="Wikipédia:Új szerkesztők támogatása/Mentorálás">Mentorálás</a></b> <span style="font-size:90%;">– Kezdeti lépéseidhez támogatást kaphatsz egy tapasztaltabb szerkesztőtől.</span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #339966; font-size:16px;">
+<h5><span class="mw-headline" id="Szerkeszt.C5.91i_k.C3.B6z.C3.B6ss.C3.A9g.C2.A0.C2.A0">Szerkesztői közösség&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_k%C3%B6z%C3%B6ss%C3%A9g&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div class="content" style="text-align:left;">
+<div class="floatright"><a href="/wiki/Port%C3%A1l:K%C3%B6z%C3%B6ss%C3%A9g" title="Portál:Közösség"><img alt="Wiki3A.jpg" src="//upload.wikimedia.org/wikipedia/hu/thumb/5/5e/Wiki3A.jpg/90px-Wiki3A.jpg" width="90" height="90" srcset="//upload.wikimedia.org/wikipedia/hu/thumb/5/5e/Wiki3A.jpg/135px-Wiki3A.jpg 1.5x, //upload.wikimedia.org/wikipedia/hu/thumb/5/5e/Wiki3A.jpg/180px-Wiki3A.jpg 2x" data-file-width="392" data-file-height="391" /></a></div>
+<ul>
+<li><b><a href="/wiki/Port%C3%A1l:K%C3%B6z%C3%B6ss%C3%A9g" title="Portál:Közösség">Közösségi portál</a></b> <span style="font-size:90%;">– A <a href="/wiki/Magyar_Wikip%C3%A9dia" title="Magyar Wikipédia">magyar Wikipédia</a> szerkesztői közösségének virtuális dolgozószobája.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Nagyk%C3%B6vets%C3%A9g" title="Wikipédia:Nagykövetség">Nagykövetség / Embassy</a></b> <span style="font-size:90%;">– Kapcsolat más nyelvű Wikipédiákkal.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:%C3%9Czen%C5%91fal" title="Wikipédia:Üzenőfal">Üzenőfalak</a></b> <span style="font-size:90%;">– A Wikipédia különböző tisztségviselőihez intézhető kérések és kérdések platformja.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Adminisztr%C3%A1torok_%C3%BCzen%C5%91fala" title="Wikipédia:Adminisztrátorok üzenőfala">Adminisztrátorok üzenőfala</a></b> <span style="font-size:90%;">– Az <a href="/wiki/Wikip%C3%A9dia:Adminisztr%C3%A1torok" title="Wikipédia:Adminisztrátorok">adminisztrátori</a> beavatkozást igénylő rendkívüli esetekre.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:J%C3%A1r%C5%91r%C3%B6k_%C3%BCzen%C5%91fala" title="Wikipédia:Járőrök üzenőfala">Járőrök üzenőfala</a></b> <span style="font-size:90%;">– A <a href="/wiki/Wikip%C3%A9dia:Friss_v%C3%A1ltoztat%C3%A1sok_j%C3%A1r%C5%91r%C3%B6z%C3%A9se" title="Wikipédia:Friss változtatások járőrözése">járőri</a> beavatkozást igénylő esetekre.</span></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Esem%C3%A9nyek" title="Wikipédia:Események">Események</a></b> <span style="font-size:90%;">– A Wikipédia életében soron következő események oldala.</span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #339966; font-size:16px;">
+<h5><span class="mw-headline" id="Magyar_Wikip.C3.A9dia_Magazin.C2.A0.C2.A0">Magyar Wikipédia Magazin&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:K%C3%B6z%C3%B6ss%C3%A9gi_port%C3%A1l/Blogbejegyz%C3%A9sek&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div class="plainlinks">
+<div class="floatright"><a href="/wiki/F%C3%A1jl:Wikipedia-logo-400000-hu-gold.svg" class="image"><img alt="Wikipedia-logo-400000-hu-gold.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-400000-hu-gold.svg/120px-Wikipedia-logo-400000-hu-gold.svg.png" width="120" height="138" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-400000-hu-gold.svg/180px-Wikipedia-logo-400000-hu-gold.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-400000-hu-gold.svg/240px-Wikipedia-logo-400000-hu-gold.svg.png 2x" data-file-width="135" data-file-height="155" /></a></div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://huwiki.blogspot.hu/2016/12/megszuletett-magyar-wikipedia.html?utm_campaign=wpblogbox&amp;utm_source=Kezd%C5%91lap">Megszületett a magyar Wikipédia 400&#160;000. cikke</a> | december&#160;28.</li>
+<li><a rel="nofollow" class="external text" href="https://huwiki.blogspot.hu/2016/09/eredmenyesen-zarult-cee-tavasz-2016.html?utm_campaign=wpblogbox&amp;utm_source=Kezd%C5%91lap">Eredményesen zárult a CEE Tavasz 2016 nemzetközi szócikkíró verseny</a> | szeptember&#160;11.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="border: solid 1px #999999;">
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #999999; font-size:16px;">
+<h5><span class="mw-headline" id="Wikip.C3.A9dia_m.C3.A1s_nyelveken.C2.A0.C2.A0">Wikipédia más nyelveken&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_nyelvek&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div id="lang">Ez a <a href="/wiki/Magyar_nyelv" title="Magyar nyelv">magyar nyelvű</a> Wikipédia. <a href="/wiki/2003" title="2003">2003</a>-ban indult, jelenleg <a href="/wiki/Speci%C3%A1lis:Statisztika" title="Speciális:Statisztika">409&#160;365</a> szócikket tartalmaz.  A Wikipédia sok más nyelven is elérhető.
+<ul>
+<li>A legnagyobb Wikipédiák (több mint 1&#160;000&#160;000 szócikkel): <a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">angol</a>, <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">francia</a>, <a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">holland</a>, <a href="https://ja.wikipedia.org/wiki/" class="extiw" title="ja:">japán</a>, <a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">lengyel</a>, <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">német</a>, <a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">olasz</a>, <a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">orosz</a>, <a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">spanyol</a>, <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">svéd</a>, <a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">szebuano</a>, <a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:">vietnami</a>, <a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">waray</a>.</li>
+</ul>
+<ul>
+<li>Wikipédiák a <a href="/wiki/Magyarorsz%C3%A1g" title="Magyarország">Magyarországon</a> hivatalosan elismert <a href="/wiki/Magyarorsz%C3%A1g_nemzetis%C3%A9gei" title="Magyarország nemzetiségei">nemzetiségek</a> nyelvein: <a href="https://bg.wikipedia.org/wiki/" class="extiw" title="bg:">bolgár</a>, <a href="https://rmy.wikipedia.org/wiki/" class="extiw" title="rmy:">cigány</a>, <a href="https://el.wikipedia.org/wiki/" class="extiw" title="el:">görög</a>, <a href="https://hr.wikipedia.org/wiki/" class="extiw" title="hr:">horvát</a>, <a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">lengyel</a>, <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">német</a>, <a href="https://hy.wikipedia.org/wiki/" class="extiw" title="hy:">örmény</a>, <a href="https://ro.wikipedia.org/wiki/" class="extiw" title="ro:">román</a>, <a href="https://rue.wikipedia.org/wiki/" class="extiw" title="rue:">ruszin</a>, <a href="https://sr.wikipedia.org/wiki/" class="extiw" title="sr:">szerb</a>, <a href="https://sh.wikipedia.org/wiki/" class="extiw" title="sh:">szerbhorvát</a>, <a href="https://sk.wikipedia.org/wiki/" class="extiw" title="sk:">szlovák</a>, <a href="https://sl.wikipedia.org/wiki/" class="extiw" title="sl:">szlovén</a>, <a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:">ukrán</a>.</li>
+</ul>
+<div style="text-align:right"><b><a href="/wiki/Wikip%C3%A9dia:Wikip%C3%A9di%C3%A1k_list%C3%A1ja" title="Wikipédia:Wikipédiák listája">További nyelvek (magyarul)</a>&#160;•&#160; <a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="m:List of Wikipedias">További nyelvek (angolul, legfrissebb)</a></b></div>
+</div>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #999999; font-size:16px;">
+<h5><span class="mw-headline" id="Wikim.C3.A9dia-t.C3.A1rslapok.C2.A0.C2.A0">Wikimédia-társlapok&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_t%C3%A1rslapok&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<p>A Wikipédiát a nonprofit <a href="/wiki/Wikim%C3%A9dia_Alap%C3%ADtv%C3%A1ny" title="Wikimédia Alapítvány">Wikimédia Alapítvány</a> üzemelteti. A Wikimédia számos többnyelvű és <a href="/wiki/Ny%C3%ADlt_tartalom" title="Nyílt tartalom">nyílt tartalmú</a> társlapot üzemeltet:</p>
+<table class="metadata" width="100%" cellpadding="2" border="0">
+<tr>
+<td><a href="/wiki/F%C3%A1jl:Wiktionary-logo.svg" class="image" title="Wikiszótár"><img alt="Wikiszótár" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/35px-Wiktionary-logo.svg.png" width="35" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/53px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/70px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></td>
+<td><a href="https://hu.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Wikiszótár</b></a><br />
+<span style="font-size:90%;">Többnyelvű szótár és szinonimaszótár</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikiquote-logo.png" class="image" title="Wikidézet"><img alt="Wikidézet" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/35px-Wikiquote-logo.png" width="35" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/53px-Wikiquote-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wikiquote-logo.png/70px-Wikiquote-logo.png 2x" data-file-width="95" data-file-height="109" /></a></td>
+<td><a href="https://hu.wikiquote.org/wiki/" class="extiw" title="q:"><b>Wikidézet</b></a><br />
+<span style="font-size:90%;">Többnyelvű idézet- és szólásgyűjtemény</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikispecies-logo.svg" class="image" title="Wikifajok"><img alt="Wikifajok" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td><a href="https://species.wikimedia.org/wiki/Kezd%C5%91lap" class="extiw" title="wikispecies:Kezdőlap"><b>Wikifajok</b></a><br />
+<span style="font-size:90%;">Rendszertani adatbázis</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikibooks-logo.svg" class="image" title="Wikikönyvek"><img alt="Wikikönyvek" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://hu.wikibooks.org/wiki/" class="extiw" title="b:"><b>Wikikönyvek</b></a><br />
+<span style="font-size:90%;">Szabad kézikönyvek és útmutatók</span></td>
+</tr>
+<tr>
+<td><a href="/wiki/F%C3%A1jl:Commons-logo.svg" class="image" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Kezd%C5%91lap" class="extiw" title="commons:Kezdőlap"><b>Wikimédia Commons</b></a><br />
+<span style="font-size:90%;">Szabad médiaállományok gyűjteménye</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikiversity-logo.svg" class="image" title="Wikiegyetem"><img alt="Wikiegyetem" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/35px-Wikiversity-logo.svg.png" width="35" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/53px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/70px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td><b><span class="plainlinks"><a class="external text" href="http://en.wikiversity.org/">Wikiegyetem</a></span></b><br />
+<span style="font-size:90%;">Jegyzetek és tanulási segédletek</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikisource-logo.svg" class="image" title="Wikiforrás"><img alt="Wikiforrás" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://hu.wikisource.org/wiki/" class="extiw" title="s:"><b>Wikiforrás</b></a><br />
+<span style="font-size:90%;">Szabad forrásmunkák</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikimedia_Community_Logo.svg" class="image" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td><a href="https://meta.wikimedia.org/wiki/Kezd%C5%91lap" class="extiw" title="m:Kezdőlap"><b>Meta-Wiki</b></a><br />
+<span style="font-size:90%;">A Wikimédia-projektek koordinációja</span></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/F%C3%A1jl:Wikidata-logo.svg" class="image" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" width="35" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Kezd%C5%91lap" class="extiw" title="d:Wikidata:Kezdőlap"><b>Wikidata</b></a><br />
+<span style="font-size:90%;">Szabad központi tudásbázis</span></td>
+<td><a href="/wiki/F%C3%A1jl:Wikivoyage-Logo-v3-icon.svg" class="image" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://en.wikivoyage.org/wiki/" class="extiw" title="wikivoyage:"><b>Wikivoyage</b></a><br />
+<span style="font-size:90%;">Szabad útikalauz</span></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="width:100%; padding:5px; text-align:left; background:transparent;">
+<tr>
+<th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #aaaaaa; font-size:16px;">
+<h5><span class="mw-headline" id="Felhaszn.C3.A1l.C3.A1si_felt.C3.A9telek.C2.A0.C2.A0">Felhasználási feltételek&#160;<span class="editlink noprint plainlinks"><a class="external text" href="//hu.wikipedia.org/w/index.php?title=Sablon:Kezd%C5%91lap_felt%C3%A9telek&amp;action=edit">&#160;</a></span></span></h5>
+</th>
+</tr>
+<tr>
+<td style="padding:5px; background:transparent;">
+<div style="padding-bottom:10px;">A Wikipédiában található szövegekre és egyes képekre a <a href="/wiki/Wikip%C3%A9dia:CC-BY-SA-3.0" title="Wikipédia:CC-BY-SA-3.0">Creative Commons <i>Nevezd meg! – Így add tovább!</i> 3.0</a> <i>(CC-BY-SA-3.0)</i> licenc vonatkozik.</div>
+<div class="noviewer" style="float:right; padding-left:15px; padding-right:10px;">
+<div class="floatleft"><a href="/wiki/F%C3%A1jl:Cc.logo.circle.svg" class="image"><img alt="Cc.logo.circle.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/30px-Cc.logo.circle.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/45px-Cc.logo.circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png 2x" data-file-width="64" data-file-height="64" /></a></div>
+<div class="floatleft"><a href="/wiki/F%C3%A1jl:Cc-by_new.svg" class="image"><img alt="Cc-by new.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/30px-Cc-by_new.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/45px-Cc-by_new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/60px-Cc-by_new.svg.png 2x" data-file-width="80" data-file-height="80" /></a></div>
+<div class="floatleft"><a href="/wiki/F%C3%A1jl:Cc-sa.svg" class="image"><img alt="Cc-sa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/30px-Cc-sa.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/45px-Cc-sa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/60px-Cc-sa.svg.png 2x" data-file-width="64" data-file-height="64" /></a></div>
+</div>
+<div style="text-align:left;">
+<ul>
+<li>Minden <b>szerkesztés</b>ed ezen licenc elfogadását és alkalmazását jelenti, mellyel hozzájárulsz, hogy a művet bárki módosíthatja, azt bármilyen célra felhasználhatja.</li>
+<li>A Wikipédia tartalmának <b>újrafelhasználás</b>akor (átdolgozás esetén is) meg kell adnod, hogy a műre a fenti licenc vonatkozik, továbbá meg kell nevezned a forrásul szolgáló szócikket; internetes közzététel esetén a forrásműre mutató linket kell elhelyezned honlapodon.</li>
+<li>A képek felhasználási feltételeit külön kell ellenőrizned.</li>
+</ul>
+</div>
+<div class="hlist" style="text-align:right; padding-top:10px; font-weight:bold;">
+<ul>
+<li><a href="/wiki/Wikip%C3%A9dia:Felhaszn%C3%A1l%C3%A1si_felt%C3%A9telek" title="Wikipédia:Felhasználási feltételek">Felhasználási feltételek</a></li>
+<li><a href="/wiki/Wikip%C3%A9dia:Jogi_nyilatkozat" title="Wikipédia:Jogi nyilatkozat">Jogi nyilatkozat</a></li>
+<li><a href="/wiki/Wikip%C3%A9dia:%C3%9Ajrafelhaszn%C3%A1l%C3%A1si_%C3%BAtmutat%C3%B3" title="Wikipédia:Újrafelhasználási útmutató">Újrafelhasználási útmutató</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw2224
+Cached time: 20170503093539
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.320 seconds
+Real time usage: 0.533 seconds
+Preprocessor visited node count: 5286/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 101960/2097152 bytes
+Template argument size: 29437/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 80/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 516 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  432.893      1 -total
+ 93.46%  404.575     11 Sablon:Kezdőlap_rovat
+ 65.49%  283.523      1 Sablon:Kezdőlap_eseményei
+ 56.82%  245.956      1 Sablon:Ünnepek/Mozgóünnepek
+ 56.16%  243.116      1 Sablon:Ünnepek/Mozgóünnepek/iteráció
+ 10.81%   46.808      1 Sablon:Kezdőlap_kiemelt_cikkei
+  5.90%   25.541      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek
+  5.76%   24.954      1 Sablon:Kezdőlap_üdvözlet
+  4.85%   20.976     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor
+  4.74%   20.510      8 Sablon:Kezdőlapra_került_szócikkek_listája
+-->
+
+<!-- Saved in parser cache with key huwiki:stable-pcache:idhash:684328-0!*!0!!*!4!* and timestamp 20170503093539 and revision id 17612766
+ -->
+<noscript><img src="//hu.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						A lap eredeti címe: „<a dir="ltr" href="https://hu.wikipedia.org/w/index.php?title=Kezdőlap&amp;oldid=17612766">https://hu.wikipedia.org/w/index.php?title=Kezdőlap&amp;oldid=17612766</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Rejtett kategória: <ul><li><a href="/wiki/Kateg%C3%B3ria:Kezd%C5%91lap" title="Kategória:Kezdőlap">Kezdőlap</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigációs menü</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Személyes eszközök</h3>
+						<ul>
+							<li id="pt-anonuserpage">Nem vagy bejelentkezve</li><li id="pt-anontalk"><a href="/wiki/Speci%C3%A1lis:Vit%C3%A1m" title="Az általad használt IP-címről végrehajtott szerkesztések megvitatása [n]" accesskey="n">Vitalap</a></li><li id="pt-anoncontribs"><a href="/wiki/Speci%C3%A1lis:K%C3%B6zrem%C5%B1k%C3%B6d%C3%A9seim" title="Erről az IP-címről végrehajtott szerkesztések listája [y]" accesskey="y">Közreműködések</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Speci%C3%A1lis:Szerkeszt%C5%91i_fi%C3%B3k_l%C3%A9trehoz%C3%A1sa&amp;returnto=Kezd%C5%91lap" title="Arra bíztatunk, hogy hozz létre egy fiókot, és jelentkezz be, azonban ez nem kötelező">Fiók létrehozása</a></li><li id="pt-login"><a href="/w/index.php?title=Speci%C3%A1lis:Bel%C3%A9p%C3%A9s&amp;returnto=Kezd%C5%91lap" title="Bejelentkezni javasolt, de nem kötelező. [o]" accesskey="o">Bejelentkezés</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Névterek</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Kezd%C5%91lap"  title="A lap megtekintése [c]" accesskey="c">Kezdőlap</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Vita:Kezd%C5%91lap"  title="Az oldal tartalmának megvitatása [t]" accesskey="t" rel="discussion">Vitalap</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Változatok</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Nézetek</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Kezd%C5%91lap" >Olvasás</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Kezd%C5%91lap&amp;action=edit"  title="Ez egy védett lap. Ide kattintva megnézheted a forrását. [e]" accesskey="e">Lapforrás</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kezd%C5%91lap&amp;action=history"  title="A lap korábbi változatai [h]" accesskey="h">Laptörténet</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Több</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Keresés</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Keresés a wikin" title="Keresés a Wikipédián [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Speciális:Keresés" name="title"/><input type="submit" name="fulltext" value="Keresés" title="Oldalak keresése a megadott szöveg alapján" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Menj" title="Ugrás a megadott lapra, ha létezik" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Kezd%C5%91lap"  title="Kezdőlap"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigáció</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Kezd%C5%91lap" title="A kezdőlap megtekintése [z]" accesskey="z">Kezdőlap</a></li><li id="n-sidebar-contents"><a href="/wiki/Wikip%C3%A9dia:Tartalom">Tartalom</a></li><li id="n-sidebar-featured"><a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikkek_list%C3%A1ja">Kiemelt szócikkek</a></li><li id="n-recentchanges"><a href="/wiki/Speci%C3%A1lis:Friss_v%C3%A1ltoztat%C3%A1sok" title="A wikiben történt legutóbbi változtatások listája [r]" accesskey="r">Friss változtatások</a></li><li id="n-randompage"><a href="/wiki/Speci%C3%A1lis:Lap_tal%C3%A1lomra" title="Egy véletlenszerűen kiválasztott lap betöltése [x]" accesskey="x">Lap találomra</a></li><li id="n-sidebar-enquiries"><a href="/wiki/Wikip%C3%A9dia:Tudakoz%C3%B3">Tudakozó</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-sidebar-participate' aria-labelledby='p-sidebar-participate-label'>
+			<h3 id='p-sidebar-participate-label'>Részvétel</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-sidebar-basics"><a href="/wiki/Wikip%C3%A9dia:%C3%9Aj_szerkeszt%C5%91knek">Kezdőknek</a></li><li id="n-sidebar-help"><a href="/wiki/Wikip%C3%A9dia:Seg%C3%ADts%C3%A9g">Segítség</a></li><li id="n-portal"><a href="/wiki/Port%C3%A1l:K%C3%B6z%C3%B6ss%C3%A9g" title="A közösségről, miben segíthetsz, mit hol találsz meg">Közösségi portál</a></li><li id="n-sidebar-contact"><a href="/wiki/Wikip%C3%A9dia:Kapcsolatfelv%C3%A9tel">Kapcsolatfelvétel</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_hu.wikipedia.org&amp;uselang=hu" title="Támogatás">Adományok</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Nyomtatás/ exportálás</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Speci%C3%A1lis:K%C3%B6nyv&amp;bookcmd=book_creator&amp;referer=Kezd%C5%91lap">Könyv készítése</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Speci%C3%A1lis:K%C3%B6nyv&amp;bookcmd=render_article&amp;arttitle=Kezd%C5%91lap&amp;returnto=Kezd%C5%91lap&amp;oldid=17612766&amp;writer=rdf2latex">Letöltés PDF-ként</a></li><li id="t-print"><a href="/w/index.php?title=Kezd%C5%91lap&amp;printable=yes" title="A lap nyomtatható változata [p]" accesskey="p">Nyomtatható változat</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Társlapok</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimédia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikifajok</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://hu.wikibooks.org/wiki/Kezd%C5%91lap" hreflang="hu">Wikikönyvek</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://hu.wikinews.org/wiki/Kezd%C5%91lap" hreflang="hu">Wikihírek</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://hu.wikiquote.org/wiki/Kezd%C5%91lap" hreflang="hu">Wikidézet</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://hu.wikisource.org/wiki/Kezd%C5%91lap" hreflang="hu">Wikiforrás</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Eszközök</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Speci%C3%A1lis:Mi_hivatkozik_erre/Kezd%C5%91lap" title="Az erre a lapra hivatkozó más lapok listája [j]" accesskey="j">Mi hivatkozik erre</a></li><li id="t-recentchangeslinked"><a href="/wiki/Speci%C3%A1lis:Kapcsol%C3%B3d%C3%B3_v%C3%A1ltoztat%C3%A1sok/Kezd%C5%91lap" rel="nofollow" title="Az erről a lapról hivatkozott lapok utolsó változtatásai [k]" accesskey="k">Kapcsolódó változtatások</a></li><li id="t-specialpages"><a href="/wiki/Speci%C3%A1lis:Speci%C3%A1lis_lapok" title="Az összes speciális lap listája [q]" accesskey="q">Speciális lapok</a></li><li id="t-permalink"><a href="/w/index.php?title=Kezd%C5%91lap&amp;oldid=17612766" title="Állandó hivatkozás a lap ezen változatához">Hivatkozás erre a változatra</a></li><li id="t-info"><a href="/w/index.php?title=Kezd%C5%91lap&amp;action=info" title="További információk erről a lapról">Lapinformációk</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Kapcsolt adattárelem [g]" accesskey="g">Wikidata-adatlap</a></li><li id="t-cite"><a href="/w/index.php?title=Speci%C3%A1lis:Hivatkoz%C3%A1s&amp;page=Kezd%C5%91lap&amp;id=17612766" title="Információk a lap idézésével kapcsolatban">Hogyan hivatkozz erre a lapra</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Más nyelveken</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="angol" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arab" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/" title="azerbajdzsáni" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="bolgár" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="katalán" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="cseh" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="dán" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="német" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="görög" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="eszperantó" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="spanyol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="észt" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="baszk" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="perzsa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="finn" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="francia" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="gallego" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="héber" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="horvát" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/" title="haiti kreol" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonéz" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="olasz" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japán" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="grúz" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="koreai" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="litván" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="maláj" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/" title="nevari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="holland" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="norvég (nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="norvég" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="lengyel" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/" title="Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugál" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="román" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/" title="Aromanian" lang="roa-rup" hreflang="roa-rup" class="interlanguage-link-target">Armãneashti</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="orosz" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="szlovák" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="szlovén" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="szerb" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="svéd" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/" title="telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/" title="tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="török" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukrán" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vietnami" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/" title="varaó" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="kínai" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> A lap utolsó módosítása: 2016. június 11., 09:29</li>
+											<li id="footer-info-copyright">A lap szövege <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="//hu.wikipedia.org/wiki/Wikip%C3%A9dia:Felhaszn%C3%A1l%C3%A1si_felt%C3%A9telek">felhasználási feltételeket</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Adatvédelmi irányelvek</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:R%C3%B3lunk" title="Wikipédia:Rólunk">A Wikipédiáról</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Jogi_nyilatkozat" title="Wikipédia:Jogi nyilatkozat">Jogi nyilatkozat</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Fejlesztők</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Sütinyilatkozat</a></li>
+											<li id="footer-places-mobileview"><a href="//hu.m.wikipedia.org/w/index.php?title=Kezd%C5%91lap&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobil nézet</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.533","ppvisitednodes":{"value":5286,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101960,"limit":2097152},"templateargumentsize":{"value":29437,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":80,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  432.893      1 -total"," 93.46%  404.575     11 Sablon:Kezdőlap_rovat"," 65.49%  283.523      1 Sablon:Kezdőlap_eseményei"," 56.82%  245.956      1 Sablon:Ünnepek/Mozgóünnepek"," 56.16%  243.116      1 Sablon:Ünnepek/Mozgóünnepek/iteráció"," 10.81%   46.808      1 Sablon:Kezdőlap_kiemelt_cikkei","  5.90%   25.541      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek","  5.76%   24.954      1 Sablon:Kezdőlap_üdvözlet","  4.85%   20.976     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor","  4.74%   20.510      8 Sablon:Kezdőlapra_került_szócikkek_listája"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":528777,"limit":52428800}},"cachereport":{"origin":"mw2224","timestamp":"20170503093539","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

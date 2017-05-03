@@ -3,7 +3,7 @@ import subprocess
 def createEngine():
     p3 = subprocess.call(["python3", "run.py"])
     #p3.wait()
-    p4 = subprocess.call(["python2.6", "frontend.py"])
+    p4 = subprocess.call(["python2.6", "testRetriever.py"])
     #p4.wait()
     # 90 is the timeout in seconds
     #try:
