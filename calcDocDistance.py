@@ -31,18 +31,17 @@ def getWordsFromString(line):
 
 def countFrequency(wordList):
 	#document vector
-	list = []
+	dictionary = {}
 	#looks up each word in the wordlist
 	for word in wordList:
 		#goes through each word and checks to see if it's in the list
-		for entry in list:
+		if word in dictionary:
 			#if it's in the list then it increments the count by one
-			if word == entry[0]:
-				entry[1] = entry[1] + 1
-				break
+			dictionary[word] = dictionary[word] +1
 		else:
-			list.append([word, 1])
-	return list
+			dictionary[word] = 1
+			
+	return dictionary.items()
 
 def getWordFrequency(filename):
 	line_list = read_file(filename)
