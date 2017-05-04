@@ -3,6 +3,7 @@ import math
 from insertionSort import insertion_sort
 from innerProduct import inner_product
 from readFile import read_file
+from mergeSort import merge_sort
 
 def getWordsFromLineList(line_list):
 	words = []
@@ -47,19 +48,22 @@ def getWordFrequency(filename):
 	line_list = read_file(filename)
 	words = getWordsFromLineList(line_list)
 	frequencyMap = countFrequency(words)
-	insertion_sort(frequencyMap)
+	frequencyMap = merge_sort(frequencyMap)
 	return frequencyMap
 
 def calculateVectorAngle(L1, L2):
 	numberator = inner_product(L1, L2)
 	#distance metric
 	denominator = math.sqrt(inner_product(L1, L1) * inner_product(L2, L2))
+	if denominator==0:
+		return float('inf')
 	return math.acos(numberator/denominator)
 
 def calculateDistance(filename1, filename2):
 	sortedWordList1 = getWordFrequency(filename1)
 	sortedWordList2 = getWordFrequency(filename2)
 	distance = calculateVectorAngle(sortedWordList1, sortedWordList2)
+	return distance
 	
 
 	

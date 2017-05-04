@@ -9,7 +9,10 @@ def findMinDistance(S):
 		for doc2 in S:
 			doc2 = os.path.join(src_dir, doc2)
 	 		if doc1 != doc2:
+	 			print(doc1, doc2)
 	 			dist = calculateDistance(doc1, doc2)
+
 	 			if dist < minDistance:
 					minDistance = dist
+					print(minDistance)
 	return minDistance
