@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Vikipedi: Özgür Ansiklopedi</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anasayfa","wgTitle":"Anasayfa","wgCurRevisionId":18560407,"wgRevisionId":18560407,"wgArticleId":1299492,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vikipedi"],"wgBreakFrames":false,"wgPageContentLanguage":"tr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"],"wgMonthNamesShort":["","Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"],"wgRelevantPageName":"Anasayfa","wgRelevantArticleId":1299492,"wgRequestId":"WQnWtQrAEFQAADQKuPUAAABM","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":18560407,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"tr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"tr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Türkçe","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.6"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1wdh4lr",function($,jQuery,require,module){mw.user.options.set({"variant":"tr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anasayfa","wgTitle":"Anasayfa","wgCurRevisionId":18560407,"wgRevisionId":18560407,"wgArticleId":1299492,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vikipedi"],"wgBreakFrames":false,"wgPageContentLanguage":"tr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"],"wgMonthNamesShort":["","Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"],"wgRelevantPageName":"Anasayfa","wgRelevantArticleId":1299492,"wgRequestId":"WQoYlApAIC4AAEfVCXUAAAAI","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":18560407,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"tr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"tr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Türkçe","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.6"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1wdh4lr",function($,jQuery,require,module){mw.user.options.set({"variant":"tr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.HizliBilgi","ext.gadget.Gerekceyardimcisi","ext.gadget.OpenStreetMap","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
@@ -48,7 +48,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="height:3em; padding-left:160px">
 <div style="font-size:162%;"><a href="/wiki/Vikipedi" title="Vikipedi">Vikipedi'ye</a> <a href="/wiki/Vikipedi:Ho%C5%9Fgeldiniz" class="mw-redirect" title="Vikipedi:Hoşgeldiniz">hoş geldiniz</a></div>
 <div style="top:+0.2em; font-size:95%;">Herkesin katkıda bulunabildiği <i>Özgür Ansiklopedi</i></div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/T%C3%BCrk%C3%A7e" title="Türkçe">Türkçe</a> madde sayısı: <a href="/wiki/%C3%96zel:%C4%B0statistikler" title="Özel:İstatistikler">291.853</a>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/T%C3%BCrk%C3%A7e" title="Türkçe">Türkçe</a> madde sayısı: <a href="/wiki/%C3%96zel:%C4%B0statistikler" title="Özel:İstatistikler">291.856</a>
 <p><a href="/wiki/3_May%C4%B1s" title="3 Mayıs">3 Mayıs</a> <a href="/wiki/2017" title="2017">2017</a>, <a href="/wiki/%C3%87ar%C5%9Famba" title="Çarşamba">Çarşamba</a></p>
 </div>
 </td>
@@ -381,12 +381,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Parsed by mw2111
-Cached time: 20170503131013
+Parsed by mw1250
+Cached time: 20170503175100
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.128 seconds
-Real time usage: 0.205 seconds
+CPU time usage: 0.080 seconds
+Real time usage: 0.137 seconds
 Preprocessor visited node count: 386/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 61863/2097152 bytes
@@ -396,19 +396,19 @@ Expensive parser function count: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   70.833      1 -total
- 33.76%   23.911      1 Şablon:Anasayfa_metakutu
- 30.46%   21.577      1 Şablon:Metakutu
- 17.85%   12.641      1 Şablon:Anasayfa_dinamik_içerik
- 14.87%   10.536      1 Şablon:GM/2017-05-03
- 13.54%    9.589      1 Şablon:Tarihte_bugün/3_Mayıs
- 12.47%    8.834      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017
- 11.44%    8.103      1 Vikipedi:Anasayfa_yeni_başlık
-  9.52%    6.745      1 Şablon:Seçkin_madde_önerisi
-  9.11%    6.454      2 Şablon:Günün_maddeleri
+100.00%   46.050      1 -total
+ 34.80%   16.023      1 Şablon:Anasayfa_metakutu
+ 31.41%   14.465      1 Şablon:Metakutu
+ 17.67%    8.136      1 Şablon:Anasayfa_dinamik_içerik
+ 15.07%    6.941      1 Şablon:Tarihte_bugün/3_Mayıs
+ 13.99%    6.441      1 Şablon:GM/2017-05-03
+ 10.05%    4.629      1 Şablon:GSR_koruma/2017-05-03
+  8.56%    3.942      1 Vikipedi:Anasayfa_yeni_başlık
+  8.04%    3.703      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017
+  7.57%    3.484      2 Şablon:Kutu_başı
 -->
 
-<!-- Saved in parser cache with key trwiki:stable-pcache:idhash:1299492-0!*!0!*!*!4!* and timestamp 20170503131013 and revision id 18560407
+<!-- Saved in parser cache with key trwiki:stable-pcache:idhash:1299492-0!*!0!*!*!4!* and timestamp 20170503175100 and revision id 18560407
  -->
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//tr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						"<a dir="ltr" href="https://tr.wikipedia.org/w/index.php?title=Anasayfa&amp;oldid=18560407">https://tr.wikipedia.org/w/index.php?title=Anasayfa&amp;oldid=18560407</a>" adresinden alındı.					</div>
@@ -545,6 +545,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.205","ppvisitednodes":{"value":386,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61863,"limit":2097152},"templateargumentsize":{"value":15319,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   70.833      1 -total"," 33.76%   23.911      1 Şablon:Anasayfa_metakutu"," 30.46%   21.577      1 Şablon:Metakutu"," 17.85%   12.641      1 Şablon:Anasayfa_dinamik_içerik"," 14.87%   10.536      1 Şablon:GM/2017-05-03"," 13.54%    9.589      1 Şablon:Tarihte_bugün/3_Mayıs"," 12.47%    8.834      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017"," 11.44%    8.103      1 Vikipedi:Anasayfa_yeni_başlık","  9.52%    6.745      1 Şablon:Seçkin_madde_önerisi","  9.11%    6.454      2 Şablon:Günün_maddeleri"]},"cachereport":{"origin":"mw2111","timestamp":"20170503131013","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":348,"wgHostname":"mw2111"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.137","ppvisitednodes":{"value":386,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61863,"limit":2097152},"templateargumentsize":{"value":15319,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   46.050      1 -total"," 34.80%   16.023      1 Şablon:Anasayfa_metakutu"," 31.41%   14.465      1 Şablon:Metakutu"," 17.67%    8.136      1 Şablon:Anasayfa_dinamik_içerik"," 15.07%    6.941      1 Şablon:Tarihte_bugün/3_Mayıs"," 13.99%    6.441      1 Şablon:GM/2017-05-03"," 10.05%    4.629      1 Şablon:GSR_koruma/2017-05-03","  8.56%    3.942      1 Vikipedi:Anasayfa_yeni_başlık","  8.04%    3.703      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017","  7.57%    3.484      2 Şablon:Kutu_başı"]},"cachereport":{"origin":"mw1250","timestamp":"20170503175100","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1176"});});</script>
 	</body>
 </html>

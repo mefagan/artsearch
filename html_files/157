@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, vapaa tietosanakirja</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Etusivu","wgTitle":"Etusivu","wgCurRevisionId":16439355,"wgRevisionId":16439355,"wgArticleId":291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"fi","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"fi normal","wgMonthNames":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgMonthNamesShort":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgRelevantPageName":"Wikipedia:Etusivu","wgRelevantArticleId":291,"wgRequestId":"WQlIpArAAEEAAKZQq1EAAABK","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":3,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fi","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"fi","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"suomi","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.hidePersonalSandboxEdits":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1ovjtls",function($,jQuery,require,module){mw.user.options.set({"variant":"fi"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Etusivu","wgTitle":"Etusivu","wgCurRevisionId":16439355,"wgRevisionId":16439355,"wgArticleId":291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"fi","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"fi normal","wgMonthNames":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgMonthNamesShort":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgRelevantPageName":"Wikipedia:Etusivu","wgRelevantArticleId":291,"wgRequestId":"WQn0fQpAADsAAGhf7WsAAAAE","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":3,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fi","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"fi","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"suomi","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.hidePersonalSandboxEdits":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1ovjtls",function($,jQuery,require,module){mw.user.options.set({"variant":"fi"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ViikonKilpailu","ext.gadget.ProtectionIndicator","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -41,7 +41,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				</div>
 				<div id="mw-content-text" lang="fi" dir="ltr" class="mw-content-ltr"><div>
 <p style="font-size:115%; line-height:1.3em; font-weight:bold;margin-bottom:0; text-align:center;">Tervetuloa Wikipediaan, <a href="/wiki/Wikipedia:Tervetuloa_Wikipediaan" title="Wikipedia:Tervetuloa Wikipediaan">vapaaseen tietosanakirjaan</a>.</p>
-<p style="margin-top:0; margin-bottom:0.8em; text-align:center;">Suomenkielisessä Wikipediassa on tällä hetkellä <b><a href="/wiki/Toiminnot:Tilastot" title="Toiminnot:Tilastot">413&#160;408</a></b> artikkelia.</p>
+<p style="margin-top:0; margin-bottom:0.8em; text-align:center;">Suomenkielisessä Wikipediassa on tällä hetkellä <b><a href="/wiki/Toiminnot:Tilastot" title="Toiminnot:Tilastot">413&#160;433</a></b> artikkelia.</p>
 </div>
 <table width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.6em">
 <tr>
@@ -325,36 +325,36 @@ Uutispalvelu</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw2242
-Cached time: 20170503030348
+Parsed by mw1214
+Cached time: 20170503151702
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.116 seconds
-Real time usage: 0.159 seconds
+CPU time usage: 0.084 seconds
+Real time usage: 0.132 seconds
 Preprocessor visited node count: 344/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 18231/2097152 bytes
 Template argument size: 1321/2097152 bytes
 Highest expansion depth: 5/40
 Expensive parser function count: 0/500
-Lua time usage: 0.008/10.000 seconds
+Lua time usage: 0.006/10.000 seconds
 Lua memory usage: 619 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   56.193      1 -total
- 32.05%   18.010      1 Malline:Viikon_kilpailu_etusivu
- 29.66%   16.665      1 Malline:Viikon_kilpailu_luettelo
- 24.20%   13.599      1 Malline:Äskettäin_kuolleita
- 19.21%   10.794      1 Malline:Hlist
-  8.49%    4.772      1 Malline:Artikkelitoiveet
-  6.74%    3.789      1 Malline:Wikipedia_muilla_kielillä
-  6.39%    3.593      1 Malline:Uutisissa
-  6.32%    3.552      1 Malline:Suomi100
-  4.02%    2.261      1 Malline:Tiesitkö,_että...
+100.00%   51.206      1 -total
+ 34.32%   17.572      1 Malline:Viikon_kilpailu_etusivu
+ 28.84%   14.769      1 Malline:Viikon_kilpailu_luettelo
+ 18.40%    9.421      1 Malline:Äskettäin_kuolleita
+ 14.36%    7.355      1 Malline:Hlist
+ 10.16%    5.201      1 Malline:Suomi100
+  8.74%    4.473      1 Malline:Artikkelitoiveet
+  7.75%    3.967      1 Malline:Uutisissa
+  6.47%    3.313      1 Malline:Wikipedia_muilla_kielillä
+  4.19%    2.146      9 Malline:Etusivutoive
 -->
 
-<!-- Saved in parser cache with key fiwiki:pcache:idhash:291-0!*!0!!*!5!* and timestamp 20170503030348 and revision id 16439355
+<!-- Saved in parser cache with key fiwiki:pcache:idhash:291-0!*!0!!*!5!* and timestamp 20170503151702 and revision id 16439355
  -->
 <noscript><img src="//fi.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Noudettu kohteesta <a dir="ltr" href="https://fi.wikipedia.org/w/index.php?title=Wikipedia:Etusivu&amp;oldid=16439355">https://fi.wikipedia.org/w/index.php?title=Wikipedia:Etusivu&amp;oldid=16439355</a>					</div>
@@ -494,6 +494,6 @@ Wikipedia&reg; on <a href="http://www.wikimediafoundation.org">Wikimedia Foundat
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.159","ppvisitednodes":{"value":344,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18231,"limit":2097152},"templateargumentsize":{"value":1321,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   56.193      1 -total"," 32.05%   18.010      1 Malline:Viikon_kilpailu_etusivu"," 29.66%   16.665      1 Malline:Viikon_kilpailu_luettelo"," 24.20%   13.599      1 Malline:Äskettäin_kuolleita"," 19.21%   10.794      1 Malline:Hlist","  8.49%    4.772      1 Malline:Artikkelitoiveet","  6.74%    3.789      1 Malline:Wikipedia_muilla_kielillä","  6.39%    3.593      1 Malline:Uutisissa","  6.32%    3.552      1 Malline:Suomi100","  4.02%    2.261      1 Malline:Tiesitkö,_että..."]},"scribunto":{"limitreport-timeusage":{"value":"0.008","limit":"10.000"},"limitreport-memusage":{"value":633753,"limit":52428800}},"cachereport":{"origin":"mw2242","timestamp":"20170503030348","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2239"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.132","ppvisitednodes":{"value":344,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18231,"limit":2097152},"templateargumentsize":{"value":1321,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   51.206      1 -total"," 34.32%   17.572      1 Malline:Viikon_kilpailu_etusivu"," 28.84%   14.769      1 Malline:Viikon_kilpailu_luettelo"," 18.40%    9.421      1 Malline:Äskettäin_kuolleita"," 14.36%    7.355      1 Malline:Hlist"," 10.16%    5.201      1 Malline:Suomi100","  8.74%    4.473      1 Malline:Artikkelitoiveet","  7.75%    3.967      1 Malline:Uutisissa","  6.47%    3.313      1 Malline:Wikipedia_muilla_kielillä","  4.19%    2.146      9 Malline:Etusivutoive"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":633753,"limit":52428800}},"cachereport":{"origin":"mw1214","timestamp":"20170503151702","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1264"});});</script>
 	</body>
 </html>

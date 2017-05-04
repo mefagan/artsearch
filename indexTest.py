@@ -31,10 +31,11 @@ if __name__ == "__main__":
     print ("Reading lines from directory...")
     i = 0
     for l in os.listdir(src_dir):
-        num = l
-        l = os.path.join(src_dir, l)
         if l.endswith('.DS_Store'):
             continue
+        num = int(l)
+        l = os.path.join(src_dir, l)
+        
         website = doc_urls[str(num)]
         new_urls[str(i)] = website
         print(i, website)

@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Vikipedio</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Vikipedio:Ĉefpaĝo","wgTitle":"Ĉefpaĝo","wgCurRevisionId":6054901,"wgRevisionId":6054901,"wgArticleId":656,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","aŭgusto","septembro","oktobro","novembro","decembro"],"wgMonthNamesShort":["","jan","feb","mar","apr","maj","jun","jul","aŭg","sep","okt","nov","dec"],"wgRelevantPageName":"Vikipedio:Ĉefpaĝo","wgRelevantArticleId":656,"wgRequestId":"WQlwoArAEFYAAEkgmNEAAAAT","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"eo","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"eo","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Esperanto","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.2"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.gadget.niceInfoboxes":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@00gda3h",function($,jQuery,require,module){mw.user.options.set({"variant":"eo"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Vikipedio:Ĉefpaĝo","wgTitle":"Ĉefpaĝo","wgCurRevisionId":6054901,"wgRevisionId":6054901,"wgArticleId":656,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","aŭgusto","septembro","oktobro","novembro","decembro"],"wgMonthNamesShort":["","jan","feb","mar","apr","maj","jun","jul","aŭg","sep","okt","nov","dec"],"wgRelevantPageName":"Vikipedio:Ĉefpaĝo","wgRelevantArticleId":656,"wgRequestId":"WQo6SwpAMFkAAAMHS6sAAAAI","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"eo","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"eo","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Esperanto","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.2"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.gadget.niceInfoboxes":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@00gda3h",function($,jQuery,require,module){mw.user.options.set({"variant":"eo"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Rekta-ligilo-al-Komunejo","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
@@ -47,7 +47,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <p><span style="color:#555555;font-size:1.3em;line-height:100%;" class="hp-welkom-2">La libera enciklopedio <a href="/wiki/Vikipedio:Bonvenon_al_Vikipedio" title="Vikipedio:Bonvenon al Vikipedio">redaktebla de ĉiuj</a>.</span></p>
 </td>
 <td class="hp-statistieken hlist" style="width:40%;text-align:center;vertical-align:middle;border-left:1px solid #cccccc;padding:15px;">
-<p><span style="display:inline-block;text-align:center;"><b>238&#160;933</b> artikoloj en <a href="/wiki/Esperanto" title="Esperanto">Esperanto</a><br />
+<p><span style="display:inline-block;text-align:center;"><b>238&#160;949</b> artikoloj en <a href="/wiki/Esperanto" title="Esperanto">Esperanto</a><br />
 <b>348</b> aktivaj redaktantoj<br />
 <b>117&#160;366</b> unikaj vizitantoj monate (plus <b>33&#160;572</b> per poŝtelefono)</span></p>
 <ul>
@@ -318,36 +318,36 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Parsed by mw2113
-Cached time: 20170503055442
+Parsed by mw1254
+Cached time: 20170503201509
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 1.612 seconds
-Real time usage: 1.808 seconds
+CPU time usage: 1.520 seconds
+Real time usage: 1.627 seconds
 Preprocessor visited node count: 51290/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 51977/2097152 bytes
 Template argument size: 16609/2097152 bytes
 Highest expansion depth: 14/40
 Expensive parser function count: 12/500
-Lua time usage: 1.104/10.000 seconds
-Lua memory usage: 20.5 MB/50 MB
+Lua time usage: 1.041/10.000 seconds
+Lua memory usage: 17.49 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1718.131      1 -total
- 99.39% 1707.656      6 Ŝablono:Ĉefpaĝo/enhavo2
- 97.15% 1669.082      1 Ŝablono:ĈefPaĝo/Aktualaĵoj
- 97.02% 1666.983      1 Ŝablono:ĈefPaĝoMondAktualaĵo
- 95.17% 1635.064     16 Ŝablono:Flago
- 28.10%  482.753     64 Ŝablono:Vikidatumoj-identigilo
-  1.54%   26.515     12 Ŝablono:Dato
-  0.78%   13.425      9 Ŝablono:Nobr
-  0.53%    9.163      1 Ŝablono:ĈefPaĝo/BildoDeLaTago2
-  0.48%    8.242      1 Ŝablono:Bildo_de_la_Tago2/ĉefpaĝo
+100.00% 1543.177      1 -total
+ 99.61% 1537.123      6 Ŝablono:Ĉefpaĝo/enhavo2
+ 97.45% 1503.872      1 Ŝablono:ĈefPaĝo/Aktualaĵoj
+ 97.30% 1501.454      1 Ŝablono:ĈefPaĝoMondAktualaĵo
+ 95.32% 1470.929     16 Ŝablono:Flago
+ 30.39%  469.012     64 Ŝablono:Vikidatumoj-identigilo
+  1.65%   25.389     12 Ŝablono:Dato
+  0.84%   13.011      9 Ŝablono:Nobr
+  0.53%    8.135      1 Ŝablono:ĈefPaĝo/BildoDeLaTago2
+  0.47%    7.210      1 Ŝablono:Bildo_de_la_Tago2/ĉefpaĝo
 -->
 
-<!-- Saved in parser cache with key eowiki:pcache:idhash:656-0!*!0!*!*!4!* and timestamp 20170503055440 and revision id 6054901
+<!-- Saved in parser cache with key eowiki:pcache:idhash:656-0!*!0!*!*!4!* and timestamp 20170503201507 and revision id 6054901
  -->
 <noscript><img src="//eo.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Elŝutita el  "<a dir="ltr" href="https://eo.wikipedia.org/w/index.php?title=Vikipedio:Ĉefpaĝo&amp;oldid=6054901">https://eo.wikipedia.org/w/index.php?title=Vikipedio:Ĉefpaĝo&amp;oldid=6054901</a>"					</div>
@@ -477,6 +477,6 @@ Vidu la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.612","walltime":"1.808","ppvisitednodes":{"value":51290,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51977,"limit":2097152},"templateargumentsize":{"value":16609,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00% 1718.131      1 -total"," 99.39% 1707.656      6 Ŝablono:Ĉefpaĝo/enhavo2"," 97.15% 1669.082      1 Ŝablono:ĈefPaĝo/Aktualaĵoj"," 97.02% 1666.983      1 Ŝablono:ĈefPaĝoMondAktualaĵo"," 95.17% 1635.064     16 Ŝablono:Flago"," 28.10%  482.753     64 Ŝablono:Vikidatumoj-identigilo","  1.54%   26.515     12 Ŝablono:Dato","  0.78%   13.425      9 Ŝablono:Nobr","  0.53%    9.163      1 Ŝablono:ĈefPaĝo/BildoDeLaTago2","  0.48%    8.242      1 Ŝablono:Bildo_de_la_Tago2/ĉefpaĝo"]},"scribunto":{"limitreport-timeusage":{"value":"1.104","limit":"10.000"},"limitreport-memusage":{"value":21494521,"limit":52428800}},"cachereport":{"origin":"mw2113","timestamp":"20170503055442","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1928,"wgHostname":"mw2113"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.520","walltime":"1.627","ppvisitednodes":{"value":51290,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51977,"limit":2097152},"templateargumentsize":{"value":16609,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00% 1543.177      1 -total"," 99.61% 1537.123      6 Ŝablono:Ĉefpaĝo/enhavo2"," 97.45% 1503.872      1 Ŝablono:ĈefPaĝo/Aktualaĵoj"," 97.30% 1501.454      1 Ŝablono:ĈefPaĝoMondAktualaĵo"," 95.32% 1470.929     16 Ŝablono:Flago"," 30.39%  469.012     64 Ŝablono:Vikidatumoj-identigilo","  1.65%   25.389     12 Ŝablono:Dato","  0.84%   13.011      9 Ŝablono:Nobr","  0.53%    8.135      1 Ŝablono:ĈefPaĝo/BildoDeLaTago2","  0.47%    7.210      1 Ŝablono:Bildo_de_la_Tago2/ĉefpaĝo"]},"scribunto":{"limitreport-timeusage":{"value":"1.041","limit":"10.000"},"limitreport-memusage":{"value":18344835,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20170503201509","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1721,"wgHostname":"mw1254"});});</script>
 	</body>
 </html>

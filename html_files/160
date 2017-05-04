@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>维基百科，自由的百科全书</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:首页","wgTitle":"首页","wgCurRevisionId":41783189,"wgRevisionId":41783189,"wgArticleId":3597889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Wikipedia:首页","wgRelevantArticleId":3597889,"wgRequestId":"WQnNbArAEFgAAC5B6ZAAAABO","wgUserVariant":"zh","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"zh","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"中文","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.gadget.hideConversionTab":"ready","ext.gadget.large-font":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0gii3s4",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:首页","wgTitle":"首页","wgCurRevisionId":41783189,"wgRevisionId":41783189,"wgArticleId":3597889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Wikipedia:首页","wgRelevantArticleId":3597889,"wgRequestId":"WQozWApAADkAAOKAqB0AAAAN","wgUserVariant":"zh","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"zh","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"中文","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.gadget.hideConversionTab":"ready","ext.gadget.large-font":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0gii3s4",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.page.gallery","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.UnihanTooltips","ext.gadget.variant-link-fix","ext.gadget.FixedTopBottomLink","ext.gadget.AdvancedSiteNotices","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.noteTAvector","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -65,7 +65,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </div>
 <div id="mp-2012-banner-intro">
 <div>
-<p>已有<span class="number-of-articles"><a href="/wiki/Special:%E7%BB%9F%E8%AE%A1" title="Special:统计">939,786</a></span>篇<a href="/wiki/Wikipedia:%E4%BB%80%E4%B9%88%E6%98%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:什么是条目">條目</a></p>
+<p>已有<span class="number-of-articles"><a href="/wiki/Special:%E7%BB%9F%E8%AE%A1" title="Special:统计">939,854</a></span>篇<a href="/wiki/Wikipedia:%E4%BB%80%E4%B9%88%E6%98%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:什么是条目">條目</a></p>
 <table>
 <tr>
 <td><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" class="mw-redirect" title="Wikipedia:分类索引">分类</a></td>
@@ -92,8 +92,8 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </div>
 <div id="column-feature-more">
 <ul>
-<li><span class="column-feature-more-header"><a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E6%A2%9D%E7%9B%AE" class="mw-redirect" title="Wikipedia:特色條目">其他特色條目</a></span>：<a href="/wiki/%E6%9F%B3%E6%B0%B8" title="柳永">柳永</a> － <a href="/wiki/%E8%A1%8C%E5%88%97%E5%BC%8F" title="行列式">行列式</a> － <a href="/wiki/%E5%9B%9B%E8%89%B2%E5%AE%9A%E7%90%86" title="四色定理">四色定理</a></li>
-<li><span class="column-feature-more-header"><a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%88%97%E8%A1%A8" title="Wikipedia:特色列表">其他特色列表</a></span>：<a href="/wiki/%E7%BC%85%E5%9B%A0%E5%B7%9E%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92" title="缅因州行政区划">缅因州行政区划</a> － <a href="/wiki/%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92" title="路易斯安那州行政区划">路易斯安那州行政区划</a> － <a href="/wiki/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92" title="马萨诸塞州行政区划">马萨诸塞州行政区划</a></li>
+<li><span class="column-feature-more-header"><a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E6%A2%9D%E7%9B%AE" class="mw-redirect" title="Wikipedia:特色條目">其他特色條目</a></span>：<a href="/wiki/%E7%8E%9B%E5%90%89%C2%B7%E5%90%89%E4%BC%A6%E5%93%88%E5%B0%94" class="mw-redirect" title="玛吉·吉伦哈尔">玛吉·吉伦哈尔</a> － <a href="/wiki/%E8%8F%B2%E5%B0%94%C2%B7%E5%93%88%E7%89%B9%E6%9B%BC" title="菲尔·哈特曼">菲尔·哈特曼</a> － <a href="/wiki/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E5%A4%9A%E5%BE%B7" title="史蒂夫·多德">史蒂夫·多德</a></li>
+<li><span class="column-feature-more-header"><a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%88%97%E8%A1%A8" title="Wikipedia:特色列表">其他特色列表</a></span>：<a href="/wiki/%E6%B8%85%E6%9C%9D%E5%A4%A7%E5%AD%A6%E5%A3%AB%E5%88%97%E8%A1%A8" title="清朝大学士列表">清朝大学士列表</a> － <a href="/wiki/%E8%AB%BE%E8%B2%9D%E7%88%BE%E6%96%87%E5%AD%B8%E7%8D%8E%E5%BE%97%E4%B8%BB%E5%88%97%E8%A1%A8" title="諾貝爾文學獎得主列表">诺贝尔文学奖得主列表</a> － <a href="/wiki/%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E5%BE%97%E4%B8%BB%E5%88%97%E8%A1%A8" title="诺贝尔生理学或医学奖得主列表">诺贝尔生理学或医学奖得主列表</a></li>
 </ul>
 </div>
 <div class="mp-2012-block-nav-footer hlist">
@@ -107,12 +107,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
 <h2><span class="mw-headline" id=".E4.BD.A0.E7.9F.A5.E9.81.93.E5.90.97.EF.BC.9F">你知道吗？</span></h2>
 <div id="column-dyk" class="knoblock mp-2012-text">
-<div class="floatright"><a href="/wiki/File:%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg/160px-%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg" width="160" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg/240px-%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg/320px-%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%9B%9B%E9%80%A3%E6%A3%9F.jpg 2x" data-file-width="2048" data-file-height="1365" /></a></div>
+<div class="floatright"><a href="/wiki/File:Antibubbles.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Antibubbles.jpg/160px-Antibubbles.jpg" width="160" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Antibubbles.jpg/240px-Antibubbles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Antibubbles.jpg/320px-Antibubbles.jpg 2x" data-file-width="1040" data-file-height="692" /></a></div>
 <ul>
-<li>和空氣泡的結構相反，由空氣薄膜包圍液體而成的泡泡<b><a href="/wiki/%E5%8F%8D%E6%B3%A1%E6%B3%A1" title="反泡泡">称为什麼</a></b>？</li>
+<li>和空氣泡的結構相反，由空氣薄膜包圍液體而成的泡泡<b><a href="/wiki/%E5%8F%8D%E6%B3%A1%E6%B3%A1" title="反泡泡">称为什麼</a></b>？<small>（圖）</small></li>
 <li><b><a href="/wiki/%E8%92%99%E5%A8%9C%C2%B7%E5%93%88%E5%A8%9C-%E9%98%BF%E6%8F%90%E6%B2%99" title="蒙娜·哈娜-阿提沙">哪一位醫師</a></b>因為揭發美國密西根弗林特市的飲用水含鉛量超標，導致兒童健康受損而成名？</li>
 <li><b><a href="/wiki/%E5%85%AC%E6%B2%99%E7%A9%86" title="公沙穆">哪一位東漢大臣</a></b>與<a href="/wiki/%E5%90%B3%E7%A5%90" title="吳祐">吳祐</a>為杵臼之交、五位兒子人稱公沙五龍？</li>
-<li><b><a href="/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8" title="桃園市立大溪木藝生態博物館">哪一座博物館</a></b>是台灣第一座沒有圍牆的博物館？<small>（圖）</small></li>
+<li><b><a href="/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%BA%AA%E6%9C%A8%E8%97%9D%E7%94%9F%E6%85%8B%E5%8D%9A%E7%89%A9%E9%A4%A8" title="桃園市立大溪木藝生態博物館">哪一座博物館</a></b>是台灣第一座沒有圍牆的博物館？</li>
 <li><b><a href="/wiki/Baek" title="Baek">哪一名韓國籍日本模特兒</a></b>在<a href="/wiki/Becky" title="Becky">Becky</a>暫停演藝活動後，暫代出演《<a href="/wiki/%E4%B8%AD%E5%B1%85%E5%A4%A7%E5%B8%AB%E8%AA%AA" title="中居大師說">中居大師說</a>》？</li>
 <li><a href="/wiki/%E7%BD%97%E5%88%AB%E6%A0%B9%E8%8A%B1%E5%9B%AD" title="罗别根花园"><b>哪座上海市优秀历史建筑</b></a>曾经是前上海首富<a href="/wiki/%E7%BB%B4%E5%85%8B%E5%A4%9A%C2%B7%E6%B2%99%E9%80%8A" title="维克多·沙逊">维克多·沙逊</a>的私人住宅，但其花园由于保护不力被改造成菜地？</li>
 </ul>
@@ -171,18 +171,19 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
 <h2><span class="mw-headline" id=".E6.96.B0.E9.97.BB.E5.8A.A8.E6.80.81">新闻动态</span></h2>
 <div id="column-itn" class="knoblock mp-2012-text">
-<div class="floatright"><a href="/wiki/File:Mark_Selby_at_Snooker_German_Masters_(DerHexer)_2015-02-08_14.jpg" class="image" title="马克·塞尔比"><img alt="马克·塞尔比" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg/120px-Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg" width="120" height="102" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg/180px-Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg/240px-Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_14.jpg 2x" data-file-width="2131" data-file-height="1803" /></a></div>
+<div class="floatright"><a href="/wiki/File:B_Sobotka_2015_Praha.JPG" class="image" title="博胡斯拉夫·索博特卡"><img alt="博胡斯拉夫·索博特卡" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_Sobotka_2015_Praha.JPG/100px-B_Sobotka_2015_Praha.JPG" width="100" height="146" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_Sobotka_2015_Praha.JPG/150px-B_Sobotka_2015_Praha.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_Sobotka_2015_Praha.JPG/200px-B_Sobotka_2015_Praha.JPG 2x" data-file-width="1809" data-file-height="2635" /></a></div>
 <ul>
-<li>英國選手<b><a href="/wiki/%E9%A6%AC%E5%85%8B%C2%B7%E5%A1%9E%E7%88%BE%E6%AF%94" class="mw-redirect" title="馬克·塞爾比">马克·塞尔比</a></b><small>（圖）</small>擊敗<a href="/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%B8%8C%E9%87%91%E6%96%AF" class="mw-redirect" title="約翰·希金斯">约翰·希金斯</a>，贏得2017年<a href="/wiki/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E7%95%8C%E9%94%A6%E6%A0%87%E8%B5%9B" title="斯诺克世界锦标赛">斯诺克世界锦标赛</a>冠軍。</li>
+<li>捷克總理<b><a href="/wiki/%E5%8D%9A%E8%83%A1%E6%96%AF%E6%8B%89%E5%A4%AB%C2%B7%E7%B4%A2%E5%8D%9A%E7%89%B9%E5%8D%A1" title="博胡斯拉夫·索博特卡">博胡斯拉夫·索博特卡</a></b><small>（圖）</small>宣布內閣將向捷克總統<a href="/wiki/%E7%B1%B3%E6%B4%9B%E4%BB%80%C2%B7%E6%B3%BD%E6%9B%BC" title="米洛什·泽曼">米洛什·澤曼</a>提出總辭。</li>
+<li>英國選手<b><a href="/wiki/%E9%A6%AC%E5%85%8B%C2%B7%E5%A1%9E%E7%88%BE%E6%AF%94" class="mw-redirect" title="馬克·塞爾比">马克·塞尔比</a></b>擊敗<a href="/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%B8%8C%E9%87%91%E6%96%AF" class="mw-redirect" title="約翰·希金斯">约翰·希金斯</a>，贏得2017年<a href="/wiki/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E7%95%8C%E9%94%A6%E6%A0%87%E8%B5%9B" title="斯诺克世界锦标赛">斯诺克世界锦标赛</a>冠軍。</li>
 <li>義大利<a href="/wiki/%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E7%BE%A9%E5%A4%A7%E5%88%A9)" title="民主黨 (義大利)">民主黨</a>在總書記初選中，再度選出<a href="/wiki/2016%E5%B9%B4%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AE%AA%E6%B3%95%E5%85%AC%E6%8A%95" title="2016年意大利宪法公投">先前辭職</a>的前總理<b><a href="/wiki/%E9%A9%AC%E6%B3%B0%E5%A5%A5%C2%B7%E4%BC%A6%E9%BD%90" title="马泰奥·伦齐">馬泰奧·倫齊</a></b>為黨魁。</li>
-<li>土耳其政府以維護公眾秩序和國家安全為由，<b><a href="/wiki/%E5%AF%B9%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E7%9A%84%E5%AE%A1%E6%9F%A5%E5%92%8C%E5%B0%81%E9%94%81" title="对维基媒体的审查和封锁">封鎖</a></b>所有語言版本的<a href="/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" class="mw-redirect" title="維基百科">維基百科</a>。</li>
+<li>土耳其政府以<a href="/wiki/%E5%AF%B9%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E7%9A%84%E5%AE%A1%E6%9F%A5%E5%92%8C%E5%B0%81%E9%94%81" title="对维基媒体的审查和封锁">維護</a>公眾秩序和國家安全為由，<b><a href="/wiki/2017%E5%B9%B4%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%81%E9%94%81%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%BA%8B%E4%BB%B6" title="2017年土耳其封锁维基百科事件">封鎖</a></b>所有語言版本的<a href="/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" class="mw-redirect" title="維基百科">維基百科</a>。</li>
 <li>美國總統<a href="/wiki/%E5%94%90%E7%B4%8D%C2%B7%E5%B7%9D%E6%99%AE" title="唐納·川普">唐纳德·特朗普</a>簽署行政命令，同意開放<b><a href="/wiki/%E5%8C%97%E6%9E%81%E5%9C%B0%E5%8C%BA" title="北极地区">北極地區</a></b>的石油與天然氣勘探。</li>
 <li>德國導演<a href="/wiki/%E7%91%AA%E8%8F%A1%C2%B7%E9%98%BF%E5%BE%B7" title="瑪菡·阿德">瑪菡·阿德</a>執導的劇情片《<b><a href="/wiki/%E9%A1%9B%E7%88%B6%E4%BA%BA%E7%94%9F" class="mw-redirect" title="顛父人生">托尼·厄德曼</a></b>》贏得2017年<a href="/wiki/%E5%BE%B7%E5%9C%8B%E9%9B%BB%E5%BD%B1%E7%8D%8E" title="德國電影獎">德國電影獎</a><a href="/wiki/%E5%BE%B7%E5%9C%8B%E9%9B%BB%E5%BD%B1%E7%8D%8E%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87%E7%8D%8E" title="德國電影獎最佳影片獎">最佳影片獎</a>。</li>
 </ul>
 </div>
 <div id="column-feature-more">
 <ul>
-<li><span class="column-feature-more-header"><a href="/wiki/2017%E5%B9%B45%E6%9C%88%E9%80%9D%E4%B8%96%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8" title="2017年5月逝世人物列表"><b>最近逝世</b></a></span>：<a href="/wiki/%E4%B9%8C%E9%87%8C%C2%B7%E6%96%AF%E7%89%B9%E5%85%8B" title="乌里·斯特克">烏里·斯特克</a> － <a href="/wiki/%E7%B6%AD%E6%89%98%C2%B7%E9%98%BF%E8%82%AF%E9%8C%AB" title="維托·阿肯錫">維托·阿肯錫</a> － <a href="/wiki/%E5%BC%B7%E7%B4%8D%E6%A3%AE%C2%B7%E5%BE%B7%E7%B1%B3" title="強納森·德米">強納森·德米</a> － <a href="/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E6%B3%A2%E8%A5%BF%E6%A0%BC" title="罗伯特·梅纳德·波西格">羅伯特·梅納德·波西格</a></li>
+<li><span class="column-feature-more-header"><a href="/wiki/2017%E5%B9%B45%E6%9C%88%E9%80%9D%E4%B8%96%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8" title="2017年5月逝世人物列表"><b>最近逝世</b></a></span>：<a href="/wiki/%E4%B9%8C%E9%87%8C%C2%B7%E6%96%AF%E7%89%B9%E5%85%8B" title="乌里·斯特克">烏里·斯特克</a> － <a href="/wiki/%E7%B6%AD%E6%89%98%C2%B7%E9%98%BF%E8%82%AF%E9%8C%AB" title="維托·阿肯錫">維托·阿肯錫</a> － <a href="/wiki/%E5%BC%B7%E7%B4%8D%E6%A3%AE%C2%B7%E5%BE%B7%E7%B1%B3" title="強納森·德米">強納森·德米</a></li>
 </ul>
 </div>
 <div class="mp-2012-block-nav-footer hlist">
@@ -253,7 +254,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h2><span class="mw-headline" id=".E7.BB.B4.E5.9F.BA.E7.99.BE.E7.A7.91.E6.8F.90.E9.86.92.E6.82.A8">维基百科提醒您</span></h2>
 <div id="column-tips" class="plainlinks mp-2012-text">
 <div class="floatright"><a href="/wiki/File:Dialog-information_on.svg" class="image"><img alt="Dialog-information on.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/70px-Dialog-information_on.svg.png" width="70" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/105px-Dialog-information_on.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/140px-Dialog-information_on.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
-<p><span id="mp-2012-column-tips-header"><a href="/wiki/Wikipedia:%E5%BF%BD%E7%95%A5%E6%89%80%E6%9C%89%E8%A7%84%E5%88%99" title="Wikipedia:忽略所有规则">忽略所有規則</a></span>：我們沒有一成不變的規則。請<a href="/wiki/Wikipedia:%E5%8B%87%E4%BA%8E%E6%9B%B4%E6%96%B0%E9%A1%B5%E9%9D%A2" title="Wikipedia:勇于更新页面">勇於編輯</a>。雖然我們追求卓越，但並不要求您<a href="/wiki/Wikipedia:%E7%BC%96%E8%BE%91%E5%AE%88%E5%88%99" class="mw-redirect" title="Wikipedia:编辑守则">做到十全十美</a>，因此請不要擔心在編輯時犯錯。</p>
+<p><span id="mp-2012-column-tips-header"><a href="/wiki/Wikipedia:%E5%9B%9E%E9%80%80%E4%B8%8D%E9%81%8E%E4%B8%89%E5%8E%9F%E5%89%87" class="mw-redirect" title="Wikipedia:回退不過三原則">回退不過三原則</a></span>：這項原則適用於所有維基人，即一位編者對於某一頁面，在24小時內，不可以執行多於三次的<a href="/wiki/Wikipedia:%E5%9B%9E%E9%80%80" title="Wikipedia:回退">回退</a>（自我回退、修復惡意破壞除外）。</p>
 </div>
 </div>
 </div>
@@ -393,36 +394,36 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Parsed by mw2195
-Cached time: 20170503123004
+Parsed by mw1265
+Cached time: 20170503194457
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.176 seconds
-Real time usage: 0.242 seconds
-Preprocessor visited node count: 1169/1000000
+CPU time usage: 0.224 seconds
+Real time usage: 0.305 seconds
+Preprocessor visited node count: 1171/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 27560/2097152 bytes
-Template argument size: 5884/2097152 bytes
+Post‐expand include size: 27435/2097152 bytes
+Template argument size: 5889/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 3/500
-Lua time usage: 0.050/10.000 seconds
+Lua time usage: 0.053/10.000 seconds
 Lua memory usage: 1.05 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  144.412      1 -total
- 35.38%   51.100      1 Template:Feature
- 14.00%   20.213      1 Template:Otd
- 12.07%   17.429      1 Wikipedia:历史上的今天/5月3日
- 11.07%   15.990      1 Template:Otd/format
- 10.93%   15.786      2 Template:Lang
- 10.05%   14.509      2 Template:Link-en
-  9.64%   13.927      1 Template:FeaturedContentType
-  9.14%   13.196      2 Template:Category_handler
-  8.95%   12.920      1 Template:FeaturedContentType/cascade
+100.00%  167.677      1 -total
+ 31.99%   53.644      1 Template:Feature
+ 15.10%   25.322      1 Template:Otd
+ 12.81%   21.476      1 Wikipedia:历史上的今天/5月3日
+ 11.81%   19.795      1 Template:Otd/format
+ 11.09%   18.599      2 Template:Lang
+ 10.84%   18.174      2 Template:Link-en
+ 10.69%   17.933      1 Template:FeaturedContentType
+  9.53%   15.972      1 Template:FeaturedContentType/cascade
+  9.43%   15.811      2 Template:Internal_link_helper
 -->
 
-<!-- Saved in parser cache with key zhwiki:pcache:idhash:3597889-0!*!0!!zh!4!zh!* and timestamp 20170503123004 and revision id 41783189
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:3597889-0!*!0!!zh!4!zh!* and timestamp 20170503194457 and revision id 41783189
  -->
 <noscript><img src="//zh.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						取自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=Wikipedia:首页&amp;oldid=41783189">https://zh.wikipedia.org/w/index.php?title=Wikipedia:首页&amp;oldid=41783189</a>”					</div>
@@ -569,6 +570,6 @@ Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org">维基
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.242","ppvisitednodes":{"value":1169,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27560,"limit":2097152},"templateargumentsize":{"value":5884,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  144.412      1 -total"," 35.38%   51.100      1 Template:Feature"," 14.00%   20.213      1 Template:Otd"," 12.07%   17.429      1 Wikipedia:历史上的今天/5月3日"," 11.07%   15.990      1 Template:Otd/format"," 10.93%   15.786      2 Template:Lang"," 10.05%   14.509      2 Template:Link-en","  9.64%   13.927      1 Template:FeaturedContentType","  9.14%   13.196      2 Template:Category_handler","  8.95%   12.920      1 Template:FeaturedContentType/cascade"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":1099420,"limit":52428800}},"cachereport":{"origin":"mw2195","timestamp":"20170503123004","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2115"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.305","ppvisitednodes":{"value":1171,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27435,"limit":2097152},"templateargumentsize":{"value":5889,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  167.677      1 -total"," 31.99%   53.644      1 Template:Feature"," 15.10%   25.322      1 Template:Otd"," 12.81%   21.476      1 Wikipedia:历史上的今天/5月3日"," 11.81%   19.795      1 Template:Otd/format"," 11.09%   18.599      2 Template:Lang"," 10.84%   18.174      2 Template:Link-en"," 10.69%   17.933      1 Template:FeaturedContentType","  9.53%   15.972      1 Template:FeaturedContentType/cascade","  9.43%   15.811      2 Template:Internal_link_helper"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":1099397,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170503194457","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1262"});});</script>
 	</body>
 </html>

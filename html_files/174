@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipédia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hlavná_stránka","wgTitle":"Hlavná stránka","wgCurRevisionId":6256659,"wgRevisionId":6256659,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"sk","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","január","február","marec","apríl","máj","jún","júl","august","september","október","november","december"],"wgMonthNamesShort":["","jan","feb","mar","apr","máj","jún","júl","aug","sep","okt","nov","dec"],"wgRelevantPageName":"Hlavná_stránka","wgRelevantArticleId":1,"wgRequestId":"WQkd0ArAIE4AAI0vbRgAAABY","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"sk","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"sk","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"slovenčina","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.2"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0oyzabb",function($,jQuery,require,module){mw.user.options.set({"variant":"sk"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hlavná_stránka","wgTitle":"Hlavná stránka","wgCurRevisionId":6256659,"wgRevisionId":6256659,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"sk","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","január","február","marec","apríl","máj","jún","júl","august","september","október","november","december"],"wgMonthNamesShort":["","jan","feb","mar","apr","máj","jún","júl","aug","sep","okt","nov","dec"],"wgRelevantPageName":"Hlavná_stránka","wgRelevantArticleId":1,"wgRequestId":"WQpTfQpAADwAAAUQVtEAAABJ","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"sk","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"sk","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"slovenčina","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.2"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0oyzabb",function($,jQuery,require,module){mw.user.options.set({"variant":"sk"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.edit-summaries","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
@@ -47,7 +47,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </td>
 <td style="padding:1em">
 <div align="right">Dnes je streda 3.&#160;mája 2017.<br />
-Slovenská verzia má momentálne <a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0tatistika" title="Špeciálne:Štatistika"><b>217&#160;638</b> článkov</a>.</div>
+Slovenská verzia má momentálne <a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0tatistika" title="Špeciálne:Štatistika"><b>217&#160;657</b> článkov</a>.</div>
 </td>
 </tr>
 </table>
@@ -403,12 +403,12 @@ Slovenská verzia má momentálne <a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0tatis
 
 <!-- 
 NewPP limit report
-Parsed by mw2139
-Cached time: 20170503000106
+Parsed by mw1190
+Cached time: 20170503220104
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.136 seconds
-Real time usage: 0.191 seconds
+CPU time usage: 0.144 seconds
+Real time usage: 0.207 seconds
 Preprocessor visited node count: 2038/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 36476/2097152 bytes
@@ -418,19 +418,19 @@ Expensive parser function count: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   69.038      1 -total
- 46.97%   32.429      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017
- 42.07%   29.045      3 Šablóna:Vjz
- 30.41%   20.996      3 Šablóna:Cudzojazyčne
- 19.32%   13.341      3 Šablóna:Cudzojazyčne/iso12názov
- 10.50%    7.246      1 Šablóna:Cudzojazyčné_wikipédie2
-  6.73%    4.644      3 Šablóna:V_jazyku/iso3odkaz
-  6.51%    4.493      3 Šablóna:V_jazyku/iso3na12
-  6.42%    4.434      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)
-  6.35%    4.385      1 Šablóna:Hlavná_stránka/Kategórie
+100.00%   75.807      1 -total
+ 48.30%   36.612      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017
+ 42.84%   32.476      3 Šablóna:Vjz
+ 31.34%   23.760      3 Šablóna:Cudzojazyčne
+ 18.87%   14.308      3 Šablóna:Cudzojazyčne/iso12názov
+  9.74%    7.384      1 Šablóna:Cudzojazyčné_wikipédie2
+  7.07%    5.361      3 Šablóna:V_jazyku/iso3odkaz
+  7.04%    5.339      3 Šablóna:V_jazyku/iso3na12
+  6.59%    4.995      1 Šablóna:Hlavná_stránka/Kategórie
+  5.67%    4.300      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)
 -->
 
-<!-- Saved in parser cache with key skwiki:pcache:idhash:1-0!*!0!*!*!4!* and timestamp 20170503000106 and revision id 6256659
+<!-- Saved in parser cache with key skwiki:pcache:idhash:1-0!*!0!*!*!4!* and timestamp 20170503220104 and revision id 6256659
  -->
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//sk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Zdroj: „<a dir="ltr" href="https://sk.wikipedia.org/w/index.php?title=Hlavná_stránka&amp;oldid=6256659">https://sk.wikipedia.org/w/index.php?title=Hlavná_stránka&amp;oldid=6256659</a>“					</div>
@@ -559,6 +559,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.191","ppvisitednodes":{"value":2038,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36476,"limit":2097152},"templateargumentsize":{"value":1411,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   69.038      1 -total"," 46.97%   32.429      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017"," 42.07%   29.045      3 Šablóna:Vjz"," 30.41%   20.996      3 Šablóna:Cudzojazyčne"," 19.32%   13.341      3 Šablóna:Cudzojazyčne/iso12názov"," 10.50%    7.246      1 Šablóna:Cudzojazyčné_wikipédie2","  6.73%    4.644      3 Šablóna:V_jazyku/iso3odkaz","  6.51%    4.493      3 Šablóna:V_jazyku/iso3na12","  6.42%    4.434      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)","  6.35%    4.385      1 Šablóna:Hlavná_stránka/Kategórie"]},"cachereport":{"origin":"mw2139","timestamp":"20170503000106","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw2190"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.207","ppvisitednodes":{"value":2038,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36476,"limit":2097152},"templateargumentsize":{"value":1411,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   75.807      1 -total"," 48.30%   36.612      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017"," 42.84%   32.476      3 Šablóna:Vjz"," 31.34%   23.760      3 Šablóna:Cudzojazyčne"," 18.87%   14.308      3 Šablóna:Cudzojazyčne/iso12názov","  9.74%    7.384      1 Šablóna:Cudzojazyčné_wikipédie2","  7.07%    5.361      3 Šablóna:V_jazyku/iso3odkaz","  7.04%    5.339      3 Šablóna:V_jazyku/iso3na12","  6.59%    4.995      1 Šablóna:Hlavná_stránka/Kategórie","  5.67%    4.300      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)"]},"cachereport":{"origin":"mw1190","timestamp":"20170503220104","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1265"});});</script>
 	</body>
 </html>

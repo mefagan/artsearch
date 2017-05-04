@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, the free encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQnrRgpAAD0AAbJnWpAAAACW","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQpasQpAIDoAAFwACuIAAAAA","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -51,7 +51,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="width:280px; text-align:center; white-space:nowrap;">
 <div style="font-size:162%; border:none; margin:0; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
 <div style="top:+0.2em; font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,913</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,398,113</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </td>
 </tr>
 </table>
@@ -210,7 +210,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li><a href="/wiki/1791" title="1791">1791</a> – The <b><a href="/wiki/Constitution_of_May_3,_1791" title="Constitution of May 3, 1791">Polish–Lithuanian Constitution of May 3</a></b>, the oldest <a href="/wiki/Codification_(law)" title="Codification (law)">codified</a> national <a href="/wiki/Constitution" title="Constitution">constitution</a> in Europe, was adopted by the <a href="/wiki/Great_Sejm" title="Great Sejm">Great Sejm</a>.</li>
 <li><a href="/wiki/1915" title="1915">1915</a> – The oldest continually operational <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> station, <b><a href="/wiki/RAF_Northolt" title="RAF Northolt">RAF Northolt</a></b> <i>(pictured)</i>, opened as the home to No. 4 Reserve Aeroplane Squadron.</li>
 <li><a href="/wiki/1942" title="1942">1942</a> – <a href="/wiki/World_War_II" title="World War II">Second World War</a>: Japanese forces <b><a href="/wiki/Invasion_of_Tulagi_(May_1942)" title="Invasion of Tulagi (May 1942)">began invading</a></b> <a href="/wiki/Tulagi" title="Tulagi">Tulagi</a> and nearby islands in the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>, enabling them to threaten and interdict the supply and communication routes between the United States and Australia and New Zealand.</li>
-<li><a href="/wiki/2007" title="2007">2007</a> – Three-year-old <b><a href="/wiki/Disappearance_of_Madeleine_McCann" title="Disappearance of Madeleine McCann">Madeleine McCann</a></b> disappeared while on holiday with her family in Portugal, sparking "the most heavily reported missing-person case in modern history."</li>
+<li><a href="/wiki/2007" title="2007">2007</a> – Three-year-old <b><a href="/wiki/Disappearance_of_Madeleine_McCann" title="Disappearance of Madeleine McCann">Madeleine McCann</a></b> disappeared while on holiday with her family in Portugal, sparking "the most heavily reported missing-person case in modern history".</li>
 </ul>
 <p><b><a href="/wiki/Alexios_II_of_Trebizond" title="Alexios II of Trebizond">Alexios II of Trebizond</a></b> (d.&#160;1330)&#160;<b>·</b>  <b><a href="/wiki/Catherine_of_St._Augustine" title="Catherine of St. Augustine">Catherine of St. Augustine</a></b> (b.&#160;1632)&#160;<b>·</b>  <b><a href="/wiki/Len_Shackleton" title="Len Shackleton">Len Shackleton</a></b> (b.&#160;1922)</p>
 <div style="margin-top: 0.5em;">More anniversaries:
@@ -343,7 +343,7 @@ Dictionary and thesaurus</td>
 <div id="mp-lang">
 <h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
 <div id="lang" class="nowraplinks nourlexpansion plainlinks">
-<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,397,913</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,398,113</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
 <ul>
 <li id="lang-3">More than 1,000,000 articles:
 <div class="hlist inline">
@@ -415,36 +415,36 @@ Dictionary and thesaurus</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw1261
-Cached time: 20170503143745
+Parsed by mw1210
+Cached time: 20170503223303
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.184 seconds
-Real time usage: 0.266 seconds
-Preprocessor visited node count: 3152/1000000
+CPU time usage: 0.192 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 3207/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 96455/2097152 bytes
-Template argument size: 4742/2097152 bytes
+Post‐expand include size: 97827/2097152 bytes
+Template argument size: 4904/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 5/500
-Lua time usage: 0.047/10.000 seconds
-Lua memory usage: 2 MB/50 MB
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1.9 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  197.577      1 -total
- 41.28%   81.552      1 Wikipedia:Main_Page/Tomorrow
- 33.97%   67.122      6 Template:Main_page_image
- 24.19%   47.788      1 Template:Did_you_know
- 18.96%   37.458      1 Template:Did_you_know/Queue/2
- 16.10%   31.811      2 Template:Wikipedia_languages
- 14.38%   28.420      6 Template:Str_number/trim
- 13.84%   27.354      1 Template:DYKbotdo
- 12.98%   25.642      1 Template:Mbox
- 12.48%   24.662      2 Template:In_the_news
+100.00%  193.750      1 -total
+ 42.00%   81.377      1 Wikipedia:Main_Page/Tomorrow
+ 35.97%   69.690      7 Template:Main_page_image
+ 26.70%   51.736      1 Template:Did_you_know
+ 17.47%   33.845      1 Template:Did_you_know/Queue/2
+ 16.67%   32.301      2 Template:Wikipedia_languages
+ 15.15%   29.360      7 Template:Str_number/trim
+ 13.20%   25.577      1 Template:DYKbotdo
+ 12.31%   23.849      1 Template:Mbox
+ 12.09%   23.419     88 Template:Wikipedia_languages/core
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503143745 and revision id 777395573
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503223303 and revision id 777395573
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573</a>"					</div>
@@ -583,6 +583,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.266","ppvisitednodes":{"value":3152,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96455,"limit":2097152},"templateargumentsize":{"value":4742,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  197.577      1 -total"," 41.28%   81.552      1 Wikipedia:Main_Page/Tomorrow"," 33.97%   67.122      6 Template:Main_page_image"," 24.19%   47.788      1 Template:Did_you_know"," 18.96%   37.458      1 Template:Did_you_know/Queue/2"," 16.10%   31.811      2 Template:Wikipedia_languages"," 14.38%   28.420      6 Template:Str_number/trim"," 13.84%   27.354      1 Template:DYKbotdo"," 12.98%   25.642      1 Template:Mbox"," 12.48%   24.662      2 Template:In_the_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":2092197,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20170503143745","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1266"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.267","ppvisitednodes":{"value":3207,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97827,"limit":2097152},"templateargumentsize":{"value":4904,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  193.750      1 -total"," 42.00%   81.377      1 Wikipedia:Main_Page/Tomorrow"," 35.97%   69.690      7 Template:Main_page_image"," 26.70%   51.736      1 Template:Did_you_know"," 17.47%   33.845      1 Template:Did_you_know/Queue/2"," 16.67%   32.301      2 Template:Wikipedia_languages"," 15.15%   29.360      7 Template:Str_number/trim"," 13.20%   25.577      1 Template:DYKbotdo"," 12.31%   23.849      1 Template:Mbox"," 12.09%   23.419     88 Template:Wikipedia_languages/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1989722,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20170503223303","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1188"});});</script>
 	</body>
 </html>

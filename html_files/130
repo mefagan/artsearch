@@ -4,11 +4,11 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia:Help desk - Wikipedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Help_desk","wgTitle":"Help desk","wgCurRevisionId":778502225,"wgRevisionId":778502225,"wgArticleId":564696,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Non-talk pages that are automatically signed","Pages automatically checked for incorrect links","Wikipedia help forums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Help_desk","wgRelevantArticleId":564696,"wgRequestId":"WQnssQpAMFUAALbUYlsAAABV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4026300","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Help_desk","wgTitle":"Help desk","wgCurRevisionId":778564700,"wgRevisionId":778564700,"wgArticleId":564696,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Non-talk pages that are automatically signed","Pages automatically checked for incorrect links","Wikipedia help forums"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Help_desk","wgRelevantArticleId":564696,"wgRequestId":"WQpZawpAIDkAAHruL20AAAAS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4026300","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
-});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -48,8 +48,8 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </ul>
 </div>
 <div style="position:absolute; z-index:100; right:20px; top:5px;" class="metadata">
-<div class="noresize"><map name="ImageMap_1_499372372" id="ImageMap_1_499372372">
-<area href="/wiki/Wikipedia:Help_desk" shape="rect" coords="0,0,200,180" alt="Wikipedia Help desk" title="Wikipedia Help desk" /></map><img alt="QA icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/30px-QA_icon.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/45px-QA_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/60px-QA_icon.svg.png 2x" data-file-width="60" data-file-height="60" usemap="#ImageMap_1_499372372" /></div>
+<div class="noresize"><map name="ImageMap_1_1720365555" id="ImageMap_1_1720365555">
+<area href="/wiki/Wikipedia:Help_desk" shape="rect" coords="0,0,200,180" alt="Wikipedia Help desk" title="Wikipedia Help desk" /></map><img alt="QA icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/30px-QA_icon.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/45px-QA_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/QA_icon.svg/60px-QA_icon.svg.png 2x" data-file-width="60" data-file-height="60" usemap="#ImageMap_1_1720365555" /></div>
 </div>
 <table class="plainlinks ombox ombox-notice" role="presentation">
 <tr>
@@ -516,6 +516,11 @@ to Wikipedia</a></th>
 <li class="toclevel-2 tocsection-34"><a href="#Issue_with_sortable_table"><span class="tocnumber">4.4</span> <span class="toctext">Issue with sortable table</span></a></li>
 <li class="toclevel-2 tocsection-35"><a href="#How_much_interpretation_is_acceptable.3F"><span class="tocnumber">4.5</span> <span class="toctext">How much interpretation is acceptable?</span></a></li>
 <li class="toclevel-2 tocsection-36"><a href="#First_Drug_Submarine_found_in_United_States"><span class="tocnumber">4.6</span> <span class="toctext">First Drug Submarine found in United States</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Facebook_Page"><span class="tocnumber">4.7</span> <span class="toctext">Facebook Page</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Photo"><span class="tocnumber">4.8</span> <span class="toctext">Photo</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#adding_link_to_online_book"><span class="tocnumber">4.9</span> <span class="toctext">adding link to online book</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#Please_help._How_to_stop_someone_from_maliciously_editing_and_adding_inaccurate_information_to_an_article.3F"><span class="tocnumber">4.10</span> <span class="toctext">Please help. How to stop someone from maliciously editing and adding inaccurate information to an article?</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#A_bot_has_archived_my_talk_page_post"><span class="tocnumber">4.11</span> <span class="toctext">A bot has archived my talk page post</span></a></li>
 </ul>
 </li>
 </ul>
@@ -842,7 +847,18 @@ Thank you for restoring the information and adding sources. <a href="/wiki/User:
 </dl>
 <p>I did not mention deletion because I really cannot judge this person's notability. I don't mind having the article in here (if it indeed is an article, not just a substub), and I don't mind if it is deleted either. I was just unsure about how to proceed, since after I had done all the work I could on that article it was still very unsatisfactory. --<a href="/wiki/Special:Contributions/93.212.229.181" title="Special:Contributions/93.212.229.181">93.212.229.181</a> (<a href="/wiki/User_talk:93.212.229.181" title="User talk:93.212.229.181">talk</a>) 16:40, 2 May 2017 (UTC)</p>
 <dl>
-<dd>Sure you can. Look for reliable secondary, independent sources that treat the subject in detail (at a minimum try Google Books, New Archive and Scholar → fail to find them? → you've done due diligence to nominate on the basis of notability → nominate for deletion → see if anyone else can find the sources you didn't → if not, it will likely be deleted and rightly so.--<a href="/wiki/User:Fuhghettaboutit" title="User:Fuhghettaboutit">Fuhghettaboutit</a> (<a href="/wiki/User_talk:Fuhghettaboutit" title="User talk:Fuhghettaboutit">talk</a>) 23:24, 2 May 2017 (UTC)</dd>
+<dd>Sure you can. Look for reliable secondary, independent sources that treat the subject in detail (at a minimum try Google Books, New Archive and Scholar → fail to find them? → you've done due diligence to nominate on the basis of notability → nominate for deletion → see if anyone else can find the sources you didn't → if not, it will likely be deleted and rightly so.--<a href="/wiki/User:Fuhghettaboutit" title="User:Fuhghettaboutit">Fuhghettaboutit</a> (<a href="/wiki/User_talk:Fuhghettaboutit" title="User talk:Fuhghettaboutit">talk</a>) 23:24, 2 May 2017 (UTC)
+<dl>
+<dd>"Sure I can" what? I said I have done all the work I could on that article, and that's that.</dd>
+<dd>Look. This is volunteer work we are doing here. I have no idea who this gentleman is, or why he has a Wikipedia article, or if he should. And what's more, I don't care.</dd>
+<dd>I did more constructive work on his article than anyone else has for months, and I brought it to the attention of more experienced users. And now I am most certainly not going to waste my time looking for secondary sources on an article that may not be worth it in the first place. I don't mind if anyone else does, and I don't mind if the article is deleted either.</dd>
+<dd>But I do mind this attitude that I have come across here more than once, trying to push other users to do more work on parts of Wikipedia they can't or don't want to do more work on, for whatever reason. Please respect what others are willing and able to do in their volunteer time, or you'll be pushing them <i>out</i> of Wikipedia rather than in. --<a href="/wiki/Special:Contributions/93.212.233.204" title="Special:Contributions/93.212.233.204">93.212.233.204</a> (<a href="/w/index.php?title=User_talk:93.212.233.204&amp;action=edit&amp;redlink=1" class="new" title="User talk:93.212.233.204 (page does not exist)">talk</a>) 17:03, 3 May 2017 (UTC)
+<dl>
+<dd>I don't think anyone was telling you what to do. You had said you could not judge the notability of the person. The response was telling you how you could judge the notability not that you had to, <a href="/wiki/User_talk:GB_fan" title="User talk:GB fan">~&#160;GB&#160;fan</a> 17:18, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
 </dl>
 <h2><span class="mw-headline" id="Collapse">Collapse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=28" title="Edit section: Collapse">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <pre>
@@ -907,8 +923,12 @@ Thank you for restoring the information and adding sources. <a href="/wiki/User:
 <dl>
 <dd>They are very similar, but there are some slight differences. Both Twinkle and the <a href="/wiki/Wikipedia:Rollback" title="Wikipedia:Rollback">MediaWiki rollback</a> feature can revert an edit with a single click. With Twinkle, you can easily add a reason for reverting. Also, rollback adds links to other pages like page history and the watchlist, while Twinkle's rollback links only show up in <a href="/wiki/Wikipedia:Diff" class="mw-redirect" title="Wikipedia:Diff">diffs</a>. See <a href="/wiki/Wikipedia:ROLLBACK#Additional_tools" class="mw-redirect" title="Wikipedia:ROLLBACK">WP:ROLLBACK#Additional tools</a> for a bit more on the differences. In my experience, MediaWiki rollback can be useful when page patrolling with your watchlist or <a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">recent changes</a> page since obvious vandalism can be reverted with one click, but I tend to use Twinkle more frequently because of the ability to customize edit summaries and easily place warning templates. <a href="/wiki/User:Clpo13" title="User:Clpo13">clpo13</a><sub>(<a href="/wiki/User_talk:Clpo13" title="User talk:Clpo13">talk</a>)</sub> 23:37, 2 May 2017 (UTC)</dd>
 <dd>(ec) According to <a href="/wiki/Wikipedia:Rollback" title="Wikipedia:Rollback">WP:Rollback</a> they are the same. <a href="/wiki/User:RudolfRed" title="User:RudolfRed">RudolfRed</a> (<a href="/wiki/User_talk:RudolfRed" title="User talk:RudolfRed">talk</a>) 23:38, 2 May 2017 (UTC)</dd>
+<dd>Would that not make applying for Rollback permissions redundant? <a href="/wiki/User:Blorper234" title="User:Blorper234">Blorper234</a> (<a href="/wiki/User_talk:Blorper234" title="User talk:Blorper234">talk</a>) 19:39, 3 May 2017 (UTC)
+<dl>
+<dd>Twinkle offers three rollback options which I find very useful: one being for good faith edits, one for rollback with edit summary prompt and one for blatant vandalism. The last one does a very similar task to the rollback obtained using rights and is often used in the same context. Although I use the one offered by Twinkle, the other one has a nice feature that shows the number of consecutive edits done by the same user (for example, [rollback: 5 edits] or [rollback: 8 edits]). This helps in judging to what extent my revert is going to be effective without manually going through the revision history. As for it being redundant, the Rollback rights obtained by applying require a qualified editor reviewing your edits and seeing if you are likely to use it for good or not. So, some tools such as STiki and Huggle (both are useful for reverting vandalism and more powerful than Twinkle for that matter) can only be downloaded and used by those who have the rights as it is a good measure of the trustworthiness of the person. <a href="/wiki/User:Jiten_Dhandha" title="User:Jiten Dhandha"><span style="color:#0b6e25">Jiten Dhandha</span></a>&#160;• <a href="/wiki/User_talk:Jiten_Dhandha" title="User talk:Jiten Dhandha"><span style="color:#e71d1d">talk</span></a>&#160;• <a href="/wiki/Special:Contributions/Jiten_Dhandha" title="Special:Contributions/Jiten Dhandha"><span style="color:#0017ff">contributions</span></a>&#160;• 22:23, 3 May 2017 (UTC)</dd>
 </dl>
-<p><br /></p>
+</dd>
+</dl>
 <h1><span class="mw-headline" id="May_3">May 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=30" title="Edit section: May 3">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
 <h2><span class="mw-headline" id="SandBox_questions">SandBox questions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=31" title="Edit section: SandBox questions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>I was working in my own personal sandbox and for some reason either the work was deleted or the account was changed. The article that I was posting was "A Cognitive Risk Framework". CogRskFrmWrk user name? If I start a new wikipedia page about a topic for which I am familiar but no other articles or topics are available about the subject how is it approved?</p>
@@ -989,6 +1009,9 @@ Looking forward to a swift reply from your end.</p>
 </dl>
 </dd>
 </dl>
+<dl>
+<dd><a href="/w/index.php?title=User:Edgarjstephens&amp;action=edit&amp;redlink=1" class="new" title="User:Edgarjstephens (page does not exist)">Edgarjstephens</a>, <a href="/wiki/File:Symbol_move_vote.svg" class="image"><img alt="Symbol move vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Symbol_move_vote.svg/20px-Symbol_move_vote.svg.png" width="20" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Symbol_move_vote.svg/30px-Symbol_move_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Symbol_move_vote.svg/40px-Symbol_move_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a> Please understand that Wikipedia has little interest in <i>anything</i> which a subject (whether a company, a person, a band, a charity, or anything else) says or wants to say about itself. That includes the subject's own publications, and also anything published by an independent source but based on an interview or press release from the subject. An article should be largely based on what people who have no connection with the subject have chosen to publish about the subject in reliable places. In any case, every single fact or claim in an article should be derived from a published reliable source. Please see <a href="/wiki/Wikipedia:V" class="mw-redirect" title="Wikipedia:V">WP:V</a> for more information.. Also please be aware of the restrictions on editing with a <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">conflict of interest</a>, and particular in a <a href="/wiki/Wikipedia:PAID" class="mw-redirect" title="Wikipedia:PAID">paid capacity</a>. --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 14:50, 3 May 2017 (UTC)</dd>
+</dl>
 <h2><span class="mw-headline" id="Issue_with_sortable_table">Issue with sortable table</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=34" title="Edit section: Issue with sortable table">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>Here is a table where data (casualities) is not sorted properly&#160;: <a href="/wiki/Israeli_casualties_of_war#Regular_conflicts" title="Israeli casualties of war">Israeli_casualties_of_war#Regular_conflicts</a>. There must be a simple trick I'm not aware of. Please someone show me so that I'll be able to fix it myself in the future<a href="/wiki/User:Kimdime" title="User:Kimdime">Kimdime</a> (<a href="/wiki/User_talk:Kimdime" title="User talk:Kimdime">talk</a>) 11:50, 3 May 2017 (UTC)</p>
 <dl>
@@ -1007,49 +1030,130 @@ Looking forward to a swift reply from your end.</p>
 <dl>
 <dd>Hello, <a href="/w/index.php?title=User:Daveleicuk&amp;action=edit&amp;redlink=1" class="new" title="User:Daveleicuk (page does not exist)">Daveleicuk</a>. If these sources are both reliable (as it seems that they are from your comment) and the point is important, i would mention the difference of opinion, unless perhaps several other sources contradict these two and have a unified position. But if it is simply that other sources do not mention the issue at all, i would include this difference between sources. Reporting what <a href="/wiki/Wikipedia:RS" class="mw-redirect" title="Wikipedia:RS">reliable sources</a> say is not <a href="/wiki/Wikipedia:OR" class="mw-redirect" title="Wikipedia:OR">original research</a> in the Wikipedia sense, it is the basic activity of writing sourced articles. <a href="/wiki/User:DESiegel" title="User:DESiegel">DES</a> <a href="/wiki/User_talk:DESiegel" title="User talk:DESiegel"><sup>(talk)</sup></a> 12:58, 3 May 2017 (UTC)</dd>
 </dl>
-<p><br /></p>
+<dl>
+<dd>
+<dl>
+<dd>Thanks DES, this is helpful <a href="/w/index.php?title=User:Daveleicuk&amp;action=edit&amp;redlink=1" class="new" title="User:Daveleicuk (page does not exist)">Daveleicuk</a> (<a href="/wiki/User_talk:Daveleicuk" title="User talk:Daveleicuk">talk</a>) 15:02, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
 <h2><span class="mw-headline" id="First_Drug_Submarine_found_in_United_States">First Drug Submarine found in United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=36" title="Edit section: First Drug Submarine found in United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>My name is Ivan Kellerman, I found the first submersible drug submarine in the US in November, 1988 while surfing. I would like this added to the archives and be apart of history. <a rel="nofollow" class="external free" href="http://www.upi.com/Archives/1988/11/11/Creative-drug-smugglers-turn-to-submarines/8252316907705/">http://www.upi.com/Archives/1988/11/11/Creative-drug-smugglers-turn-to-submarines/8252316907705/</a> <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:58gram&amp;action=edit&amp;redlink=1" class="new" title="User:58gram (page does not exist)">58gram</a> (<a href="/w/index.php?title=User_talk:58gram&amp;action=edit&amp;redlink=1" class="new" title="User talk:58gram (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/58gram" title="Special:Contributions/58gram">contribs</a>) 13:59, 3 May 2017 (UTC)</small></p>
 <dl>
-<dd>The place to discuss this is on the talk page of the specific article you think it should be added to. This page is more for help on using Wikipedia. What article do you think this info would help? <a href="/wiki/User_talk:GB_fan" title="User talk:GB fan">~&#160;GB&#160;fan</a> 14:07, 3 May 2017 (UTC)</dd>
+<dd>The place to discuss this is on the talk page of the specific article you think it should be added to. This page is more for help on using Wikipedia. What article do you think this info would help? <a href="/wiki/User_talk:GB_fan" title="User talk:GB fan">~&#160;GB&#160;fan</a> 14:07, 3 May 2017 (UTC)
+<dl>
+<dd>Presumably: <a href="/wiki/Narco-submarine" title="Narco-submarine">Narco-submarine</a>? --<a href="/wiki/Special:Contributions/107.15.152.93" title="Special:Contributions/107.15.152.93">107.15.152.93</a> (<a href="/wiki/User_talk:107.15.152.93" title="User talk:107.15.152.93">talk</a>) 21:31, 3 May 2017 (UTC)</dd>
+<dd>I took the liberty of adding a paragraph to the article. --<a href="/wiki/Special:Contributions/107.15.152.93" title="Special:Contributions/107.15.152.93">107.15.152.93</a> (<a href="/wiki/User_talk:107.15.152.93" title="User talk:107.15.152.93">talk</a>) 22:27, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Facebook_Page">Facebook Page</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=37" title="Edit section: Facebook Page">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I am not a big user of Wikipedia so pardon my errors in terms and such. Not even sure how to respond to someone who answered my "talk" so I will try again as the answers were not accurate.</p>
+<p>I am contacting you from the City of Williamsburg Parks and Recreation Department. We own Kiwanis Park in Williamsburg Virginia. I contacted Facebook because the park was listed as a page out there in Facebook land stating "Kiwanis Municipal Stadium Park" and had all the wrong information. Facebook told me I could not claim the page for the City of Williamsburg or make changes to it as it was a wikihub. They told me I had to log into wikipedia and make changes to the page. As soon as I changed the name of the heading from "Kiwanis Municipal Stadium Park" to "Kiwanis Park" the change was reflective on Facebook. Only problem is we already have a Facebook page called Kiwanis Park which is making it very hard for our residents to selected the correct facebook page.</p>
+<p>Here is the link to the page in question. All the text is wrong, the pictures are wrong. It is not even a soccer stadium.</p>
+<p><a rel="nofollow" class="external free" href="https://www.facebook.com/pages/Kiwanis-Park-Williamsburg/1402477856649149">https://www.facebook.com/pages/Kiwanis-Park-Williamsburg/1402477856649149</a></p>
+<p>Isnt there any way this page can be deleted?</p>
+<p>Thank you. Colleen Wilson <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Cwilson23185&amp;action=edit&amp;redlink=1" class="new" title="User:Cwilson23185 (page does not exist)">Cwilson23185</a> (<a href="/wiki/User_talk:Cwilson23185#top" title="User talk:Cwilson23185">talk</a> • <a href="/wiki/Special:Contributions/Cwilson23185" title="Special:Contributions/Cwilson23185">contribs</a>) 15:00, 3 May 2017 (UTC)</small></p>
+<dl>
+<dd>Just for info, this is a continuation of the <a href="/wiki/Wikipedia:Help_desk#Delete_a_page_from_wikipedia" title="Wikipedia:Help desk">Delete a page from wikipedia</a> discussion above - <a href="/wiki/User:X201" title="User:X201">X201</a> (<a href="/wiki/User_talk:X201" title="User talk:X201">talk</a>) 15:16, 3 May 2017 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>... and that, in turn, was a continuation from <a href="/wiki/Wikipedia:Help_desk/Archives/2017_April_27#Change_header_name_on_a_page" title="Wikipedia:Help desk/Archives/2017 April 27">WP:Help desk/Archives/2017 April 27#Change header name on a page</a>. --<a href="/wiki/User:David_Biddulph" title="User:David Biddulph">David Biddulph</a> (<a href="/wiki/User_talk:David_Biddulph" title="User talk:David Biddulph">talk</a>) 16:34, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>Hello, <a href="/w/index.php?title=User:Cwilson23185&amp;action=edit&amp;redlink=1" class="new" title="User:Cwilson23185 (page does not exist)">Cwilson23185</a>. To continue a discussion on this page, pick "[Edit source]" at the top of the section, and add your new comments on the end. You can indent, if you wish, by starting a paragraph with one or more colons (':' - don't start with spaces, or it will format it wrongly). I'm sorry you're having a frustrating time, but as was explained above, Wikipedia has no control whatever over what Facebook does with its data. If Facebook is misinterpreting data from Wikipedia (such as misidentifying a place), I'm afraid that is something that Facebook has to fix. Wikipedia will not compromise its own data just because somebody else is misusing it. --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 16:27, 3 May 2017 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Colin refers to "[Edit source]" at the top of the section, but for those of us using the traditional Wikipedia editor it says merely "[Edit]". --<a href="/wiki/User:David_Biddulph" title="User:David Biddulph">David Biddulph</a> (<a href="/wiki/User_talk:David_Biddulph" title="User talk:David Biddulph">talk</a>) 16:34, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Photo">Photo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=38" title="Edit section: Photo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Someone has created a wikipedia page for my uncle, Doug Dunville. I have a photo of him when he played for the Toronto Marlies. I was hoping to upload it to his page but I'm not sure how... <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Sarahjolee&amp;action=edit&amp;redlink=1" class="new" title="User:Sarahjolee (page does not exist)">Sarahjolee</a> (<a href="/wiki/User_talk:Sarahjolee#top" title="User talk:Sarahjolee">talk</a> • <a href="/wiki/Special:Contributions/Sarahjolee" title="Special:Contributions/Sarahjolee">contribs</a>) 15:05, 3 May 2017 (UTC)</small></p>
+<dl>
+<dd>
+<dl>
+<dd>Hi <a href="/w/index.php?title=User:Sarahjolee&amp;action=edit&amp;redlink=1" class="new" title="User:Sarahjolee (page does not exist)">Sarahjolee</a>! Let me point you to a great resource that will not only explain how to get your image into the system, but then use it online. Take a look here: <a href="/wiki/MOS:IMAGES" class="mw-redirect" title="MOS:IMAGES">MOS:IMAGES</a>. There can not be an <a href="/wiki/Wikipedia:C" class="mw-redirect" title="Wikipedia:C">copyright</a> issues so hopefully you took the picture or it falls under <a href="/wiki/Wikipedia:FUC" class="mw-redirect" title="Wikipedia:FUC">fair use</a>. <b><a href="/wiki/User:Gtstricky" title="User:Gtstricky"><font style="verdana" color="#990000"><i><b>Gtstricky</b></i></font></a><sup><a href="/wiki/User_talk:Gtstricky" title="User talk:Gtstricky">Talk</a> or <a href="/wiki/Special:Contributions/Gtstricky" title="Special:Contributions/Gtstricky">C</a></sup></b> 18:38, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="adding_link_to_online_book">adding link to online book</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=39" title="Edit section: adding link to online book">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In this article:</p>
+<p><a class="external free" href="https://en.wikipedia.org/wiki/Battle_of_St._Quentin_Canal#References">https://en.wikipedia.org/wiki/Battle_of_St._Quentin_Canal#References</a></p>
+<p>the first listed item, the American Battle Monuments Commission book, is available as a downloadable pdf or for viewing online. Chapter VI is the relevant one for my ref and I'd like to add it. I'd appreciate help with this <a href="/w/index.php?title=User:Daveleicuk&amp;action=edit&amp;redlink=1" class="new" title="User:Daveleicuk (page does not exist)">Daveleicuk</a> (<a href="/wiki/User_talk:Daveleicuk" title="User talk:Daveleicuk">talk</a>) 16:23, 3 May 2017 (UTC)</p>
+<h2><span class="mw-headline" id="Please_help._How_to_stop_someone_from_maliciously_editing_and_adding_inaccurate_information_to_an_article.3F">Please help. How to stop someone from maliciously editing and adding inaccurate information to an article?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=40" title="Edit section: Please help. How to stop someone from maliciously editing and adding inaccurate information to an article?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Arion_Golmakani"></span><span class="plainlinks nourlexpansion lx"><a href="/wiki/Arion_Golmakani" title="Arion Golmakani">Arion Golmakani</a> (<a class="external text" href="//en.wikipedia.org/w/index.php?title=Arion_Golmakani&amp;action=edit">edit</a>&#160;| <a href="/wiki/Talk:Arion_Golmakani" title="Talk:Arion Golmakani">talk</a>&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arion_Golmakani&amp;action=history">history</a><span class="sysop-show">&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arion_Golmakani&amp;action=protect">protect</a>&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arion_Golmakani&amp;action=delete">delete</a></span>&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere/Arion_Golmakani&amp;limit=999">links</a>&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arion_Golmakani&amp;action=watch">watch</a>&#160;| <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;page=Arion+Golmakani">logs</a>&#160;| <a class="external text" href="//tools.wmflabs.org/pageviews?pages=Arion_Golmakani&amp;project=en.wikipedia.org">views</a>)</span></p>
+<p>Hello, Someone is playing game with an article related to Arion Golmakani<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, an American author. The contributor is adding to the article that Arion Golmakani has won an award for an erotic book he has written. Neither which is true. Can this person's editing ability be revoked? Thank you <a href="/w/index.php?title=User:Solacers&amp;action=edit&amp;redlink=1" class="new" title="User:Solacers (page does not exist)">Solacers</a> (<a href="/wiki/User_talk:Solacers" title="User talk:Solacers">talk</a>) 17:18, 3 May 2017 (UTC)</p>
+<dl>
+<dd>It seems as if this IP will soon be blocked for 3RR. Unfortunately, attention seems now to be brought to the article / subject itself; which most likely should be submitted for AfD. <a href="/wiki/User:Maineartists" title="User:Maineartists">Maineartists</a> (<a href="/wiki/User_talk:Maineartists" title="User talk:Maineartists">talk</a>) 17:25, 3 May 2017 (UTC)
+<dl>
+<dd>... as a <a href="/wiki/Copyright_violation" class="mw-redirect" title="Copyright violation">copyright violation</a> <a href="/wiki/User:Pppery" title="User:Pppery"><span style="position:relative;top:10px">P</span>p<span style="position:relative;bottom:5px">p</span></a><a href="/wiki/User_talk:Pppery" title="User talk:Pppery">e<big style="position:relative;top:10px">r</big>y</a> 21:35, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<div style="margin: auto 2em; border: 1px dashed #AAAAAA; padding: 4px; background-color: white; padding-left: 1em;">
+<p><b>References</b></p>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Arion Golmakani</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="A_bot_has_archived_my_talk_page_post">A bot has archived my talk page post</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=41" title="Edit section: A bot has archived my talk page post">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 17 March 2017, I posted a note on <a href="/wiki/Talk:Non-British_personnel_in_the_RAF_during_the_Battle_of_Britain" title="Talk:Non-British personnel in the RAF during the Battle of Britain">Talk:Non-British personnel in the RAF during the Battle of Britain</a> about a claim that a Polish airman had been killed by a mob of British civilians. The reference was to a book of anecdotes. I added a "dubious - discuss" template to the article. Now <a href="/wiki/User:ClueBot_III" title="User:ClueBot III">User:ClueBot III</a> has <a href="/wiki/Talk:Non-British_personnel_in_the_RAF_during_the_Battle_of_Britain/Archives/2017/March" title="Talk:Non-British personnel in the RAF during the Battle of Britain/Archives/2017/March">archived the post</a> after only six weeks and clicking "discuss" takes you to a blank page. WTF? <a href="/wiki/User:Alansplodge" title="User:Alansplodge">Alansplodge</a> (<a href="/wiki/User_talk:Alansplodge" title="User talk:Alansplodge">talk</a>) 19:52, 3 May 2017 (UTC)</p>
+<dl>
+<dd>The bot is set up to archive after 365 hours (about 15 days). You can unarchive the page by cutting the text from the archive and pasting it back on the main talk page. Add another comment (and sign it) so that it will not be immediately re-archived. —<a href="/wiki/User:MRD2014" title="User:MRD2014"><b>MRD2014</b></a> <a href="/wiki/User_talk:MRD2014" title="User talk:MRD2014">📞</a> <small><a href="/wiki/Special:Contributions/MRD2014" title="Special:Contributions/MRD2014">contribs</a></small> 21:35, 3 May 2017 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>I have fixed the configuration so that it archives after 365 days (8,760 hours), not 365 hours. —<a href="/wiki/User:MRD2014" title="User:MRD2014"><b>MRD2014</b></a> <a href="/wiki/User_talk:MRD2014" title="User talk:MRD2014">📞</a> <small><a href="/wiki/Special:Contributions/MRD2014" title="Special:Contributions/MRD2014">contribs</a></small> 21:37, 3 May 2017 (UTC)</dd>
+</dl>
+</dd>
 </dl>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1230
-Cached time: 20170503144247
+Parsed by mw1193
+Cached time: 20170503222723
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.272 seconds
-Real time usage: 0.462 seconds
-Preprocessor visited node count: 2230/1000000
+CPU time usage: 0.388 seconds
+Real time usage: 0.596 seconds
+Preprocessor visited node count: 2446/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 92310/2097152 bytes
-Template argument size: 6613/2097152 bytes
+Post‐expand include size: 94955/2097152 bytes
+Template argument size: 6830/2097152 bytes
 Highest expansion depth: 14/40
 Expensive parser function count: 3/500
-Lua time usage: 0.051/10.000 seconds
+Lua time usage: 0.069/10.000 seconds
 Lua memory usage: 2.63 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  189.111      1 -total
- 77.00%  145.625      1 Wikipedia:Help_desk/Header
- 39.14%   74.021      1 Template:Active_editnotice
- 33.70%   63.731      1 Template:Editnotices/Page/Wikipedia:Help_desk
- 22.04%   41.679      2 Template:Navbox
- 20.15%   38.111      1 Template:Ombox
- 18.80%   35.546      1 Template:Wikipedia_help_pages
- 11.33%   21.434     21 Template:Ping
-  7.59%   14.349      1 Template:Editnotice
-  7.44%   14.079      1 Template:Shortcut
+100.00%  233.818      1 -total
+ 71.82%  167.932      1 Wikipedia:Help_desk/Header
+ 35.34%   82.631      1 Template:Active_editnotice
+ 30.03%   70.214      1 Template:Editnotices/Page/Wikipedia:Help_desk
+ 23.05%   53.896      2 Template:Navbox
+ 19.92%   46.566      1 Template:Wikipedia_help_pages
+ 16.49%   38.551      1 Template:Ombox
+ 12.50%   29.222     21 Template:Ping
+  7.74%   18.094      1 Template:Editnotice
+  5.85%   13.675      1 Template:Shortcut
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:564696-0!*!0!!en!4!* and timestamp 20170503144248 and revision id 778502225
+<!-- Saved in parser cache with key enwiki:pcache:idhash:564696-0!*!0!!en!4!* and timestamp 20170503222744 and revision id 778564700
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778502225">https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778502225</a>"					</div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778564700">https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778564700</a>"					</div>
 				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_help_forums" title="Category:Wikipedia help forums">Wikipedia help forums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Non-talk_pages_that_are_automatically_signed" title="Category:Non-talk pages that are automatically signed">Non-talk pages that are automatically signed</a></li><li><a href="/wiki/Category:Pages_automatically_checked_for_incorrect_links" title="Category:Pages automatically checked for incorrect links">Pages automatically checked for incorrect links</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -1134,7 +1238,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Help_desk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Help_desk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778502225" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4026300" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Help_desk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Help_desk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;oldid=778564700" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q4026300" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
@@ -1142,7 +1246,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AHelp+desk">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AHelp+desk&amp;returnto=Wikipedia%3AHelp+desk&amp;oldid=778502225&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AHelp+desk">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AHelp+desk&amp;returnto=Wikipedia%3AHelp+desk&amp;oldid=778564700&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
@@ -1165,7 +1269,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 3 May 2017, at 14:42.</li>
+											<li id="footer-info-lastmod"> This page was last edited on 3 May 2017, at 22:27.</li>
 											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 									</ul>
@@ -1186,6 +1290,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.462","ppvisitednodes":{"value":2230,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":92310,"limit":2097152},"templateargumentsize":{"value":6613,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  189.111      1 -total"," 77.00%  145.625      1 Wikipedia:Help_desk/Header"," 39.14%   74.021      1 Template:Active_editnotice"," 33.70%   63.731      1 Template:Editnotices/Page/Wikipedia:Help_desk"," 22.04%   41.679      2 Template:Navbox"," 20.15%   38.111      1 Template:Ombox"," 18.80%   35.546      1 Template:Wikipedia_help_pages"," 11.33%   21.434     21 Template:Ping","  7.59%   14.349      1 Template:Editnotice","  7.44%   14.079      1 Template:Shortcut"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":2754792,"limit":52428800}},"cachereport":{"origin":"mw1230","timestamp":"20170503144247","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1250"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.596","ppvisitednodes":{"value":2446,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94955,"limit":2097152},"templateargumentsize":{"value":6830,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  233.818      1 -total"," 71.82%  167.932      1 Wikipedia:Help_desk/Header"," 35.34%   82.631      1 Template:Active_editnotice"," 30.03%   70.214      1 Template:Editnotices/Page/Wikipedia:Help_desk"," 23.05%   53.896      2 Template:Navbox"," 19.92%   46.566      1 Template:Wikipedia_help_pages"," 16.49%   38.551      1 Template:Ombox"," 12.50%   29.222     21 Template:Ping","  7.74%   18.094      1 Template:Editnotice","  5.85%   13.675      1 Template:Shortcut"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2754792,"limit":52428800}},"cachereport":{"origin":"mw1193","timestamp":"20170503222723","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1187"});});</script>
 	</body>
 </html>

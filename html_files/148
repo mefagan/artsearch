@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Viquipèdia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portada","wgTitle":"Portada","wgCurRevisionId":10694236,"wgRevisionId":10694236,"wgArticleId":1378,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portades de la Viquipèdia"],"wgBreakFrames":false,"wgPageContentLanguage":"ca","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gener","febrer","març","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"wgMonthNamesShort":["","gen","feb","març","abr","maig","juny","jul","ago","set","oct","nov","des"],"wgRelevantPageName":"Portada","wgRelevantArticleId":1378,"wgRequestId":"WQjOlgrAADoAAEraN6UAAABQ","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ca","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ca","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"català","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1fy49fd",function($,jQuery,require,module){mw.user.options.set({"variant":"ca"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portada","wgTitle":"Portada","wgCurRevisionId":10694236,"wgRevisionId":10694236,"wgArticleId":1378,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portades de la Viquipèdia"],"wgBreakFrames":false,"wgPageContentLanguage":"ca","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gener","febrer","març","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"wgMonthNamesShort":["","gen","feb","març","abr","maig","juny","jul","ago","set","oct","nov","des"],"wgRelevantPageName":"Portada","wgRelevantArticleId":1378,"wgRequestId":"WQpakApAEKgAAD7JhQQAAABA","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ca","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ca","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"català","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1fy49fd",function($,jQuery,require,module){mw.user.options.set({"variant":"ca"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.charinsert","ext.gadget.AltresViccionari","ext.gadget.purgetab","ext.gadget.visualeditor-signature","ext.gadget.DocTabs","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -14,7 +14,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ca&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dancing_Girls_Bath.jpg/1200px-Dancing_Girls_Bath.jpg"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leopard-1-latrun-1.jpg/1200px-Leopard-1-latrun-1.jpg"/>
 <link rel="alternate" href="android-app://org.wikipedia/http/ca.m.wikipedia.org/wiki/Portada"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
@@ -43,7 +43,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				<div id="mw-content-text" lang="ca" dir="ltr" class="mw-content-ltr"><table style="width:100%; background:#F2F5FD; border:1px solid #C7D0F8; font-size:107%; -moz-border-radius:1em; -webkit-border-radius:1em;border-radius:1em;">
 <tr>
 <td valign="top" style="padding:12px 17px 5px 17px"><big><b>Benvinguts a la <a href="/wiki/Viquip%C3%A8dia" title="Viquipèdia">Viquipèdia</a></b>, l'enciclopèdia de <a href="/wiki/Viquip%C3%A8dia:Condicions_d%27%C3%BAs" title="Viquipèdia:Condicions d'ús">contingut lliure</a> que <b><a href="/wiki/Viquip%C3%A8dia:Introducci%C3%B3" title="Viquipèdia:Introducció">tothom pot millorar</a></b>.</big>
-<p><a href="/wiki/Viquip%C3%A8dia_en_catal%C3%A0" title="Viquipèdia en català">Aquesta edició</a> va començar el <a href="/wiki/16_de_mar%C3%A7" title="16 de març">16 de març</a> del <a href="/wiki/2001" title="2001">2001</a> i ja tenim <big><b><a href="/wiki/Especial:Estad%C3%ADstiques" title="Especial:Estadístiques">541.342 articles</a></b></big>.</p>
+<p><a href="/wiki/Viquip%C3%A8dia_en_catal%C3%A0" title="Viquipèdia en català">Aquesta edició</a> va començar el <a href="/wiki/16_de_mar%C3%A7" title="16 de març">16 de març</a> del <a href="/wiki/2001" title="2001">2001</a> i ja tenim <big><b><a href="/wiki/Especial:Estad%C3%ADstiques" title="Especial:Estadístiques">541.487 articles</a></b></big>.</p>
 <p>Encara no hi heu col·laborat? <b><a href="/wiki/Ajuda:Llanceu-vos-hi!" title="Ajuda:Llanceu-vos-hi!">Llanceu-vos-hi!</a></b></p>
 </td>
 <td class="fonslogo" style="text-align:right; font-size:90%; padding:12px 170px 0px 0px;font-weight:bold;"></td>
@@ -71,12 +71,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div style="text-align:left; font-size:95%;">
 <div id="mf-tfa" title="Article del dia">
 <div class="ombreig" style="float:right;margin-left:1em">
-<p><a href="/wiki/Fitxer:Palma_de_Mallorca-cathedral.jpg" class="image" title="La Seu de Palma"><img alt="La Seu de Palma" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Palma_de_Mallorca-cathedral.jpg/160px-Palma_de_Mallorca-cathedral.jpg" width="160" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Palma_de_Mallorca-cathedral.jpg/240px-Palma_de_Mallorca-cathedral.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Palma_de_Mallorca-cathedral.jpg/320px-Palma_de_Mallorca-cathedral.jpg 2x" data-file-width="800" data-file-height="524" /></a></p>
+<p><a href="/wiki/Fitxer:Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg" class="image" title="Escola de Veit Stoss: Altar Rosenkranz, Liebfrauenmünster a Ingolstadt (Alemanya). Fusta policromada, c. 1510."><img alt="Escola de Veit Stoss: Altar Rosenkranz, Liebfrauenmünster a Ingolstadt (Alemanya). Fusta policromada, c. 1510." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg/140px-Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg" width="140" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg/210px-Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg/280px-Wolframs-Eschenbach_Liebfrauenm%C3%BCnster_Rosenkranzaltar_Mitte.jpg 2x" data-file-width="2221" data-file-height="2279" /></a></p>
 </div>
-<p>La <b><a href="/wiki/Catedral_de_Palma" class="mw-redirect" title="Catedral de Palma">Catedral de Palma</a></b>, o <b>Seu de Mallorca</b> (popularment <i>la Seu</i>), és el principal edifici religiós de la ciutat de <a href="/wiki/Palma" title="Palma">Palma</a>, seu episcopal de la diòcesi de <a href="/wiki/Mallorca" title="Mallorca">Mallorca</a>. És d'estil <a href="/wiki/G%C3%B2tic_catal%C3%A0" title="Gòtic català">gòtic català</a> i famosa per la seva <a href="/wiki/Rosassa" title="Rosassa">rosassa</a> i pel gran espai interior comparat amb la mola exterior. El seu tret principal, però, és la seva situació, a l'acròpoli de la ciutat romana de Palma, davant la mar, amb la muralla als peus i entre el <a href="/wiki/Palau_de_l%27Almudaina" title="Palau de l'Almudaina">castell de l'Almudaina</a> i el <a href="/w/index.php?title=Palau_episcopal_de_Mallorca&amp;action=edit&amp;redlink=1" class="new" title="Palau episcopal de Mallorca (encara no existeix)">Palau episcopal</a>.</p>
-<p>En la localització dalt d'un cingle, en els contraforts <a href="/wiki/Paral%C2%B7lelep%C3%ADpede" title="Paral·lelepípede">paral·lelepipèdics</a> amb <a href="/wiki/Boterell" class="mw-redirect" title="Boterell">boterells</a> i en la proporció entre l'alçada de la nau principal i les laterals s'hi assembla la <a href="/wiki/Col%C2%B7legiata_Bas%C3%ADlica_de_Santa_Maria" class="mw-redirect" title="Col·legiata Basílica de Santa Maria">seu de Manresa</a>. La grandària de l'espai interior és semblant a la de <a href="/wiki/Santa_Maria_del_Mar" title="Santa Maria del Mar">Santa Maria del Mar</a> i procedeix de la reforma introduïda després de la reincorporació del <a href="/wiki/Regne_de_Mallorca" title="Regne de Mallorca">Regne de Mallorca</a> a la <a href="/wiki/Corona_d%27Arag%C3%B3" title="Corona d'Aragó">Corona d'Aragó</a>. Les semblances amb aquests dos edificis han de venir d'un arquitecte comú: <a href="/wiki/Berenguer_de_Montagut" title="Berenguer de Montagut">Berenguer de Montagut</a>.</p>
+<p>L'<b><a href="/wiki/Escultura_g%C3%B2tica" title="Escultura gòtica">escultura gòtica</a></b> representa la segona de les principals escoles internacionals d'<a href="/wiki/Escultura" title="Escultura">escultura</a> europea que es va desenvolupar a l'<a href="/wiki/Edat_mitjana" title="Edat mitjana">edat mitjana</a>, aproximadament des de mitjans del <a href="/wiki/Segle_XII" title="Segle XII">segle XII</a> fins al <a href="/wiki/Segle_XVI" title="Segle XVI">segle XVI</a>. Fou un tipus d'escultura que evolucionà a partir de l'<a href="/wiki/Escultura_rom%C3%A0nica" title="Escultura romànica">estil romànic</a> i que més endavant es "dissoldria" en el que seria l'<a href="/wiki/Escultura_del_Renaixement" title="Escultura del Renaixement">escultura del Renaixement</a> i el <a href="/wiki/Manierisme" title="Manierisme">manierisme</a>.</p>
+<p>L'escultura gòtica va néixer estretament vinculada a l'<a href="/wiki/Arquitectura" title="Arquitectura">arquitectura</a>, com s'observa en la decoració de les grans <a href="/wiki/Catedral" title="Catedral">catedrals</a> i d'altres edificis religiosos, però amb el temps va anar guanyant independència.</p>
 <div align="right">
-<p><b><a href="/wiki/Catedral_de_Palma" class="mw-redirect" title="Catedral de Palma">Continuació…</a></b> – <b><a href="/wiki/Viquip%C3%A8dia:Articles_seleccionats/maig" title="Viquipèdia:Articles seleccionats/maig">Arxiu</a></b></p>
+<p><b><a href="/wiki/Escultura_g%C3%B2tica" title="Escultura gòtica">Continuació…</a></b> – <b><a href="/wiki/Viquip%C3%A8dia:Articles_seleccionats/maig" title="Viquipèdia:Articles seleccionats/maig">Arxiu</a></b></p>
 </div>
 <div style="position:relative; bottom:0px; text-align:center; font-size:95%; padding:15px 0px 0px 10px;"><a href="/wiki/Viquip%C3%A8dia:Articles_de_qualitat" title="Viquipèdia:Articles de qualitat">Articles de qualitat</a> <span style="font-weight:bold;">&#160;·</span>  <a href="/wiki/Viquip%C3%A8dia:Articles_bons" title="Viquipèdia:Articles bons">Articles bons</a> <span style="font-weight:bold;">&#160;·</span>  <a href="/wiki/Viquip%C3%A8dia:Temes_de_qualitat" title="Viquipèdia:Temes de qualitat">Temes de qualitat</a></div>
 </div>
@@ -132,7 +132,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <ul>
 <li>Es reactiva la <b><a href="/wiki/Xarxa_d%27Emissores_Municipals_Valencianes" title="Xarxa d'Emissores Municipals Valencianes">Xarxa d'Emissores Municipals Valencianes</a></b>.</li>
 </ul>
-<span style="text-decoration: underline;"><b><a href="/wiki/Viquiprojecte:Wikidata/Defuncions_recents" title="Viquiprojecte:Wikidata/Defuncions recents">Defuncions recents</a></b></span>: <a href="/wiki/Ueli_Steck" title="Ueli Steck">Ueli Steck</a>, <a href="/wiki/Jonathan_Demme" title="Jonathan Demme">Jonathan Demme</a>, <a href="/wiki/Aina_Rado_i_Ferrando" title="Aina Rado i Ferrando">Aina Rado</a>, <a href="/wiki/Xavier_Corber%C3%B3_i_Olivella" title="Xavier Corberó i Olivella">Xavier Corberó</a>, <a href="/wiki/Imre_F%C3%B6ldi" title="Imre Földi">Imre Földi</a>, <a href="/wiki/Pere_T%C3%A0pies" class="mw-redirect" title="Pere Tàpies">Pere Tàpies</a>, <a href="/wiki/Jos%C3%A9_Utrera_Molina" title="José Utrera Molina">José Utrera Molina</a>, <a href="/wiki/Carlos_Slepoy" title="Carlos Slepoy">Carlos Slepoy</a>, <a href="/wiki/Joan_Torras_i_Compte" title="Joan Torras i Compte">Joan Torras</a>.
+<span style="text-decoration: underline;"><b><a href="/wiki/Viquiprojecte:Wikidata/Defuncions_recents" title="Viquiprojecte:Wikidata/Defuncions recents">Defuncions recents</a></b></span>: <a href="/wiki/Edmon_Maria_Garreta_i_Olivella" title="Edmon Maria Garreta i Olivella">Edmon Maria Garreta</a>, <a href="/wiki/Ueli_Steck" title="Ueli Steck">Ueli Steck</a>, <a href="/wiki/Miguel_%C3%81ngel_Bastenier_Mart%C3%ADnez" title="Miguel Ángel Bastenier Martínez">Miguel Ángel Bastenier</a>, <a href="/wiki/Josep_Maria_Muntaner_i_Pasqual" title="Josep Maria Muntaner i Pasqual">Josep Maria Muntaner</a>, <a href="/wiki/Vito_Acconci" title="Vito Acconci">Vito Acconci</a>, <a href="/wiki/Jonathan_Demme" title="Jonathan Demme">Jonathan Demme</a>, <a href="/wiki/Aina_Rado_i_Ferrando" title="Aina Rado i Ferrando">Aina Rado</a>, <a href="/wiki/Xavier_Corber%C3%B3_i_Olivella" title="Xavier Corberó i Olivella">Xavier Corberó</a>, <a href="/wiki/Imre_F%C3%B6ldi" title="Imre Földi">Imre Földi</a>, <a href="/wiki/Pere_T%C3%A0pies" class="mw-redirect" title="Pere Tàpies">Pere Tàpies</a>.
 <p align="right"><small><a href="https://ca.wikinews.org/wiki/" class="extiw" title="n:">Visiteu <b>Viquinotícies</b></a> - <span class="plainlinks"><a class="external text" href="//ca.wikipedia.org/w/index.php?title=Plantilla:Actualitatportada/Contingut&amp;action=edit">modifica</a></span></small></p>
 </div>
 </div>
@@ -159,18 +159,18 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div class="floatright"><img alt="Curiositats" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gartoon-Gedit-icon.png/50px-Gartoon-Gedit-icon.png" title="Curiositats" width="50" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gartoon-Gedit-icon.png/75px-Gartoon-Gedit-icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gartoon-Gedit-icon.png/100px-Gartoon-Gedit-icon.png 2x" data-file-width="128" data-file-height="132" /></div>
 <div id="mc0" class="mcBlau">
 <div>
-<div id="mc0bt1" class="mcBoto">&#160;Sabíeu que...</div>
-<div id="mc0bt2" class="mcBotoSel">&#160;En sabeu la resposta?</div>
+<div id="mc0bt1" class="mcBotoSel">&#160;Sabíeu que...</div>
+<div id="mc0bt2" class="mcBoto">&#160;En sabeu la resposta?</div>
 </div>
 <div class="mcContingut">
-<div id="mc0ps1" class="mcPestanya" style="display:none;visibility:hidden;">
+<div id="mc0ps1" class="mcPestanya" style="display:block;visibility:visible;">
 <h3><span class="mw-headline" id="Sab.C3.ADeu_que...">Sabíeu que...</span></h3>
 <div style="margin-left:-1em;">
 <dl>
 <dd>
 <ul>
-<li>...l'<b><a href="/wiki/Him%C3%A0laia" title="Himàlaia">Himàlaia</a></b> s'estén pels països de <b><a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>, <a href="/wiki/Xina" title="Xina">Xina</a>, <a href="/wiki/Nepal" title="Nepal">Nepal</a>, <a href="/wiki/Tibet" title="Tibet">Tibet</a>, <a href="/wiki/%C3%8Dndia" title="Índia">Índia</a></b> i <b><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></b>&#160;?</li>
-<li>...els <b><a href="/wiki/Taurons" class="mw-redirect" title="Taurons">taurons</a></b> són capaços de localitzar les seves preses notant l'<b><a href="/wiki/Energia" title="Energia">energia</a></b> <b><a href="/wiki/Electricitat" title="Electricitat">elèctrica</a></b> dels seus <b><a href="/wiki/Sistema_nervi%C3%B3s" title="Sistema nerviós">sistemes nerviosos</a></b>?</li>
+<li>......els <a href="/wiki/Ratolins" class="mw-redirect" title="Ratolins">ratolins</a> són <b><a href="/wiki/Euarcontoglir" title="Euarcontoglir">més propers</a></b> als <a href="/wiki/Humans" class="mw-redirect" title="Humans">humans</a> que no pas a les <a href="/wiki/Musaranyes" class="mw-redirect" title="Musaranyes">musaranyes</a>?</li>
+<li>......el nom de la <b><a href="/wiki/Tramuntana" title="Tramuntana">tramuntana</a></b> prové del <a href="/wiki/Llat%C3%AD" title="Llatí">llatí</a> <i>transmontanus-i</i>, que significa "d'enllà de les muntanyes"?</li>
 </ul>
 </dd>
 </dl>
@@ -179,11 +179,15 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <p><b><a href="/wiki/Viquip%C3%A8dia:An%C3%A8cdotes_seleccionades/maig" title="Viquipèdia:Anècdotes seleccionades/maig">Arxiu</a></b></p>
 </div>
 </div>
-<div id="mc0ps2" class="mcPestanya" style="display:block;visibility:visible;"><br style="display: none; visibility: hidden;" />
+<div id="mc0ps2" class="mcPestanya" style="display:none;visibility:hidden;"><br style="display: none; visibility: hidden;" />
 <h3><span class="mw-headline" id="En_sabeu_la_resposta.3F">En sabeu la resposta?</span></h3>
+<div class="ombreig" style="float:right;margin-left:1em">
+<p><a href="/wiki/Fitxer:Backgammon_Set.jpg" class="image" title="Joc"><img alt="Joc" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Backgammon_Set.jpg/110px-Backgammon_Set.jpg" width="110" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Backgammon_Set.jpg/165px-Backgammon_Set.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Backgammon_Set.jpg/220px-Backgammon_Set.jpg 2x" data-file-width="640" data-file-height="480" /></a></p>
+</div>
 <ul>
-<li>A quin joc català estava molt aficionat el rei francès <a href="/wiki/Llu%C3%ADs_XIV" class="mw-redirect" title="Lluís XIV">Lluís XIV</a>? - <b><a href="/wiki/Joc_de_l%27auca" title="Joc de l'auca">Resposta</a></b></li>
-<li>Quina llengua no té <a href="/wiki/Nombre" title="Nombre">nombres</a> o paraules per comptar<b>? -</b> <a href="/wiki/Pirah%C3%A3" title="Pirahã">Resposta</a></li>
+<li>Quin famós mafiós només va poder ser tancat pel delicte de no pagar impostos? - <b><a href="/wiki/Al_Capone" title="Al Capone">Resposta</a></b></li>
+<li>Com s'anomenen els diferents patrons de malabarisme descrits per cadenes de números? - <b><a href="/wiki/Transposicionals" title="Transposicionals">Resposta</a></b></li>
+<li>Quin joc està representat en la imatge mostrada a la dreta? - <b><a href="/wiki/Backgammon" title="Backgammon">Resposta</a></b></li>
 </ul>
 <p><br clear="all" /></p>
 <div style="text-align: right; margin-top: -10px;"><b><a href="/wiki/Viquip%C3%A8dia:Preguntes_seleccionades/maig" title="Viquipèdia:Preguntes seleccionades/maig">Arxiu</a></b></div>
@@ -210,20 +214,20 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div style="text-align:left; font-size:95%;">
 <div id="mf-otd" title="Efemèrides">
 <div style="margin-left:6px;">
-<p><b><a href="/wiki/2_de_maig" title="2 de maig">2 de maig</a></b>:</p>
+<p><b><a href="/wiki/4_de_maig" title="4 de maig">4 de maig</a></b>:</p>
 <div class="ombreig" style="float:right;margin-left:1em">
-<p><a href="/wiki/Fitxer:El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg" class="image" title="&quot;El dos de mayo de 1808 en Madrid&quot;"><img alt="&quot;El dos de mayo de 1808 en Madrid&quot;" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg/110px-El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg" width="110" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg/165px-El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg/220px-El_dos_de_mayo_de_1808_en_Madrid_rdit.jpg 2x" data-file-width="3051" data-file-height="2359" /></a></p>
+<p><a href="/wiki/Fitxer:Thatcher-loc.jpg" class="image" title="Margaret Tatcher el 1975"><img alt="Margaret Tatcher el 1975" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thatcher-loc.jpg/90px-Thatcher-loc.jpg" width="90" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thatcher-loc.jpg/135px-Thatcher-loc.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thatcher-loc.jpg/180px-Thatcher-loc.jpg 2x" data-file-width="1606" data-file-height="1913" /></a></p>
 </div>
 <div style="margin-left:-1em;">
 <ul>
-<li><a href="/wiki/1668" title="1668">1668</a> – <a href="/wiki/Aquisgr%C3%A0" title="Aquisgrà">Aquisgrà</a>, <a href="/wiki/Sacre_Imperi_Romanogerm%C3%A0nic" title="Sacre Imperi Romanogermànic">Sacre Imperi Romanogermànic</a>: se signa el <a href="/wiki/Tractat_d%27Aquisgr%C3%A0_(1668)" title="Tractat d'Aquisgrà (1668)">Tractat d'Aquisgrà</a>.</li>
-<li><a href="/wiki/1754" title="1754">1754</a> – <a href="/wiki/Val%C3%A8ncia" title="València">València</a>: neix <a href="/wiki/Vicent_Mart%C3%ADn_i_Soler" title="Vicent Martín i Soler">Vicent Martín i Soler</a>, compositor del <a href="/wiki/Classicisme_musical" title="Classicisme musical">classicisme</a> (m. <a href="/wiki/1806" title="1806">1806</a>).</li>
-<li><a href="/wiki/1766" title="1766">1766</a> – <a href="/wiki/Elx" title="Elx">Elx</a> (el <a href="/wiki/Baix_Vinalop%C3%B3" title="Baix Vinalopó">Baix Vinalopó</a>): les autoritats derroten una revolta antisenyorial.</li>
-<li><a href="/wiki/1808" title="1808">1808</a> – <a href="/wiki/Madrid" title="Madrid">Madrid</a>: es produeix un <b><a href="/wiki/Aixecament_del_2_de_maig_de_1808" title="Aixecament del 2 de maig de 1808">aixecament popular</a></b> contra les forces <a href="/wiki/Napole%C3%B3_Bonaparte" title="Napoleó Bonaparte">napoleòniques</a> ocupants que desencadena la <a href="/wiki/Guerra_del_Franc%C3%A8s" title="Guerra del Francès">Guerra del Francès</a>.</li>
-<li><a href="/wiki/1879" title="1879">1879</a> – <a href="/wiki/Madrid" title="Madrid">Madrid</a>: <a href="/wiki/Pablo_Iglesias_Posse" title="Pablo Iglesias Posse">Pablo Iglesias</a> impulsa la fundació del <a href="/wiki/Partit_Socialista_Obrer_Espanyol" title="Partit Socialista Obrer Espanyol">Partit Socialista Obrer Espanyol</a>.</li>
+<li><a href="/wiki/1704" title="1704">1704</a> – <a href="/wiki/Lisboa" title="Lisboa">Lisboa</a> (<a href="/wiki/Portugal" title="Portugal">Portugal</a>): hi desembarca l'<a href="/wiki/Carles_VI_del_Sacre_Imperi_Romanogerm%C3%A0nic" title="Carles VI del Sacre Imperi Romanogermànic">arxiduc Carles d'Àustria</a>, començant la <a href="/wiki/Guerra_de_Successi%C3%B3_Espanyola" title="Guerra de Successió Espanyola">Guerra de Successió Espanyola</a>.</li>
+<li><a href="/wiki/1707" title="1707">1707</a> – <a href="/wiki/Bunyol" title="Bunyol">Bunyol</a> (la <a href="/wiki/Foia_de_Bunyol" title="Foia de Bunyol">Foia de Bunyol</a>): les tropes <a href="/wiki/Felip_V_d%27Espanya" title="Felip V d'Espanya">borbòniques</a> ocupen la vila (<a href="/wiki/Guerra_de_Successi%C3%B3_Espanyola" title="Guerra de Successió Espanyola">guerra de Successió</a>).</li>
+<li><a href="/wiki/1773" title="1773">1773</a> – <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>: s'hi esdevé un avalot de quintes, una protesta contra les <a href="/wiki/Servei_militar" title="Servei militar">lleves</a> abusives.</li>
+<li><a href="/wiki/1968" title="1968">1968</a> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>: les autoritats <a href="/wiki/Espanya" title="Espanya">espanyoles</a> tanquen el pas fronterer amb aquest enclavament.</li>
+<li><a href="/wiki/1979" title="1979">1979</a> – el <a href="/wiki/Regne_Unit" title="Regne Unit">Regne Unit</a>: el <a href="/wiki/Parlament_del_Regne_Unit" title="Parlament del Regne Unit">Parlament</a> nomena <b><a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">Margaret Thatcher</a></b> cap del govern; serà la primera dona que ocupa el càrrec.</li>
 </ul>
 </div>
-<p>Dies recents: <a href="/wiki/1_de_maig" title="1 de maig">1 de maig</a> – <a href="/wiki/30_d%27abril" title="30 d'abril">30 d'abril</a> – <a href="/wiki/29_d%27abril" title="29 d'abril">29 d'abril</a></p>
+<p>Dies recents: <a href="/wiki/3_de_maig" title="3 de maig">3 de maig</a> – <a href="/wiki/2_de_maig" title="2 de maig">2 de maig</a> – <a href="/wiki/1_de_maig" title="1 de maig">1 de maig</a></p>
 <div align="right">
 <p><b><a href="/wiki/Viquip%C3%A8dia:Efem%C3%A8rides_seleccionades/Maig" title="Viquipèdia:Efemèrides seleccionades/Maig">Arxiu</a></b> – <b><a href="/wiki/Calendari_d%27esdeveniments" title="Calendari d'esdeveniments">Més aniversaris històrics…</a></b></p>
 </div>
@@ -251,8 +255,8 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td colspan="2" style="color:#000; background:#fffafa; padding:15px 5px">
 <div style="font-size:95%">
 <div style="text-align: center; background-color:transparent;">
-<div class="ombreig"><a href="/wiki/Fitxer:Darius_In_Parse.JPG" class="image"><img alt="Darius In Parse.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darius_In_Parse.JPG/198px-Darius_In_Parse.JPG" width="198" height="350" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darius_In_Parse.JPG/298px-Darius_In_Parse.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darius_In_Parse.JPG/397px-Darius_In_Parse.JPG 2x" data-file-width="1775" data-file-height="3130" /></a></div>
-Relleu de <a href="/wiki/Darios_I_el_Gran" title="Darios I el Gran">Darios I el Gran</a> a <a href="/wiki/Pers%C3%A8polis" title="Persèpolis">Persèpolis</a>
+<div class="ombreig"><a href="/wiki/Fitxer:Adolphe_Adam_by_Maurin.jpg" class="image"><img alt="Adolphe Adam by Maurin.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Adolphe_Adam_by_Maurin.jpg/311px-Adolphe_Adam_by_Maurin.jpg" width="311" height="350" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Adolphe_Adam_by_Maurin.jpg/467px-Adolphe_Adam_by_Maurin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Adolphe_Adam_by_Maurin.jpg/622px-Adolphe_Adam_by_Maurin.jpg 2x" data-file-width="4000" data-file-height="4500" /></a></div>
+<a href="/wiki/Adolphe_Adam" title="Adolphe Adam">Adolphe Adam</a> (<a href="/wiki/1803" title="1803">1803</a> - <a href="/wiki/1856" title="1856">1856</a>) fou un <a href="/wiki/Compositor" title="Compositor">compositor</a>, <a href="/wiki/Pianista" title="Pianista">pianista</a> i <a href="/wiki/Musicologia" title="Musicologia">musicòleg</a> <a href="/wiki/Par%C3%ADs" title="París">parisenc</a>.
 <p><span style="font-size:90%;"><a href="/wiki/Viquip%C3%A8dia:Imatge_del_dia/darreres" title="Viquipèdia:Imatge del dia/darreres">Més imatges del dia</a></span></p>
 </div>
 </div>
@@ -274,11 +278,11 @@ Relleu de <a href="/wiki/Darios_I_el_Gran" title="Darios I el Gran">Darios I el 
 <div style="text-align:left; font-size:95%;">
 <div id="mc1" class="mcLila">
 <div>
-<div id="mc1bt1" class="mcBoto">&#160;Altres llengües</div>
-<div id="mc1bt2" class="mcBotoSel">&#160;Projectes germans</div>
+<div id="mc1bt1" class="mcBotoSel">&#160;Altres llengües</div>
+<div id="mc1bt2" class="mcBoto">&#160;Projectes germans</div>
 </div>
 <div class="mcContingut">
-<div id="mc1ps1" class="mcPestanya" style="display:none;visibility:hidden;"><br style="display: none;" />
+<div id="mc1ps1" class="mcPestanya" style="display:block;visibility:visible;"><br style="display: none;" />
 <table align="center" cellpadding="2" width="100%" style="text-align:left; background-color: transparent;">
 <tr>
 <td width="100%" style="border-width: 0px;">
@@ -311,7 +315,7 @@ Relleu de <a href="/wiki/Darios_I_el_Gran" title="Darios I el Gran">Darios I el 
 </tr>
 </table>
 </div>
-<div id="mc1ps2" class="mcPestanya" style="display:block;visibility:visible;"><br style="display: none;" />
+<div id="mc1ps2" class="mcPestanya" style="display:none;visibility:hidden;"><br style="display: none;" />
 <table class="plainlinks" style="max-width: 100%; width: 40em; margin: 0 auto 0 auto; height: 20em; background: transparent; font-size:80%;">
 <tr>
 <td style="text-align:right;">
@@ -454,36 +458,36 @@ Relleu de <a href="/wiki/Darios_I_el_Gran" title="Darios I el Gran">Darios I el 
 
 <!-- 
 NewPP limit report
-Parsed by mw2117
-Cached time: 20170502182251
+Parsed by mw1176
+Cached time: 20170503223227
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.112 seconds
-Real time usage: 0.220 seconds
-Preprocessor visited node count: 417/1000000
+CPU time usage: 0.100 seconds
+Real time usage: 0.150 seconds
+Preprocessor visited node count: 427/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 54986/2097152 bytes
-Template argument size: 8374/2097152 bytes
+Post‐expand include size: 55673/2097152 bytes
+Template argument size: 8555/2097152 bytes
 Highest expansion depth: 12/40
 Expensive parser function count: 0/500
 Lua time usage: 0.010/10.000 seconds
-Lua memory usage: 856 KB/50 MB
+Lua memory usage: 860 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   99.384      1 -total
-100.00%   99.384      1 Plantilla:Portada10anys
- 48.59%   48.292      1 Plantilla:Imatge_del_dia
- 46.57%   46.284      2 Plantilla:FotoDelDia
- 27.03%   26.863      2 Plantilla:Metacaixa
-  9.35%    9.289      1 Plantilla:Contingut_Altres_llengües
-  7.38%    7.339      1 Plantilla:Actualitatportada
-  5.37%    5.341      1 Plantilla:Fontcolor
-  4.67%    4.637      1 Plantilla:Actualitatportada/Contingut
-  3.61%    3.588      1 Plantilla:En_saps_la_resposta
+100.00%   66.807      1 -total
+100.00%   66.807      1 Plantilla:Portada10anys
+ 37.97%   25.365      2 Plantilla:Metacaixa
+ 34.78%   23.236      1 Plantilla:Imatge_del_dia
+ 33.01%   22.055      2 Plantilla:FotoDelDia
+ 10.32%    6.894      1 Plantilla:Contingut_Altres_llengües
+ 10.18%    6.802      1 Plantilla:Actualitatportada
+  7.77%    5.192      1 Plantilla:Fontcolor
+  7.47%    4.989      1 Plantilla:Actualitatportada/Contingut
+  6.32%    4.223      1 Plantilla:Maig_4?
 -->
 
-<!-- Saved in parser cache with key cawiki:pcache:idhash:1378-0!*!0!!*!4!* and timestamp 20170502182250 and revision id 10694236
+<!-- Saved in parser cache with key cawiki:pcache:idhash:1378-0!*!0!!*!4!* and timestamp 20170503223227 and revision id 10694236
  -->
 <noscript><img src="//ca.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtingut de «<a dir="ltr" href="https://ca.wikipedia.org/w/index.php?title=Portada&amp;oldid=10694236">https://ca.wikipedia.org/w/index.php?title=Portada&amp;oldid=10694236</a>»					</div>
@@ -601,7 +605,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> Darrera modificació de la pàgina: 28 des 2012 a les 11:56.</li>
+											<li id="footer-info-lastmod"> La pàgina va ser modificada per darrera vegada el 28 des 2012 a les 11:56.</li>
 											<li id="footer-info-copyright">El text està disponible sota la <a href="//ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada"> Llicència de Creative Commons Reconeixement i Compartir-Igual</a>; es poden aplicar termes addicionals.
 Vegeu les <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ca" title="Condicions d'ús">Condicions d'ús</a>.
 Wikipedia&reg; (Viquipèdia™) és una <a href="//ca.wikipedia.org/wiki/Marca_comercial">marca registrada</a> de <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc</a>.<br /></li>
@@ -622,6 +626,6 @@ Wikipedia&reg; (Viquipèdia™) és una <a href="//ca.wikipedia.org/wiki/Marca_c
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.220","ppvisitednodes":{"value":417,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54986,"limit":2097152},"templateargumentsize":{"value":8374,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   99.384      1 -total","100.00%   99.384      1 Plantilla:Portada10anys"," 48.59%   48.292      1 Plantilla:Imatge_del_dia"," 46.57%   46.284      2 Plantilla:FotoDelDia"," 27.03%   26.863      2 Plantilla:Metacaixa","  9.35%    9.289      1 Plantilla:Contingut_Altres_llengües","  7.38%    7.339      1 Plantilla:Actualitatportada","  5.37%    5.341      1 Plantilla:Fontcolor","  4.67%    4.637      1 Plantilla:Actualitatportada/Contingut","  3.61%    3.588      1 Plantilla:En_saps_la_resposta"]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"10.000"},"limitreport-memusage":{"value":876882,"limit":52428800}},"cachereport":{"origin":"mw2117","timestamp":"20170502182251","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw2232"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.150","ppvisitednodes":{"value":427,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55673,"limit":2097152},"templateargumentsize":{"value":8555,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   66.807      1 -total","100.00%   66.807      1 Plantilla:Portada10anys"," 37.97%   25.365      2 Plantilla:Metacaixa"," 34.78%   23.236      1 Plantilla:Imatge_del_dia"," 33.01%   22.055      2 Plantilla:FotoDelDia"," 10.32%    6.894      1 Plantilla:Contingut_Altres_llengües"," 10.18%    6.802      1 Plantilla:Actualitatportada","  7.77%    5.192      1 Plantilla:Fontcolor","  7.47%    4.989      1 Plantilla:Actualitatportada/Contingut","  6.32%    4.223      1 Plantilla:Maig_4?"]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"10.000"},"limitreport-memusage":{"value":881058,"limit":52428800}},"cachereport":{"origin":"mw1176","timestamp":"20170503223227","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1213"});});</script>
 	</body>
 </html>

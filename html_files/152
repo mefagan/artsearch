@@ -4,11 +4,11 @@
 <meta charset="UTF-8"/>
 <title>Wikipédia, a szabad enciklopédia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kezdőlap","wgTitle":"Kezdőlap","wgCurRevisionId":17612766,"wgRevisionId":17612766,"wgArticleId":684328,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kezdőlap"],"wgBreakFrames":false,"wgPageContentLanguage":"hu","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ymd","wgMonthNames":["","január","február","március","április","május","június","július","augusztus","szeptember","október","november","december"],"wgMonthNamesShort":["","jan","febr","márc","ápr","máj","jún","júl","aug","szept","okt","nov","dec"],"wgRelevantPageName":"Kezdőlap","wgRelevantArticleId":684328,"wgRequestId":"WQmkgArAADMAAEmsc3kAAABB","wgIsProbablyEditable":false,"wgRestrictionEdit":["templateeditor"],"wgRestrictionMove":["templateeditor"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":17612766,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"hu","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"hu","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"magyar","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.59"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.infobox":"ready","ext.gadget.wikiMenuStyles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0c1h3hu",function($,jQuery,require,module){mw.user.options.set({"variant":"hu"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kezdőlap","wgTitle":"Kezdőlap","wgCurRevisionId":17612766,"wgRevisionId":17612766,"wgArticleId":684328,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kezdőlap"],"wgBreakFrames":false,"wgPageContentLanguage":"hu","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ymd","wgMonthNames":["","január","február","március","április","május","június","július","augusztus","szeptember","október","november","december"],"wgMonthNamesShort":["","jan","febr","márc","ápr","máj","jún","júl","aug","szept","okt","nov","dec"],"wgRelevantPageName":"Kezdőlap","wgRelevantArticleId":684328,"wgRequestId":"WQo5FQpAEKgAAFK8b-MAAABM","wgIsProbablyEditable":false,"wgRestrictionEdit":["templateeditor"],"wgRestrictionMove":["templateeditor"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":17612766,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"hu","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"hu","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"magyar","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.infobox":"ready","ext.gadget.wikiMenuStyles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0c1h3hu",function($,jQuery,require,module){mw.user.options.set({"variant":"hu"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
-});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.ImageAnnotator.loader","ext.gadget.collapsible","ext.gadget.kepdia","ext.gadget.kinai","ext.gadget.poziciosTerkep","ext.gadget.wikiMenu","ext.gadget.wiwosm","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hu&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%7Cext.gadget.infobox%2CwikiMenuStyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.ImageAnnotator.loader","ext.gadget.collapsible","ext.gadget.kepdia","ext.gadget.kinai","ext.gadget.poziciosTerkep","ext.gadget.wikiMenu","ext.gadget.wiwosm","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hu&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.infobox%2CwikiMenuStyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=hu&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hu&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -34,7 +34,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Eelrejt\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"hu\" dir=\"ltr\"\u003E\u003Cdiv style=\"background:khaki;\"\u003E\u003Cb\u003EMájus 3-án magyar idő szerint 16 óra után 20-30 percig nem lehet szerkeszteni. Az ekkor mentett változtatások elvesznek!\u003C/b\u003E Részletek: \u003Ca href=\"/wiki/Wikip%C3%A9dia:Kocsmafal_(m%C5%B1szaki)#Tech_News:_2017-16\" title=\"Wikipédia:Kocsmafal (műszaki)\"\u003EWikipédia:Kocsmafal (műszaki)#Tech News: 2017-16\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 						<div class="mw-indicators mw-body-content">
 </div>
 			<h1 id="firstHeading" class="firstHeading" lang="hu">Kezdőlap</h1>
@@ -55,7 +55,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div style="float:left; padding-left:8px;">
 <p><span style="font-size:160%; font-weight:bold; line-height:normal;"><a href="/wiki/Wikip%C3%A9dia:%C3%9Cdv%C3%B6zl%C3%BCnk,_l%C3%A1togat%C3%B3!" title="Wikipédia:Üdvözlünk, látogató!">Üdvözlünk</a> a <a href="/wiki/Wikip%C3%A9dia:R%C3%B3lunk" title="Wikipédia:Rólunk">Wikipédiában</a>!</span><br />
 <span style="font-size:100%;"><i>Ezt az <a href="/wiki/Enciklop%C3%A9dia" title="Enciklopédia">enciklopédiát</a> az olvasói <a href="/wiki/Wikip%C3%A9dia:Az_els%C5%91_l%C3%A9p%C3%A9sek" title="Wikipédia:Az első lépések">szerkesztik</a>.</i></span><br />
-<span style="font-size:100%;">A <a href="/wiki/Magyar_Wikip%C3%A9dia" title="Magyar Wikipédia">magyar</a> változatnak <a href="/wiki/Wikip%C3%A9dia:Statisztik%C3%A1k" title="Wikipédia:Statisztikák">409&#160;365</a> <a href="/wiki/Wikip%C3%A9dia:Sz%C3%B3cikk" title="Wikipédia:Szócikk">szócikke</a> van,<br />
+<span style="font-size:100%;">A <a href="/wiki/Magyar_Wikip%C3%A9dia" title="Magyar Wikipédia">magyar</a> változatnak <a href="/wiki/Wikip%C3%A9dia:Statisztik%C3%A1k" title="Wikipédia:Statisztikák">409&#160;401</a> <a href="/wiki/Wikip%C3%A9dia:Sz%C3%B3cikk" title="Wikipédia:Szócikk">szócikke</a> van,<br />
 <span style="white-space:nowrap;">ebből <a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikkek_list%C3%A1ja" title="Wikipédia:Kiemelt szócikkek listája">951</a> <a href="/wiki/Wikip%C3%A9dia:Kiemelt_sz%C3%B3cikk" title="Wikipédia:Kiemelt szócikk">kiemelt</a>.</span></span></p>
 </div>
 </td>
@@ -207,7 +207,7 @@ Az évszázadokig omladozó épületegyüttes értékét a <a href="/wiki/Romant
 <hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
 <p><b><a href="/wiki/2017" title="2017">Az év aktualitásai</a></b>: <a href="/wiki/Magyarorsz%C3%A1gi_tiltakoz%C3%A1sok_2017_tavasz%C3%A1n" title="Magyarországi tiltakozások 2017 tavaszán">Magyarországi tiltakozások 2017 tavaszán</a> – <a href="/wiki/2017-es_Eurov%C3%ADzi%C3%B3s_Dalfesztiv%C3%A1l" title="2017-es Eurovíziós Dalfesztivál">2017-es Eurovíziós Dalfesztivál</a> – <a href="/wiki/2017-es_%C3%BAsz%C3%B3-vil%C3%A1gbajnoks%C3%A1g" title="2017-es úszó-világbajnokság">2017-es úszó-világbajnokság</a></p>
 <hr style="color:#DCDCDC; background-color:#DCDCDC; height:1px; border:none;" />
-<b><a href="/wiki/Hal%C3%A1loz%C3%A1sok_2017-ben" title="Halálozások 2017-ben">Halálesetek a közelmúltban</a></b>: <a href="/wiki/Abelardo_Castillo" title="Abelardo Castillo">Abelardo Castillo</a> – <a href="/wiki/Koml%C3%B3s_P%C3%A9ter" title="Komlós Péter">Komlós Péter</a> – <a href="/wiki/Pierre_Gaspard-Huit" title="Pierre Gaspard-Huit">Pierre Gaspard-Huit</a> – <a href="/wiki/Habsburg%E2%80%93Lotaringiai_J%C3%B3zsef_%C3%81rp%C3%A1d" title="Habsburg–Lotaringiai József Árpád">Habsburg–Lotaringiai József Árpád</a> – <a href="/wiki/Pint%C3%A9r_Tibor_(k%C3%B6lt%C5%91,_1954%E2%80%932017)" title="Pintér Tibor (költő, 1954–2017)">Pintér Tibor</a> – <a href="/wiki/Usztics_M%C3%A1ty%C3%A1s" title="Usztics Mátyás">Usztics Mátyás</a> – <a href="/wiki/Vito_Acconci" title="Vito Acconci">Vito Acconci</a></div>
+<b><a href="/wiki/Hal%C3%A1loz%C3%A1sok_2017-ben" title="Halálozások 2017-ben">Halálesetek a közelmúltban</a></b>: <a href="/wiki/Cs%C3%A1sz%C3%A1r_Attila_(kajakoz%C3%B3)" title="Császár Attila (kajakozó)">Császár Attila</a> – <a href="/wiki/Abelardo_Castillo" title="Abelardo Castillo">Abelardo Castillo</a> – <a href="/wiki/Koml%C3%B3s_P%C3%A9ter" title="Komlós Péter">Komlós Péter</a> – <a href="/wiki/Karel_Schoeman" title="Karel Schoeman">Karel Schoeman</a> – <a href="/wiki/Pierre_Gaspard-Huit" title="Pierre Gaspard-Huit">Pierre Gaspard-Huit</a> – <a href="/wiki/Habsburg%E2%80%93Lotaringiai_J%C3%B3zsef_%C3%81rp%C3%A1d" title="Habsburg–Lotaringiai József Árpád">Habsburg–Lotaringiai József Árpád</a> – <a href="/wiki/Pint%C3%A9r_Tibor_(k%C3%B6lt%C5%91,_1954%E2%80%932017)" title="Pintér Tibor (költő, 1954–2017)">Pintér Tibor</a></div>
 </td>
 </tr>
 </table>
@@ -352,7 +352,7 @@ Az évszázadokig omladozó épületegyüttes értékét a <a href="/wiki/Romant
 </tr>
 <tr>
 <td style="padding:5px; background:transparent;">
-<div id="lang">Ez a <a href="/wiki/Magyar_nyelv" title="Magyar nyelv">magyar nyelvű</a> Wikipédia. <a href="/wiki/2003" title="2003">2003</a>-ban indult, jelenleg <a href="/wiki/Speci%C3%A1lis:Statisztika" title="Speciális:Statisztika">409&#160;365</a> szócikket tartalmaz.  A Wikipédia sok más nyelven is elérhető.
+<div id="lang">Ez a <a href="/wiki/Magyar_nyelv" title="Magyar nyelv">magyar nyelvű</a> Wikipédia. <a href="/wiki/2003" title="2003">2003</a>-ban indult, jelenleg <a href="/wiki/Speci%C3%A1lis:Statisztika" title="Speciális:Statisztika">409&#160;401</a> szócikket tartalmaz.  A Wikipédia sok más nyelven is elérhető.
 <ul>
 <li>A legnagyobb Wikipédiák (több mint 1&#160;000&#160;000 szócikkel): <a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">angol</a>, <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">francia</a>, <a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">holland</a>, <a href="https://ja.wikipedia.org/wiki/" class="extiw" title="ja:">japán</a>, <a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">lengyel</a>, <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">német</a>, <a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">olasz</a>, <a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">orosz</a>, <a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">spanyol</a>, <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">svéd</a>, <a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">szebuano</a>, <a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:">vietnami</a>, <a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">waray</a>.</li>
 </ul>
@@ -456,36 +456,36 @@ Az évszázadokig omladozó épületegyüttes értékét a <a href="/wiki/Romant
 
 <!-- 
 NewPP limit report
-Parsed by mw2224
-Cached time: 20170503093539
+Parsed by mw1246
+Cached time: 20170503200946
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.320 seconds
-Real time usage: 0.533 seconds
+CPU time usage: 0.220 seconds
+Real time usage: 0.410 seconds
 Preprocessor visited node count: 5286/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 101960/2097152 bytes
-Template argument size: 29437/2097152 bytes
+Post‐expand include size: 102053/2097152 bytes
+Template argument size: 29468/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 80/500
-Lua time usage: 0.123/10.000 seconds
+Lua time usage: 0.077/10.000 seconds
 Lua memory usage: 516 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  432.893      1 -total
- 93.46%  404.575     11 Sablon:Kezdőlap_rovat
- 65.49%  283.523      1 Sablon:Kezdőlap_eseményei
- 56.82%  245.956      1 Sablon:Ünnepek/Mozgóünnepek
- 56.16%  243.116      1 Sablon:Ünnepek/Mozgóünnepek/iteráció
- 10.81%   46.808      1 Sablon:Kezdőlap_kiemelt_cikkei
-  5.90%   25.541      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek
-  5.76%   24.954      1 Sablon:Kezdőlap_üdvözlet
-  4.85%   20.976     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor
-  4.74%   20.510      8 Sablon:Kezdőlapra_került_szócikkek_listája
+100.00%  308.973      1 -total
+ 92.20%  284.887     11 Sablon:Kezdőlap_rovat
+ 62.40%  192.810      1 Sablon:Kezdőlap_eseményei
+ 53.60%  165.604      1 Sablon:Ünnepek/Mozgóünnepek
+ 52.84%  163.274      1 Sablon:Ünnepek/Mozgóünnepek/iteráció
+ 12.80%   39.545      1 Sablon:Kezdőlap_kiemelt_cikkei
+  6.91%   21.361      1 Sablon:Kezdőlap_üdvözlet
+  6.85%   21.177      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek
+  5.17%   15.972     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor
+  5.07%   15.663      8 Sablon:Kezdőlapra_került_szócikkek_listája
 -->
 
-<!-- Saved in parser cache with key huwiki:stable-pcache:idhash:684328-0!*!0!!*!4!* and timestamp 20170503093539 and revision id 17612766
+<!-- Saved in parser cache with key huwiki:stable-pcache:idhash:684328-0!*!0!!*!4!* and timestamp 20170503200946 and revision id 17612766
  -->
 <noscript><img src="//hu.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						A lap eredeti címe: „<a dir="ltr" href="https://hu.wikipedia.org/w/index.php?title=Kezdőlap&amp;oldid=17612766">https://hu.wikipedia.org/w/index.php?title=Kezdőlap&amp;oldid=17612766</a>”					</div>
@@ -622,6 +622,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.533","ppvisitednodes":{"value":5286,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101960,"limit":2097152},"templateargumentsize":{"value":29437,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":80,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  432.893      1 -total"," 93.46%  404.575     11 Sablon:Kezdőlap_rovat"," 65.49%  283.523      1 Sablon:Kezdőlap_eseményei"," 56.82%  245.956      1 Sablon:Ünnepek/Mozgóünnepek"," 56.16%  243.116      1 Sablon:Ünnepek/Mozgóünnepek/iteráció"," 10.81%   46.808      1 Sablon:Kezdőlap_kiemelt_cikkei","  5.90%   25.541      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek","  5.76%   24.954      1 Sablon:Kezdőlap_üdvözlet","  4.85%   20.976     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor","  4.74%   20.510      8 Sablon:Kezdőlapra_került_szócikkek_listája"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":528777,"limit":52428800}},"cachereport":{"origin":"mw2224","timestamp":"20170503093539","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2226"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.410","ppvisitednodes":{"value":5286,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":102053,"limit":2097152},"templateargumentsize":{"value":29468,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":80,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  308.973      1 -total"," 92.20%  284.887     11 Sablon:Kezdőlap_rovat"," 62.40%  192.810      1 Sablon:Kezdőlap_eseményei"," 53.60%  165.604      1 Sablon:Ünnepek/Mozgóünnepek"," 52.84%  163.274      1 Sablon:Ünnepek/Mozgóünnepek/iteráció"," 12.80%   39.545      1 Sablon:Kezdőlap_kiemelt_cikkei","  6.91%   21.361      1 Sablon:Kezdőlap_üdvözlet","  6.85%   21.177      1 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek","  5.17%   15.972     25 Sablon:A_kezdőlapon_legutóbb_megjelent_szócikkek/Sor","  5.07%   15.663      8 Sablon:Kezdőlapra_került_szócikkek_listája"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":528777,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20170503200946","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1213"});});</script>
 	</body>
 </html>

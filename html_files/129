@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia:Community portal - Wikipedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Community_portal","wgTitle":"Community portal","wgCurRevisionId":778157273,"wgRevisionId":778157273,"wgArticleId":1051901,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia move-protected project pages","Wikipedia administration","Wikipedia basic information","Wikipedia discussion","Wikipedia directories","Wikipedia news","Wikipedia noticeboards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Community_portal","wgRelevantArticleId":1051901,"wgRequestId":"WQeZnQrAEFQAACEhLLkAAAAO","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4654925","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Community_portal","wgTitle":"Community portal","wgCurRevisionId":778157273,"wgRevisionId":778157273,"wgArticleId":1051901,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia move-protected project pages","Wikipedia administration","Wikipedia basic information","Wikipedia discussion","Wikipedia directories","Wikipedia news","Wikipedia noticeboards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Community_portal","wgRelevantArticleId":1051901,"wgRequestId":"WQop4QpAMFQAAC2F1uQAAABY","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4654925","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -143,11 +143,11 @@ resolution</a></b></td>
 </div>
 <p><span id="copyedit"></span></p>
 <ul>
-<li><span id="copyedit"><a href="/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">Non-Aligned Movement</a></span></li>
-<li><span id="copyedit"><a href="/wiki/Fran%C3%A7ois_Gall" title="François Gall">François Gall</a></span></li>
-<li><span id="copyedit"><a href="/wiki/Mana" title="Mana">Mana</a></span></li>
-<li><span id="copyedit"><a href="/wiki/Klaus_Rudolf_Werhand" title="Klaus Rudolf Werhand">Klaus Rudolf Werhand</a></span></li>
-<li><span id="copyedit"><a href="/wiki/DJ_Lambo" title="DJ Lambo">DJ Lambo</a></span></li>
+<li><span id="copyedit"><a href="/wiki/Institution_of_Engineers_(India)" title="Institution of Engineers (India)">Institution of Engineers (India)</a></span></li>
+<li><span id="copyedit"><a href="/wiki/Malani_Bulathsinhala" title="Malani Bulathsinhala">Malani Bulathsinhala</a></span></li>
+<li><span id="copyedit"><a href="/wiki/Hokky_Situngkir" title="Hokky Situngkir">Hokky Situngkir</a></span></li>
+<li><span id="copyedit"><a href="/wiki/Executive_branch_of_the_government_of_Honduras" title="Executive branch of the government of Honduras">Executive branch of the government of Honduras</a></span></li>
+<li><span id="copyedit"><a href="/wiki/Dewas" title="Dewas">Dewas</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_articles_needing_copy_edit" title="Category:Wikipedia articles needing copy edit">More...</a></i> • <a href="/wiki/Wikipedia:Basic_copyediting" title="Wikipedia:Basic copyediting">Learn how</a></b></dd>
@@ -161,11 +161,11 @@ resolution</a></b></td>
 </div>
 <p><span id="wikify"></span></p>
 <ul>
-<li><span id="wikify"><a href="/wiki/Vantage_Press" title="Vantage Press">Vantage Press</a></span></li>
-<li><span id="wikify"><a href="/wiki/Parastatal_Sector_Reform_Commission" title="Parastatal Sector Reform Commission">Parastatal Sector Reform Commission</a></span></li>
-<li><span id="wikify"><a href="/wiki/Oh,_to_Be_a_Blobel!" title="Oh, to Be a Blobel!">Oh, to Be a Blobel!</a></span></li>
-<li><span id="wikify"><a href="/wiki/International_Pelvic_Pain_Society" title="International Pelvic Pain Society">International Pelvic Pain Society</a></span></li>
-<li><span id="wikify"><a href="/wiki/%C3%96dseen" title="Ödseen">Ödseen</a></span></li>
+<li><span id="wikify"><a href="/wiki/Light_rail_in_South_America" title="Light rail in South America">Light rail in South America</a></span></li>
+<li><span id="wikify"><a href="/wiki/Western_Stores" title="Western Stores">Western Stores</a></span></li>
+<li><span id="wikify"><a href="/wiki/PCBP4" title="PCBP4">PCBP4</a></span></li>
+<li><span id="wikify"><a href="/wiki/Bethany_Presbyterian_Church" title="Bethany Presbyterian Church">Bethany Presbyterian Church</a></span></li>
+<li><span id="wikify"><a href="/wiki/List_of_United_States_Supreme_Court_cases,_volume_184" title="List of United States Supreme Court cases, volume 184">List of United States Supreme Court cases, volume 184</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:All_articles_with_too_few_wikilinks" title="Category:All articles with too few wikilinks">More...</a></i> • <a href="/wiki/Wikipedia:Tutorial/Wikipedia_links" title="Wikipedia:Tutorial/Wikipedia links">Learn how</a></b></dd>
@@ -179,11 +179,11 @@ resolution</a></b></td>
 </div>
 <p><span id="update"></span></p>
 <ul>
-<li><span id="update"><a href="/wiki/Football_League_Awards" title="Football League Awards">Football League Awards</a></span></li>
-<li><span id="update"><a href="/wiki/Rice_production_in_South_Korea" title="Rice production in South Korea">Rice production in South Korea</a></span></li>
-<li><span id="update"><a href="/wiki/Tera-10" title="Tera-10">Tera-10</a></span></li>
-<li><span id="update"><a href="/wiki/Laurel_Highlands_School_District" title="Laurel Highlands School District">Laurel Highlands School District</a></span></li>
-<li><span id="update"><a href="/wiki/Poesybeat" title="Poesybeat">Poesybeat</a></span></li>
+<li><span id="update"><a href="/wiki/Knight_Commission_on_the_Information_Needs_of_Communities_in_a_Democracy" title="Knight Commission on the Information Needs of Communities in a Democracy">Knight Commission on the Information Needs of Communities in a Democracy</a></span></li>
+<li><span id="update"><a href="/wiki/Liberal_Party_(UK,_1989)" title="Liberal Party (UK, 1989)">Liberal Party (UK, 1989)</a></span></li>
+<li><span id="update"><a href="/wiki/Saskatchewan_Highway_368" title="Saskatchewan Highway 368">Saskatchewan Highway 368</a></span></li>
+<li><span id="update"><a href="/wiki/New_Rockford-Sheyenne_Public_School" title="New Rockford-Sheyenne Public School">New Rockford-Sheyenne Public School</a></span></li>
+<li><span id="update"><a href="/wiki/Florida_State_Road_23" title="Florida State Road 23">Florida State Road 23</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating" title="Category:Wikipedia articles in need of updating">More...</a></i> • <a href="/wiki/Wikipedia:As_of" title="Wikipedia:As of">Learn how</a></b></dd>
@@ -199,11 +199,11 @@ resolution</a></b></td>
 </div>
 <p><span id="stub"></span></p>
 <ul>
-<li><span id="stub"><a href="/wiki/Stockletten_Formation" title="Stockletten Formation">Stockletten Formation</a></span></li>
-<li><span id="stub"><a href="/wiki/Messel_Formation" title="Messel Formation">Messel Formation</a></span></li>
-<li><span id="stub"><a href="/wiki/Glimmerton_Formation" title="Glimmerton Formation">Glimmerton Formation</a></span></li>
-<li><span id="stub"><a href="/wiki/Heersum_Formation" title="Heersum Formation">Heersum Formation</a></span></li>
-<li><span id="stub"><a href="/wiki/Ramsau_Dolomite_Formation" title="Ramsau Dolomite Formation">Ramsau Dolomite Formation</a></span></li>
+<li><span id="stub"><a href="/wiki/Mystery_Quest_(video_game)" title="Mystery Quest (video game)">Mystery Quest (video game)</a></span></li>
+<li><span id="stub"><a href="/wiki/Endonesia" title="Endonesia">Endonesia</a></span></li>
+<li><span id="stub"><a href="/wiki/Eidos_Montr%C3%A9al" title="Eidos Montréal">Eidos Montréal</a></span></li>
+<li><span id="stub"><a href="/wiki/Eidos_Hungary" title="Eidos Hungary">Eidos Hungary</a></span></li>
+<li><span id="stub"><a href="/wiki/Beautiful_Game_Studios" title="Beautiful Game Studios">Beautiful Game Studios</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Stubs" title="Category:Stubs">More...</a></i> • <a href="/wiki/Wikipedia:Writing_better_articles#Layout" title="Wikipedia:Writing better articles">Learn how</a></b></dd>
@@ -217,11 +217,11 @@ resolution</a></b></td>
 </div>
 <p><span id="verify"></span></p>
 <ul>
-<li><span id="verify"><a href="/wiki/North_Manchester_Jamia_Mosque" title="North Manchester Jamia Mosque">North Manchester Jamia Mosque</a></span></li>
-<li><span id="verify"><a href="/wiki/Cape_Peron" title="Cape Peron">Cape Peron</a></span></li>
-<li><span id="verify"><a href="/wiki/Solanum_aethiopicum" title="Solanum aethiopicum">Solanum aethiopicum</a></span></li>
-<li><span id="verify"><a href="/wiki/United_States_Northern_Command" title="United States Northern Command">United States Northern Command</a></span></li>
-<li><span id="verify"><a href="/wiki/Olle_Nordmark" title="Olle Nordmark">Olle Nordmark</a></span></li>
+<li><span id="verify"><a href="/wiki/Besleria" title="Besleria">Besleria</a></span></li>
+<li><span id="verify"><a href="/wiki/Rhodes_(surname)" title="Rhodes (surname)">Rhodes (surname)</a></span></li>
+<li><span id="verify"><a href="/wiki/Lusignan_massacre" title="Lusignan massacre">Lusignan massacre</a></span></li>
+<li><span id="verify"><a href="/wiki/Homalopoma" title="Homalopoma">Homalopoma</a></span></li>
+<li><span id="verify"><a href="/wiki/Justin_Fox" title="Justin Fox">Justin Fox</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification" title="Category:Wikipedia articles needing factual verification">More...</a></i> • <a href="/wiki/Help:Introduction_to_referencing/1" class="mw-redirect" title="Help:Introduction to referencing/1">Learn how</a></b></dd>
@@ -235,11 +235,11 @@ resolution</a></b></td>
 </div>
 <p><span id="or"></span></p>
 <ul>
-<li><span id="or"><a href="/wiki/The_Ghost_of_Tom_Joad_(song)" title="The Ghost of Tom Joad (song)">The Ghost of Tom Joad (song)</a></span></li>
-<li><span id="or"><a href="/wiki/Augustus_De_Morgan" title="Augustus De Morgan">Augustus De Morgan</a></span></li>
-<li><span id="or"><a href="/wiki/Confessionalism_(politics)" title="Confessionalism (politics)">Confessionalism (politics)</a></span></li>
-<li><span id="or"><a href="/wiki/The_Economic_Liberty_Act_of_Georgia,_2011" title="The Economic Liberty Act of Georgia, 2011">The Economic Liberty Act of Georgia, 2011</a></span></li>
-<li><span id="or"><a href="/wiki/Denise_Giardina" title="Denise Giardina">Denise Giardina</a></span></li>
+<li><span id="or"><a href="/wiki/Hong_Kong_Federation_of_Students" title="Hong Kong Federation of Students">Hong Kong Federation of Students</a></span></li>
+<li><span id="or"><a href="/wiki/Samyr_Lain%C3%A9" title="Samyr Lainé">Samyr Lainé</a></span></li>
+<li><span id="or"><a href="/wiki/Batagor" title="Batagor">Batagor</a></span></li>
+<li><span id="or"><a href="/wiki/Kamal_Amrohi" title="Kamal Amrohi">Kamal Amrohi</a></span></li>
+<li><span id="or"><a href="/wiki/Jose_Cha_Cha_Jimenez" title="Jose Cha Cha Jimenez">Jose Cha Cha Jimenez</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Articles_that_may_contain_original_research" title="Category:Articles that may contain original research">More...</a></i> • <a href="/wiki/Wikipedia:No_original_research#Synthesis_of_published_material_that_advances_a_position" title="Wikipedia:No original research">Learn how</a></b></dd>
@@ -255,11 +255,11 @@ resolution</a></b></td>
 </div>
 <p><span id="leadcleanup"></span></p>
 <ul>
-<li><span id="leadcleanup"><a href="/wiki/Felicia_(Darkstalkers)" title="Felicia (Darkstalkers)">Felicia (Darkstalkers)</a></span></li>
-<li><span id="leadcleanup"><a href="/wiki/Janet_Feder" title="Janet Feder">Janet Feder</a></span></li>
-<li><span id="leadcleanup"><a href="/wiki/Adam_Cruz" title="Adam Cruz">Adam Cruz</a></span></li>
-<li><span id="leadcleanup"><a href="/wiki/List_of_Miss_World_Malaysia_titleholders" title="List of Miss World Malaysia titleholders">List of Miss World Malaysia titleholders</a></span></li>
-<li><span id="leadcleanup"><a href="/wiki/Pope_Linus" title="Pope Linus">Pope Linus</a></span></li>
+<li><span id="leadcleanup"><a href="/wiki/1970_African_Cup_of_Nations_squads" title="1970 African Cup of Nations squads">1970 African Cup of Nations squads</a></span></li>
+<li><span id="leadcleanup"><a href="/wiki/2014_Comerica_Bank_Challenger_%E2%80%93_Doubles" title="2014 Comerica Bank Challenger – Doubles">2014 Comerica Bank Challenger – Doubles</a></span></li>
+<li><span id="leadcleanup"><a href="/wiki/Egyptian_Handball_League" title="Egyptian Handball League">Egyptian Handball League</a></span></li>
+<li><span id="leadcleanup"><a href="/wiki/Alan_Brazil" title="Alan Brazil">Alan Brazil</a></span></li>
+<li><span id="leadcleanup"><a href="/wiki/Wang_Lutong" title="Wang Lutong">Wang Lutong</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_introduction_cleanup" title="Category:Wikipedia introduction cleanup">More...</a></i> • <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">Learn how</a></b></dd>
@@ -274,10 +274,10 @@ resolution</a></b></td>
 <p><span id="addimage"></span></p>
 <ul>
 <li><a href="/wiki/Penghu_National_Scenic_Area" title="Penghu National Scenic Area">Penghu National Scenic Area</a></li>
-<li><a href="/wiki/Panjera" title="Panjera">Panjera</a></li>
 <li><a href="/wiki/Palace_of_Zarzuela" title="Palace of Zarzuela">Palace of Zarzuela</a></li>
-<li><a href="/wiki/Pelvic_lift" title="Pelvic lift">Pelvic lift</a></li>
 <li><a href="/wiki/Philadelphia_Pepper_Pot" title="Philadelphia Pepper Pot">Philadelphia Pepper Pot</a></li>
+<li><a href="/wiki/Paita" title="Paita">Paita</a></li>
+<li><a href="/wiki/Paradise,_New_Zealand" title="Paradise, New Zealand">Paradise, New Zealand</a></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_requested_images" title="Category:Wikipedia requested images">More...</a></i> • <a href="https://commons.wikimedia.org/wiki/Commons:First_steps/Reuse" class="extiw" title="commons:Commons:First steps/Reuse">Learn how</a></b></dd>
@@ -291,11 +291,11 @@ resolution</a></b></td>
 </div>
 <p><span id="translate"></span></p>
 <ul>
-<li><span id="translate"><a href="/wiki/Concei%C3%A7%C3%A3o_da_Barra_de_Minas" title="Conceição da Barra de Minas">Conceição da Barra de Minas</a></span></li>
-<li><span id="translate"><a href="/wiki/Ulee_Geudong,_Sawang" title="Ulee Geudong, Sawang">Ulee Geudong, Sawang</a></span></li>
-<li><span id="translate"><a href="/wiki/Alonso_de_C%C3%A1ceres" title="Alonso de Cáceres">Alonso de Cáceres</a></span></li>
-<li><span id="translate"><a href="/wiki/Mariupol" title="Mariupol">Mariupol</a></span></li>
-<li><span id="translate"><a href="/wiki/Abdul_Karim_Kho%27ini_Zanjani" title="Abdul Karim Kho'ini Zanjani">Abdul Karim Kho'ini Zanjani</a></span></li>
+<li><span id="translate"><a href="/wiki/Hassan_Ali_Nokhodaki_Isfahani" title="Hassan Ali Nokhodaki Isfahani">Hassan Ali Nokhodaki Isfahani</a></span></li>
+<li><span id="translate"><a href="/wiki/NRW.BANK" title="NRW.BANK">NRW.BANK</a></span></li>
+<li><span id="translate"><a href="/wiki/ANPI" title="ANPI">ANPI</a></span></li>
+<li><span id="translate"><a href="/wiki/Hrabi%C5%A1ici" title="Hrabišici">Hrabišici</a></span></li>
+<li><span id="translate"><a href="/wiki/F%C3%B3rmula_Truck" title="Fórmula Truck">Fórmula Truck</a></span></li>
 </ul>
 <dl>
 <dd><b><i><a href="/wiki/Category:Wikipedia_articles_needing_cleanup_after_translation" title="Category:Wikipedia articles needing cleanup after translation">More...</a></i> • <a href="/wiki/Wikipedia:Pages_needing_translation_into_English#Standard_procedures" title="Wikipedia:Pages needing translation into English">Learn how</a></b></dd>
@@ -399,7 +399,7 @@ resolution</a></b></td>
 <td colspan="1" style="border-top: 1px solid #bebebe; padding: 0 5px; font-size: 90%">
 <div>
 <ul>
-<li class="mw-empty-elt"></li>
+<li>Two <span style="font-weight:&#160;;"><a href="/wiki/Wikipedia:Requests_for_adminship" title="Wikipedia:Requests for adminship">requests for adminship</a></span> are <a href="/wiki/Wikipedia:Requests_for_adminship#Expressing_opinions" title="Wikipedia:Requests for adminship">open for discussion</a>.</li>
 <li><a href="/wiki/Wikipedia:Village_pump_(policy)#The_criteria_of_WP:NSPORT_here_are_too_inclusive" title="Wikipedia:Village pump (policy)">Inclusivity of the criteria of "Wikipedia:Notability (sports)"</a></li>
 <li><a href="/wiki/Wikipedia:Requests_for_comment/MOS:GENDERID_for_genderqueer_people" title="Wikipedia:Requests for comment/MOS:GENDERID for genderqueer people">MOS:GENDERID for genderqueer people</a></li>
 <li><a href="/wiki/Wikipedia:Village_pump_(policy)#RfC:_sister_projects_in_search_results" title="Wikipedia:Village pump (policy)">Which sister projects should appear in search results?</a></li>
@@ -836,8 +836,10 @@ resolution</a></b></td>
 <table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
 <tr>
 <td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
-<td style="vertical-align: top; border: none; padding: 4px 10px;"><a href="/wiki/Airplane!" title="Airplane!">→</a> McCroskey: <a href="/wiki/Wikipedia:EDITORS" class="mw-redirect" title="Wikipedia:EDITORS">Johnny</a>, what can you make of <a href="/wiki/Wikipedia:STUB" class="mw-redirect" title="Wikipedia:STUB">this</a>?<br />
-Johnny: This? Well, I can make a <a href="/wiki/Wikipedia:DYK" class="mw-redirect" title="Wikipedia:DYK">hat</a>; I can make a <a href="/wiki/Wikipedia:GA" class="mw-redirect" title="Wikipedia:GA">brooch</a>; I can make a <a href="/wiki/Wikipedia:FA" class="mw-redirect" title="Wikipedia:FA">teradactyl</a>!</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;"><a href="/wiki/Phantom_of_the_Opera_(song)" class="mw-redirect mw-disambig" title="Phantom of the Opera (song)">→</a> I've been looking so long for <a href="/wiki/Wikipedia:TROLL" class="mw-redirect" title="Wikipedia:TROLL">you</a><br />
+<a href="/wiki/Wikipedia:BLOCK" class="mw-redirect" title="Wikipedia:BLOCK">Now you won't get away from my grasp.</a><br />
+<a href="/wiki/Wikipedia:SOCK" class="mw-redirect" title="Wikipedia:SOCK">You've been living so long in hiding<br />
+In hiding behind that false mask.</a></td>
 <td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
 </tr>
 </table>
@@ -863,17 +865,15 @@ Johnny: This? Well, I can make a <a href="/wiki/Wikipedia:DYK" class="mw-redirec
 <div role="complementary" aria-labelledby="totd-label" style="overflow: hidden; box-sizing: border-box; margin: 0.5em auto 0; border: solid medium #ADD8E6; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px; width: 90%; padding: 1.4em 0.9em 1em 1.2em;">
 <div id="totd-label" style="font-size: 90%;"><a href="/wiki/Wikipedia:Tip_of_the_day" title="Wikipedia:Tip of the day">Tip of the day...</a></div>
 <div class="floatright"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Simple_light_bulb_graphic.png/120px-Simple_light_bulb_graphic.png" width="120" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Simple_light_bulb_graphic.png/180px-Simple_light_bulb_graphic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Simple_light_bulb_graphic.png/240px-Simple_light_bulb_graphic.png 2x" data-file-width="717" data-file-height="744" /></div>
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><span style="font-size: 120%;"><b>To search a specific namespace, include the prefix in searches</b></span></div>
-<p>To search for a topic in a specific namespace, precede the topic with that namespace's prefix, followed by a colon. If the topic has a page with that name, pressing Enter will take you right to it. Otherwise, a list of relevant search results will appear.</p>
-<p>For example, one way to get a listing of articles on ancient Greece is to type <i><a href="/wiki/Category:Ancient_Greece" title="Category:Ancient Greece">Category:Ancient Greece</a></i> in the search box. To go to the portal for the Ancient Greeks, you would type: <i><a href="/wiki/Portal:Ancient_Greece" title="Portal:Ancient Greece">Portal:Ancient Greece</a></i>.</p>
-<p>The namespace prefixes are: <code><i>Category:, Portal:, File:, User:, Talk:, Wikipedia:, Help:, Book:, Draft:, and Template:</i></code>.</p>
-<p>You can also search in sister projects by using the full name of the sister project, or its abbreviation (e.g.- <code>Wiktionary:</code> or <code>wikt:</code>).</p>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><span style="font-size: 120%;"><b>Prove it with <i>ProveIt</i></b></span></div>
+<p><i><a href="/wiki/User:ProveIt_GT" class="mw-redirect" title="User:ProveIt GT">ProveIt</a></i> is a user script (and gadget) that makes it easy to find, edit, add, and cite references in Wikipedia articles.</p>
+<p>It provides a graphical interface for editing, adding, and citing references. The <i>ProveIt</i> toolbar displays at the bottom of the Wikipedia text editor (for articles only).</p>
 <div class="mw-stack mobile-float-reset" style="box-sizing: border-box; float: left; font-size: 85%;">
-<div style="overflow: hidden; margin: 1px;"><span class="plainlinks"><a href="/wiki/Wikipedia:Tip_of_the_day/April_30" title="Wikipedia:Tip of the day/April 30"><span class="mw-ui-button" role="button">Prior tip</span></a></span>&#160;–&#160;<span class="plainlinks"><a href="/wiki/Wikipedia:Tip_of_the_day/May_2" title="Wikipedia:Tip of the day/May 2"><span class="mw-ui-button" role="button">Next tip</span></a></span>&#160;–&#160;<span class="plainlinks"><a href="/wiki/Wikipedia:Tips" title="Wikipedia:Tips"><span class="mw-ui-button" role="button">Tips library</span></a></span></div>
+<div style="overflow: hidden; margin: 1px;"><span class="plainlinks"><a href="/wiki/Wikipedia:Tip_of_the_day/May_2" title="Wikipedia:Tip of the day/May 2"><span class="mw-ui-button" role="button">Prior tip</span></a></span>&#160;–&#160;<span class="plainlinks"><a href="/wiki/Wikipedia:Tip_of_the_day/May_4" title="Wikipedia:Tip of the day/May 4"><span class="mw-ui-button" role="button">Next tip</span></a></span>&#160;–&#160;<span class="plainlinks"><a href="/wiki/Wikipedia:Tips" title="Wikipedia:Tips"><span class="mw-ui-button" role="button">Tips library</span></a></span></div>
 </div>
 <div class="mw-stack mobile-float-reset" style="box-sizing: border-box; float:right;">
 <div style="overflow: hidden; margin: 1px;">Read more:</div>
-<div style="overflow: hidden; margin: 1px;"><b><a href="/wiki/Wikipedia:Searching" class="mw-redirect" title="Wikipedia:Searching">Wikipedia:Searching</a></b><span class="nowrap">&#160;&#160;</span></div>
+<div style="overflow: hidden; margin: 1px;"><b><a href="/wiki/Help:Citation_tools" title="Help:Citation tools">Help:Citation tools</a></b><span class="nowrap">&#160;&#160;</span></div>
 </div>
 <div style="clear:both;"></div>
 <div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><i><a href="/wiki/Wikipedia:Wikipedia_tipster" title="Wikipedia:Wikipedia tipster">Become a Wikipedia tipster</a></i></div>
@@ -1739,36 +1739,36 @@ and <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Iden
 
 <!-- 
 NewPP limit report
-Parsed by mw2232
-Cached time: 20170501202449
+Parsed by mw1249
+Cached time: 20170503190506
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.352 seconds
-Real time usage: 0.514 seconds
-Preprocessor visited node count: 2608/1000000
+CPU time usage: 0.316 seconds
+Real time usage: 0.520 seconds
+Preprocessor visited node count: 2659/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 192635/2097152 bytes
-Template argument size: 8341/2097152 bytes
+Post‐expand include size: 193668/2097152 bytes
+Template argument size: 8435/2097152 bytes
 Highest expansion depth: 21/40
 Expensive parser function count: 10/500
-Lua time usage: 0.086/10.000 seconds
+Lua time usage: 0.062/10.000 seconds
 Lua memory usage: 2.91 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  322.896      1 -total
- 41.17%  132.952      1 Wikipedia:Community_bulletin_board
- 34.92%  112.743      1 Template:Aligned_table
- 13.51%   43.620      1 Template:Signpost-subscription
- 12.79%   41.310      1 Template:Sidebar_with_collapsible_lists
- 11.84%   38.225      1 Template:Header_navbar_community
- 11.30%   36.475      1 Template:Mbox
- 10.94%   35.327      2 Template:Sidebar
- 10.57%   34.131      1 Template:Motd_framed
- 10.11%   32.643      1 Template:Cquote
+100.00%  288.358      1 -total
+ 45.40%  130.903      1 Wikipedia:Community_bulletin_board
+ 39.12%  112.811      1 Template:Aligned_table
+ 16.40%   47.296      1 Template:Signpost-subscription
+ 15.63%   45.067      1 Template:Sidebar_with_collapsible_lists
+ 12.18%   35.114      1 Template:Motd_framed
+ 11.68%   33.688      2 Template:Sidebar
+ 11.63%   33.525      1 Template:Cquote
+ 10.55%   30.418      1 Template:Today's_motto
+ 10.26%   29.582      1 Template:TAFI/Collaborations_of_the_day
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1051901-0!*!0!!*!4!* and timestamp 20170501202449 and revision id 778157273
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1051901-0!*!0!!*!4!* and timestamp 20170503190505 and revision id 778157273
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Community_portal&amp;oldid=778157273">https://en.wikipedia.org/w/index.php?title=Wikipedia:Community_portal&amp;oldid=778157273</a>"					</div>
@@ -1907,6 +1907,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.514","ppvisitednodes":{"value":2608,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":192635,"limit":2097152},"templateargumentsize":{"value":8341,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  322.896      1 -total"," 41.17%  132.952      1 Wikipedia:Community_bulletin_board"," 34.92%  112.743      1 Template:Aligned_table"," 13.51%   43.620      1 Template:Signpost-subscription"," 12.79%   41.310      1 Template:Sidebar_with_collapsible_lists"," 11.84%   38.225      1 Template:Header_navbar_community"," 11.30%   36.475      1 Template:Mbox"," 10.94%   35.327      2 Template:Sidebar"," 10.57%   34.131      1 Template:Motd_framed"," 10.11%   32.643      1 Template:Cquote"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":3051131,"limit":52428800}},"cachereport":{"origin":"mw2232","timestamp":"20170501202449","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw2111"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.520","ppvisitednodes":{"value":2659,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":193668,"limit":2097152},"templateargumentsize":{"value":8435,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  288.358      1 -total"," 45.40%  130.903      1 Wikipedia:Community_bulletin_board"," 39.12%  112.811      1 Template:Aligned_table"," 16.40%   47.296      1 Template:Signpost-subscription"," 15.63%   45.067      1 Template:Sidebar_with_collapsible_lists"," 12.18%   35.114      1 Template:Motd_framed"," 11.68%   33.688      2 Template:Sidebar"," 11.63%   33.525      1 Template:Cquote"," 10.55%   30.418      1 Template:Today's_motto"," 10.26%   29.582      1 Template:TAFI/Collaborations_of_the_day"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":3050096,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20170503190506","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":624,"wgHostname":"mw1249"});});</script>
 	</body>
 </html>

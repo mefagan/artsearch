@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, la enciclopedia libre</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Portada","wgTitle":"Portada","wgCurRevisionId":92959472,"wgRevisionId":92959472,"wgArticleId":2271189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRelevantPageName":"Wikipedia:Portada","wgRelevantArticleId":2271189,"wgRequestId":"WQnHdwrAIE4AAIWoFWsAAAAA","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"es","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.imagenesinfobox":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0jtin21",function($,jQuery,require,module){mw.user.options.set({"variant":"es"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Portada","wgTitle":"Portada","wgCurRevisionId":92959472,"wgRevisionId":92959472,"wgArticleId":2271189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRelevantPageName":"Wikipedia:Portada","wgRelevantArticleId":2271189,"wgRequestId":"WQoHfgpAAD0AAMFj7CIAAABD","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"es","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.imagenesinfobox":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0jtin21",function($,jQuery,require,module){mw.user.options.set({"variant":"es"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.a-commons-directo","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -56,9 +56,9 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </table>
 </td>
 <td style="width:40%; font-size:100%; color:#000; text-align:right; white-space:nowrap">
-<p>12:05 <a href="/wiki/Tiempo_universal_coordinado" title="Tiempo universal coordinado">UTC</a>, <a href="/wiki/Mi%C3%A9rcoles" title="Miércoles">miércoles</a>,<br />
+<p>16:38 <a href="/wiki/Tiempo_universal_coordinado" title="Tiempo universal coordinado">UTC</a>, <a href="/wiki/Mi%C3%A9rcoles" title="Miércoles">miércoles</a>,<br />
 <a href="/wiki/3_de_mayo" title="3 de mayo">3 de mayo</a> de <a href="/wiki/2017" title="2017">2017</a>.<br />
-<a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas"><b>1&#160;332&#160;112</b></a> artículos <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">en español</a>.</p>
+<a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas"><b>1&#160;332&#160;164</b></a> artículos <a href="/wiki/Wikipedia_en_espa%C3%B1ol" title="Wikipedia en español">en español</a>.</p>
 </td>
 </tr>
 </table>
@@ -333,12 +333,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 <!-- 
 NewPP limit report
-Parsed by mw2114
-Cached time: 20170503120501
+Parsed by mw1271
+Cached time: 20170503163808
 Cache expiry: 3600
 Dynamic content: true
 CPU time usage: 0.096 seconds
-Real time usage: 0.155 seconds
+Real time usage: 0.163 seconds
 Preprocessor visited node count: 403/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 21306/2097152 bytes
@@ -348,19 +348,19 @@ Expensive parser function count: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   43.543      1 -total
- 34.71%   15.114      1 Plantilla:Portada:Destacado
- 17.50%    7.618      1 Plantilla:Portada:Destacado/C
- 17.47%    7.606      1 Plantilla:RDD
- 15.84%    6.897      1 Plantilla:ABDD
- 14.16%    6.165      1 Plantilla:Portada:Destacado/Letra
- 11.61%    5.057      1 Plantilla:Días_desde
-  7.99%    3.478      1 Plantilla:RDD/492
-  7.72%    3.362      1 Plantilla:Lang-en
-  7.72%    3.362      1 Plantilla:Portada_Bueno/4169
+100.00%   44.697      1 -total
+ 33.45%   14.951      1 Plantilla:Portada:Destacado
+ 16.17%    7.227      1 Plantilla:Portada:Destacado/C
+ 15.56%    6.955      1 Plantilla:RDD
+ 15.45%    6.906      1 Plantilla:ABDD
+ 14.49%    6.477      1 Plantilla:Portada:Destacado/Letra
+ 11.69%    5.224      1 Plantilla:Días_desde
+  8.46%    3.781      1 Plantilla:Portada:LW
+  7.55%    3.375      1 Plantilla:Portada_Bueno/4169
+  7.52%    3.363      1 Plantilla:Portada:Interwikis
 -->
 
-<!-- Saved in parser cache with key eswiki:pcache:idhash:2271189-0!*!0!*!*!4!* and timestamp 20170503120501 and revision id 92959472
+<!-- Saved in parser cache with key eswiki:pcache:idhash:2271189-0!*!0!*!*!4!* and timestamp 20170503163808 and revision id 92959472
  -->
 <noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Wikipedia:Portada&amp;oldid=92959472">https://es.wikipedia.org/w/index.php?title=Wikipedia:Portada&amp;oldid=92959472</a>»					</div>
@@ -490,6 +490,6 @@ pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestr
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.155","ppvisitednodes":{"value":403,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21306,"limit":2097152},"templateargumentsize":{"value":1395,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   43.543      1 -total"," 34.71%   15.114      1 Plantilla:Portada:Destacado"," 17.50%    7.618      1 Plantilla:Portada:Destacado/C"," 17.47%    7.606      1 Plantilla:RDD"," 15.84%    6.897      1 Plantilla:ABDD"," 14.16%    6.165      1 Plantilla:Portada:Destacado/Letra"," 11.61%    5.057      1 Plantilla:Días_desde","  7.99%    3.478      1 Plantilla:RDD/492","  7.72%    3.362      1 Plantilla:Lang-en","  7.72%    3.362      1 Plantilla:Portada_Bueno/4169"]},"cachereport":{"origin":"mw2114","timestamp":"20170503120501","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw2190"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.163","ppvisitednodes":{"value":403,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21306,"limit":2097152},"templateargumentsize":{"value":1395,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   44.697      1 -total"," 33.45%   14.951      1 Plantilla:Portada:Destacado"," 16.17%    7.227      1 Plantilla:Portada:Destacado/C"," 15.56%    6.955      1 Plantilla:RDD"," 15.45%    6.906      1 Plantilla:ABDD"," 14.49%    6.477      1 Plantilla:Portada:Destacado/Letra"," 11.69%    5.224      1 Plantilla:Días_desde","  8.46%    3.781      1 Plantilla:Portada:LW","  7.55%    3.375      1 Plantilla:Portada_Bueno/4169","  7.52%    3.363      1 Plantilla:Portada:Interwikis"]},"cachereport":{"origin":"mw1271","timestamp":"20170503163808","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1266"});});</script>
 	</body>
 </html>

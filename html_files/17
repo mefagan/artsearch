@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Portal:Contents/Portals - Wikipedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Contents/Portals","wgTitle":"Contents/Portals","wgCurRevisionId":746645444,"wgRevisionId":746645444,"wgArticleId":2533281,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Wikipedia navigation","Content portals","Portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Contents/Portals","wgRelevantArticleId":2533281,"wgRequestId":"WQnqwApAIDMAAEnYIiQAAABQ","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5008867","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Contents/Portals","wgTitle":"Contents/Portals","wgCurRevisionId":746645444,"wgRevisionId":746645444,"wgArticleId":2533281,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Wikipedia navigation","Content portals","Portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Contents/Portals","wgRelevantArticleId":2533281,"wgRequestId":"WQodBApAMFEAAHh8aMkAAABC","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5008867","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -124,7 +124,7 @@ Notice Boards</a></b></td>
 <div class="inputbox-hidecheckboxes">
 <div class="mw-inputbox-centered" style="">
 <form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="searchbox">
-<p><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="i.e. World War II" size="20" dir="ltr" /> <input type="hidden" name="ns100" value="1" id="mw-inputbox-ns100-0.010254343785" checked="checked" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search Portal namespace" /><input type="hidden" value="Search" name="fulltext" /></p>
+<p><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="i.e. World War II" size="20" dir="ltr" /> <input type="hidden" name="ns100" value="1" id="mw-inputbox-ns100-0.073037945012" checked="checked" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search Portal namespace" /><input type="hidden" value="Search" name="fulltext" /></p>
 </form>
 </div>
 </div>
@@ -748,36 +748,36 @@ Notice Boards</a></b></td>
 
 <!-- 
 NewPP limit report
-Parsed by mw1173
-Cached time: 20170503143526
+Parsed by mw1246
+Cached time: 20170503181012
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.452 seconds
-Real time usage: 0.617 seconds
+CPU time usage: 0.368 seconds
+Real time usage: 0.529 seconds
 Preprocessor visited node count: 2693/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 259948/2097152 bytes
 Template argument size: 32557/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 9/500
-Lua time usage: 0.097/10.000 seconds
+Lua time usage: 0.070/10.000 seconds
 Lua memory usage: 2.6 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  326.732      1 -total
- 78.83%  257.577      1 Portal:Contents/Types_layout
- 26.88%   87.833      2 Portal:Contents/TOC_navbar
- 26.43%   86.358      1 Portal:Contents/Portals/Intro
- 23.44%   76.576      5 Template:Center
- 21.14%   69.069      1 Template:Pp-semi-protected
- 21.00%   68.619     40 Template:Clickable_button_2
- 13.34%   43.596      2 Template:Contents_pages_(header_bar)
- 13.02%   42.533      1 Template:Portal_nav_footer
- 12.64%   41.291      2 Template:Small
+100.00%  252.456      1 -total
+ 75.40%  190.347      1 Portal:Contents/Types_layout
+ 24.56%   62.007      1 Template:Pp-semi-protected
+ 22.38%   56.490      1 Portal:Contents/Portals/Intro
+ 21.76%   54.933      2 Portal:Contents/TOC_navbar
+ 19.97%   50.406      5 Template:Center
+ 17.27%   43.611     40 Template:Clickable_button_2
+ 11.40%   28.782      1 Template:Portal_nav_footer
+ 11.17%   28.205      2 Template:Small
+  9.97%   25.166      1 Template:NBbox
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2533281-0!*!0!!en!4!* and timestamp 20170503143526 and revision id 746645444
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2533281-0!*!0!!en!4!* and timestamp 20170503181012 and revision id 746645444
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Contents/Portals&amp;oldid=746645444">https://en.wikipedia.org/w/index.php?title=Portal:Contents/Portals&amp;oldid=746645444</a>"					</div>
@@ -916,6 +916,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.617","ppvisitednodes":{"value":2693,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":259948,"limit":2097152},"templateargumentsize":{"value":32557,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  326.732      1 -total"," 78.83%  257.577      1 Portal:Contents/Types_layout"," 26.88%   87.833      2 Portal:Contents/TOC_navbar"," 26.43%   86.358      1 Portal:Contents/Portals/Intro"," 23.44%   76.576      5 Template:Center"," 21.14%   69.069      1 Template:Pp-semi-protected"," 21.00%   68.619     40 Template:Clickable_button_2"," 13.34%   43.596      2 Template:Contents_pages_(header_bar)"," 13.02%   42.533      1 Template:Portal_nav_footer"," 12.64%   41.291      2 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":2724813,"limit":52428800}},"cachereport":{"origin":"mw1173","timestamp":"20170503143526","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1181"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.529","ppvisitednodes":{"value":2693,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":259948,"limit":2097152},"templateargumentsize":{"value":32557,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  252.456      1 -total"," 75.40%  190.347      1 Portal:Contents/Types_layout"," 24.56%   62.007      1 Template:Pp-semi-protected"," 22.38%   56.490      1 Portal:Contents/Portals/Intro"," 21.76%   54.933      2 Portal:Contents/TOC_navbar"," 19.97%   50.406      5 Template:Center"," 17.27%   43.611     40 Template:Clickable_button_2"," 11.40%   28.782      1 Template:Portal_nav_footer"," 11.17%   28.205      2 Template:Small","  9.97%   25.166      1 Template:NBbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":2724813,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20170503181012","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":620,"wgHostname":"mw1246"});});</script>
 	</body>
 </html>

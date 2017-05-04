@@ -4,10 +4,10 @@
 <meta charset="UTF-8"/>
 <title>Wikipedija</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Glavna_stranica","wgTitle":"Glavna stranica","wgCurRevisionId":4836213,"wgRevisionId":4836213,"wgArticleId":4,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedija"],"wgBreakFrames":false,"wgPageContentLanguage":"hr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy hr","wgMonthNames":["","siječnja","veljače","ožujka","travnja","svibnja","lipnja","srpnja","kolovoza","rujna","listopada","studenog","prosinca"],"wgMonthNamesShort":["","sij","velj","ožu","tra","svi","lip","srp","kol","ruj","lis","stu","pro"],"wgRelevantPageName":"Glavna_stranica","wgRelevantArticleId":4,"wgRequestId":"WQbYxgrAADIAAUn1xP0AAADJ","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"hr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"hr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"hrvatski","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.normalnebojerazlika":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0ixahxn",function($,jQuery,require,module){mw.user.options.set({"variant":"hr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Glavna_stranica","wgTitle":"Glavna stranica","wgCurRevisionId":4836213,"wgRevisionId":4836213,"wgArticleId":4,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedija"],"wgBreakFrames":false,"wgPageContentLanguage":"hr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy hr","wgMonthNames":["","siječnja","veljače","ožujka","travnja","svibnja","lipnja","srpnja","kolovoza","rujna","listopada","studenog","prosinca"],"wgMonthNamesShort":["","sij","velj","ožu","tra","svi","lip","srp","kol","ruj","lis","stu","pro"],"wgRelevantPageName":"Glavna_stranica","wgRelevantArticleId":4,"wgRequestId":"WQon0wpAIDoAAFRRVlEAAABE","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"hr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"hr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"hrvatski","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.normalnebojerazlika":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0ixahxn",function($,jQuery,require,module){mw.user.options.set({"variant":"hr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
-});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.extra-toolbar-buttons","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=hr&amp;modules=ext.gadget.normalnebojerazlika%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?debug=false&amp;lang=hr&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
@@ -50,7 +50,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="width:280px;text-align:center;white-space:nowrap;color:#000">
 <div style="font-family:Arial;font-size:130%;border:none;margin: 0;padding:.1em;color:#000;background-color: #fff;"><a href="/wiki/Wikipedija_na_hrvatskome_jeziku" title="Wikipedija na hrvatskome jeziku"><img alt="Hr logo c.png" src="//upload.wikimedia.org/wikipedia/hr/thumb/8/8f/Hr_logo_c.png/20px-Hr_logo_c.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/hr/thumb/8/8f/Hr_logo_c.png/30px-Hr_logo_c.png 1.5x, //upload.wikimedia.org/wikipedia/hr/thumb/8/8f/Hr_logo_c.png/40px-Hr_logo_c.png 2x" data-file-width="90" data-file-height="90" /></a> <b>Dobro došli na Wikipediju</b><br />
 <b>na hrvatskom jeziku.</b></div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;background-color: #fff;">Trenutačno uređujemo <span style="font-size:medium"><b><a href="/wiki/Posebno:Statistika" title="Posebno:Statistika">173.675</a></b></span> članaka.
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;background-color: #fff;">Trenutačno uređujemo <span style="font-size:medium"><b><a href="/wiki/Posebno:Statistika" title="Posebno:Statistika">173.707</a></b></span> članaka.
 <center>
 <p><b><a href="/wiki/Pomo%C4%87:Sadr%C5%BEaj" title="Pomoć:Sadržaj">I Vi možete uređivati Wikipediju!</a></b></p>
 </center>
@@ -167,18 +167,18 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div style="margin:0px 10px;">
 <h2><span class="mw-headline" id="Na_dana.C5.A1nji_dan"><a href="/wiki/Wikipedija:Izabrane_godi%C5%A1njice" title="Wikipedija:Izabrane godišnjice">Na današnji dan</a></span></h2>
 <div id="mf-Na_dana.C5.A1nji_dan" style="font-size:95%; padding:5px" title="Na današnji dan">
-<p><b><a href="/wiki/1._svibnja" title="1. svibnja">1. svibnja</a></b>: Spomendan <a href="/wiki/Sveti_Josip" title="Sveti Josip">sv. Josipa radnika</a>; <a href="/wiki/Praznik_rada" class="mw-redirect" title="Praznik rada">Praznik rada</a></p>
+<p><b><a href="/wiki/3._svibnja" title="3. svibnja">3. svibnja</a></b> – <a href="/wiki/Katoli%C4%8Dki_kalendar" class="mw-redirect" title="Katolički kalendar">imendani</a>: Filip, Jakov, Jakša, Aleksandar; <a href="/wiki/Svjetski_dan_slobode_medija" title="Svjetski dan slobode medija">Svjetski dan slobode medija</a></p>
 <div style="float:right;margin-left:0.5em">
-<p><a href="/wiki/Datoteka:Ayrton_Senna_Imola_1989_Cropped.jpg" class="image" title="Ayrton Senna, Imola 1989."><img alt="Ayrton Senna, Imola 1989." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ayrton_Senna_Imola_1989_Cropped.jpg/120px-Ayrton_Senna_Imola_1989_Cropped.jpg" width="120" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ayrton_Senna_Imola_1989_Cropped.jpg/180px-Ayrton_Senna_Imola_1989_Cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ayrton_Senna_Imola_1989_Cropped.jpg/240px-Ayrton_Senna_Imola_1989_Cropped.jpg 2x" data-file-width="447" data-file-height="422" /></a></p>
+<p><a href="/wiki/Datoteka:Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG" class="image" title="Spomenik poginuloj djeci u Domovinskom ratu, Slavonski Brod"><img alt="Spomenik poginuloj djeci u Domovinskom ratu, Slavonski Brod" src="//upload.wikimedia.org/wikipedia/hr/thumb/b/b5/Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG/120px-Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG" width="120" height="160" srcset="//upload.wikimedia.org/wikipedia/hr/thumb/b/b5/Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG/180px-Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG 1.5x, //upload.wikimedia.org/wikipedia/hr/thumb/b/b5/Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG/240px-Spomenik_poginuloj_djeci_u_Domovinskom_ratu_u_Slavonskom_Brodu.JPG 2x" data-file-width="768" data-file-height="1024" /></a></p>
 </div>
 <ul>
-<li><a href="/wiki/1753" class="mw-redirect" title="1753">1753</a>. – <b><a href="/wiki/Carl_Linn%C3%A9" title="Carl Linné">Carl Linné</a></b> je objavio <i>Species Plantarum</i>, čime je ujedno počela i <a href="/wiki/Biljke" title="Biljke">biljna</a> <a href="/wiki/Taksonomija" title="Taksonomija">taksonomija</a> prema <a href="/w/index.php?title=Me%C4%91unarodni_kodeks_botani%C4%8Dke_nomenklature&amp;action=edit&amp;redlink=1" class="new" title="Međunarodni kodeks botaničke nomenklature (stranica ne postoji)">Međunarodnom kodeksu</a>.</li>
-<li><a href="/wiki/1819" class="mw-redirect" title="1819">1819</a>. – Rodio se <b><a href="/wiki/Ivan_Trnski" title="Ivan Trnski">Ivan Trnski</a></b>, <a href="/wiki/Knji%C5%BEevnik" class="mw-redirect" title="Književnik">književnik</a> i prevoditelj (<i>O stihotvorstvu</i>).</li>
-<li><a href="/wiki/1994" class="mw-redirect" title="1994">1994</a>. – U <a href="/wiki/Bologna" title="Bologna">Bologni</a> je umro <b><a href="/wiki/Ayrton_Senna" title="Ayrton Senna">Ayrton Senna</a></b> <i>(slika)</i>, <a href="/wiki/Brazil" title="Brazil">brazilski</a> vozač <a href="/wiki/F1" class="mw-redirect" title="F1">Formule 1</a>.</li>
-<li><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>. – Počela je operacija <b><a href="/wiki/Operacija_Bljesak" title="Operacija Bljesak">Bljesak</a></b> tijekom koje je <a href="/wiki/Hrvatska_vojska" class="mw-redirect" title="Hrvatska vojska">Hrvatska vojska</a> u dva dana oslobodila okupirani dio <a href="/w/index.php?title=Zapadna_Slavonija&amp;action=edit&amp;redlink=1" class="new" title="Zapadna Slavonija (stranica ne postoji)">Zapadne Slavonije</a>.</li>
+<li><a href="/wiki/1493." title="1493.">1493.</a> – Papa <a href="/wiki/Aleksandar_VI." title="Aleksandar VI.">Aleksandar VI.</a> objavio je prvu <a href="/wiki/Papinska_bula" title="Papinska bula">bulu</a> <i>Inter cetera</i> kojom je <b>podijelio <a href="/wiki/Novi_svijet" title="Novi svijet">Novi svijet</a></b> između <a href="/wiki/%C5%A0panjolska" title="Španjolska">Španjolske</a> i <a href="/wiki/Portugal" title="Portugal">Portugala</a>.</li>
+<li><a href="/wiki/1616." title="1616.">1616.</a> – Umro najpoznatiji <a href="/wiki/Kategorija:Engleski_knji%C5%BEevnici" title="Kategorija:Engleski književnici">engleski dramatičar i komediograf</a> <b><a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a></b>, autor <i><a href="/wiki/Romeo_i_Julija" title="Romeo i Julija">Romea i Julije</a></i> i <i><a href="/wiki/Hamlet" title="Hamlet">Hamleta</a></i>.</li>
+<li><a href="/wiki/1992." title="1992.">1992.</a> – U <a href="/wiki/Slavonski_Brod" title="Slavonski Brod">Slavonskom Brodu</a> tijekom napada srpskog agresora u jednom je danu poginulo šestero djece. Samo u 1992. godini <a href="/wiki/Stradavanje_djece_u_Slavonskom_Brodu" title="Stradavanje djece u Slavonskom Brodu">poginulo je dvadesetsedmero slavonskobrodske djece</a> <i>(slika)</i>.</li>
+<li><a href="/wiki/1998." title="1998.">1998.</a> – Umro je <b><a href="/wiki/Gojko_%C5%A0u%C5%A1ak" title="Gojko Šušak">Gojko Šušak</a></b>, hrvatski ministar obrane u većem dijelu <a href="/wiki/Domovinski_rat" title="Domovinski rat">Domovinskog rata</a>.</li>
 </ul>
 <p><br />
-Nedavni dani: <a href="/wiki/30._travnja" title="30. travnja">30. travnja</a> – <a href="/wiki/29._travnja" title="29. travnja">29. travnja</a> – <a href="/wiki/28._travnja" title="28. travnja">28. travnja</a></p>
+Nedavni dani: <a href="/wiki/2._svibnja" title="2. svibnja">2. svibnja</a> – <a href="/wiki/1._svibnja" title="1. svibnja">1. svibnja</a> – <a href="/wiki/30._travnja" title="30. travnja">30. travnja</a></p>
 </div>
 </div>
 </td>
@@ -275,31 +275,31 @@ Koordinacija svih projekata</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw2225
-Cached time: 20170501064214
+Parsed by mw1196
+Cached time: 20170503185547
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.072 seconds
-Real time usage: 0.167 seconds
+CPU time usage: 0.052 seconds
+Real time usage: 0.095 seconds
 Preprocessor visited node count: 179/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 6578/2097152 bytes
+Post‐expand include size: 6834/2097152 bytes
 Template argument size: 0/2097152 bytes
 Highest expansion depth: 3/40
 Expensive parser function count: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   96.009      1 -total
- 74.55%   71.572      1 Predložak:Portali-izdvojeni
-  9.91%    9.510      1 Wikipedija:Izabrani_članci/18,_2017.
-  7.60%    7.299      1 Wikipedija:Slika_tjedna/18,_2017.
-  3.12%    2.992      1 Wikipedija:Izabrane_godišnjice/1._svibnja
-  1.60%    1.537      1 Predložak:Novosti
-  1.54%    1.476      1 Predložak:Wikiprojekti
+100.00%   39.685      1 -total
+ 73.51%   29.172      1 Predložak:Portali-izdvojeni
+  8.71%    3.455      1 Wikipedija:Slika_tjedna/18,_2017.
+  4.05%    1.609      1 Wikipedija:Izabrane_godišnjice/3._svibnja
+  4.02%    1.597      1 Predložak:Novosti
+  3.79%    1.505      1 Wikipedija:Izabrani_članci/18,_2017.
+  3.09%    1.225      1 Predložak:Wikiprojekti
 -->
 
-<!-- Saved in parser cache with key hrwiki:pcache:idhash:4-0!*!0!!*!4!* and timestamp 20170501064214 and revision id 4836213
+<!-- Saved in parser cache with key hrwiki:pcache:idhash:4-0!*!0!!*!4!* and timestamp 20170503185547 and revision id 4836213
  -->
 <noscript><img src="//hr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Dobavljeno iz "<a dir="ltr" href="https://hr.wikipedia.org/w/index.php?title=Glavna_stranica&amp;oldid=4836213">https://hr.wikipedia.org/w/index.php?title=Glavna_stranica&amp;oldid=4836213</a>"					</div>
@@ -428,6 +428,6 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.167","ppvisitednodes":{"value":179,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6578,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   96.009      1 -total"," 74.55%   71.572      1 Predložak:Portali-izdvojeni","  9.91%    9.510      1 Wikipedija:Izabrani_članci/18,_2017.","  7.60%    7.299      1 Wikipedija:Slika_tjedna/18,_2017.","  3.12%    2.992      1 Wikipedija:Izabrane_godišnjice/1._svibnja","  1.60%    1.537      1 Predložak:Novosti","  1.54%    1.476      1 Predložak:Wikiprojekti"]},"cachereport":{"origin":"mw2225","timestamp":"20170501064214","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":315,"wgHostname":"mw2225"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.052","walltime":"0.095","ppvisitednodes":{"value":179,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6834,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   39.685      1 -total"," 73.51%   29.172      1 Predložak:Portali-izdvojeni","  8.71%    3.455      1 Wikipedija:Slika_tjedna/18,_2017.","  4.05%    1.609      1 Wikipedija:Izabrane_godišnjice/3._svibnja","  4.02%    1.597      1 Predložak:Novosti","  3.79%    1.505      1 Wikipedija:Izabrani_članci/18,_2017.","  3.09%    1.225      1 Predložak:Wikiprojekti"]},"cachereport":{"origin":"mw1196","timestamp":"20170503185547","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1188"});});</script>
 	</body>
 </html>
