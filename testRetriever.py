@@ -15,6 +15,7 @@ import tornado.web
 
 doc_urls = pickle.load(open("doc_urls.p", "rb"))
 new_urls = pickle.load(open("new_urls.p", "rb"))
+inv_map = dict((v, k) for k, v in doc_urls.iteritems())
  
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
@@ -35,6 +36,7 @@ class MainHandler(tornado.web.RequestHandler):
         MAX = 10
         hits = searcher.search(query, MAX)
         items = []
+        rQ = []
         print "Found %d document(s) that matched query '%s':" % (hits.totalHits, query)
         for hit in hits.scoreDocs:
             print hit.score, hit.doc, hit.toString()
@@ -43,6 +45,10 @@ class MainHandler(tornado.web.RequestHandler):
             #print(new_urls[str(hit.doc)])
             result = str(hit.score)+ " " + str(hit.doc) + " " + hit.toString()
             items.append(new_urls[str(hit.doc)])
+            website = new_urls[str(hit.doc)]
+            print(website)
+            print(inv_map[website])
+        
 
         self.render("index.html", title="Results", items=items, query=q)
 
