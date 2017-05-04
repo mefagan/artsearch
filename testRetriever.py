@@ -9,6 +9,7 @@ from lucene import IndexReader
 from lucene import QueryParser
 from lucene import SimpleFSDirectory
 from lucene import Version
+from findMinDistance import findMinDistance
 import pickle
 import tornado.ioloop
 import tornado.web
@@ -33,9 +34,10 @@ class MainHandler(tornado.web.RequestHandler):
         searcher = IndexSearcher(reader)
  
         query = QueryParser(Version.LUCENE_30, "text", analyzer).parse(q)
-        MAX = 10
+        MAX = 1000
         hits = searcher.search(query, MAX)
         items = []
+        #create a list of html files with relevant websites
         rQ = []
         print "Found %d document(s) that matched query '%s':" % (hits.totalHits, query)
         for hit in hits.scoreDocs:
@@ -44,10 +46,13 @@ class MainHandler(tornado.web.RequestHandler):
             print doc.get("text").encode("utf-8")
             #print(new_urls[str(hit.doc)])
             result = str(hit.score)+ " " + str(hit.doc) + " " + hit.toString()
-            items.append(new_urls[str(hit.doc)])
+            if (len(items)<10):
+                items.append(new_urls[str(hit.doc)])
+            #find the document that corresponds to the html website and append to a list for min distance
             website = new_urls[str(hit.doc)]
-            print(website)
-            print(inv_map[website])
+            rQ.append(inv_map[website])
+        print("Hello")
+        print(findMinDistance(rQ))
         
 
         self.render("index.html", title="Results", items=items, query=q)

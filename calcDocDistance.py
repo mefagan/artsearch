@@ -60,7 +60,7 @@ def calculateDistance(filename1, filename2):
 	sortedWordList1 = getWordFrequency(filename1)
 	sortedWordList2 = getWordFrequency(filename2)
 	distance = calculateVectorAngle(sortedWordList1, sortedWordList2)
-	print(distance)
+	
 
 	
 	
