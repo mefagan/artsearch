@@ -1,6 +1,9 @@
+#Taken and adapted from MIT lectures at https://courses.csail.mit.edu/6.006/fall11/rec/rec02.pdf
+import math
+
 def read_file(filename):
 	with open(filename, 'r') as myfile:
-		data=myfile.read()
+		line_list=myfile.read().splitlines()
 	return line_list
 
 def getWordsFromLineList(line_list):
@@ -17,7 +20,7 @@ def getWordsFromString(line):
 	for c in line:
 		if c.isalnum():
 			characterList.append(c)
-		else is len(characterList) > 0:
+		elif len(characterList) > 0:
 			word = "".join(characterList)
 			word = word.lower()
 			characterList = []
@@ -39,8 +42,8 @@ def countFrequency(wordList):
 			if word == entry[0]:
 				entry[1] = entry[1] + 1
 				break
-		else
-			list.append([word], 1)
+		else:
+			list.append([word, 1])
 	return list
 
 def getWordFrequency(filename):
@@ -67,6 +70,7 @@ def calculateDistance(filename1, filename2):
 	sortedWordList1 = getWordFrequency(filename1)
 	sortedWordList2 = getWordFrequency(filename2)
 	distance = calculateVectorAngle(sortedWordList1, sortedWordList2)
+	print(distance)
 
 	
 	

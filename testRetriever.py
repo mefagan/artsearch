@@ -1,6 +1,6 @@
 import sys
 import lucene
- 
+from calcDocDistance import calculateDistance
 from lucene import File
 from lucene import StandardAnalyzer
 from lucene import Document, Field
@@ -53,6 +53,7 @@ def make_app():
     ])
 
 if __name__ == "__main__":
+    calculateDistance('html_files/4', 'html_files/8')
     app = make_app()
     app.listen(8888)
     tornado.ioloop.IOLoop.current().start()
