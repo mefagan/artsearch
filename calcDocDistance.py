@@ -1,16 +1,14 @@
 #Taken and adapted from MIT lectures at https://courses.csail.mit.edu/6.006/fall11/rec/rec02.pdf
 import math
-
-def read_file(filename):
-	with open(filename, 'r') as myfile:
-		line_list=myfile.read().splitlines()
-	return line_list
+from insertionSort import insertion_sort
+from innerProduct import inner_product
+from readFile import read_file
 
 def getWordsFromLineList(line_list):
 	words = []
 	for line in line_list:
 		words_in_line = getWordsFromString(line)
-		words = words + words_in_line
+		words.extend(words_in_line)
 	return words
 
 def getWordsFromString(line):
@@ -50,15 +48,8 @@ def getWordFrequency(filename):
 	line_list = read_file(filename)
 	words = getWordsFromLineList(line_list)
 	frequencyMap = countFrequency(words)
+	insertion_sort(frequencyMap)
 	return frequencyMap
-
-def inner_product(L1, L2):
-	sum = 0.0
-	for word1, count1 in L1:
-		for word2, count2 in L2:
-			if word1==word2:
-				sum += count1 * count2
-	return sum
 
 def calculateVectorAngle(L1, L2):
 	numberator = inner_product(L1, L2)
