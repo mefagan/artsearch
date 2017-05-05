@@ -38,6 +38,7 @@ class MainHandler(tornado.web.RequestHandler):
         MAX = 1000
         hits = searcher.search(query, MAX)
         items = []
+        docsToScores = {}
         #create a list of html files with relevant websites
         rQ = []
         print "Found %d document(s) that matched query '%s':" % (hits.totalHits, query)
@@ -51,8 +52,12 @@ class MainHandler(tornado.web.RequestHandler):
                 items.append(new_urls[str(hit.doc)])
             #find the document that corresponds to the html website and append to a list for min distance
             website = new_urls[str(hit.doc)]
+            #html_files numbers of the hit websites added to rQ
             rQ.append(inv_map[website])
-        functionScore()
+            docsToScores[inv_map[website]] = hit.score
+            print(inv_map[website])
+        #functionScore()
+        #distanceMatrix[][]
     
         
 

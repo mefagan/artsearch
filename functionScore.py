@@ -1,7 +1,7 @@
 import pickle
 distanceMatrix = pickle.load(open("distances.p", "rb"))
 
-def functionScore(doc1, doc2, parameter):
+def functionScore(doc1, doc2, parameter, hits):
 	score1 =
 	score2 = 
 	distance = distanceMatrix[][]
