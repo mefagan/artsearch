@@ -61,11 +61,15 @@ class MainHandler(tornado.web.RequestHandler):
             print(inv_map[website])
         #score = functionScore(99, 151, .7, docsToScores)
         maxarg, u, v = findMaxDistance(rQ, .7, docsToScores)
-        calculateMaxMin(rQ, 10, .7, docsToScores)
+        S = calculateMaxMin(rQ, 10, .7, docsToScores)
+        items2 = []
+        for x in S:
+            items2.append(doc_urls[x])
+
     
         
 
-        self.render("index.html", title="Results", items=items, query=q)
+        self.render("index.html", title="Results", items=items2, query=q)
 
 
 def make_app():

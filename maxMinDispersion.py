@@ -22,8 +22,21 @@ def calculateMaxMin(U, k, parameter, docsToScores):
 		i = i-1
 		if dist != float('inf'):
 			S.add(x)
+			print("hHERE IS X")
+			print(x)
+	if len(S) < int(k) and len(S) < len(distancesToS):
+		print("entered")
+		i = 0
+		while len(S) < int(k) and i > -1:
+			dist = distancesToSList[i]
+			x = distancesToS[dist]
+			i = i-1
+			S.add(x)
+
+
 	print("final length of the set")
 	print(len(S))
+	return S
 	
 		
 	
