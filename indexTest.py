@@ -21,6 +21,7 @@ new_urls = {}
 doc_urls = pickle.load(open("doc_urls.p", "rb"))
 
 
+
 if __name__ == "__main__":
     lucene.initVM()
     src_dir = "html_files"
@@ -75,4 +76,5 @@ if __name__ == "__main__":
     writer.close()
     print ("...done closing index of %d documents" % writer.numDocs())
     pickle.dump(new_urls, open("new_urls.p","wb"), protocol=2)
-    findMinDistance(new_urls)
+    distanceMatrix = findMinDistance(new_urls)
+    pickle.dump(distanceMatrix, open("distances.p", "wb"), protocol=2)

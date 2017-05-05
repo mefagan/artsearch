@@ -16,6 +16,7 @@ import tornado.web
 
 doc_urls = pickle.load(open("doc_urls.p", "rb"))
 new_urls = pickle.load(open("new_urls.p", "rb"))
+distanceMatrix = pickle.load(open("distances.p", "rb"))
 inv_map = dict((v, k) for k, v in doc_urls.iteritems())
  
 class MainHandler(tornado.web.RequestHandler):
@@ -51,6 +52,7 @@ class MainHandler(tornado.web.RequestHandler):
             #find the document that corresponds to the html website and append to a list for min distance
             website = new_urls[str(hit.doc)]
             rQ.append(inv_map[website])
+        functionScore()
     
         
 
@@ -63,7 +65,6 @@ def make_app():
     ])
 
 if __name__ == "__main__":
-    print(calculateDistance('html_files/4', 'html_files/8'))
     app = make_app()
     app.listen(8888)
     tornado.ioloop.IOLoop.current().start()

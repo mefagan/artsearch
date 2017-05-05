@@ -2,12 +2,12 @@
 from calcDocDistance import calculateDistance
 import os
 def findMinDistance(S):
-	outerDictionary = {}
 	src_dir = "html_files"
 	minDistance = float('inf')
 	distanceMatrix = [[0 for x in range(200)] for y in range(200)] 
 	for doc1 in S:
 		one = doc1
+		print(int(one))
 		doc1 = os.path.join(src_dir, doc1)
 		print(doc1)
 		for doc2 in S:
@@ -19,6 +19,8 @@ def findMinDistance(S):
 	 			print(dist)
 	 			distanceMatrix[int(one)][int(two)] = dist
 	 			distanceMatrix[int(two)][int(one)] = dist
-	 			if dist < minDistance:
+	 			if dist < minDistance and dist>0:
 					minDistance = dist
-	return minDistance
+	print("overall minimum distance")
+	print(minDistance)
+	return distanceMatrix
