@@ -1,6 +1,8 @@
 from findMaxDistance import findMaxDistance
+from findMinPrimeDistance import findMinPrimeDistance
 
 def calculateMaxMin(U, k, parameter, docsToScores):
+	distancesToS = {}
 	U = set(U)
 	S = set()
 	maxarg, u, v = findMaxDistance(U, int(parameter), docsToScores)
@@ -10,5 +12,7 @@ def calculateMaxMin(U, k, parameter, docsToScores):
 	print(u)
 	print(v)
 	for x in U.difference(S):
-		print(x)
+		distancesToS[x] = findMinPrimeDistance(U.difference(S), x, int(parameter), docsToScores)
+		print(distancesToS[x])
+		
 	
