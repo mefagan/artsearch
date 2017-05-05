@@ -1,14 +1,14 @@
-doc_urls = pickle.load(open("doc_urls.p", "rb"))
-distanceMatrix = pickle.load(open("distances.p", "rb"))
+from findMaxDistance import findMaxDistance
 
-def calculateMaxMin(U, k, scores):
-	setS = []
-	maxArg = 0
-	for doc1 in U:
-		for doc2 in U:
-			if doc1 != doc2:
-				score = functionScore(doc1, doc2)
-				docs = doc1, doc2
-
-				if score > maxArg:
-					maxArg = score
+def calculateMaxMin(U, k, parameter, docsToScores):
+	U = set(U)
+	S = set()
+	maxarg, u, v = findMaxDistance(U, int(parameter), docsToScores)
+	S.add(u)
+	S.add(v)
+	print("U and V")
+	print(u)
+	print(v)
+	for x in U.difference(S):
+		print(x)
+	

@@ -10,6 +10,7 @@ from lucene import QueryParser
 from lucene import SimpleFSDirectory
 from lucene import Version
 from findMinDistance import findMinDistance
+from maxMinDispersion import calculateMaxMin
 from findMaxDistance import findMaxDistance
 from functionScore import functionScore
 import pickle
@@ -60,11 +61,7 @@ class MainHandler(tornado.web.RequestHandler):
             print(inv_map[website])
         #score = functionScore(99, 151, .7, docsToScores)
         maxarg, u, v = findMaxDistance(rQ, .7, docsToScores)
-        print("MAX ARG IS")
-        print(maxarg)
-        print("DOCS ARE")
-        print(u)
-        print(v)
+        calculateMaxMin(rQ, 10, .7, docsToScores)
     
         
 
