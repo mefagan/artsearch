@@ -51,7 +51,7 @@ class MainHandler(tornado.web.RequestHandler):
             #find the document that corresponds to the html website and append to a list for min distance
             website = new_urls[str(hit.doc)]
             rQ.append(inv_map[website])
-        print(findMinDistance(rQ))
+    
         
 
         self.render("index.html", title="Results", items=items, query=q)
@@ -63,7 +63,7 @@ def make_app():
     ])
 
 if __name__ == "__main__":
-    calculateDistance('html_files/4', 'html_files/8')
+    print(calculateDistance('html_files/4', 'html_files/8'))
     app = make_app()
     app.listen(8888)
     tornado.ioloop.IOLoop.current().start()

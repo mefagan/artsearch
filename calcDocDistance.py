@@ -42,13 +42,12 @@ def countFrequency(wordList):
 		else:
 			dictionary[word] = 1
 			
-	return dictionary.items()
+	return dictionary
 
 def getWordFrequency(filename):
 	line_list = read_file(filename)
 	words = getWordsFromLineList(line_list)
 	frequencyMap = countFrequency(words)
-	frequencyMap = merge_sort(frequencyMap)
 	return frequencyMap
 
 def calculateVectorAngle(L1, L2):

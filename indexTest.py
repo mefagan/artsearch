@@ -3,6 +3,7 @@ from stripHTML import strip_tags
 from removeStopWords import stripStopWords
 import sys, threading, time
 from datetime import datetime
+from findMinDistance import findMinDistance
 import lucene
 import os
 from lucene import SimpleFSDirectory, System, File, Document, Field, StandardAnalyzer, IndexWriter, Version
@@ -74,3 +75,4 @@ if __name__ == "__main__":
     writer.close()
     print ("...done closing index of %d documents" % writer.numDocs())
     pickle.dump(new_urls, open("new_urls.p","wb"), protocol=2)
+    findMinDistance(new_urls)
