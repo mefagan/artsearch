@@ -8,6 +8,5 @@ def findMinPrimeDistance(set, docx, parameter, docsToScore):
 			score = functionScore(docx, docu, parameter, docsToScore)
 			if score < minArg and score != 0:
 				minArg = score
-	print("MIN ARG")
-	print(minArg)
+	
 	return minArg
