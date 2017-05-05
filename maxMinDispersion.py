@@ -8,5 +8,7 @@ def calculateMaxMin(U, k, scores):
 		for doc2 in U:
 			if doc1 != doc2:
 				score = functionScore(doc1, doc2)
+				docs = doc1, doc2
+
 				if score > maxArg:
 					maxArg = score
