@@ -10,6 +10,7 @@ from lucene import QueryParser
 from lucene import SimpleFSDirectory
 from lucene import Version
 from findMinDistance import findMinDistance
+from functionScore import functionScore
 import pickle
 import tornado.ioloop
 import tornado.web
@@ -54,9 +55,16 @@ class MainHandler(tornado.web.RequestHandler):
             website = new_urls[str(hit.doc)]
             #html_files numbers of the hit websites added to rQ
             rQ.append(inv_map[website])
-            docsToScores[inv_map[website]] = hit.score
+            docsToScores[int(inv_map[website])] = hit.score
             print(inv_map[website])
-        #functionScore()
+        score = functionScore(99, 151, .7, docsToScores)
+        print("DISTANCE MATRIX")
+        print(distanceMatrix[int(99)][int(151)])
+        print(docsToScores[int(99)])
+        print(docsToScores[int(151)])
+        print("SCORE")
+        print(score)
+
         #distanceMatrix[][]
     
         
