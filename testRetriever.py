@@ -13,6 +13,7 @@ from findMinDistance import findMinDistance
 from maxMinDispersion import calculateMaxMin
 from findMaxDistance import findMaxDistance
 from functionScore import functionScore
+from maxCoverage import calculateMaxCoverage
 import pickle
 import tornado.ioloop
 import tornado.web
@@ -40,7 +41,7 @@ class MainHandler(tornado.web.RequestHandler):
         query = QueryParser(Version.LUCENE_30, "text", analyzer).parse(q)
         MAX = 1000
         hits = searcher.search(query, MAX)
-        items = []
+        nonDiverse = []
         docsToScores = {}
         #create a list of html files with relevant websites
         rQ = []
@@ -51,8 +52,8 @@ class MainHandler(tornado.web.RequestHandler):
             print doc.get("text").encode("utf-8")
             #print(new_urls[str(hit.doc)])
             result = str(hit.score)+ " " + str(hit.doc) + " " + hit.toString()
-            if (len(items)<10):
-                items.append(new_urls[str(hit.doc)])
+            if (len(nonDiverse)<10):
+                nonDiverse.append(new_urls[str(hit.doc)])
             #find the document that corresponds to the html website and append to a list for min distance
             website = new_urls[str(hit.doc)]
             #html_files numbers of the hit websites added to rQ
@@ -61,15 +62,19 @@ class MainHandler(tornado.web.RequestHandler):
             print(inv_map[website])
         #score = functionScore(99, 151, .7, docsToScores)
         maxarg, u, v = findMaxDistance(rQ, .7, docsToScores)
-        S = calculateMaxMin(rQ, 10, .7, docsToScores)
-        items2 = []
-        for x in S:
-            items2.append(doc_urls[x])
+        distanceBased = calculateMaxMin(rQ, 10, .7, docsToScores)
+        coverageBased = calculateMaxCoverage(rQ, 10, .7, docsToScores)
+        dBased = []
+        for x in distanceBased:
+            dBased.append(doc_urls[x])
+        cBased = []
+        for x in coverageBased:
+            cBased.append(doc_urls[x])
 
     
         
 
-        self.render("index.html", title="Results", items=items2, query=q)
+        self.render("index.html", title="Results", items=nonDiverse, query=q)
 
 
 def make_app():

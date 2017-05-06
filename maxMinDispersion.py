@@ -32,7 +32,6 @@ def calculateMaxMin(U, k, parameter, docsToScores):
 			if (len(S)< int(k)):
 				S.add(x)
 
-
 	print("final length of the set")
 	print(len(S))
 	return S

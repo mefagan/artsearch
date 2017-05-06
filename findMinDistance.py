@@ -21,6 +21,5 @@ def findMinDistance(S):
 	 			distanceMatrix[int(two)][int(one)] = dist
 	 			if dist < minDistance and dist>0:
 					minDistance = dist
-	print("overall minimum distance")
-	print(minDistance)
+	
 	return distanceMatrix
