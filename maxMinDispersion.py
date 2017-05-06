@@ -29,7 +29,8 @@ def calculateMaxMin(U, k, parameter, docsToScores):
 		print(dist)
 		i = i-1
 		for x in distancesToS[dist]: 
-			S.add(x)
+			if (len(S)< int(k)):
+				S.add(x)
 
 
 	print("final length of the set")

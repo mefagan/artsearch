@@ -69,7 +69,7 @@ class MainHandler(tornado.web.RequestHandler):
     
         
 
-        self.render("index.html", title="Results", items=items, query=q)
+        self.render("index.html", title="Results", items=items2, query=q)
 
 
 def make_app():
