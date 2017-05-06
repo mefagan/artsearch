@@ -7,14 +7,13 @@ from findMinDistance import findMinDistance
 import lucene
 import os
 from lucene import SimpleFSDirectory, System, File, Document, Field, StandardAnalyzer, IndexWriter, Version
-
-#from java.nio.file import Paths
 from lucene import LimitTokenCountAnalyzer
 from lucene import StandardAnalyzer
 from lucene import Document, Field #FieldType
 from lucene import \
     IndexWriter, IndexWriterConfig
 from lucene import SimpleFSDirectory
+from getWordsFromText import getWordsFromText
 import pickle
 new_urls = {}
 
@@ -57,7 +56,7 @@ if __name__ == "__main__":
         #print(document)
         i += 1
         #create a list of words in the document
-        words = document.split()
+        words = getWordsFromText(document.encode('utf-8'))
         #create a document to add to the index
         doc = Document()
         for word in words:
