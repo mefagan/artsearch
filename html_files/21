@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tempera - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tempera","wgTitle":"Tempera","wgCurRevisionId":773572217,"wgRevisionId":773572217,"wgArticleId":31053,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Dutch-language sources (nl)","All articles with unsourced statements","Articles with unsourced statements from April 2009","Wikipedia articles with GND identifiers","Pages using ISBN magic links","Paints","Painting techniques","Art materials","Eggs in culture","Italian words and phrases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tempera","wgRelevantArticleId":31053,"wgRequestId":"WQuGmQpAIDUAAGDD6q0AAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q175166","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bd/Duccio_The-Madonna-and-Child-128.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tempera"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tempera&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tempera&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tempera"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tempera rootpage-Tempera skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tempera</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the painting medium. For the Japanese food, see <a href="/wiki/Tempura" title="Tempura">Tempura</a>. For other uses, see <a href="/wiki/Tempera_(disambiguation)" class="mw-disambig" title="Tempera (disambiguation)">Tempera (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Duccio_The-Madonna-and-Child-128.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Duccio_The-Madonna-and-Child-128.jpg/220px-Duccio_The-Madonna-and-Child-128.jpg" width="220" height="324" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Duccio_The-Madonna-and-Child-128.jpg/330px-Duccio_The-Madonna-and-Child-128.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Duccio_The-Madonna-and-Child-128.jpg/440px-Duccio_The-Madonna-and-Child-128.jpg 2x" data-file-width="1019" data-file-height="1500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Duccio_The-Madonna-and-Child-128.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Madonna_and_Child" class="mw-redirect" title="Madonna and Child">Madonna and Child</a> by <a href="/wiki/Duccio" title="Duccio">Duccio</a>, tempera and gold on wood, 1284, <a href="/wiki/Siena" title="Siena">Siena</a></div>
+</div>
+</div>
+<p><b>Tempera</b> (<small>Italian:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Italian" title="Help:IPA for Italian">[ˈtɛmpera]</a></span>), also known as <b>egg tempera</b>, is a permanent, fast-drying painting medium consisting of colored <a href="/wiki/Pigment" title="Pigment">pigments</a> mixed with a water-soluble <a href="/wiki/Binder_(material)" title="Binder (material)">binder</a> medium (usually a glutinous material such as egg yolk or some other <a href="/wiki/Sizing" title="Sizing">size</a>). Tempera also refers to the paintings done in this medium. Tempera paintings are very long lasting, and examples from the 1st centuries AD still exist. Egg tempera was a primary method of painting until after 1500 when it was superseded by the invention of <a href="/wiki/Oil_painting" title="Oil painting">oil painting</a>. A paint consisting of pigment and glue size commonly used in the United States as <a href="/wiki/Poster_paint" title="Poster paint">poster paint</a> is also often referred to as "tempera paint," although the binders and sizes in this paint are different from traditional tempera paint.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle" class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Technique"><span class="tocnumber">2</span> <span class="toctext">Technique</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Egg_tempera"><span class="tocnumber">2.1</span> <span class="toctext">Egg tempera</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Tempera_grassa"><span class="tocnumber">2.2</span> <span class="toctext">Tempera grassa</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Pigments"><span class="tocnumber">2.3</span> <span class="toctext">Pigments</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Application"><span class="tocnumber">2.4</span> <span class="toctext">Application</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ground"><span class="tocnumber">2.5</span> <span class="toctext">Ground</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pre-made_paints"><span class="tocnumber">2.6</span> <span class="toctext">Pre-made paints</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Tempera_artists"><span class="tocnumber">3</span> <span class="toctext">Tempera artists</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Tempera_revival_in_20th-century_American_art"><span class="tocnumber">3.1</span> <span class="toctext">Tempera revival in 20th-century American art</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#20th-century_Indian_art"><span class="tocnumber">3.2</span> <span class="toctext">20th-century Indian art</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Tempera_in_contemporary_art"><span class="tocnumber">3.3</span> <span class="toctext">Tempera in contemporary art</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Gallery_of_tempera_art"><span class="tocnumber">4</span> <span class="toctext">Gallery of tempera art</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg/220px-Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg" width="220" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg/330px-Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg/440px-Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg 2x" data-file-width="1110" data-file-height="963" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Niccol%C3%B2_Semitecolo_-_Two_Christians_before_the_Judges.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/1367_in_art" class="mw-redirect" title="1367 in art">1367</a> tempera on wood by <a href="/wiki/Niccol%C3%B2_Semitecolo" title="Niccolò Semitecolo">Niccolò Semitecolo</a>.</div>
+</div>
+</div>
+<p>Tempera painting has been found on <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">early Egyptian</a> <a href="/wiki/Sarcophagi" class="mw-redirect" title="Sarcophagi">sarcophagi</a> decorations. Many of the <a href="/wiki/Fayum_mummy_portrait" class="mw-redirect" title="Fayum mummy portrait">Fayum mummy portraits</a> use tempera, sometimes in combination with <a href="/wiki/Encaustic_painting" title="Encaustic painting">encaustic</a>.</p>
+<p>A related technique has been used also in ancient and early medieval paintings found in several caves and rock-cut temples of India.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> High-quality art with the help of tempera was created in <a href="/wiki/Bagh_Caves" title="Bagh Caves">Bagh Caves</a> between the late 4th and 10th centuries AD and in the 7th century AD in Ravan Chhaya rock shelter, Orissa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The <a href="/wiki/Art_techniques_and_materials" class="mw-redirect" title="Art techniques and materials">art technique</a> was known from the classical world, where it appears to have taken over from <a href="/wiki/Encaustic_painting" title="Encaustic painting">encaustic painting</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2009)">citation needed</span></a></i>]</sup> and was the main medium used for <a href="/wiki/Panel_painting" title="Panel painting">panel painting</a> and <a href="/wiki/Illuminated_manuscript" title="Illuminated manuscript">illuminated manuscripts</a> in the <a href="/wiki/Byzantine" class="mw-redirect" title="Byzantine">Byzantine</a> world and <a href="/wiki/Middle_Ages" title="Middle Ages">Medieval</a> and <a href="/wiki/Early_renaissance" class="mw-redirect" title="Early renaissance">Early renaissance</a> Europe. Tempera painting was the primary panel painting medium for nearly every painter in the European Medieval and Early renaissance period up to 1500. For example, every surviving panel painting by <a href="/wiki/Michelangelo" title="Michelangelo">Michelangelo</a> is egg tempera.</p>
+<p><a href="/wiki/Oil_painting" title="Oil painting">Oil paint</a>, which may have originated in <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> between the 5th and 9th centuries<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and migrated westward in the Middle Ages<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> eventually superseded tempera. Oil replaced tempera as the principal medium used for creating artwork during the 15th century in <a href="/wiki/Early_Netherlandish_painting" title="Early Netherlandish painting">Early Netherlandish painting</a> in northern Europe. Around 1500, oil paint replaced tempera in Italy. In the 19th and 20th centuries, there were intermittent revivals of tempera technique in Western art, among the <a href="/wiki/Pre-Raphaelites" class="mw-redirect" title="Pre-Raphaelites">Pre-Raphaelites</a>, <a href="/wiki/Social_realism" title="Social realism">Social Realists</a>, and others. Tempera painting continues to be used in Greece and Russia where it is the traditional medium for <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox</a> <a href="/wiki/Icons" class="mw-redirect" title="Icons">icons</a>.</p>
+<h2><span class="mw-headline" id="Technique">Technique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=2" title="Edit section: Technique">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tempera is traditionally created by hand-grinding dry powdered <a href="/wiki/Pigment" title="Pigment">pigments</a> into a <a href="/wiki/Paint" title="Paint">binding agent</a> or <i>medium</i>, such as egg, glue, honey, water, milk (in the form of <a href="/wiki/Casein" title="Casein">casein</a>) and a variety of plant gums.</p>
+<p>Tempera painting starts with placing a small amount of the powdered pigment onto a palette, dish or bowl and adding about an equal volume of the binder and mixing. Some pigments require slightly more binder, some require less. A few drops of <a href="/wiki/Distilled_water" title="Distilled water">distilled water</a> are added; then the binder (egg emulsion) is added in small increments to the desired transparency. The more egg emulsion, the more transparent the paint.</p>
+<h3><span class="mw-headline" id="Egg_tempera">Egg tempera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=3" title="Edit section: Egg tempera">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most common form of classical tempera painting is "egg tempera". For this form most often only the contents of the <a href="/wiki/Egg_yolk" class="mw-redirect" title="Egg yolk">egg yolk</a> is used. The white of the egg and the membrane of the yolk are discarded (the membrane of the yolk is dangled over a receptacle and punctured to drain off the liquid inside). Egg yolk is never used by itself with pigment; it dries almost immediately and crackles when it is dry. Some agent is always added, in variable proportions. One recipe calls for vinegar (1:1 proportion to egg yolk by volume); other recipes suggest white wine (1 part yolk, 2 parts wine). Some schools of egg tempera use various mixtures of egg yolk and water.</p>
+<p>When used to paint icons on church walls, liquid <a href="/wiki/Myrrh" title="Myrrh">myrrh</a> is sometimes added to the mixture to give the paint a pleasing odor, particularly as worshipers may find the egg tempera somewhat pungent for quite some time after completion.</p>
+<p>The paint mixture has to be constantly adjusted to maintain a balance between a "greasy" and "watery" consistency by adjusting the amount of water and yolk. As tempera dries, the artist will add more water to preserve the consistency and to balance the thickening of the yolk on contact with air. Once prepared, the paint cannot be stored. Egg tempera is water-resistant, but not waterproof.</p>
+<p>Different preparations use the egg white or the whole egg for different effect. Other additives such as oil and wax emulsions can modify the medium.</p>
+<p>Egg tempera is not a flexible paint and requires stiff boards; painting on <a href="/wiki/Canvas" title="Canvas">canvas</a> will cause cracks to form and chips of paint to fall off.</p>
+<h3><span class="mw-headline" id="Tempera_grassa">Tempera grassa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=4" title="Edit section: Tempera grassa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Adding oil in no more than a 1:1 ratio with the egg yolk by volume produces a water-soluble medium with many of the color effects of oil paint, although it cannot be painted thickly.</p>
+<h3><span class="mw-headline" id="Pigments">Pigments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=5" title="Edit section: Pigments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some of the pigments used by medieval painters, such as <a href="/wiki/Cinnabar" title="Cinnabar">cinnabar</a> (contains mercury), <a href="/wiki/Orpiment" title="Orpiment">orpiment</a> (contains arsenic), or <a href="/wiki/Lead_white" class="mw-redirect" title="Lead white">lead white</a> (contains lead) are highly toxic. Most artists today use modern synthetic pigments, which are less toxic but have similar <a href="/wiki/Color" title="Color">color</a> properties to the older pigments. Even so, many (if not most) modern pigments are still dangerous unless certain precautions are taken; these include keeping pigments wet in storage to avoid breathing their dust.</p>
+<h3><span class="mw-headline" id="Application">Application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=6" title="Edit section: Application">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tempera paint dries rapidly. It is normally applied in thin, semi-opaque or transparent layers. Tempera painting allows for great precision when used with traditional techniques that require the application of numerous small brush strokes applied in a <a href="/wiki/Cross-hatching" class="mw-redirect" title="Cross-hatching">cross-hatching</a> technique. When dry, it produces a smooth <a href="/wiki/Gloss_(material_appearance)" class="mw-redirect" title="Gloss (material appearance)">matte</a> finish. Because it cannot be applied in thick layers as oil paints can, tempera paintings rarely have the deep color <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">saturation</a> that oil paintings can achieve. In this respect the colors of an unvarnished tempera painting resemble a <a href="/wiki/Pastel" title="Pastel">pastel</a>, although the color deepens if a <a href="/wiki/Varnish" title="Varnish">varnish</a> is applied. On the other hand, tempera colors do not change over time,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> whereas oil paints darken, yellow, and become transparent with age.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Ground">Ground</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=7" title="Edit section: Ground">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg/220px-Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg" width="220" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg/330px-Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg/440px-Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg 2x" data-file-width="1409" data-file-height="1500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Pietro_Lorenzetti" title="Pietro Lorenzetti">Pietro Lorenzetti</a>'s <i><a href="/wiki/Tarlati_polyptych" title="Tarlati polyptych">Tarlati polyptych</a></i>, Tempera and gold on panel, 1320</div>
+</div>
+</div>
+<p>Tempera adheres best to an absorbent ground that has a lower "oil" content than the tempera binder used<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (the traditional rule of thumb is <i>"fat over lean"</i>, and never the other way around).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The ground traditionally used is inflexible Italian <a href="/wiki/Gesso" title="Gesso">gesso</a>, and the substrate is usually rigid as well.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Historically wood panels were used as the substrate, and more recently un-tempered <a href="/wiki/Masonite" title="Masonite">masonite</a> and modern composite boards have been employed. Heavy paper is also used.</p>
+<h3><span class="mw-headline" id="Pre-made_paints">Pre-made paints</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=8" title="Edit section: Pre-made paints">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apart from the traditional process of mixing pigment with egg yolk, new methods include egg tempera sold in tubes by manufacturers such as Sennelier and Daler-Rowney. These paints do contain a slight amount of oil to enhance durability within the container. <a href="/wiki/Marc_Chagall" title="Marc Chagall">Marc Chagall</a> used Sennelier egg tempera tube paints extensively.</p>
+<h2><span class="mw-headline" id="Tempera_artists">Tempera artists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=9" title="Edit section: Tempera artists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although tempera has been out of favor since the Late Renaissance and <a href="/wiki/Baroque" title="Baroque">Baroque</a> eras, it has been periodically rediscovered by later artists such as <a href="/wiki/William_Blake" title="William Blake">William Blake</a>, the <a href="/wiki/Nazarene_movement" title="Nazarene movement">Nazarenes</a>, the <a href="/wiki/Pre-Raphaelite_Brotherhood" title="Pre-Raphaelite Brotherhood">Pre-Raphaelites</a>, and <a href="/wiki/Joseph_Southall" title="Joseph Southall">Joseph Southall</a>. The 20th century saw a significant revival of tempera. European painters who worked with tempera include <a href="/wiki/Giorgio_de_Chirico" title="Giorgio de Chirico">Giorgio de Chirico</a>, <a href="/wiki/Otto_Dix" title="Otto Dix">Otto Dix</a>, <a href="/wiki/Eliot_Hodgkin" title="Eliot Hodgkin">Eliot Hodgkin</a>, <a href="/wiki/Pyke_Koch" title="Pyke Koch">Pyke Koch</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and <a href="/wiki/Pietro_Annigoni" title="Pietro Annigoni">Pietro Annigoni</a>, who used an emulsion of egg yolks, stand oil and varnish.</p>
+<h3><span class="mw-headline" id="Tempera_revival_in_20th-century_American_art">Tempera revival in 20th-century American art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=10" title="Edit section: Tempera revival in 20th-century American art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The tempera medium was used by American artists such as the <a href="/wiki/Regionalism_(art)" title="Regionalism (art)">Regionalists</a> <a href="/wiki/Andrew_Wyeth" title="Andrew Wyeth">Andrew Wyeth</a>, <a href="/wiki/Thomas_Hart_Benton_(painter)" title="Thomas Hart Benton (painter)">Thomas Hart Benton</a> and his student <a href="/wiki/Roger_Medearis" title="Roger Medearis">Roger Medearis</a>; <a href="/wiki/American_Figurative_Expressionism" title="American Figurative Expressionism">expressionists</a> <a href="/wiki/Ben_Shahn" title="Ben Shahn">Ben Shahn</a>, <a href="/wiki/Mitchell_Siporin" title="Mitchell Siporin">Mitchell Siporin</a> and John Langley Howard, magic realists <a href="/wiki/George_Tooker" title="George Tooker">George Tooker</a>, <a href="/wiki/Paul_Cadmus" title="Paul Cadmus">Paul Cadmus</a>, <a href="/wiki/Jared_French" title="Jared French">Jared French</a>, <a href="/wiki/Julia_Thecla" title="Julia Thecla">Julia Thecla</a> and Louise E. Marianetti; <a href="/wiki/Art_Students_League_of_New_York" title="Art Students League of New York">Art Students League of New York</a> instructors <a href="/wiki/Kenneth_Hayes_Miller" title="Kenneth Hayes Miller">Kenneth Hayes Miller</a> and <a href="/wiki/William_C._Palmer" title="William C. Palmer">William C. Palmer</a>, <a href="/wiki/Social_realism" title="Social realism">Social Realists</a> <a href="/wiki/Kyra_Markham" title="Kyra Markham">Kyra Markham</a>, <a href="/wiki/Isabel_Bishop" title="Isabel Bishop">Isabel Bishop</a>, <a href="/wiki/Reginald_Marsh_(artist)" title="Reginald Marsh (artist)">Reginald Marsh</a>, and <a href="/wiki/Noel_Rockmore" title="Noel Rockmore">Noel Rockmore</a>, <a href="/wiki/Edward_Laning" title="Edward Laning">Edward Laning</a>, <a href="/wiki/Anton_Refregier" title="Anton Refregier">Anton Refregier</a>, <a href="/wiki/Jacob_Lawrence" title="Jacob Lawrence">Jacob Lawrence</a>, <a href="/wiki/Rudolph_F._Zallinger" title="Rudolph F. Zallinger">Rudolph F. Zallinger</a>, <a href="/wiki/Robert_Vickrey" title="Robert Vickrey">Robert Vickrey</a>, <a href="/wiki/Peter_Hurd" title="Peter Hurd">Peter Hurd</a>, and <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a> artist <a href="/wiki/John_Schoenherr" title="John Schoenherr">John Schoenherr</a>, notable as the cover artist of <i><a href="/wiki/Dune_(novel)" title="Dune (novel)">Dune</a></i>.</p>
+<h3><span class="mw-headline" id="20th-century_Indian_art">20th-century Indian art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=11" title="Edit section: 20th-century Indian art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the early part of the 20th century, a large number of Indian artist, notably of <a href="/wiki/Bengal_school" class="mw-redirect" title="Bengal school">Bengal school</a> took up tempera as one of their primary media of expression. Artists such as <a href="/wiki/Gaganendranath_Tagore" title="Gaganendranath Tagore">Gaganendranath Tagore</a>, <a href="/wiki/Asit_Kumar_Haldar" title="Asit Kumar Haldar">Asit Kumar Haldar</a>, <a href="/wiki/Abanindranath_Tagore" title="Abanindranath Tagore">Abanindranath Tagore</a>, <a href="/wiki/Nandalal_Bose" title="Nandalal Bose">Nandalal Bose</a>, <a href="/wiki/Kalipada_Ghoshal" title="Kalipada Ghoshal">Kalipada Ghoshal</a> and <a href="/wiki/Sughra_Rababi" title="Sughra Rababi">Sughra Rababi</a> were foremost. After the 1950s, artists such as <a href="/wiki/Jamini_Roy" title="Jamini Roy">Jamini Roy</a> and <a href="/wiki/Ganesh_Pyne" title="Ganesh Pyne">Ganesh Pyne</a> established tempera as a medium for the new age artists of India.</p>
+<h3><span class="mw-headline" id="Tempera_in_contemporary_art">Tempera in contemporary art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=12" title="Edit section: Tempera in contemporary art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other practicing tempera artists include <a href="/wiki/Philip_Aziz" title="Philip Aziz">Philip Aziz</a>, <a href="/wiki/Ernst_Fuchs_(artist)" title="Ernst Fuchs (artist)">Ernst Fuchs</a>, <a href="/wiki/Antonio_Roybal" title="Antonio Roybal">Antonio Roybal</a>, <a href="/wiki/George_Huszar" title="George Huszar">George Huszar</a>, <a href="/wiki/Donald_Jackson_(calligrapher)" title="Donald Jackson (calligrapher)">Donald Jackson</a>, <a href="/wiki/Tim_Lowly" title="Tim Lowly">Tim Lowly</a>, <a href="/wiki/Altoon_Sultan" title="Altoon Sultan">Altoon Sultan</a>, <a href="/wiki/Shaul_Shats" title="Shaul Shats">Shaul Shats</a>, <a href="/wiki/Sandro_Chia" title="Sandro Chia">Sandro Chia</a>, <a href="/wiki/Tim_Donovan" title="Tim Donovan">Tim Donovan</a>, <a href="/wiki/Alex_Colville" title="Alex Colville">Alex Colville</a>, <a href="/wiki/Robert_Vickrey" title="Robert Vickrey">Robert Vickrey</a>, <a href="/wiki/Andrew_Wyeth" title="Andrew Wyeth">Andrew Wyeth</a>, and <a href="/wiki/Ganesh_Pyne" title="Ganesh Pyne">Ganesh Pyne</a>.</p>
+<h2><span class="mw-headline" id="Gallery_of_tempera_art">Gallery of tempera art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=13" title="Edit section: Gallery of tempera art">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional" style="max-width: 732px;_width: 732px;">
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:41px auto;"><a href="/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/140px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" width="140" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/210px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg 2x" data-file-width="30000" data-file-height="18840" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i><a href="/wiki/The_Birth_of_Venus_(Botticelli)" class="mw-redirect" title="The Birth of Venus (Botticelli)">The Birth of Venus</a></i>, <a href="/wiki/Sandro_Botticelli" title="Sandro Botticelli">Sandro Botticelli</a>, Florence, Tempera on canvas, c. 1486</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Madonna71.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Madonna71.jpg/76px-Madonna71.jpg" width="76" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Madonna71.jpg/114px-Madonna71.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Madonna71.jpg/152px-Madonna71.jpg 2x" data-file-width="750" data-file-height="1378" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Guido_da_Siena" class="mw-redirect" title="Guido da Siena">Guido da Siena</a>, <i>Church of San Regolo</i>, Siena, Tempera and gold on panel, 1285-1295</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Duccio.The-Madonna-and-Child-with-Saints-149.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duccio.The-Madonna-and-Child-with-Saints-149.jpg/140px-Duccio.The-Madonna-and-Child-with-Saints-149.jpg" width="140" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duccio.The-Madonna-and-Child-with-Saints-149.jpg/210px-Duccio.The-Madonna-and-Child-with-Saints-149.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duccio.The-Madonna-and-Child-with-Saints-149.jpg/280px-Duccio.The-Madonna-and-Child-with-Saints-149.jpg 2x" data-file-width="1500" data-file-height="1060" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i><a href="/wiki/Madonna_and_Child_with_saints_polyptych_(Duccio)" title="Madonna and Child with saints polyptych (Duccio)">Madonna and Child with saints polyptych</a></i>, <a href="/wiki/Duccio" title="Duccio">Duccio</a>, Tempera and gold on wood, 1311–1318</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Virgin_and_child_with_four_saints--detail--cortona_1435.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Virgin_and_child_with_four_saints--detail--cortona_1435.jpg/135px-Virgin_and_child_with_four_saints--detail--cortona_1435.jpg" width="135" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Virgin_and_child_with_four_saints--detail--cortona_1435.jpg/203px-Virgin_and_child_with_four_saints--detail--cortona_1435.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Virgin_and_child_with_four_saints--detail--cortona_1435.jpg/270px-Virgin_and_child_with_four_saints--detail--cortona_1435.jpg 2x" data-file-width="900" data-file-height="933" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Madonna by <a href="/wiki/Sassetta" class="mw-redirect" title="Sassetta">Sassetta</a>, Cortona, Tempera on wood, 1435</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sandro_botticelli_e_bottega,_madonna_col_bambino_e_san_giovannino_in_un_tondo,_1490-1500_ca._01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG/139px-Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG" width="139" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG/208px-Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG/278px-Sandro_botticelli_e_bottega%2C_madonna_col_bambino_e_san_giovannino_in_un_tondo%2C_1490-1500_ca._01.JPG 2x" data-file-width="2232" data-file-height="2250" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Sandro_Botticelli" title="Sandro Botticelli">Sandro Botticelli</a>, Tempera on panel, 1490–1500</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Carlo_Crivelli_-_Madonna_con_Bambino.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carlo_Crivelli_-_Madonna_con_Bambino.jpg/97px-Carlo_Crivelli_-_Madonna_con_Bambino.jpg" width="97" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carlo_Crivelli_-_Madonna_con_Bambino.jpg/145px-Carlo_Crivelli_-_Madonna_con_Bambino.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carlo_Crivelli_-_Madonna_con_Bambino.jpg/194px-Carlo_Crivelli_-_Madonna_con_Bambino.jpg 2x" data-file-width="2304" data-file-height="3327" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Madonna_with_Child_(Crivelli)" title="Madonna with Child (Crivelli)">Crivelli</a>, Tempera on wood, <a href="/wiki/Transfer_of_panel_paintings" title="Transfer of panel paintings">transferred to canvas</a>, 1470</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Raffael_006.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raffael_006.jpg/138px-Raffael_006.jpg" width="138" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raffael_006.jpg/207px-Raffael_006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raffael_006.jpg/275px-Raffael_006.jpg 2x" data-file-width="2024" data-file-height="2058" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Raphael" title="Raphael">Raphael</a>, Tempera and gold on wood, 1503–1505</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Marianne_Stokes_Melisande.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Marianne_Stokes_Melisande.jpg/82px-Marianne_Stokes_Melisande.jpg" width="82" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Marianne_Stokes_Melisande.jpg/123px-Marianne_Stokes_Melisande.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Marianne_Stokes_Melisande.jpg/164px-Marianne_Stokes_Melisande.jpg 2x" data-file-width="294" data-file-height="500" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Marianne_Stokes" title="Marianne Stokes">Marianne Stokes</a>, <a href="/wiki/Melisande_(Stokes)" title="Melisande (Stokes)">Melisande (Stokes)</a>, Tempera on canvas, 1895–1898</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:30.5px auto;"><a href="/wiki/File:Angelique_Begue_Odalisque_with_a_yellow_turban.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Angelique_Begue_Odalisque_with_a_yellow_turban.JPG/140px-Angelique_Begue_Odalisque_with_a_yellow_turban.JPG" width="140" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Angelique_Begue_Odalisque_with_a_yellow_turban.JPG/210px-Angelique_Begue_Odalisque_with_a_yellow_turban.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Angelique_Begue_Odalisque_with_a_yellow_turban.JPG/280px-Angelique_Begue_Odalisque_with_a_yellow_turban.JPG 2x" data-file-width="3506" data-file-height="2725" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a class="external text" href="https://commons.wikimedia.org/wiki/File:Angelique_Begue_Odalisque_with_a_yellow_turban.JPG">Angélique Bègue, Odalisque with a yellow turban</a>, Tempera on wood, 2014</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:38.5px auto;"><a href="/wiki/File:Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg/140px-Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg" width="140" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg/210px-Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg/280px-Spanish_-_Altar_Frontal_with_Christ_in_Majesty_and_the_Life_of_Saint_Martin_-_Walters_371188.jpg 2x" data-file-width="1800" data-file-height="1190" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Altar Frontal with Christ in Majesty and the Life of Saint Martin. <a href="/wiki/The_Walters_Art_Museum" class="mw-redirect" title="The Walters Art Museum">The Walters Art Museum</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion;_Saint_Michael_-_Walters_37496.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg/105px-Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg" width="105" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg/158px-Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg/211px-Lorenzo_d%27Alessandro_da_San_Severino_-_The_Crucifixion%3B_Saint_Michael_-_Walters_37496.jpg 2x" data-file-width="1354" data-file-height="1799" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Crucifixion; Saint Michael. <a href="/wiki/The_Walters_Art_Museum" class="mw-redirect" title="The Walters Art Museum">The Walters Art Museum</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg/84px-Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg" width="84" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg/126px-Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg/168px-Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg 2x" data-file-width="1078" data-file-height="1799" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Saint Jerome in His Study</i>. <a href="/wiki/The_Walters_Art_Museum" class="mw-redirect" title="The Walters Art Museum">The Walters Art Museum</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 175px">
+<div style="width: 175px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian,_Leo,_Alexander,_Peregrine,_Philip,_Rufinianus,_Justa,_Concordius,_and_Decentius.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg/140px-Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg" width="140" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg/210px-Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg/280px-Bernardo_Daddi_-_Christ_Enthroned_with_Saints_Sebastian%2C_Leo%2C_Alexander%2C_Peregrine%2C_Philip%2C_Rufinianus%2C_Justa%2C_Concordius%2C_and_Decentius.jpg 2x" data-file-width="1887" data-file-height="1557" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Christ Enthroned with Saints Sebastian, Leo, Alexander, Peregrine, Philip, Rufianiaus, Justa, Concordius and Decentius</i>, by <a href="/wiki/Bernardo_Daddi" title="Bernardo Daddi">Bernardo Daddi</a>, 14th century</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Glue-size" title="Glue-size">Glue-size</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wondermondo.com/Best/As/IndMedCavePaint.htm">"Ancient and medieval Indian cave paintings – Internet encyclopedia, Wondermondo, June 10, 2010"</a>. Wondermondo.com. 2010-06-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATempera&amp;rft.btitle=Ancient+and+medieval+Indian+cave+paintings+%E2%80%93+Internet+encyclopedia%2C+Wondermondo%2C+June+10%2C+2010&amp;rft.date=2010-06-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wondermondo.com%2FBest%2FAs%2FIndMedCavePaint.htm&amp;rft.pub=Wondermondo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wondermondo.com/Countries/As/India/Orissa/RavanChhaya.htm">"Ravan Chhaya rock shelter near Sitabinji, Wondermondo, May 23, 2010"</a>. Wondermondo.com. 2010-05-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATempera&amp;rft.btitle=Ravan+Chhaya+rock+shelter+near+Sitabinji%2C+Wondermondo%2C+May+23%2C+2010&amp;rft.date=2010-05-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wondermondo.com%2FCountries%2FAs%2FIndia%2FOrissa%2FRavanChhaya.htm&amp;rft.pub=Wondermondo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/newsOne/idUSISL26042420080422">"World's oldest oil paintings in Afghanistan"</a>. Reuters.com. 2008-04-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATempera&amp;rft.btitle=World%27s+oldest+oil+paintings+in+Afghanistan&amp;rft.date=2008-04-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2FnewsOne%2FidUSISL26042420080422&amp;rft.pub=Reuters.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Theophilus mentions oil media in the 12th Century</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Mayer, Ralph, 1985. <i>The Artist's Handbook of Materials and Techniques</i> (4th ed.). New York: Viking Penguin Inc., p. 215</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Mayer, 1985, p. 119</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Doerner, Max, 1946. <i>The Materials of the Artist and Their Use in Painting</i>. New York: Harcourt, Brace and Company. p. 230.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Mayer, Ralph, 1976. <i>The Artist's Handbook of Materials and Techniques</i> (3rd ed.). New York: Viking Penguin Inc., pp. 165, 253.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Mayer, 1976, p. 269.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://centraalmuseum.nl/ontdekken/object/?img_only=1#o:4687">"Zelfportret met zwarte band (1937)"</a>. <i>Centraal Museum (Utrecht)</i> (in Dutch).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATempera&amp;rft.atitle=Zelfportret+met+zwarte+band+%281937%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcentraalmuseum.nl%2Fontdekken%2Fobject%2F%3Fimg_only%3D1%23o%3A4687&amp;rft.jtitle=Centraal+Museum+%28Utrecht%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Altoon Sultan, <i>The Luminous Brush: Painting With Egg Tempera</i>, Watson-Guptill Publications, New York 1999.</li>
+<li>Richard J. Boyle, Richard Newman, Hilton Brown: Milk and Eggs: The American Revival of Tempera Painting, 1930-1950 Brandywine River Museum Staff, Akron Art Museum Staff <a href="/wiki/Special:BookSources/0295981903" class="internal mw-magiclink-isbn">ISBN 0295981903</a> (0-295-98190-3) Softcover, University of Washington Press</li>
+<li>Lara Broecke,'Cennino Cennini's <i>Il Libro dell'Arte</i>: a New English Translation and Commentary with Italian Transcription', Archetype Publications 2015. <a href="/wiki/Special:BookSources/9781909492288" class="internal mw-magiclink-isbn">ISBN 978-190-949-228-8</a></li>
+<li>Daniel V. Thompson, Jr., <i>Materials and Techniques of Medieval Painting</i>, Dover: explanation and expansion on Cennini's works</li>
+<li>Daniel V. Thompson, Jr. <i>The Practice of Tempera Painting: Materials and Methods</i>, Dover Publications, Inc. 1962..</li>
+<li>Chifan C. Alexandru, " Symbol of hand in fine arts", Artes Publication 2013, Iaşi, Romania, <a href="/wiki/Special:BookSources/9786065471009" class="internal mw-magiclink-isbn">ISBN 978-606-547-100-9</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tempera&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Tempera" class="extiw" title="commons:Category:Tempera">Tempera</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.lindapaul.com/about_egg_tempera.htm">About Egg Tempera</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.watercolorpainting.com/eggtempera.htm">Egg Tempera Painting</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eggtempera.com/">The Society of Tempera Painters</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.danielsmith.com/Learn/Articles/Making-Egg-Tempera.asp">Making Egg Tempera</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.owlpen.com/manor/painted-cloths">Tempera Paintings on Cloth in England</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eggtempera.org">Egg Tempera Resources</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.temperaworkshop.com/technique/technique1.htm">Step-by-step Egg Tempera Technique</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4059425-7">4059425-7</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00572853">00572853</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1183
+Cached time: 20170504195257
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 668/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11972/2097152 bytes
+Template argument size: 637/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  196.122      1 -total
+ 24.97%   48.970      1 Template:Reflist
+ 20.64%   40.473      4 Template:Cite_web
+ 19.97%   39.168      1 Template:Citation_needed
+ 18.32%   35.924      1 Template:Fix
+ 14.09%   27.635      1 Template:About
+ 12.89%   25.275      1 Template:Commons_category
+ 10.83%   21.237      1 Template:Commons
+ 10.81%   21.194      2 Template:Category_handler
+ 10.18%   19.959      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31053-0!*!0!!en!4!* and timestamp 20170504195257 and revision id 773572217
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tempera&amp;oldid=773572217">https://en.wikipedia.org/w/index.php?title=Tempera&amp;oldid=773572217</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Paints" title="Category:Paints">Paints</a></li><li><a href="/wiki/Category:Painting_techniques" title="Category:Painting techniques">Painting techniques</a></li><li><a href="/wiki/Category:Art_materials" title="Category:Art materials">Art materials</a></li><li><a href="/wiki/Category:Eggs_in_culture" title="Category:Eggs in culture">Eggs in culture</a></li><li><a href="/wiki/Category:Italian_words_and_phrases" title="Category:Italian words and phrases">Italian words and phrases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2009" title="Category:Articles with unsourced statements from April 2009">Articles with unsourced statements from April 2009</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tempera" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tempera" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tempera"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Tempera"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tempera" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Tempera&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tempera&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tempera" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tempera" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tempera&amp;oldid=773572217" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tempera&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q175166" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tempera&amp;id=773572217" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tempera">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Tempera&amp;returnto=Tempera&amp;oldid=773572217&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tempera&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tempera" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Tempera" title="Tempera – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D8%A8%D8%B1%D8%A7" title="تمبرا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Tempera" title="Tempera – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0%E0%A6%BE" title="টেম্পেরা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Тэмпера – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Темпера – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Tempera" title="Tempera – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Tempera" title="Tempera – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tremp_d%27ou" title="Tremp d'ou – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tempera" title="Tempera – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tempera" title="Tempera – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tempera" title="Tempera – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tempera" title="Tempera – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CE%AD%CE%BC%CF%80%CE%B5%CF%81%CE%B1" title="Τέμπερα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Pintura_al_temple" title="Pintura al temple – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Tempero" title="Tempero – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Tenpera_pintura" title="Tenpera pintura – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%86%D8%B3%D8%A8%E2%80%8C%D8%B1%D9%86%DA%AF" title="چسب‌رنگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tempera" title="Tempera – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Teampara" title="Teampara – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/T%C3%A9mpera" title="Témpera – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%85%9C%ED%8E%98%EB%9D%BC" title="템페라 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8F%D5%A5%D5%B4%D5%BA%D5%A5%D6%80%D5%A1" title="Տեմպերա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A4%BE_%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3" title="टेम्परा चित्रण – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Tempera" title="Tempera – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Pittura_a_tempera" title="Pittura a tempera – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%9E%D7%A4%D7%A8%D7%94_(%D7%A6%D7%99%D7%95%D7%A8)" title="טמפרה (ציור) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%94%E1%83%9B%E1%83%9E%E1%83%94%E1%83%A0%E1%83%90" title="ტემპერა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Темпера – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Tempera" title="Tempera – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tempera" title="Tempera – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tempera" title="Tempera – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%86%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%B1" title="ടെമ്പറ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D9%85%D8%A8%D8%B1%D8%A7" title="تمبرا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tempera" title="Tempera – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%9A%E3%83%A9" title="テンペラ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tempera" title="Tempera – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Tempera" title="Tempera – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Tempera" title="Tempera – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Tempera" title="Tempera – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/T%C3%AAmpera_(pintura)" title="Têmpera (pintura) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tempera" title="Tempera – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Темпера – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Tempera" title="Tempera – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Tempera" title="Tempera – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Tempera" title="Tempera – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Темпера – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tempera" title="Tempera – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Temperamaalaus" title="Temperamaalaus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Temperam%C3%A5leri" title="Temperamåleri – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B5%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B8%B2" title="สีฝุ่นเทมเพอรา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0" title="Темпера – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%BD%A9%E7%95%AB" title="蛋彩畫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q175166#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 3 April 2017, at 06:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tempera&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.240","ppvisitednodes":{"value":668,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11972,"limit":2097152},"templateargumentsize":{"value":637,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  196.122      1 -total"," 24.97%   48.970      1 Template:Reflist"," 20.64%   40.473      4 Template:Cite_web"," 19.97%   39.168      1 Template:Citation_needed"," 18.32%   35.924      1 Template:Fix"," 14.09%   27.635      1 Template:About"," 12.89%   25.275      1 Template:Commons_category"," 10.83%   21.237      1 Template:Commons"," 10.81%   21.194      2 Template:Category_handler"," 10.18%   19.959      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.056","limit":"10.000"},"limitreport-memusage":{"value":3131934,"limit":52428800}},"cachereport":{"origin":"mw1183","timestamp":"20170504195257","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":318,"wgHostname":"mw1183"});});</script>
+	</body>
+</html>

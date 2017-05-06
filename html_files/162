@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="tr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vikipedi: Özgür Ansiklopedi</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anasayfa","wgTitle":"Anasayfa","wgCurRevisionId":18560407,"wgRevisionId":18560407,"wgArticleId":1299492,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vikipedi"],"wgBreakFrames":false,"wgPageContentLanguage":"tr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"],"wgMonthNamesShort":["","Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"],"wgRelevantPageName":"Anasayfa","wgRelevantArticleId":1299492,"wgRequestId":"WQ1bGApAIDAAAAVmkfEAAAAP","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":18560407,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"tr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"tr","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Türkçe","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.6"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1wdh4lr",function($,jQuery,require,module){mw.user.options.set({"variant":"tr"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.HizliBilgi","ext.gadget.Gerekceyardimcisi","ext.gadget.OpenStreetMap","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=tr&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%7Cext.gadget.ReferenceTooltips%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=tr&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=tr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7d/Magnet_4.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/tr.m.wikipedia.org/wiki/Anasayfa"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipedi (tr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//tr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://tr.wikipedia.org/wiki/Anasayfa"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anasayfa rootpage-Anasayfa skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003EKapat\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"tr\" dir=\"ltr\"\u003E\u003Ccenter\u003E\n\u003Cp\u003E\u003Ca href=\"/wiki/Dosya:Wikimedia-logo.svg\" class=\"image\"\u003E\u003Cimg alt=\"Wikimedia-logo.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png\" width=\"35\" height=\"35\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x\" data-file-width=\"1024\" data-file-height=\"1024\" /\u003E\u003C/a\u003E \u003Ca href=\"https://blog.wikimedia.org/tr/2017/04/30/wikimedia-vakfi-turk-makamlarindan-vikipedi-erisimini-yeniden-saglamasini-talep-ediyor/\" class=\"extiw\" title=\"wmfblog:tr/2017/04/30/wikimedia-vakfi-turk-makamlarindan-vikipedi-erisimini-yeniden-saglamasini-talep-ediyor/\"\u003E\u003Cb\u003EWikimedia Vakfı Türk makamlarından Vikipedi erişimini yeniden sağlamasını talep ediyor\u003C/b\u003E\u003C/a\u003E\n\u003C/p\u003E\n\u003C/center\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="tr">Anasayfa</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Vikipedi, özgür ansiklopedi</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Şuraya atla:					<a href="#mw-head">kullan</a>, 					<a href="#p-search">ara</a>
+				</div>
+				<div id="mw-content-text" lang="tr" dir="ltr" class="mw-content-ltr"><table id="mp-topbanner" style="width:100%; margin-bottom:2px;">
+<tr>
+<td class="globegris" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top;">
+<table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:100%; background:;">
+<tr>
+<td style="height:3em; padding-left:160px">
+<div style="font-size:162%;"><a href="/wiki/Vikipedi" title="Vikipedi">Vikipedi'ye</a> <a href="/wiki/Vikipedi:Ho%C5%9Fgeldiniz" class="mw-redirect" title="Vikipedi:Hoşgeldiniz">hoş geldiniz</a></div>
+<div style="top:+0.2em; font-size:95%;">Herkesin katkıda bulunabildiği <i>Özgür Ansiklopedi</i></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/T%C3%BCrk%C3%A7e" title="Türkçe">Türkçe</a> madde sayısı: <a href="/wiki/%C3%96zel:%C4%B0statistikler" title="Özel:İstatistikler">291.933</a>
+<p><a href="/wiki/6_May%C4%B1s" title="6 Mayıs">6 Mayıs</a> <a href="/wiki/2017" title="2017">2017</a>, <a href="/wiki/Cumartesi" title="Cumartesi">Cumartesi</a></p>
+</div>
+</td>
+<td style="width:13%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Portal:Bilim" title="Portal:Bilim">Bilim</a></li>
+<li><a href="/wiki/Portal:Co%C4%9Frafya" title="Portal:Coğrafya">Coğrafya</a></li>
+<li><a href="/wiki/Portal:Din" title="Portal:Din">Din</a></li>
+</ul>
+</td>
+<td style="width:13%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Portal:Fizik" title="Portal:Fizik">Fizik</a></li>
+<li><a href="/wiki/Portal:Matematik" title="Portal:Matematik">Matematik</a></li>
+<li><a href="/wiki/Portal:Sanat" title="Portal:Sanat">Sanat</a></li>
+</ul>
+</td>
+<td style="width:13%; font-size:95%;">
+<ul>
+<li><a href="/wiki/Portal:Spor" title="Portal:Spor">Spor</a></li>
+<li><a href="/wiki/Portal:Tarih" title="Portal:Tarih">Tarih</a></li>
+<li><b><a href="/wiki/Vikipedi:Portal_listesi" title="Vikipedi:Portal listesi">Tüm&#160;portaller</a></b></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="border-spacing:2px;margin:0px -2px">
+<tr>
+<td class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#F5FFFA;vertical-align:top;">
+<div style="margin: 0px 0px 0px 0px; text-align: left;">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA;">
+<tr>
+<th style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px;">
+<div style="float:right;">
+<div style="position: relative; width: 100px; height: 24px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3"><a href="/wiki/Vikipedi:Haftan%C4%B1n_se%C3%A7kin_maddesi" title="Vikipedi:Haftanın seçkin maddesi">&#160;&#160;&#160;</a></div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2"><a href="/wiki/Dosya:Wikibar2.png" class="image" title="Vikipedi:Haftanın seçkin maddesi"><img alt="Vikipedi:Haftanın seçkin maddesi" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></a></div>
+</div>
+</div>
+<a href="/wiki/Vikipedi:Haftan%C4%B1n_se%C3%A7kin_maddesi" title="Vikipedi:Haftanın seçkin maddesi">Haftanın seçkin maddesi</a><span style="float:left; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;" id="mp-tfa-h2" title="Haftanın seçkin maddesi"></span></th>
+</tr>
+<tr>
+<td style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%;">
+<div id="mp-tfa">
+<table style="background-color:transparent">
+<tr>
+<td>
+<div class="floatleft"><a href="/wiki/Dosya:Magnet_4.jpg" class="image"><img alt="Magnet 4.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Magnet_4.jpg/150px-Magnet_4.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Magnet_4.jpg/225px-Magnet_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Magnet_4.jpg/300px-Magnet_4.jpg 2x" data-file-width="800" data-file-height="600" /></a></div>
+<b><a href="/wiki/Bilim" title="Bilim">Bilim</a></b>, <a href="/wiki/Fizik" title="Fizik">fiziki</a> ve <a href="/wiki/Do%C4%9Fa" title="Doğa">doğal</a> <a href="/wiki/Evren" title="Evren">evrenin</a> yapısının ve <a href="/wiki/Hareket_(fizik)" title="Hareket (fizik)">hareketlerinin</a> birtakım <a href="/wiki/Bilimsel_y%C3%B6ntem" title="Bilimsel yöntem">yöntemler</a> (<a href="/wiki/Deney" title="Deney">deney</a>, <a href="/wiki/D%C3%BC%C5%9F%C3%BCnce" title="Düşünce">düşünce</a> ve/veya <a href="/wiki/G%C3%B6zlem" title="Gözlem">gözlemler</a>) aracılığıyla <a href="/wiki/Bilimsel_s%C4%B1n%C4%B1fland%C4%B1rma" title="Bilimsel sınıflandırma">sistematik</a> bir şekilde incelenmesini de kapsayan entelektüel ve pratik çalışmalar bütünüdür. Bilim; neden, <a href="/wiki/Merak" title="Merak">merak</a> ve amaç besleyen bir olgu olarak günümüze kadar birçok alt dala bölünmüş, insanların daha iyi yaşam koşullarına kavuşmasına, bilinmeyen olguları bulmasına ve yeni şeyler öğrenmesine önayak olmuştur. Tüm bilim dalları evrenin bir bölümünü kendine konu olarak seçer, deneysel yöntemlere ve gerçekliğe dayanarak yasalar çıkarmaya çalışır. Bilim; temelleri sanat tarafından atılmış, her aşamada sanat ve yaratıcılıkla beslenerek insanların hayat koşullarını iyileştirmek için yapılan çalışmaların bütünüdür. <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> bilimi, "her türlü düzenden yoksun duyu verileri ile düzenli düşünceler arasında uygunluk sağlama çabası", <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a> ise "gözlem ve gözleme dayalı akıl yürütme yoluyla dünyaya ilişkin olguları birbirine bağlayan yasaları bulma çabası" olarak tanımlar. (<a href="/wiki/Bilim" title="Bilim"><b>Devamı...</b></a>)</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align: top; background-color:#F5FFFA; -moz-border-radius:10px;">
+<tr>
+<th style="background-color:#F0FFF0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #D0F0C0; text-align:left; padding-left:7px; -moz-border-radius:10px">
+<div style="float:right;">
+<div style="position: relative; width: 100px; height: 24px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3"><a href="/wiki/Vikipedi:G%C3%BCn%C3%BCn_maddesi" title="Vikipedi:Günün maddesi">&#160;&#160;&#160;</a></div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2"><a href="/wiki/Dosya:Wikibar2.png" class="image" title="Vikipedi:Günün maddesi"><img alt="Vikipedi:Günün maddesi" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></a></div>
+</div>
+</div>
+<a href="/wiki/Vikipedi:G%C3%BCn%C3%BCn_maddesi" title="Vikipedi:Günün maddesi">Günün maddeleri</a></th>
+</tr>
+<tr>
+<td style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; text-align:left;">
+<table style="background-color:#F5FFFA">
+<tr>
+<td>
+<div class="floatright"><a href="/wiki/Dosya:Censorship.png" class="image"><img alt="Censorship.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Censorship.png/150px-Censorship.png" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Censorship.png/225px-Censorship.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8d/Censorship.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+<big><b><a href="/wiki/Otosans%C3%BCr" title="Otosansür">Otosansür</a></b></big>, açık bir baskı olmadan, başkalarının hassasiyetlerini saygı göstererek, herhangi bir makamın ve yetkili kurumun engellemesi olmadığı halde, kişinin kendi çalışmalarını (<a href="/wiki/Blog" title="Blog">blog</a>, <a href="/wiki/Kitap" title="Kitap">kitap</a>, <a href="/wiki/Film" title="Film">film</a> veya diğer anlatım araçları gibi) <a href="/wiki/Sans%C3%BCr" title="Sansür">sansürleme</a> veya sınıflandırması eylemidir.
+<p><a href="/wiki/Otoriteryanizm" title="Otoriteryanizm">Otoriter</a> ülkelerde, eserlerin yaratıcıları eserlerinden kendi hükümetleri tarafından yaptırım konusu olabilecek malzeme, bilgi ve konuları çıkarmaya yönelebilir. Çoğulcu <a href="/wiki/Kapitalizm" title="Kapitalizm">kapitalist</a> ülkelerde baskıcı ve etkin <a href="/wiki/Yarg%C4%B1" title="Yargı">yargı</a> ve <a href="/wiki/Yasama" class="mw-redirect" title="Yasama">yasama</a> da, Batı medyasındaki gibi, haber ve eserlerin bunlara uygun olarak düzenlenmesi ve sansürlenmesi olarak sonuçlanır. Otosansür ayrıca, özellikle pazarın beklentilerine uyum için oluşabilir. Örneğin, periyodik bir yayının editörü, bilinçli veya bilinçsiz bir şekilde, reklam verenlerin veya yayın grubuna bağlı şirket ve holdinglerin tepkisini çekecek konuları ele almaktan vazgeçebilir. (<a href="/wiki/Otosans%C3%BCr" title="Otosansür"><b>Devamı...</b></a>)</p>
+</td>
+</tr>
+</table>
+<hr />
+<table style="background-color:#F5FFFA">
+<tr>
+<td>
+<div class="floatright"><a href="/wiki/Dosya:Animal_Farm_-_1st_edition.jpg" class="image"><img alt="Animal Farm - 1st edition.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/150px-Animal_Farm_-_1st_edition.jpg" width="150" height="221" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/225px-Animal_Farm_-_1st_edition.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/300px-Animal_Farm_-_1st_edition.jpg 2x" data-file-width="543" data-file-height="799" /></a></div>
+<big><b><a href="/wiki/Yasakl%C4%B1_kitaplar_listesi" title="Yasaklı kitaplar listesi">Yasaklı kitaplar</a></b></big>, farklı ülkelerde çeşitli zamanlarda iktidarda bulunanlar tarafından siyasi, toplumsal, dinî veya ahlaki <a href="/wiki/Motivasyon" class="mw-redirect" title="Motivasyon">motivasyonlarla</a> süresiz olarak ya da belirli bir süre için satışına, dağıtımına veya erişimine engel olunmuş, basılıp dağıtılmış olanlarının da toplatılmış olduğu kitapların yer aldığı liste. Birçok durumda yasaklanan bu kitapların yazarları da yargı önüne çıkartılmış ve cezalandırılmışlardır. Bu kitaplardan bir kısmı zaman içinde aklanmış ve yeni baskıları yapılmıştır. Bir tür sansür uygulamasıdır farklı ülkelerde farklı biçimlerde uygulanmıştır. Bir ülkede baş tacı edilen bir eser, başka bir ülkede o ülke <a href="/wiki/H%C3%BCk%C3%BBmet" title="Hükûmet">hükûmetinin</a> normlarına uymadığı için yasaklanabilmiştir. (<a href="/wiki/Yasakl%C4%B1_kitaplar_listesi" title="Yasaklı kitaplar listesi"><b>Devamı...</b></a>)</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#FAF5FF;vertical-align:top;color:#000;">
+<div style="margin: 1px 0px 0px 0px; text-align: left;">
+<table width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#FFFFF0;">
+<tr>
+<th style="background-color:#F5F5DC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid#EEE8AA; text-align: left; padding-left: 7px;">
+<div style="float:right;">
+<div style="position: relative; width: 100px; height: 24px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3"><a href="/wiki/Vikipedi:G%C3%BCn%C3%BCn_se%C3%A7kin_resmi" title="Vikipedi:Günün seçkin resmi">&#160;&#160;&#160;</a></div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2"><a href="/wiki/Dosya:Wikibar2.png" class="image" title="Vikipedi:Günün seçkin resmi"><img alt="Vikipedi:Günün seçkin resmi" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></a></div>
+</div>
+</div>
+<a href="/wiki/Vikipedi:G%C3%BCn%C3%BCn_se%C3%A7kin_resmi" title="Vikipedi:Günün seçkin resmi">Günün seçkin resmi</a><span style="float:left; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;" id="mp-tfp-h2" title="Günün seçkin resmi"></span></th>
+</tr>
+<tr>
+<td>
+<div id="mp-tfp">
+<table align="center" style="text-align:center; background-color:transparent;" cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0.9em 0.9em 0.9em 0.9em;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/Dosya:The_Sunday_at_Home_1880_-_Psalm_23.jpg" class="image" title="23. Mezmur"><img alt="23. Mezmur" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Sunday_at_Home_1880_-_Psalm_23.jpg/300px-The_Sunday_at_Home_1880_-_Psalm_23.jpg" width="300" height="411" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Sunday_at_Home_1880_-_Psalm_23.jpg/450px-The_Sunday_at_Home_1880_-_Psalm_23.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Sunday_at_Home_1880_-_Psalm_23.jpg/600px-The_Sunday_at_Home_1880_-_Psalm_23.jpg 2x" data-file-width="5192" data-file-height="7116" /></a></div>
+</div>
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/23._Mezmur" title="23. Mezmur">23. Mezmur</a> tasfiri, derleme eserlerin bulunduğu <a href="/wiki/1880" title="1880">1880</a>'de basılmış <i>The Sunday at Home</i>'un kapak resmidir. Eserin sahibinin kim olduğu tam olarak bilinmemesine rağmen bunun Edward Evans (1826 - 1905) olduğu zannedilir. Resimde <a href="/wiki/Mezmur" class="mw-redirect" title="Mezmur">Mezmurda</a> anlatıldığı üzere <a href="/wiki/Tanr%C4%B1" title="Tanrı">Tanrı</a> bir <a href="/wiki/%C3%87oban" title="Çoban">çoban</a> olarak tasfir edildiğinden, çoban ve sürüsü bulunmaktadır. Ayrıca <a href="/wiki/Kral_James_Onayl%C4%B1_%C4%B0ncil" class="mw-redirect" title="Kral James Onaylı İncil">Kral James versiyonununda</a> bulunan 23. Mezmur'a yer verilmiştir.</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:right;">
+<p><small>Üreten:Bilinmiyor. <b>Edward Evans</b> olduğu düşünülüyor.</small></p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:right;">
+<div class="noprint">
+<div style="font-size:80%; text-align:right;"><b><a href="/wiki/Vikipedi:G%C3%BCn%C3%BCn_se%C3%A7kin_resmi/May%C4%B1s_2017" title="Vikipedi:Günün seçkin resmi/Mayıs 2017">Arşiv</a></b> – <b><a href="/wiki/VP:SR" class="mw-redirect" title="VP:SR">Diğer seçkin resimler için...</a></b></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FAF5FF;">
+<tr>
+<th style="background-color:#F2E6FF; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #D8BFD8; text-align: left; padding-left: 7px;">
+<div style="float:right;">
+<div style="position: relative; width: 100px; height: 24px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3"><a href="/wiki/Vikipedi:Tarihte_bug%C3%BCn" title="Vikipedi:Tarihte bugün">&#160;&#160;&#160;</a></div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2"><a href="/wiki/Dosya:Wikibar2.png" class="image" title="Vikipedi:Tarihte bugün"><img alt="Vikipedi:Tarihte bugün" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></a></div>
+</div>
+</div>
+<a href="/wiki/Vikipedi:Tarihte_bug%C3%BCn" title="Vikipedi:Tarihte bugün">Tarihte bugün</a><span style="float:left; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;" id="mp-itn-h2" title="Tarihte bugün"></span></th>
+</tr>
+<tr>
+<td style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%;">
+<div id="mp-itn">
+<p><strong><big>Olaylar</big></strong></p>
+<div style="float:right;margin-left:0.5em">
+<p><a href="/wiki/Dosya:Tour_eiffel_at_sunrise_from_the_trocadero.jpg" class="image" title="Eyfel Kulesi"><img alt="Eyfel Kulesi" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tour_eiffel_at_sunrise_from_the_trocadero.jpg/100px-Tour_eiffel_at_sunrise_from_the_trocadero.jpg" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tour_eiffel_at_sunrise_from_the_trocadero.jpg/150px-Tour_eiffel_at_sunrise_from_the_trocadero.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tour_eiffel_at_sunrise_from_the_trocadero.jpg/200px-Tour_eiffel_at_sunrise_from_the_trocadero.jpg 2x" data-file-width="2336" data-file-height="3504" /></a></p>
+</div>
+<ul>
+<li><a href="/wiki/1877" title="1877">1877</a> - <a href="/wiki/Sioux" class="mw-redirect" title="Sioux">Sioux</a> Kızılderililerinin şefi Crazy Horse, <a href="/wiki/ABD" class="mw-redirect" title="ABD">ABD</a> birliklerine <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a>'da teslim oldu.</li>
+<li><a href="/wiki/1889" title="1889">1889</a> - <b><a href="/wiki/Eyfel_Kulesi" title="Eyfel Kulesi">Eyfel Kulesi</a></b> ziyaretçilere açıldı.</li>
+<li><a href="/wiki/1930" title="1930">1930</a> - <a href="/wiki/Hakkari" class="mw-redirect" title="Hakkari">Hakkari</a>'de meydana gelen 7,2 büyüklüğündeki <a href="/wiki/Deprem" title="Deprem">depremde</a> 2.514 kişi öldü.</li>
+<li><a href="/wiki/1937" title="1937">1937</a> - Dünyanın en büyük <a href="/wiki/Zeplin" title="Zeplin">zeplini</a> olan <a href="/wiki/Hindenburg" class="mw-redirect" title="Hindenburg">Hindenburg</a>, havalandıktan kısa süre sonra alev aldı ve yanarak yere çakıldı. 36 kişinin öldüğü kazadan sonra bu taşımacılık yönteminden vazgeçildi.</li>
+<li><a href="/wiki/1940" title="1940">1940</a> - <a href="/wiki/John_Steinbeck" title="John Steinbeck">John Steinbeck</a>, <i>The Grapes of Wrath</i> adlı romanıyla <a href="/wiki/Pulitzer_%C3%96d%C3%BCl%C3%BC" title="Pulitzer Ödülü">Pulitzer Ödülü</a> aldı.</li>
+<li><a href="/wiki/1972" title="1972">1972</a> - <a href="/wiki/Deniz_Gezmi%C5%9F" title="Deniz Gezmiş">Deniz Gezmiş</a>, <a href="/wiki/Yusuf_Aslan" title="Yusuf Aslan">Yusuf Aslan</a> ve <a href="/wiki/H%C3%BCseyin_%C4%B0nan" title="Hüseyin İnan">Hüseyin İnan</a>, <a href="/wiki/Ankara_Merkez_Kapal%C4%B1_Cezaevi" class="mw-redirect" title="Ankara Merkez Kapalı Cezaevi">Ankara Merkez Kapalı Cezaevi</a>'nde idam edildi.</li>
+<li><a href="/wiki/1976" title="1976">1976</a> - Kuzeydoğu <a href="/wiki/%C4%B0talya" title="İtalya">İtalya</a>'nın Friuli bölgesinde meydana gelen depremde 989 kişi öldü.</li>
+<li><a href="/wiki/1988" title="1988">1988</a> - <a href="/wiki/Norve%C3%A7" title="Norveç">Norveç</a>'te bir yolcu uçağı düştü: 36 kişi öldü.</li>
+<li><a href="/wiki/2004" title="2004">2004</a> - Dünyada en çok izlenen 4 televizyon dizisinden biri olan <a href="/wiki/Friends" title="Friends">Friends</a> bitti. Son bölümünü <a href="/wiki/ABD" class="mw-redirect" title="ABD">ABD</a>'de 2 milyon kişi izledi.</li>
+<li><a href="/wiki/2006" title="2006">2006</a> - PKK'ya karşı 10.000'den fazla Hakkârili protesto <a href="/wiki/Hakk%C3%A2ri_Y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC" class="mw-redirect" title="Hakkâri Yürüyüşü">yürüyüş</a> gerçekleştirdi.</li>
+</ul>
+<p><strong><big>Doğumlar</big></strong></p>
+<ul>
+<li><a href="/wiki/1758" title="1758">1758</a> - <a href="/wiki/Maximilien_Robespierre" title="Maximilien Robespierre">Maximilien Robespierre</a>, Fransız devrimci (ö. <a href="/wiki/1794" title="1794">1794</a>)</li>
+<li><a href="/wiki/1856" title="1856">1856</a> - <a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a>, Avusturyalı psikiyatrist (ö. <a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/1915" title="1915">1915</a> - <a href="/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a>, ABD'li yönetmen (ö. <a href="/wiki/1985" title="1985">1985</a>)</li>
+<li><a href="/wiki/1953" title="1953">1953</a> - <a href="/wiki/Tony_Blair" title="Tony Blair">Tony Blair</a>, İngiltere başbakanı</li>
+<li><a href="/wiki/1961" title="1961">1961</a> - <a href="/wiki/George_Clooney" title="George Clooney">George Clooney</a>, ABD'li sinema oyuncusu</li>
+</ul>
+<p><strong><big>Ölümler</big></strong></p>
+<ul>
+<li><a href="/wiki/1859" title="1859">1859</a> - <a href="/wiki/Alexander_von_Humboldt" title="Alexander von Humboldt">Alexander von Humboldt</a>, Doğabilimci ve kaşif (d. <a href="/wiki/1769" title="1769">1769</a>)</li>
+<li><a href="/wiki/1877" title="1877">1877</a> - <a href="/wiki/Johan_Ludvig_Runeberg" title="Johan Ludvig Runeberg">Johan Ludvig Runeberg</a>, Finlandiyalı şair (d. <a href="/wiki/1804" title="1804">1804</a>)</li>
+<li><a href="/wiki/1963" title="1963">1963</a> - <a href="/wiki/Theodore_von_K%C3%A1rm%C3%A1n" title="Theodore von Kármán">Theodore von Kármán</a>, Macar fizikçi (d. <a href="/wiki/1881" title="1881">1881</a>)</li>
+<li><a href="/wiki/1992" title="1992">1992</a> - <a href="/wiki/Marlene_Dietrich" title="Marlene Dietrich">Marlene Dietrich</a>, Alman asıllı ABD'li aktris (d. <a href="/wiki/1901" title="1901">1901</a>)</li>
+<li><a href="/wiki/2006" title="2006">2006</a> - <a href="/wiki/Erdal_%C3%96z" title="Erdal Öz">Erdal Öz</a>, Türk edebiyat adamı (d. <a href="/wiki/1935" title="1935">1935</a>)</li>
+</ul>
+<b><a href="/wiki/6_May%C4%B1s" title="6 Mayıs">Daha fazlası...</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<div id="mc0" class="mcBlau">
+<div>
+<div id="mc0bt1" class="mcBoto"><a href="/wiki/Dosya:HILLBLU_stella.png" class="image"><img alt="HILLBLU stella.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HILLBLU_stella.png/19px-HILLBLU_stella.png" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HILLBLU_stella.png/29px-HILLBLU_stella.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HILLBLU_stella.png/38px-HILLBLU_stella.png 2x" data-file-width="149" data-file-height="149" /></a>&#160;<a href="/w/index.php?title=Anasayfa/Kategoriler&amp;action=edit&amp;redlink=1" class="new" title="Anasayfa/Kategoriler (sayfa mevcut değil)">Kategoriler</a></div>
+<div id="mc0bt2" class="mcBoto"><a href="/wiki/Dosya:HILLBLU_w.png" class="image"><img alt="HILLBLU w.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/HILLBLU_w.png/19px-HILLBLU_w.png" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/HILLBLU_w.png/29px-HILLBLU_w.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/HILLBLU_w.png/38px-HILLBLU_w.png 2x" data-file-width="149" data-file-height="149" /></a>&#160;<a href="/w/index.php?title=Anasayfa/Karde%C5%9F_projeler&amp;action=edit&amp;redlink=1" class="new" title="Anasayfa/Kardeş projeler (sayfa mevcut değil)">Kardeş projeler</a></div>
+</div>
+<div class="mcContingut">
+<div id="mc0ps1" class="mcPestanya" style="display:none;visibility:hidden;">
+<div style="width:100%">
+<div style="height:8px;border:1px solid #8898BF;-moz-border-radius-topright:8px;-moz-border-radius-topleft:8px;background:#C8D8FF;font-size:1px;"></div>
+<div style="font-size:small;margin-bottom:1.5em;border:1px solid #8898BF;border-top:0;background:transparent;padding:5px;">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#F0F8FF;">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td style="padding:3px">
+<table width="100%" cellspacing="0" cellpadding="5" style="border:0px; background:none;">
+<tr valign="top">
+<td width="50%" align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA; background:transparent;">
+<div class="floatleft"><a href="/wiki/Dosya:Exquisite-xine.png" class="image"><img alt="Exquisite-xine.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Exquisite-xine.png/45px-Exquisite-xine.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Exquisite-xine.png/68px-Exquisite-xine.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Exquisite-xine.png/90px-Exquisite-xine.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:K%C3%BClt%C3%BCr" title="Kategori:Kültür">Kültür</a></b><br />
+<p><a href="/wiki/Kategori:Diller" title="Kategori:Diller">Diller</a> · <a href="/wiki/Kategori:Din" title="Kategori:Din">Din</a> · <a href="/wiki/Kategori:Edebiyat" title="Kategori:Edebiyat">Edebiyat</a> · <a href="/wiki/Kategori:E%C4%9Fitim" title="Kategori:Eğitim">Eğitim</a> · <a href="/wiki/Kategori:Felsefe" title="Kategori:Felsefe">Felsefe</a> · <a href="/wiki/Kategori:Gelenekler" title="Kategori:Gelenekler">Gelenekler</a> · <a href="/wiki/Kategori:Medya" title="Kategori:Medya">Medya</a> · <a href="/wiki/Kategori:Mitoloji" title="Kategori:Mitoloji">Mitoloji</a> · <a href="/wiki/Kategori:M%C3%BCzeler" title="Kategori:Müzeler">Müzeler</a> · <a href="/wiki/Kategori:M%C3%BCzik" title="Kategori:Müzik">Müzik</a> · <a href="/wiki/Kategori:Oyunlar" title="Kategori:Oyunlar">Oyunlar</a> · <a href="/wiki/Kategori:Pop%C3%BCler_k%C3%BClt%C3%BCr" title="Kategori:Popüler kültür">Popüler kültür</a> · <a href="/wiki/Kategori:Sanat" title="Kategori:Sanat">Sanat</a> · <a href="/wiki/Kategori:Sinema" title="Kategori:Sinema">Sinema</a> · <a href="/wiki/Kategori:Spor" title="Kategori:Spor">Spor</a> · <a href="/wiki/Kategori:Tiyatro" title="Kategori:Tiyatro">Tiyatro</a> · <a href="/wiki/Kategori:Turizm" title="Kategori:Turizm">Turizm</a></p>
+</td>
+<td style="padding:6px;font-size:1px">&#160;</td>
+<td width="50%" align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;">
+<div class="floatleft"><a href="/wiki/Dosya:Exquisite-kspread.png" class="image"><img alt="Exquisite-kspread.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Exquisite-kspread.png/52px-Exquisite-kspread.png" width="52" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Exquisite-kspread.png/78px-Exquisite-kspread.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Exquisite-kspread.png/104px-Exquisite-kspread.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:Bilim" title="Kategori:Bilim">Bilim</a>, <a href="/wiki/Kategori:Matematik" title="Kategori:Matematik">Matematik</a> ve <a href="/wiki/Kategori:Do%C4%9Fa" title="Kategori:Doğa">Doğa</a></b><br />
+<p><a href="/wiki/Kategori:Aritmetik" title="Kategori:Aritmetik">Aritmetik</a> · <a href="/wiki/Kategori:Arkeoloji" title="Kategori:Arkeoloji">Arkeoloji</a> · <a href="/wiki/Kategori:Astronomi" title="Kategori:Astronomi">Astronomi</a> · <a href="/wiki/Kategori:Bilim_insanlar%C4%B1" title="Kategori:Bilim insanları">Bilim insanları</a> · <a href="/wiki/Kategori:Bili%C5%9Fim" title="Kategori:Bilişim">Bilişim</a> · <a href="/wiki/Kategori:Bilgisayar_bilimi" title="Kategori:Bilgisayar bilimi">Bilgisayar bilimi</a> · <a href="/wiki/Kategori:Biyoloji" title="Kategori:Biyoloji">Biyoloji</a> · <a href="/wiki/Kategori:Ekonomi" title="Kategori:Ekonomi">Ekonomi</a> · <a href="/wiki/Kategori:Fizik" title="Kategori:Fizik">Fizik</a> · <a href="/wiki/Kategori:Jeoloji" title="Kategori:Jeoloji">Jeoloji</a> · <a href="/wiki/Kategori:Kimya" title="Kategori:Kimya">Kimya</a> · <a href="/wiki/Kategori:Psikoloji" title="Kategori:Psikoloji">Psikoloji</a> · <a href="/wiki/Kategori:Sa%C4%9Fl%C4%B1k_bilimleri" title="Kategori:Sağlık bilimleri">Sağlık bilimleri</a> · <a href="/wiki/Kategori:Sosyal_bilimler" title="Kategori:Sosyal bilimler">Sosyal bilimler</a> · <a href="/wiki/Kategori:Uygulamal%C4%B1_bilimler" title="Kategori:Uygulamalı bilimler">Uygulamalı bilimler</a> · <a href="/wiki/Kategori:Uzay" title="Kategori:Uzay">Uzay</a></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="50%" align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;">
+<div class="floatleft"><a href="/wiki/Dosya:Crystal_Clear_app_Login_Manager.png" class="image"><img alt="Crystal Clear app Login Manager.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/52px-Crystal_Clear_app_Login_Manager.png" width="52" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/78px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/104px-Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:Toplum" title="Kategori:Toplum">Toplum</a> ve <a href="/wiki/Kategori:Ya%C5%9Fam" title="Kategori:Yaşam">Yaşam</a></b><br />
+<p><a href="/wiki/Kategori:Aile" title="Kategori:Aile">Aile</a> · <a href="/wiki/Kategori:Antropoloji" title="Kategori:Antropoloji">Antropoloji</a> · <a href="/wiki/Kategori:Arkeoloji" title="Kategori:Arkeoloji">Arkeoloji</a> · <a href="/wiki/Kategori:Cinsellik" title="Kategori:Cinsellik">Cinsellik</a> · <a href="/wiki/Kategori:E%C4%9Fitim" title="Kategori:Eğitim">Eğitim</a> · <a href="/wiki/Kategori:E%C4%9Flence" title="Kategori:Eğlence">Eğlence</a> · <a href="/wiki/Kategori:Ekonomi" title="Kategori:Ekonomi">Ekonomi</a> · <a href="/wiki/Kategori:Etnik_gruplar" title="Kategori:Etnik gruplar">Etnik gruplar</a> · <a href="/wiki/Kategori:Ev" title="Kategori:Ev">Ev</a> · <a href="/wiki/Kategori:Felsefe" title="Kategori:Felsefe">Felsefe</a> · <a href="/wiki/Kategori:Finans" title="Kategori:Finans">Finans</a> · <a href="/wiki/Kategori:Hukuk" title="Kategori:Hukuk">Hukuk</a> · <a href="/wiki/Kategori:H%C3%BCk%C3%BBmet" title="Kategori:Hükûmet">Hükûmet</a> · <a href="/wiki/Kategori:%C4%B0leti%C5%9Fim" title="Kategori:İletişim">İletişim</a> · <a href="/wiki/Kategori:%C4%B0%C5%9F" title="Kategori:İş">İş</a> · <a href="/wiki/Kategori:%C4%B0%C5%9F%C3%A7ilik" title="Kategori:İşçilik">İşçilik</a> · <a href="/wiki/Kategori:Ki%C5%9Filer" title="Kategori:Kişiler">Kişiler</a> · <a href="/wiki/Kategori:Kurulu%C5%9Flar" title="Kategori:Kuruluşlar">Kuruluşlar</a> · <a href="/wiki/Kategori:N%C3%BCfus" title="Kategori:Nüfus">Nüfus</a> · <a href="/wiki/Kategori:Siyaset" title="Kategori:Siyaset">Siyaset</a> · <a href="/wiki/Kategori:Sa%C4%9Fl%C4%B1k" title="Kategori:Sağlık">Sağlık</a> · <a href="/wiki/Kategori:Sava%C5%9Flar" title="Kategori:Savaşlar">Savaşlar</a> · <a href="/wiki/Kategori:Sosyoloji" title="Kategori:Sosyoloji">Sosyoloji</a> · <a href="/wiki/Kategori:Yemek_i%C3%A7mek" title="Kategori:Yemek içmek">Yemek içmek</a></p>
+</td>
+<td style="padding:6px;font-size:1px">&#160;</td>
+<td width="50%" align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;">
+<div class="floatleft"><a href="/wiki/Dosya:Exquisite-battery_plugged.png" class="image"><img alt="Exquisite-battery plugged.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Exquisite-battery_plugged.png/52px-Exquisite-battery_plugged.png" width="52" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Exquisite-battery_plugged.png/78px-Exquisite-battery_plugged.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Exquisite-battery_plugged.png/104px-Exquisite-battery_plugged.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:Teknoloji" title="Kategori:Teknoloji">Teknoloji</a></b><br />
+<p><a href="/wiki/Kategori:Aletler" title="Kategori:Aletler">Aletler</a> · <a href="/wiki/Kategori:Bilgisayar" title="Kategori:Bilgisayar">Bilgisayar</a> · <a href="/wiki/Kategori:Biyoteknoloji" title="Kategori:Biyoteknoloji">Biyoteknoloji</a> · <a href="/wiki/Kategori:Elektronik" title="Kategori:Elektronik">Elektronik</a> · <a href="/wiki/Kategori:%C4%B0malat" title="Kategori:İmalat">İmalat</a> · <a href="/wiki/Kategori:%C4%B0nternet" title="Kategori:İnternet">İnternet</a> · <a href="/wiki/Kategori:Kimyasal_s%C3%BCre%C3%A7ler" title="Kategori:Kimyasal süreçler">Kimyasal süreçler</a> · <a href="/wiki/Kategori:Mimarl%C4%B1k" title="Kategori:Mimarlık">Mimarlık</a> · <a href="/wiki/Kategori:M%C3%BChendislik" title="Kategori:Mühendislik">Mühendislik</a> · <a href="/wiki/Kategori:Nanoteknoloji" title="Kategori:Nanoteknoloji">Nanoteknoloji</a> · <a href="/wiki/Kategori:N%C3%BCkleer_teknoloji" title="Kategori:Nükleer teknoloji">Nükleer teknoloji</a> · <a href="/wiki/Kategori:Otomasyon" title="Kategori:Otomasyon">Otomasyon</a> · <a href="/wiki/Kategori:Ses" title="Kategori:Ses">Ses</a> · <a href="/wiki/Kategori:Tar%C4%B1m" title="Kategori:Tarım">Tarım</a> · <a href="/wiki/Kategori:Telekom%C3%BCnikasyon" title="Kategori:Telekomünikasyon">Telekomünikasyon</a> · <a href="/wiki/Kategori:T%C4%B1p" title="Kategori:Tıp">Tıp</a> · <a href="/wiki/Kategori:Ula%C5%9F%C4%B1m" title="Kategori:Ulaşım">Ulaşım</a></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="50%" align="left" style="font-size:95%">
+<div class="floatleft"><a href="/wiki/Dosya:Exquisite-kwrite.png" class="image"><img alt="Exquisite-kwrite.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Exquisite-kwrite.png/52px-Exquisite-kwrite.png" width="52" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Exquisite-kwrite.png/78px-Exquisite-kwrite.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Exquisite-kwrite.png/104px-Exquisite-kwrite.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:Din" title="Kategori:Din">Din</a> ve <a href="/wiki/Kategori:Felsefe" title="Kategori:Felsefe">Felsefe</a></b><br />
+<p><a href="/wiki/Kategori:B%C3%BCy%C3%BC" title="Kategori:Büyü">Büyü</a> · <a href="/wiki/Kategori:Din%C3%AE_inan%C3%A7,_gelenek_ve_ak%C4%B1mlar" title="Kategori:Dinî inanç, gelenek ve akımlar">Dinî inanç, gelenek ve akımlar</a> · <a href="/wiki/Kategori:Din%C3%AE_ki%C5%9Filikler" title="Kategori:Dinî kişilikler">Dinî kişilikler</a> · <a href="/wiki/Kategori:Felsefi_ak%C4%B1mlar" title="Kategori:Felsefi akımlar">Felsefi akımlar</a> · <a href="/wiki/Kategori:Filozoflar" title="Kategori:Filozoflar">Filozoflar</a> · <a href="/wiki/Kategori:Mitoloji" title="Kategori:Mitoloji">Mitoloji</a> · <a href="/wiki/Kategori:Politik_kuramlar" title="Kategori:Politik kuramlar">Politik kuramlar</a> · <a href="/wiki/Kategori:Spirit%C3%BCalizm" title="Kategori:Spiritüalizm">Spiritüalizm</a> · <a href="/wiki/Kategori:Tanr%C4%B1lar" title="Kategori:Tanrılar">Tanrılar, ruhani ve mistik varlıklar</a> · <a href="/wiki/Kategori:Yahudilik" title="Kategori:Yahudilik">Yahudilik</a></p>
+</td>
+<td style="padding:6px;font-size:1px;">&#160;</td>
+<td width="50%" align="left" style="font-size:95%">
+<div class="floatleft"><a href="/wiki/Dosya:Exquisite-opera.png" class="image"><img alt="Exquisite-opera.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Exquisite-opera.png/52px-Exquisite-opera.png" width="52" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Exquisite-opera.png/78px-Exquisite-opera.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Exquisite-opera.png/104px-Exquisite-opera.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<b><a href="/wiki/Kategori:Co%C4%9Frafya" title="Kategori:Coğrafya">Coğrafya</a> ve <a href="/wiki/Kategori:Tarih" title="Kategori:Tarih">Tarih</a></b><br />
+<p><a href="/wiki/Kategori:B%C3%B6lgelerine_g%C3%B6re_tarih" title="Kategori:Bölgelerine göre tarih">Bölgelere göre tarih</a> · <a href="/wiki/Kategori:D%C3%B6nemlere_g%C3%B6re_tarih" title="Kategori:Dönemlere göre tarih">Dönemler</a> · <a href="/wiki/Kategori:Haritalar" title="Kategori:Haritalar">Haritalar</a> · <a href="/wiki/Kategori:%C4%B0klim" title="Kategori:İklim">İklim</a> · <a href="/wiki/Kategori:%C4%B0l%C3%A7eler" title="Kategori:İlçeler">İlçeler</a> · <a href="/wiki/Kategori:K%C4%B1talar" title="Kategori:Kıtalar">Kıtalar</a> · <a href="/wiki/Kategori:K%C3%B6yler" title="Kategori:Köyler">Köyler</a> · <a href="/wiki/Kategori:Parklar" title="Kategori:Parklar">Parklar</a> · <a href="/wiki/Kategori:%C5%9Eehirler" title="Kategori:Şehirler">Şehirler</a> · <a href="/wiki/Kategori:Takvim" title="Kategori:Takvim">Takvim</a> · <a href="/wiki/Kategori:%C3%9Clkeler" title="Kategori:Ülkeler">Ülkeler</a> · <a href="/wiki/Kategori:Yer_alt%C4%B1" title="Kategori:Yer altı">Yer altı</a> · <a href="/wiki/Kategori:Yery%C3%BCz%C3%BC_%C5%9Fekilleri" title="Kategori:Yeryüzü şekilleri">Yeryüzü şekilleri</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div id="mc0ps2" class="mcPestanya" style="display:none;visibility:hidden;">
+<div style="width:100%">
+<div style="height:8px;border:1px solid #8898BF;-moz-border-radius-topright:8px;-moz-border-radius-topleft:8px;background:#C8D8FF;font-size:1px;"></div>
+<div style="font-size:small;margin-bottom:1.5em;border:1px solid #8898BF;border-top:0;background:transparent;padding:5px;">
+<center>
+<table class="plainlinks" align="center" cellspacing="2" style="text-align:left; width:90%; background:transparent; line-height:1.25em">
+<tr>
+<td style="text-align:center; width:50px"></td>
+</tr>
+<tr valign="top">
+<td style="width:32px;"><a href="https://commons.wikimedia.org/wiki/Ana_Sayfa" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Ana_Sayfa" class="extiw" title="commons:Ana Sayfa"><b>Commons</b></a><br />
+<span style="font-size:85%;">Çoklu Medya Paylaşım</span></td>
+<td style="width:32px;"><a href="https://tr.wikinews.org/wiki/tr:" title="Vikihaber"><img alt="Vikihaber" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wikinews-logo-51px.png/40px-Wikinews-logo-51px.png" width="40" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/6/60/Wikinews-logo-51px.png 1.5x" data-file-width="51" data-file-height="30" /></a></td>
+<td style="width:20%;"><a href="https://tr.wikinews.org/wiki/tr:" class="extiw" title="n:tr:"><b>Vikihaber</b></a><br />
+<span style="font-size:85%;">Açık gazetecilik</span></td>
+<td style="width:32px;"><a href="https://tr.wiktionary.org/wiki/tr:" title="Vikisözlük"><img alt="Vikisözlük" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/32px-Wiktionary-logo-en.svg.png" width="32" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/48px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/64px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></a></td>
+<td style="width:20%;"><a href="https://tr.wiktionary.org/wiki/tr:" class="extiw" title="wikt:tr:"><b>Vikisözlük</b></a><br />
+<span style="font-size:85%;">Sözlük ve kavramlar</span></td>
+<td style="width:32px;"><a href="https://tr.wikibooks.org/wiki/tr:" title="Vikikitap"><img alt="Vikikitap" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/32px-Wikibooks-logo.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/48px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/64px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td style="width:20%;"><a href="https://tr.wikibooks.org/wiki/tr:" class="extiw" title="b:tr:"><b>Vikikitap</b></a><br />
+<span style="font-size:85%;">Ders ve el kitapları</span></td>
+</tr>
+<tr>
+<td style="width:32px;"><a href="https://tr.wikiquote.org/wiki/tr:" title="Vikisöz"><img alt="Vikisöz" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png" width="32" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/48px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/64px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://tr.wikiquote.org/wiki/tr:" class="extiw" title="q:tr:"><b>Vikisöz</b></a><br />
+<span style="font-size:85%;">Sözler</span></td>
+<td style="width:32px;"><a href="https://species.wikimedia.org/wiki/" title="Vikitür"><img alt="Vikitür" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/32px-Wikispecies-logo.svg.png" width="32" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/48px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/64px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td><a href="https://species.wikimedia.org/wiki/Ana_Sayfa" class="extiw" title="species:Ana Sayfa"><b>Vikitür</b></a><br />
+<span style="font-size:85%;">Türler dizini</span></td>
+<td style="width:32px;"><a href="https://beta.wikiversity.org/wiki/Ana_Sayfa" title="Vikiversite"><img alt="Vikiversite" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/32px-Wikiversity-logo.svg.png" width="32" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/48px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/64px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td><a href="https://beta.wikiversity.org/wiki/Ana_Sayfa" class="extiw" title="betawikiversity:Ana Sayfa"><b>Vikiversite</b></a><br />
+<span style="font-size:85%;">Öğrenim araçları</span></td>
+<td style="width:32px;"><a href="https://tr.wikivoyage.org/wiki/" title="Vikigezgin"><img alt="Vikigezgin" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/31px-Wikivoyage-logo.svg.png" width="31" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/47px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/62px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://tr.wikivoyage.org/wiki/" class="extiw" title="voy:"><b>Vikigezgin</b></a><br />
+<span style="font-size:85%;">Gezi rehberi</span></td>
+</tr>
+<tr>
+<td style="width:32px;"><a href="https://tr.wikisource.org/wiki/tr:" title="Vikikaynak"><img alt="Vikikaynak" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/32px-Wikisource-logo.svg.png" width="32" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/64px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://tr.wikisource.org/wiki/tr:" class="extiw" title="s:tr:"><b>Vikikaynak</b></a><br />
+<span style="font-size:85%;">Kaynak metinler</span></td>
+<td style="width:32px;"><a href="https://www.wikidata.org/wiki/Wikidata:Ana_Sayfa" title="Vikiveri"><img alt="Vikiveri" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" width="40" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Ana_Sayfa" class="extiw" title="d:Wikidata:Ana Sayfa"><b>Vikiveri</b></a><br />
+<span style="font-size:85%;">Bilgi tabanı</span></td>
+<td style="width:32px;"><a href="https://meta.wikimedia.org/wiki/Ana_Sayfa" title="Meta-Viki"><img alt="Meta-Viki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/32px-Wikimedia_Community_Logo.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/48px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/64px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td><a href="https://meta.wikimedia.org/wiki/Ana_Sayfa" class="extiw" title="m:Ana Sayfa"><b>Meta-Viki</b></a><br />
+<span style="font-size:85%;">Koordinasyon</span></td>
+<td style="width:32px;"><a href="https://www.mediawiki.org/wiki/" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/32px-Mediawiki-logo.png" width="32" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/48px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/64px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></td>
+<td><a href="https://www.mediawiki.org/wiki/" class="extiw" title="mw:"><b>MediaWiki</b></a><br />
+<span style="font-size:85%;">Viki yazılımı geliştirme</span></td>
+</tr>
+</table>
+</center>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20170506051117
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.072 seconds
+Real time usage: 0.133 seconds
+Preprocessor visited node count: 387/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55419/2097152 bytes
+Template argument size: 13433/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.550      1 -total
+ 33.01%   16.026      1 Şablon:Anasayfa_metakutu
+ 29.36%   14.253      1 Şablon:Metakutu
+ 15.87%    7.704      1 Şablon:Anasayfa_dinamik_içerik
+ 15.12%    7.339      1 Şablon:Tarihte_bugün/6_Mayıs
+ 12.42%    6.028      1 Şablon:GSR_koruma/2017-05-06
+ 10.70%    5.195      1 Vikipedi:Anasayfa_yeni_başlık
+  9.73%    4.724      1 Şablon:GM/2017-05-06
+  7.82%    3.795      1 Şablon:GSR_kutu
+  7.52%    3.649      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017
+-->
+
+<!-- Saved in parser cache with key trwiki:stable-pcache:idhash:1299492-0!*!0!*!*!4!* and timestamp 20170506051117 and revision id 18560407
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//tr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						"<a dir="ltr" href="https://tr.wikipedia.org/w/index.php?title=Anasayfa&amp;oldid=18560407">https://tr.wikipedia.org/w/index.php?title=Anasayfa&amp;oldid=18560407</a>" adresinden alındı.					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%C3%96zel:Kategoriler" title="Özel:Kategoriler">1 kategori</a>: <ul><li><a href="/wiki/Kategori:Vikipedi" title="Kategori:Vikipedi">Vikipedi</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Gezinti menüsü</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Kişisel araçlar</h3>
+						<ul>
+							<li id="pt-anonuserpage">Oturum açık değil</li><li id="pt-anontalk"><a href="/wiki/%C3%96zel:MesajSayfam" title="Bu IP adresinden yapılmış değişiklikleri tartış [n]" accesskey="n">Mesaj</a></li><li id="pt-anoncontribs"><a href="/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m" title="Bu IP adresinden yapılmış değişiklikler listesi [y]" accesskey="y">Katkılar</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%C3%96zel:HesapOlu%C5%9Ftur&amp;returnto=Anasayfa" title="Bir hesap oluşturup oturum açmanız tavsiye edilmektedir ancak bu zorunlu değildir">Hesap oluştur</a></li><li id="pt-login"><a href="/w/index.php?title=%C3%96zel:Kullan%C4%B1c%C4%B1OturumuA%C3%A7ma&amp;returnto=Anasayfa" title="Oturum açmanız tavsiye edilmektedir; ancak bu zorunda değildir [o]" accesskey="o">Giriş yap</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Ad alanları</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Anasayfa"  title="İçerik sayfasını göster [c]" accesskey="c">Anasayfa</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Tart%C4%B1%C5%9Fma:Anasayfa"  title="İçerik ile ilgili tartışma [t]" accesskey="t" rel="discussion">Tartışma</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Türevler</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Görünüm</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Anasayfa" >Oku</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Anasayfa&amp;action=edit"  title="Bu sayfa koruma altında. Sadece kaynağını görebilirsiniz. [e]" accesskey="e">Kaynağı gör</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anasayfa&amp;action=history"  title="Bu sayfanın geçmiş sürümleri [h]" accesskey="h">Geçmişi gör</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Diğer</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Ara</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Vikipedi üzerinde ara" title="Vikipedi içinde ara [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Özel:Ara" name="title"/><input type="submit" name="fulltext" value="Ara" title="Sayfalarda bu içeriği arayın." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Git" title="Bu isimle açılmış sayfaya gidin." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Anasayfa"  title="Anasayfayı ziyaret edin"></a></div>
+						<div class="portal" role="navigation" id='p-Gezinti' aria-labelledby='p-Gezinti-label'>
+			<h3 id='p-Gezinti-label'>Gezinti</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Anasayfa" title="Anasayfayı ziyaret et [z]" accesskey="z">Anasayfa</a></li><li id="n-Hakk.C4.B1m.C4.B1zda"><a href="/wiki/Vikipedi:Hakk%C4%B1nda">Hakkımızda</a></li><li id="n-.C4.B0.C3.A7indekiler"><a href="/wiki/Vikipedi:G%C3%B6zat">İçindekiler</a></li><li id="n-randompage"><a href="/wiki/%C3%96zel:Rastgele" title="Rastgele bir maddeye gidin [x]" accesskey="x">Rastgele madde</a></li><li id="n-Se.C3.A7kin-i.C3.A7erik"><a href="/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik">Seçkin içerik</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Kat.C4.B1l.C4.B1m' aria-labelledby='p-Kat.C4.B1l.C4.B1m-label'>
+			<h3 id='p-Kat.C4.B1l.C4.B1m-label'>Katılım</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_tr.wikipedia.org&amp;uselang=tr" title="Bizi destekleyin">Bağış yapın</a></li><li id="n-sandbox"><a href="/wiki/Vikipedi:Deneme_tahtas%C4%B1">Deneme tahtası</a></li><li id="n-.C4.B0.C5.9F-birli.C4.9Fi-projesi"><a href="/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi">İş birliği projesi</a></li><li id="n-currentevents"><a href="/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi" title="Güncel olaylarla ilgili son bilgiler">Köy çeşmesi</a></li><li id="n-recentchanges"><a href="/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler" title="Vikide yapılmış son değişikliklerin listesi [r]" accesskey="r">Son değişiklikler</a></li><li id="n-portal"><a href="/wiki/Vikipedi:Topluluk_portali" title="Proje hakkında, neler yapabilirsiniz, ne nerdedir">Topluluk portali</a></li><li id="n-shop-text"><a href="http://shop.wikimedia.org">Wikimedia dükkânı</a></li><li id="n-help"><a href="/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler" title="Yardım almak için">Yardım</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Yazdır/dışa aktar</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%C3%96zel:Kitap&amp;bookcmd=book_creator&amp;referer=Anasayfa">Bir kitap oluştur</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%C3%96zel:Kitap&amp;bookcmd=render_article&amp;arttitle=Anasayfa&amp;returnto=Anasayfa&amp;oldid=18560407&amp;writer=rdf2latex">PDF olarak indir</a></li><li id="t-print"><a href="/w/index.php?title=Anasayfa&amp;printable=yes" title="Bu sayfanın basılmaya uygun sürümü [p]" accesskey="p">Basılmaya uygun görünüm</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Diğer projelerde</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://tr.wikibooks.org/wiki/Anasayfa" hreflang="tr">Vikikitap</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Vikiveri</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://tr.wikinews.org/wiki/Anasayfa" hreflang="tr">Vikihaber</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://tr.wikiquote.org/wiki/Ana_Sayfa" hreflang="tr">Vikisöz</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://tr.wikisource.org/wiki/Anasayfa" hreflang="tr">Vikikaynak</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Araçlar</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/Anasayfa" title="Bu sayfaya bağlantı vermiş tüm viki sayfalarının listesi [j]" accesskey="j">Sayfaya bağlantılar</a></li><li id="t-recentchangeslinked"><a href="/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/Anasayfa" rel="nofollow" title="Bu sayfadan bağlantı verilen sayfalardaki son değişiklikler [k]" accesskey="k">İlgili değişiklikler</a></li><li id="t-specialpages"><a href="/wiki/%C3%96zel:%C3%96zelSayfalar" title="Tüm özel sayfaların listesi [q]" accesskey="q">Özel sayfalar</a></li><li id="t-permalink"><a href="/w/index.php?title=Anasayfa&amp;oldid=18560407" title="Sayfanın bu sürümüne kalıcı bağlantı">Kalıcı bağlantı</a></li><li id="t-info"><a href="/w/index.php?title=Anasayfa&amp;action=info" title="Bu sayfa hakkında daha fazla bilgi">Sayfa bilgisi</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Veri havuzundaki ilgili ögeye bağlantı [g]" accesskey="g">Vikiveri öğesi</a></li><li id="t-cite"><a href="/w/index.php?title=%C3%96zel:KaynakG%C3%B6ster&amp;page=Anasayfa&amp;id=18560407" title="Bu sayfadan nasıl alıntı yapılacağı hakkında bilgi">Sayfayı kaynak göster</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Diğer diller</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="Arapça" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/" title="Azerice" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/" title="تۆرکجه" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/" title="Başkırtça" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="Bulgarca" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/" title="Boşnakça" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="Katalanca" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/" title="Kırım Türkçesi" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="Çekçe" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/" title="Çuvaşça" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="Danca" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="Almanca" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="Yunanca" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="İngilizce" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="İspanyolca" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="Estonca" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="Baskça" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="Farsça" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="Fince" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="Fransızca" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/" title="Gagavuzca" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="İbranice" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="Hintçe" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="Hırvatça" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="Macarca" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="Endonezce" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="İtalyanca" lang="it" hreflang="it" class="interlanguage-link-target">İtaliano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="Japonca" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="Gürcüce" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/" title="Karakalpakça" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/" title="Kazakça" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="Korece" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/" title="Karaçay-Balkarca" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/" title="Kürtçe" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/" title="Kırgızca" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="Latince" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="Litvanca" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/" title="Makedonca" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="Malayca" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="Felemenkçe" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="Norveççe Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="Norveççe" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="Lehçe" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="Portekizce" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="Rumence" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="Rusça" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="Sırp-Hırvat Dili" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="Slovakça" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="Slovence" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/" title="Arnavutça" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="Sırpça" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="İsveççe" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="Tayca" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/" title="Türkmence" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/" title="Tatarca" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/" title="Uygurca" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="Ukraynaca" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/" title="Özbekçe" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="Vietnamca" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="Çince" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Bu sayfa son olarak 1 Mayıs 2017 tarihinde ve 05:07 saatinde düzenlenmiştir.</li>
+											<li id="footer-info-copyright">Metin <a rel="license" href="https://tr.wikipedia.org/wiki/Vikipedi:Creative_Commons_At%C4%B1f-BenzerPayla%C5%9F%C4%B1m_3.0_Unported_Lisans_metni">Creative Commons Atıf-BenzerPaylaşım Lisansı</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a> altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, <a href="//meta.wikimedia.org/wiki/Terms_of_use/tr">Kullanım Şartlarını</a> ve <a href="//meta.wikimedia.org/wiki/Privacy_policy/tr">Gizlilik Politikasını</a> kabul etmiş olursunuz.<br>Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a> tescilli markasıdır.<br/></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Gizlilik politikası</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikipedi:Hakk%C4%B1nda" title="Vikipedi:Hakkında">Vikipedi hakkında</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikipedi:Genel_sorumluluk_reddi" title="Vikipedi:Genel sorumluluk reddi">Sorumluluk reddi</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Geliştiriciler</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Çerez bildirgesi</a></li>
+											<li id="footer-places-mobileview"><a href="//tr.m.wikipedia.org/w/index.php?title=Anasayfa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobil görünüm</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.133","ppvisitednodes":{"value":387,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55419,"limit":2097152},"templateargumentsize":{"value":13433,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   48.550      1 -total"," 33.01%   16.026      1 Şablon:Anasayfa_metakutu"," 29.36%   14.253      1 Şablon:Metakutu"," 15.87%    7.704      1 Şablon:Anasayfa_dinamik_içerik"," 15.12%    7.339      1 Şablon:Tarihte_bugün/6_Mayıs"," 12.42%    6.028      1 Şablon:GSR_koruma/2017-05-06"," 10.70%    5.195      1 Vikipedi:Anasayfa_yeni_başlık","  9.73%    4.724      1 Şablon:GM/2017-05-06","  7.82%    3.795      1 Şablon:GSR_kutu","  7.52%    3.649      1 Vikipedi:Haftanın_seçkin_maddesi/18._Hafta_2017"]},"cachereport":{"origin":"mw1266","timestamp":"20170506051117","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1178"});});</script>
+	</body>
+</html>

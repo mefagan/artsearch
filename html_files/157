@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="nb" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den frie encyklopedi</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Forside","wgTitle":"Forside","wgCurRevisionId":16866115,"wgRevisionId":16866115,"wgArticleId":494123,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia-administrativa"],"wgBreakFrames":false,"wgPageContentLanguage":"nb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januar","februar","mars","april","mai","juni","juli","august","september","oktober","november","desember"],"wgMonthNamesShort":["","jan.","feb.","mar.","apr.","mai","jun.","jul.","aug.","sep.","okt.","nov.","des."],"wgRelevantPageName":"Portal:Forside","wgRelevantArticleId":494123,"wgRequestId":"WQ33NwpAEKcAAFUivecAAABM","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"nb","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"nb","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"norsk bokmål","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1atvq7d",function($,jQuery,require,module){mw.user.options.set({"variant":"nb"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.UkensKonkurranse","ext.gadget.link-missing-label","ext.gadget.new-section","ext.gadget.upload-wizard-commons","ext.gadget.InterProjectLinks","ext.gadget.move-maintenance-messages","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=nb&amp;modules=ext.gadget.InterProjectLinks%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=nb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=nb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/atom+xml" title="Ukens artikkel på Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Dagen i dag, fra Wikipedia" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (nb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//no.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://no.wikipedia.org/wiki/Portal:Forside"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Forside rootpage-Portal_Forside skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="nb">Portal:Forside</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Fra Wikipedia, den frie encyklopedi</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Hopp til:					<a href="#mw-head">navigasjon</a>, 					<a href="#p-search">søk</a>
+				</div>
+				<div id="mw-content-text" lang="nb" dir="ltr" class="mw-content-ltr"><div style="margin: 0 0 10px 0; border: 2px solid #C7D0F8; padding: 1em; background-color:#F2F5FD;">
+<table style="width:100%" id="mp-topbanner">
+<tr>
+<td style="width:300px;text-align:center"><span style="font-size:180%;">Velkommen til <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</span><br />
+<p>den <a href="/wiki/Wikipedia:Opphavsrett" title="Wikipedia:Opphavsrett">frie</a> <a href="/wiki/Encyklopedi" title="Encyklopedi">encyklopedi</a> som <a href="/wiki/Wikipedia:Velkommen_til_Wikipedia" title="Wikipedia:Velkommen til Wikipedia"><i>du</i> kan forbedre</a>.<br />
+<a href="/wiki/Spesial:Statistikk" title="Spesial:Statistikk">466&#160;922</a> artikler på bokmål og riksmål</p>
+</td>
+<td style="text-align: right">
+<p><span style="font-size:0.9em"><a href="/wiki/Wikipedia:Kategorier" title="Wikipedia:Kategorier">Bla gjennom kategoriene</a> · <a href="/wiki/Spesial:Kategorier" title="Spesial:Kategorier">Alfabetisk liste</a> · <a href="/wiki/Kategori:Portaler" title="Kategori:Portaler">Portaler</a><br />
+<b><a href="/wiki/Wikipedia:Kategorier" title="Wikipedia:Kategorier">Kategorier</a>:</b> <a href="/wiki/Kategori:Kultur" title="Kategori:Kultur">Kultur</a> · <a href="/wiki/Kategori:Geografi" title="Kategori:Geografi">Geografi</a> · <a href="/wiki/Kategori:Historie" title="Kategori:Historie">Historie</a> · <a href="/wiki/Kategori:Matematikk" title="Kategori:Matematikk">Matematikk</a> · <a href="/wiki/Kategori:Vitenskap" title="Kategori:Vitenskap">Vitenskap</a> · <a href="/wiki/Kategori:Samfunn" title="Kategori:Samfunn">Samfunn</a><br />
+<b><a href="/wiki/Portal:Portaler" title="Portal:Portaler">Portaler</a>:</b> <a href="/wiki/Portal:Kunst" title="Portal:Kunst">Kunst</a> · <a href="/wiki/Portal:Film" title="Portal:Film">Film</a> · <a href="/wiki/Portal:Historie" title="Portal:Historie">Historie</a> · <a href="/wiki/Portal:Samfunn" title="Portal:Samfunn">Samfunn</a> · <a href="/wiki/Portal:Geografi" title="Portal:Geografi">Geografi</a> · <a href="/wiki/Portal:Vitenskap" title="Portal:Vitenskap">Vitenskap</a> · <a href="/wiki/Portal:Spr%C3%A5k" title="Portal:Språk">Språk</a><br /></span></p>
+</td>
+</tr>
+</table>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0" id="mp-upper" class="MainPageBG">
+<tr>
+<td style="vertical-align:top">
+<div style="margin: 0 10px 0 0; border: 2px solid #dfdfdf; padding: 0em 1em; background-color: #f8f8ff;">
+<div id="ukens_artikkel">
+<h3><span class="mw-headline" id="Ukens_artikkel_.28uke_18.29">Ukens artikkel <i>(uke 18)</i></span></h3>
+<div id="mf-ua" title="Ukens artikkel" style="width:100%;">
+<div class="innhold">
+<div class="floatleft"><a href="/wiki/Norges_teknisk-naturvitenskapelige_universitet" title="NTNUs administrasjon holder til i Hovedbygningen på Gløshaugen i Trondheim. Den ble innviet i 1910"><img alt="NTNUs administrasjon holder til i Hovedbygningen på Gløshaugen i Trondheim. Den ble innviet i 1910" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/NTNU.jpg/120px-NTNU.jpg" width="120" height="72" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/NTNU.jpg/180px-NTNU.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/NTNU.jpg/240px-NTNU.jpg 2x" data-file-width="2964" data-file-height="1772" /></a></div>
+<p><b><a href="/wiki/Norges_teknisk-naturvitenskapelige_universitet" title="Norges teknisk-naturvitenskapelige universitet">Norges teknisk-naturvitenskapelige universitet</a></b> (<b>NTNU</b>) er fra 2016 Norges største universitet. NTNU ble opprettet i 1996, gjennom en sammenslåing av seks institusjoner for forskning og høyere utdanning i Trondheim, og har hovedansvar for den høyere teknologiutdanningen i Norge. I tillegg har NTNU et bredt fagtilbud innen flere fag.</p>
+<p>Fra 2016 er NTNU, Høgskolen i Gjøvik, Høgskolen i Ålesund og Høgskolen i Sør-Trøndelag organisert som ett universitet under navnet Norges teknisk-naturvitenskapelige universitet. Enhetene i Gjøvik og Ålesund heter nå <a href="/wiki/NTNU_i_Gj%C3%B8vik" title="NTNU i Gjøvik">NTNU i Gjøvik</a> og <a href="/wiki/NTNU_i_%C3%85lesund" title="NTNU i Ålesund">NTNU i Ålesund</a>. Etter et overgangsår i 2016, består NTNU fra 2017 av åtte fakulteter med 56 institutter, i tillegg til andre enheter, som <a href="/wiki/Vitenskapsmuseet" title="Vitenskapsmuseet">NTNU Vitenskapsmuseet</a> og <a href="/wiki/NTNU_Universitetsbiblioteket" title="NTNU Universitetsbiblioteket">Universitetsbiblioteket</a>. NTNU regner sin historie fra etableringen av Norges tekniske høgskole i 1910.</p>
+<p>NTNU hadde pr. 2015 profesjonsutdanning innen ingeniørfag, medisin, psykologi, arkitektur, billedkunst, musikk og lærerutdanning. Etter fusjonen med høyskolene er profesjonsutdanningene utvidet med blant annet sykepleie, fysioterapi, siviløkonomstudium, regnskap og revisjon, grafisk design og shippingledelse. <b><a href="/wiki/Norges_teknisk-naturvitenskapelige_universitet" title="Norges teknisk-naturvitenskapelige universitet">Les&#160;mer&#160;…</a></b></p>
+</div>
+<div align="right"><small><b><a href="/wiki/Wikipedia:Ukens_artikkel" title="Wikipedia:Ukens artikkel">Om ukens artikkel</a> · <a href="/wiki/Wikipedia:Ukens_artikkel/2017" title="Wikipedia:Ukens artikkel/2017">Arkiv over årets artikler</a> · <a href="/wiki/Wikipedia:Utmerkede_artikler" title="Wikipedia:Utmerkede artikler">278 utmerkede artikler</a> · <a href="/wiki/Wikipedia:Anbefalte_artikler" title="Wikipedia:Anbefalte artikler">717 anbefalte artikler</a></b></small></div>
+<br clear="all" /></div>
+</div>
+</div>
+<div style="margin: 10px 10px 0 0; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#f8f8ff;">
+<div style="width:100%;">
+<h3><span class="mw-headline" id="Dagens_skandinaviske_artikkel_.28svensk.29">Dagens skandinaviske artikkel (<a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">svensk</a>)</span></h3>
+<div class="floatleft"><a href="https://sv.wikipedia.org/wiki/N%C3%B6tv%C3%A4ckor" title="Nötväcka på svensk, Spettmeis på norsk og Spætmejser på dansk"><img alt="Nötväcka på svensk, Spettmeis på norsk og Spætmejser på dansk" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sitta_europaea_1_%28Marek_Szczepanek%29.jpg/120px-Sitta_europaea_1_%28Marek_Szczepanek%29.jpg" width="120" height="78" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sitta_europaea_1_%28Marek_Szczepanek%29.jpg/180px-Sitta_europaea_1_%28Marek_Szczepanek%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sitta_europaea_1_%28Marek_Szczepanek%29.jpg/240px-Sitta_europaea_1_%28Marek_Szczepanek%29.jpg 2x" data-file-width="650" data-file-height="423" /></a></div>
+<p><b><a href="https://sv.wikipedia.org/wiki/N%C3%B6tv%C3%A4ckor" class="extiw" title="sv:Nötväckor">Nötväckor</a></b> (Sittidae) är en familj fåglar inom ordningen <a href="https://sv.wikipedia.org/wiki/t%C3%A4ttingar" class="extiw" title="sv:tättingar">tättingar</a> med ett tjugotal arter. De kännetecknas av stora huvuden, korta stjärtar och kraftiga näbbar och fötter. Nötväckor tillkännager sitt revir med högljudda, enkla sånger. De flesta arterna har grå eller blåaktiga ovansidor och ett svart ögonband.</p>
+<p>De flesta nötväckor häckar i de tempererade eller montana skogsområdena på Norra halvklotet. Alla medlemmar av släktet häckar i hålor eller skrevor. De flesta arterna är stannfåglar och bor i samma miljö hela året, men den nordamerikanska <a href="https://sv.wikipedia.org/wiki/r%C3%B6dbr%C3%B6stad_n%C3%B6tv%C3%A4cka" class="extiw" title="sv:rödbröstad nötväcka">rödbröstade nötväckan</a> flyttar till varmare områden på vintern.</p>
+<p>Nötväckor är allätare och äter mestadels insekter, nötter och frön. De födosöker efter insekter som är gömda i eller under bark genom att klättra längs trädstammar och grenar, ibland upp och ner. Deras vana att kila fast en stor bit föda i en spricka för att sedan hacka på den med sina starka näbbar har givit upphov till gruppens namn på svenska med flera språk. <i><a href="https://sv.wikipedia.org/wiki/N%C3%B6tv%C3%A4ckor" class="extiw" title="sv:Nötväckor">Läs mer…</a></i></p>
+<div align="right" class="noprint">
+<p><small><b><a href="/wiki/Wikipedia:Utvalgt_svensk_artikkel/2017" title="Wikipedia:Utvalgt svensk artikkel/2017">Arkiv</a> · Dette er ukens artikkel på <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">svensk Wikipedia</a></b></small></p>
+</div>
+</div>
+</div>
+<div style="margin: 10px 10px 0 0; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#efefdf;">
+<h3><span class="mw-headline" id="S.C3.B8sterprosjekter">Søsterprosjekter</span></h3>
+<p><small>Wikipedia utgis av den ideelle organisasjonen <a href="https://wikimediafoundation.org/wiki/Home" class="extiw" title="wikimedia:Home">Wikimedia Foundation</a>, som driver flere <a href="/wiki/Wikipedia:Internasjonalt" title="Wikipedia:Internasjonalt">flerspråklige</a> og <a href="/wiki/Wikipedia:Opphavsrett" title="Wikipedia:Opphavsrett">frie</a> prosjekter hvor alle kan bidra.</small></p>
+<table align="center" cellpadding="2" width="95%" style="background-color:#efefdf;">
+<tr>
+<td><a href="https://meta.wikimedia.org/wiki/Hovedside" title="m:Hovedside"><img alt="Wikimedia Community Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td><a href="https://meta.wikimedia.org/wiki/Hovedside" class="extiw" title="m:Hovedside"><b>Meta-Wiki</b></a><br />
+<small>Koordinasjonsside for Wikimedia-prosjekter</small></td>
+<td><a href="https://commons.wikimedia.org/wiki/Hovedside" title="commons:Hovedside"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Hovedside" class="extiw" title="commons:Hovedside"><b>Commons</b></a><br />
+<small>Lagringssted for delt multimedieinnhold</small></td>
+</tr>
+<tr>
+<td><a href="https://no.wiktionary.org/wiki/" title="wikt:"><img alt="Wiktionary-logo-en.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/35px-Wiktionary-logo-en.png" width="35" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/53px-Wiktionary-logo-en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/70px-Wiktionary-logo-en.png 2x" data-file-width="1000" data-file-height="1089" /></a></td>
+<td><a href="https://no.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Wiktionary</b></a><br />
+<small>Fri ordbok</small></td>
+<td><a href="https://no.wikibooks.org/wiki/" title="b:"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://no.wikibooks.org/wiki/" class="extiw" title="b:"><b>Wikibøker</b></a><br />
+<small>Bøker og manualer</small></td>
+</tr>
+<tr>
+<td><a href="https://no.wikiquote.org/wiki/" title="q:"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://no.wikiquote.org/wiki/" class="extiw" title="q:"><b>Wikiquote</b></a><br />
+<small>Sitatsamling</small></td>
+<td><a href="https://no.wikisource.org/wiki/" title="s:"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://no.wikisource.org/wiki/" class="extiw" title="s:"><b>Wikikilden</b></a><br />
+<small>Originale tekster</small></td>
+</tr>
+<tr>
+<td><a href="https://species.wikimedia.org/wiki/" title="species:"><img alt="Wikispecies-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td><a href="https://species.wikimedia.org/wiki/" class="extiw" title="species:"><b>Wikispecies</b></a><br />
+<small>Oppslagsverk over dyre- og plantearter</small></td>
+<td><a href="https://no.wikinews.org/wiki/" title="n:"><img alt="Wikinews-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/35px-Wikinews-logo.png" width="35" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/53px-Wikinews-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/70px-Wikinews-logo.png 2x" data-file-width="800" data-file-height="415" /></a></td>
+<td><a href="https://no.wikinews.org/wiki/" class="extiw" title="n:"><b>Wikinytt</b></a><br />
+<small>Nyhetstjeneste med fritt innhold</small></td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/v:" title="en:v:"><img alt="Wikiversity-logo-41px.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wikiversity-logo-41px.png/35px-Wikiversity-logo-41px.png" width="35" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/e/e3/Wikiversity-logo-41px.png 1.5x" data-file-width="41" data-file-height="32" /></a></td>
+<td><a href="https://en.wikipedia.org/wiki/v:" class="extiw" title="en:v:"><b>Wikiversity</b></a><br />
+<small>Frie læringsressurser</small></td>
+<td><a href="https://www.mediawiki.org/wiki/" title="mw:"><img alt="Mediawiki-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></td>
+<td><a href="https://www.mediawiki.org/wiki/" class="extiw" title="mw:"><b>MediaWiki</b></a><br />
+<small>Utvikling av friprogløsningen MediaWiki</small></td>
+</tr>
+<tr>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Hovedside" title="d:Wikidata:Hovedside"><img alt="Wikidata-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" width="35" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Hovedside" class="extiw" title="d:Wikidata:Hovedside"><b>Wikidata</b></a><br />
+<small>Fri kunnskapsbase</small></td>
+<td><a href="https://en.wikivoyage.org/wiki/" title="wikivoyage:"><img alt="Wikivoyage-Logo-v3-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://en.wikivoyage.org/wiki/" class="extiw" title="wikivoyage:"><b>Wikivoyage</b></a><br />
+<small>Reiseguide med fritt innhold</small></td>
+</tr>
+</table>
+</div>
+<div style="margin: 10px 10px 0 0; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color: #f8f8ff;">
+<h3><span class="mw-headline" id="Om_Wikipedia">Om Wikipedia</span></h3>
+<p><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> er en <a href="/wiki/Encyklopedi" title="Encyklopedi">encyklopedi</a> på flere enn <a href="/wiki/Wikipedia:Internasjonalt" title="Wikipedia:Internasjonalt">280 språk</a>, som skrives av frivillige bidragsytere fra hele verden. Innholdet kan <a href="/wiki/Wikipedia:Opphavsrett" title="Wikipedia:Opphavsrett">kopieres og brukes fritt</a>. Vi startet i 2001 og arbeider nå på flere enn 35 millioner artikler, hvorav <a href="/wiki/Spesial:Statistikk" title="Spesial:Statistikk">466&#160;922</a> i den norske utgaven på bokmål og riksmål. På den <b><a href="https://nn.wikipedia.org/wiki/" class="extiw" title="nn:">nynorske versjonen</a></b> arbeides det på flere enn <a href="https://nn.wikipedia.org/wiki/Spesial:Recentchanges" class="extiw" title="nn:Spesial:Recentchanges">130&#160;000</a> artikler. <a href="/wiki/Wikipedia:Introduksjon" title="Wikipedia:Introduksjon">Les mer om hvordan du kan bidra!</a></p>
+</div>
+</td>
+<td width="40%" style="vertical-align:top">
+<div style="margin:0 0 0 0; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#dfdfef; text-align:left;" id="aktuelt">
+<h4><span class="mw-headline" id="Aktuelt">Aktuelt</span></h4>
+<div id="mf-itn" title="Aktuelt">
+<div>
+<div class="floatright"><a href="/wiki/Fil:%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg" class="image"><img alt="Élection présidentielle de 2017 par département T1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg/150px-%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg.png" width="150" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg/225px-%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg/300px-%C3%89lection_pr%C3%A9sidentielle_de_2017_par_d%C3%A9partement_T1.svg.png 2x" data-file-width="463" data-file-height="476" /></a></div>
+</div>
+<ul>
+<li>Første omgang av <b><a href="/wiki/Presidentvalget_i_Frankrike_2017" title="Presidentvalget i Frankrike 2017">presidentvalget i Frankrike</a></b> <i>(bildet)</i> gir seier til <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a> (gult) og <a href="/wiki/Marine_Le_Pen" title="Marine Le Pen">Marine Le Pen</a> (mørkeblått), som dermed går videre til neste omgang.</li>
+</ul>
+<hr />
+<table>
+<tr valign="top">
+<td><b>Bakgrunn:</b></td>
+<td><a href="/wiki/DAB_i_Norge" title="DAB i Norge">DAB i Norge</a> • <a href="/wiki/Parlamentsvalget_i_Frankrike_2017" title="Parlamentsvalget i Frankrike 2017">Parlamentsvalget i Frankrike</a></td>
+</tr>
+<tr valign="top">
+<td><b>Kultur:</b></td>
+<td><a href="/wiki/Frigj%C3%B8ringsdagen_(Norge)" title="Frigjøringsdagen (Norge)">Frigjøringsdagen (Norge)</a></td>
+</tr>
+<tr valign="top">
+<td><b>Sport:</b></td>
+<td><a href="/wiki/Stanley_Cup-sluttspillet_2017" title="Stanley Cup-sluttspillet 2017">Stanley Cup-sluttspillet</a>&#160;• <a href="/wiki/U-17_EM_i_fotball_2017" title="U-17 EM i fotball 2017">U-17 EM i fotball</a>&#160;• <a href="/wiki/EM_i_bryting_2017" title="EM i bryting 2017">EM i bryting</a>&#160;• <span class="nowrap"><a href="/wiki/Kvalifisering_til_H%C3%A5ndball-EM_2018_for_menn#Andre_kvalifiseringsrunde" title="Kvalifisering til Håndball-EM 2018 for menn">EM-kvalifisering i håndball</a></span>&#160;• <a href="/wiki/Ishockey-VM_2017_(toppdivisjonen)" title="Ishockey-VM 2017 (toppdivisjonen)">Ishockey-VM</a>&#160;• <a href="/wiki/Giro_d%27Italia_2017" title="Giro d'Italia 2017">Giro d'Italia</a></td>
+</tr>
+</table>
+</div>
+</div>
+<div style="margin: 10px 0 0 0; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#efdfdf; text-align:left; margin-top:10px;">
+<h4><span class="mw-headline" id="Nylig_avd.C3.B8de">Nylig avdøde</span></h4>
+<div class="floatright"><a href="/wiki/Fil:Scarponi_Giro_2012.jpg" class="image" title="Michele Scarponi"><img alt="Michele Scarponi" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Scarponi_Giro_2012.jpg/80px-Scarponi_Giro_2012.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Scarponi_Giro_2012.jpg/120px-Scarponi_Giro_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Scarponi_Giro_2012.jpg/160px-Scarponi_Giro_2012.jpg 2x" data-file-width="708" data-file-height="1062" /></a></div>
+<ul>
+<li><a href="/wiki/26._april" title="26. april">26. april</a> – <a href="/wiki/Jonathan_Demme" title="Jonathan Demme">Jonathan Demme</a>, amerikansk filmregissør (73)</li>
+<li><a href="/wiki/22._april" title="22. april">22. april</a> – <a href="/wiki/Michele_Scarponi" title="Michele Scarponi">Michele Scarponi</a> <i>(bildet)</i>, italiensk syklist (37)</li>
+<li><a href="/wiki/18._april" title="18. april">18. april</a> – <a href="/wiki/Arild_Engh" title="Arild Engh">Arild Engh</a>, musiker (70)</li>
+</ul>
+<div align="right"><small><b>Flere <a href="/wiki/D%C3%B8dsfall_i_2017" title="Dødsfall i 2017">nylig avdøde</a></b></small></div>
+<div style="clear:both"></div>
+</div>
+<div style="margin:10px 0 0 0; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#efefdf; text-align:left;">
+<h4><span class="mw-headline" id="I_dag">I dag</span></h4>
+<div style="margin-left:1em;">
+<p>Den <b><a href="/wiki/6._mai" title="6. mai">6. mai</a></b>:</p>
+<div style="margin-left:-1em;">
+<div style="float: right"><a href="/wiki/Fil:Paris_06_Eiffelturm_4828.jpg" class="image" title="Eiffeltårnet i Paris"><img alt="Eiffeltårnet i Paris" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_06_Eiffelturm_4828.jpg/80px-Paris_06_Eiffelturm_4828.jpg" width="80" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_06_Eiffelturm_4828.jpg/120px-Paris_06_Eiffelturm_4828.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_06_Eiffelturm_4828.jpg/160px-Paris_06_Eiffelturm_4828.jpg 2x" data-file-width="630" data-file-height="1000" /></a></div>
+<ul>
+<li><a href="/wiki/1719" title="1719">1719</a> – <a href="/wiki/Daniel_Defoe" title="Daniel Defoe">Daniel Defoes</a> roman <i><b><a href="/wiki/Robinson_Crusoe" title="Robinson Crusoe">Robinson Crusoe</a></b></i> ble publisert.</li>
+<li><a href="/wiki/1856" title="1856">1856</a> – <b><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a></b>, grunnleggeren av <a href="/wiki/Psykoanalyse" title="Psykoanalyse">psykoanalysen</a>, ble født.</li>
+<li><a href="/wiki/1889" title="1889">1889</a> – <b><a href="/wiki/Eiffelt%C3%A5rnet" title="Eiffeltårnet">Eiffeltårnet</a></b> <i>(bildet)</i> i <a href="/wiki/Paris" title="Paris">Paris</a> ble offisielt åpnet.</li>
+<li><a href="/wiki/1910" title="1910">1910</a> – Kong <b><a href="/wiki/Edvard_VII_av_Storbritannia" title="Edvard VII av Storbritannia">Edvard VII av Storbritannia</a></b> døde.</li>
+<li><a href="/wiki/1915" title="1915">1915</a> – Den amerikanske regissøren, skuespilleren og manusforfatteren <b><a href="/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a></b> ble født.</li>
+<li><a href="/wiki/1937" title="1937">1937</a> – 36 mennesker omkom da det tyske <b><a href="/wiki/Luftskipet_%C2%ABHindenburg%C2%BB" title="Luftskipet «Hindenburg»">luftskipet «Hindenburg»</a></b> tok fyr ved landing.</li>
+<li><a href="/wiki/1944" title="1944">1944</a> – Den norske politikeren <b><a href="/wiki/Carl_I._Hagen" title="Carl I. Hagen">Carl I. Hagen</a></b> ble født.</li>
+<li><a href="/wiki/1953" title="1953">1953</a> – Den britiske statsministeren <b><a href="/wiki/Tony_Blair" title="Tony Blair">Tony Blair</a></b> ble født.</li>
+<li><a href="/wiki/1978" title="1978">1978</a> – <b><a href="/wiki/Apenes-drapet" title="Apenes-drapet">Apenes-drapet</a></b> fant sted.</li>
+<li><a href="/wiki/1988" title="1988">1988</a> – <b><a href="/wiki/Torghatten-ulykken" title="Torghatten-ulykken">Torghatten-ulykken</a></b> fant sted. Alle de 36 i flyet omkom.</li>
+<li><a href="/wiki/1994" title="1994">1994</a> – <b><a href="/wiki/Kanaltunnelen" title="Kanaltunnelen">Kanaltunnelen</a></b> mellom <a href="/wiki/England" title="England">England</a> og <a href="/wiki/Frankrike" title="Frankrike">Frankrike</a>&#160;ble åpnet.</li>
+<li><a href="/wiki/2002" title="2002">2002</a> – Den nederlandske politikeren <b><a href="/wiki/Pim_Fortuyn" title="Pim Fortuyn">Pim Fortuyn</a></b> ble skutt og drept.</li>
+<li><a href="/wiki/2012" title="2012">2012</a> – <b><a href="/wiki/Fran%C3%A7ois_Hollande" title="François Hollande">François Hollande</a></b> ble valgt til fransk president.</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="margin: 10px 0 0 0; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#dfefdf;">
+<h4><span class="mw-headline" id="Visste_du_at_...">Visste du at ...</span></h4>
+<div id="mf-dyk" title="Visste du at ...">
+<div class="floatright"><a href="/wiki/Fil:Drottningholms_slottsteater_2011b.jpg" class="image" title="Drottningholms Slottsteater er sammen med Drottningholms slott og den omliggende slottsparken opptatt på Unescos verdensarvsliste."><img alt="Drottningholms Slottsteater er sammen med Drottningholms slott og den omliggende slottsparken opptatt på Unescos verdensarvsliste." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Drottningholms_slottsteater_2011b.jpg/100px-Drottningholms_slottsteater_2011b.jpg" width="100" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Drottningholms_slottsteater_2011b.jpg/150px-Drottningholms_slottsteater_2011b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Drottningholms_slottsteater_2011b.jpg/200px-Drottningholms_slottsteater_2011b.jpg 2x" data-file-width="3132" data-file-height="2193" /></a></div>
+<ul>
+<li>… <i><a href="/wiki/Reinflytting_minutt_for_minutt" title="Reinflytting minutt for minutt">Reinflytting minutt for minutt</a></i> er <a href="/wiki/Sakte-TV" title="Sakte-TV">sakte-TV</a> fra <a href="/wiki/NRK_S%C3%A1pmi" title="NRK Sápmi">NRK Sápmi</a>?</li>
+<li>… <a href="/wiki/Drottningholms_slottsteater" title="Drottningholms slottsteater">Drottningholms slottsteater</a> (<i>bildet</i>) er et unikt bevart 1700-tallsteater?</li>
+<li>… <a href="/wiki/Henrik_av_Flandern" title="Henrik av Flandern">Henrik av Flandern</a> var keiser i <a href="/wiki/Det_latinske_riket" title="Det latinske riket">Det latinske riket</a> i Konstantinopel 1206–1216?</li>
+</ul>
+<div align="right"><small>Små glimt fra noen av <b><a href="/wiki/Spesial:Nye_sider" title="Spesial:Nye sider">de nyeste artiklene</a></b> våre.</small></div>
+<div style="clear:both"></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p><span id="tag-noindex"></span></p>
+<p><span id="iw-other-meta" style="display:none;" title="Main Page"></span> <span id="iw-other-commons" style="display:none;" title="Hovedside"></span> <span id="iw-other-strategy" style="display:none;" title="Main Page"></span> <span id="iw-other-outreach" style="display:none;" title="Main Page"></span> <span id="iw-other-mediawiki" style="display:none;" title="MediaWiki"></span> <span id="iw-other-wikibooks" style="display:none;" title="Hovedside"></span> <span id="iw-other-wikinews" style="display:none;" title="Wikinytt:Forside"></span> <span id="iw-other-wikiquote" style="display:none;" title="Hovedside"></span> <span id="iw-other-wiktionary" style="display:none;" title="Wiktionary:Forside"></span> <span id="iw-other-wikisource" style="display:none;" title="Hovedside"></span> <span id="iw-other-translatewiki" style="display:none;" title="Main Page"></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20170506161743
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.152 seconds
+Real time usage: 0.204 seconds
+Preprocessor visited node count: 1967/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28515/2097152 bytes
+Template argument size: 5356/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  122.159      1 -total
+ 62.47%   76.314      1 Mal:Aktuelt
+ 42.22%   51.575      2 Mal:Aktuelt/autoliste
+ 24.94%   30.468      1 Mal:Aktuelt/sport
+ 23.97%   29.276      1 Mal:Aktuelt/kultur
+ 13.46%   16.444      1 Mal:Dagens_skandinaviske_artikkel
+  5.70%    6.963      1 Mal:Utvalgt_svensk_artikkel
+  4.91%    5.995      1 Mal:Ukens_artikkel-fotnote
+  4.89%    5.970      1 Mal:Aktuelt/verdenscup
+  4.48%    5.478      1 Mal:Ukens_artikkel
+-->
+
+<!-- Saved in parser cache with key nowiki:pcache:idhash:494123-0!*!0!!*!5!* and timestamp 20170506161743 and revision id 16866115
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"InterProjectLinks\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//no.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Hentet fra «<a dir="ltr" href="https://no.wikipedia.org/w/index.php?title=Portal:Forside&amp;oldid=16866115">https://no.wikipedia.org/w/index.php?title=Portal:Forside&amp;oldid=16866115</a>»					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorier" title="Wikipedia:Kategorier">Kategori</a>: <ul><li><a href="/wiki/Kategori:Wikipedia-administrativa" title="Kategori:Wikipedia-administrativa">Wikipedia-administrativa</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigasjonsmeny</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personlig</h3>
+						<ul>
+							<li id="pt-anonuserpage">Ikke logget inn</li><li id="pt-anontalk"><a href="/wiki/Spesial:Min_diskusjon" title="Diskusjon om redigeringer fra denne IP-adressen [n]" accesskey="n">Brukerdiskusjon</a></li><li id="pt-anoncontribs"><a href="/wiki/Spesial:Mine_bidrag" title="En liste over redigeringer gjort fra denne IP-adressen [y]" accesskey="y">Bidrag</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Spesial:Opprett_konto&amp;returnto=Portal%3AForside" title="Du oppfordres til å opprette en konto og logge inn, men det er ikke obligatorisk.">Opprett konto</a></li><li id="pt-login"><a href="/w/index.php?title=Spesial:Logg_inn&amp;returnto=Portal%3AForside" title="Du oppfordres til å logge inn, men det er ikke obligatorisk [o]" accesskey="o">Logg inn</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Navnerom</h3>
+						<ul>
+															<li  id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Forside"  title="[c]" accesskey="c">Forside</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Portaldiskusjon:Forside"  title="Diskusjon om innholdssiden [t]" accesskey="t" rel="discussion">Diskusjon</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Varianter</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Visninger</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Forside" >Les</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Forside&amp;action=edit"  title="Denne siden er beskyttet.&#10;Du kan se på kildeteksten [e]" accesskey="e">Vis kilde</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Forside&amp;action=history"  title="Tidligere revisjoner av denne siden [h]" accesskey="h">Vis historikk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Mer</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Søk</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Søk i Wikipedia" title="Søk i Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spesial:Søk" name="title"/><input type="submit" name="fulltext" value="Søk" title="Søk etter sider som innholder denne teksten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Gå" title="Gå til en side med dette navnet om den finnes" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Portal:Forside"  title="Gå til hovedsiden"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigasjon</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Portal:Forside" title="Besøk hovedsiden [z]" accesskey="z">Forside</a></li><li id="n-svaksynte"><a href="//no.wikipedia.org/w/index.php?title=Wikipedia:Svaksynte&amp;useskin=simple">Svaksynte</a></li><li id="n-UA"><a href="/wiki/Wikipedia:Utmerkede_artikler">Utmerkede artikler</a></li><li id="n-help"><a href="/wiki/Hjelp:Portal" title="Stedet for å få hjelp">Hjelp</a></li><li id="n-recentchanges"><a href="/wiki/Spesial:Siste_endringer" title="Liste over siste endringer på wikien. [r]" accesskey="r">Siste endringer</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-prosjekt' aria-labelledby='p-prosjekt-label'>
+			<h3 id='p-prosjekt-label'>Prosjekt</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Stilmanual"><a href="/wiki/Wikipedia:Stilmanual">Stilmanual</a></li><li id="n-Skribentportal"><a href="/wiki/Wikipedia:Portal">Skribentportal</a></li><li id="n-Underprosjekter"><a href="/wiki/Wikipedia:Underprosjekter">Underprosjekter</a></li><li id="n-tinget"><a href="/wiki/Wikipedia:Tinget">Tinget</a></li><li id="n-torget"><a href="/wiki/Wikipedia:Torget">Torget</a></li><li id="n-Notiser"><a href="/wiki/Wikipedia:Notiser">Notiser</a></li><li id="n-Nybegynner"><a href="/wiki/Wikipedia:Nybegynnerforum">Nybegynner</a></li><li id="n-randompage"><a href="/wiki/Spesial:Tilfeldig" title="Vis en tilfeldig side [x]" accesskey="x">Tilfeldig side</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wikipedia' aria-labelledby='p-Wikipedia-label'>
+			<h3 id='p-Wikipedia-label'>Wikipedia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-kontakt"><a href="/wiki/Wikipedia:Kontakt">Kontakt Wikipedia</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_no.wikipedia.org&amp;uselang=nb" title="Støtt oss">Doner</a></li><li id="n-wmno"><a href="//no.wikimedia.org/" title="Medlemsorganisasjon for wikipedianere">Wikimedia Norge</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-other' aria-labelledby='p-other-label'>
+			<h3 id='p-other-label'>Andre</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-query' aria-labelledby='p-query-label'>
+			<h3 id='p-query-label'>Eksterne søk</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-store' aria-labelledby='p-store-label'>
+			<h3 id='p-store-label'>Lager</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Verktøy</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Spesial:Lenker_hit/Portal:Forside" title="Liste over alle wikisider som lenker hit [j]" accesskey="j">Hva lenker hit</a></li><li id="t-recentchangeslinked"><a href="/wiki/Spesial:Relaterte_endringer/Portal:Forside" rel="nofollow" title="Siste endringer i sider som blir lenket fra denne siden [k]" accesskey="k">Relaterte endringer</a></li><li id="t-specialpages"><a href="/wiki/Spesial:Spesialsider" title="Liste over alle spesialsider [q]" accesskey="q">Spesialsider</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Forside&amp;oldid=16866115" title="Permanent lenke til denne revisjonen av siden">Permanent lenke</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Forside&amp;action=info" title="Mer informasjon om denne siden">Sideinformasjon</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Lenke til koblet dataregisterelement [g]" accesskey="g">Wikidata-element</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Skriv ut / eksporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Spesial:Bok&amp;bookcmd=book_creator&amp;referer=Portal%3AForside">Opprett en bok</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Spesial:Bok&amp;bookcmd=render_article&amp;arttitle=Portal%3AForside&amp;returnto=Portal%3AForside&amp;oldid=16866115&amp;writer=rdf2latex">Last ned som PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Forside&amp;printable=yes" title="Utskriftsvennlig versjon av denne siden [p]" accesskey="p">Utskriftsvennlig versjon</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>På andre prosjekter</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://no.wikibooks.org/wiki/Hovedside" hreflang="no">Wikibøker</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://no.wikinews.org/wiki/Wikinytt:Forside" hreflang="no">Wikinytt</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://no.wikiquote.org/wiki/Hovedside" hreflang="no">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://no.wikisource.org/wiki/Wikikilden:Forside" hreflang="no">Wikikilden</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>På andre språk</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="norsk nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="dansk" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="svensk" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/" title="færøysk" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/" title="islandsk" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="katalansk" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="tysk" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="engelsk" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="spansk" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="fransk" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="italiensk" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="nederlandsk" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japansk" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="polsk" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugisisk" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="rumensk" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="russisk" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/" title="nordsamisk" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="finsk" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="tyrkisk" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukrainsk" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="kinesisk" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Denne siden ble sist endret 1. nov. 2016 kl. 21:54.</li>
+											<li id="footer-info-copyright">Innholdet er tilgjengelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use">bruksvilkårene</a> for detaljer.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Personvern</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:Om" title="Wikipedia:Om">Om Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Generelle_forbehold" title="Wikipedia:Generelle forbehold">Forbehold</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Utviklere</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Erklæring om informasjonskapsler</a></li>
+											<li id="footer-places-mobileview"><a href="//no.m.wikipedia.org/w/index.php?title=Portal:Forside&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobilvisning</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.204","ppvisitednodes":{"value":1967,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28515,"limit":2097152},"templateargumentsize":{"value":5356,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  122.159      1 -total"," 62.47%   76.314      1 Mal:Aktuelt"," 42.22%   51.575      2 Mal:Aktuelt/autoliste"," 24.94%   30.468      1 Mal:Aktuelt/sport"," 23.97%   29.276      1 Mal:Aktuelt/kultur"," 13.46%   16.444      1 Mal:Dagens_skandinaviske_artikkel","  5.70%    6.963      1 Mal:Utvalgt_svensk_artikkel","  4.91%    5.995      1 Mal:Ukens_artikkel-fotnote","  4.89%    5.970      1 Mal:Aktuelt/verdenscup","  4.48%    5.478      1 Mal:Ukens_artikkel"]},"cachereport":{"origin":"mw1251","timestamp":"20170506161743","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1212"});});</script>
+	</body>
+</html>

@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fi" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, vapaa tietosanakirja</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Etusivu","wgTitle":"Etusivu","wgCurRevisionId":16439355,"wgRevisionId":16439355,"wgArticleId":291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"fi","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"fi normal","wgMonthNames":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgMonthNamesShort":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgRelevantPageName":"Wikipedia:Etusivu","wgRelevantArticleId":291,"wgRequestId":"WQ3H4wpAMCYAACuoNFQAAACS","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":3,"pristine":4}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fi","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"fi","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"suomi","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.gadget.hidePersonalSandboxEdits":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1ovjtls",function($,jQuery,require,module){mw.user.options.set({"variant":"fi"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ViikonKilpailu","ext.gadget.ProtectionIndicator","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fi&amp;modules=ext.gadget.hidePersonalSandboxEdits%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=fi&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fi&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (fi)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fi.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia-Atom-syöte" href="/w/index.php?title=Toiminnot:Tuoreet_muutokset&amp;feed=atom"/>
+<link rel="canonical" href="https://fi.wikipedia.org/wiki/Wikipedia:Etusivu"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Etusivu rootpage-Wikipedia_Etusivu skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fi">Wikipedia:Etusivu</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Kohteesta Wikipedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Loikkaa:					<a href="#mw-head">valikkoon</a>, 					<a href="#p-search">hakuun</a>
+				</div>
+				<div id="mw-content-text" lang="fi" dir="ltr" class="mw-content-ltr"><div>
+<p style="font-size:115%; line-height:1.3em; font-weight:bold;margin-bottom:0; text-align:center;">Tervetuloa Wikipediaan, <a href="/wiki/Wikipedia:Tervetuloa_Wikipediaan" title="Wikipedia:Tervetuloa Wikipediaan">vapaaseen tietosanakirjaan</a>.</p>
+<p style="margin-top:0; margin-bottom:0.8em; text-align:center;">Suomenkielisessä Wikipediassa on tällä hetkellä <b><a href="/wiki/Toiminnot:Tilastot" title="Toiminnot:Tilastot">413&#160;582</a></b> artikkelia.</p>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.6em">
+<tr>
+<td width="50%" valign="middle" style="border:1px solid #CCF7CC;background:#EEFFEE;padding:7px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background:transparent" id="accueil_recherche">
+<tr>
+<td style="padding-right:10px"><a href="/wiki/Toiminnot:Haku" title="Toiminnot:Haku"><img alt="Haku Wikipediasta" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Recherche_silhouette.svg/50px-Recherche_silhouette.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Recherche_silhouette.svg/75px-Recherche_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Recherche_silhouette.svg/100px-Recherche_silhouette.svg.png 2x" data-file-width="32" data-file-height="32" /></a></td>
+<td width="100%" style="padding-top:2px;font-size:95%"><b><a href="/wiki/Toiminnot:Haku" title="Toiminnot:Haku">Haku</a></b> • <b><a href="/wiki/Wikipedia:Ajankohtaista" title="Wikipedia:Ajankohtaista">Ajankohtaista</a></b> • <b><a href="/wiki/Wikipedia:Selaa_luokittain" title="Wikipedia:Selaa luokittain">Selaa luokittain</a></b> • <b><a href="/wiki/Malline:Luo_uusi_sivu" title="Malline:Luo uusi sivu">Luo artikkeli</a></b>
+<p><a href="/wiki/Wikipedia:Suositellut_artikkelit" title="Wikipedia:Suositellut artikkelit">Suositellut</a> • <a href="/wiki/Wikipedia:Hyv%C3%A4t_artikkelit" title="Wikipedia:Hyvät artikkelit">Hyvät</a> • <a href="/wiki/Wikipedia:Lupaavat_artikkelit" title="Wikipedia:Lupaavat artikkelit">Lupaavat artikkelit</a> • <a href="/wiki/Toiminnot:Uudet_sivut" title="Toiminnot:Uudet sivut">Uudet sivut</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td style="padding:4px;font-size:1px">&#160;</td>
+<td width="50%" valign="middle" style="border:1px solid #DDDDF7;background:#F7F7FF;padding:7px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background:transparent" id="accueil_participation">
+<tr>
+<td style="padding-right:10px"><a href="/wiki/Wikipedia:Tervetuloa_Wikipediaan" title="Wikipedia:Tervetuloa Wikipediaan"><img alt="Tervetuloa Wikipediaan" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_silhouette.svg/50px-Communaut%C3%A9_silhouette.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_silhouette.svg/75px-Communaut%C3%A9_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Communaut%C3%A9_silhouette.svg/100px-Communaut%C3%A9_silhouette.svg.png 2x" data-file-width="32" data-file-height="32" /></a></td>
+<td width="100%" style="padding-top:2px;font-size:95%"><b><a href="/wiki/Wikipedia:Tervetuloa_Wikipediaan" title="Wikipedia:Tervetuloa Wikipediaan">Tervetuloa Wikipediaan</a> ja <a href="/wiki/Wikipedia:Tietoja" title="Wikipedia:Tietoja">tietoja Wikipediasta</a></b>
+<p><a href="/wiki/Wikipedia:Usein_kysytyt_kysymykset" title="Wikipedia:Usein kysytyt kysymykset">UKK</a> • <a href="/wiki/Ohje:Uuden_artikkelin_luominen" title="Ohje:Uuden artikkelin luominen">Artikkelin luominen</a> • <a href="/wiki/Wikipedia:Kahvihuone" title="Wikipedia:Kahvihuone">Keskustelu</a> • <a href="/wiki/Wikipedia:Kahvihuone_(Wikipedian_k%C3%A4yt%C3%B6n_neuvonta)" title="Wikipedia:Kahvihuone (Wikipedian käytön neuvonta)">Neuvonta</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:0.6em;line-height:0.6em">&#160;</td>
+</tr>
+<tr>
+<td valign="top">
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #18447e; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#18447e; font-size:120%; font-weight:bold; border:1px solid #18447e; text-align:left; color:white; padding:0.2em 0.4em;"><span class="mw-headline" id="Suomi_100_vuotta">Suomi 100 vuotta</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div id="mf-suomisata" title="Suomi 100 vuotta">
+<div class="today_img" style="float: left; margin-right: 0.1em;"><a href="/wiki/Tiedosto:Convallaria_majalis_l.jpg" class="image"><img alt="Convallaria majalis l.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convallaria_majalis_l.jpg/100px-Convallaria_majalis_l.jpg" width="100" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convallaria_majalis_l.jpg/150px-Convallaria_majalis_l.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Convallaria_majalis_l.jpg/200px-Convallaria_majalis_l.jpg 2x" data-file-width="331" data-file-height="480" /></a></div>
+<p><b><a href="/wiki/Kielo" title="Kielo">Kielo</a></b> (<i>Convallaria majalis</i>) on <i><a href="/wiki/Convallaria" class="mw-redirect" title="Convallaria">Convallaria</a></i>-sukuun kuuluva monivuotinen, ruohovartinen kasvi. Se on myös sukunsa ainoa laji, vaikka jotkut tutkijat katsovatkin sen eri maantieteelliset muodot omiksi lajeikseen. Kielo kukkii touko–kesäkuussa valkoisin, hyväntuoksuisin kukin. Sen lehdet ovat ehytlaitaiset ja kielen muotoiset, joiden perusteella se on saanut suomenkielisen nimensä. Lajin tieteellinen nimi puolestaan viittaa Raamatun <a href="/wiki/Laulujen_laulu" title="Laulujen laulu">Laulujen lauluun</a>.</p>
+<p>Kielo on kaikilta osiltaan myrkyllinen kasvi ja siitä on löydetty ainakin 38 <a href="/wiki/Syd%C3%A4n" title="Sydän">sydämen</a> toimintaan vaikuttavaa ainetta. Tästä syystä sitä on käytetty myös muun muassa sydänlääkkeenä jo vuosisatojen ajan. Tämän lisäksi kieloa on käytetty muun muassa <a href="/wiki/Joulukukka" title="Joulukukka">joulukukkana</a> ja puutarhakasvina. Kielosta on jalostettu myös koristekasveja. Kieloja kasvaa monentyyppisissä metsissä napapiirin eteläpuolelta Etelä-Eurooppaan ulottuvalla alueella. Edellä mainitut kielon muut muodot kasvavat Amerikassa ja Aasiassa samoilla leveysasteilla. Kielo valittiin kansanäänestyksellä <a href="/wiki/Suomi" title="Suomi">Suomen</a> kansalliskukaksi vuonna 1967. Muualla maailmassa kielon voi nähdä esimerkiksi useiden paikkakuntien vaakunoissa.</p>
+<div align="right"><small>Tällä paikalla esitetään vuoden aikana 100 Suomeen liittyvää artikkelia. Katso <a href="/wiki/Wikiprojekti:Suomi_100" title="Wikiprojekti:Suomi 100">projektisivu</a>.</small></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#EEEEEE; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Suositeltu_artikkeli">Suositeltu artikkeli</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div id="mp-tfa">
+<div class="floatleft"><a href="/wiki/Museo" title="Museo"><img alt="Alte Nationalgalerie 1.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alte_Nationalgalerie_1.JPG/150px-Alte_Nationalgalerie_1.JPG" width="150" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alte_Nationalgalerie_1.JPG/225px-Alte_Nationalgalerie_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alte_Nationalgalerie_1.JPG/300px-Alte_Nationalgalerie_1.JPG 2x" data-file-width="3795" data-file-height="3212" /></a></div>
+<p><b><a href="/wiki/Museo" title="Museo">Museo</a></b> on laitos, joka kerää, säilyttää, tutkii ja pitää esillä <a href="/wiki/Historiallinen" class="mw-redirect" title="Historiallinen">historiallista</a>, <a href="/wiki/Kulttuurihistoria" title="Kulttuurihistoria">kulttuurihistoriallista</a> tai <a href="/wiki/Luonnontiede" title="Luonnontiede">luonnontiedettä</a> koskevaa aineistoa. <a href="/wiki/Museon%C3%A4yttely" title="Museonäyttely">Näyttelyt</a> ovat museotyön näkyvin osa, sillä niissä museot kohtaavat yleisönsä. Siksi monille näyttelyt edustavat museoiden perinteistä tehtävää. <a href="/wiki/Museokokoelma" title="Museokokoelma">Kokoelmien</a> perusteella museot jaetaan Suomessa <a href="/wiki/Taidemuseo" title="Taidemuseo">taidemuseoihin</a>, <a href="/wiki/Kulttuurihistoriallinen_museo" title="Kulttuurihistoriallinen museo">kulttuurihistoriallisiin museoihin</a> ja <a href="/wiki/Luonnontieteellinen_museo_(museotyyppi)" title="Luonnontieteellinen museo (museotyyppi)">luonnontieteellisiin museoihin</a>. Taidemuseot keräysperiaatteet ovat yleensä <a href="/wiki/Esteettinen" class="mw-redirect" title="Esteettinen">esteettisiä</a>, mutta muissa museoissa pyritään keräämään todisteita tavallisista esineistä tai ilmiöistä. <a href="/wiki/Ulkomuseo" title="Ulkomuseo">Ulkomuseot</a> ovat erikoistapauksia, sillä niissä myös museorakennukset ovat osa esineistöä.</p>
+<p>Vaikka museoiden päätehtävä on säilyttää <a href="/wiki/Kulttuuriperint%C3%B6" title="Kulttuuriperintö">kulttuuriperintöä</a>, ne ovat usein myös suosittuja matkailukohteita. Useimmat kävijät tulevat museoihin oppimaan jotain uutta ja tätä päämäärää pyritään edistämään näyttelytekniikoilla. Näyttelyesineiden yhteydessä on usein taustatietoja kirjoitettuna, ja museot voivat käyttää esineiden tukena myös video- tai äänimateriaalia, pienoismalleja tai vuorovaikutteisia elementtejä.</p>
+<div align="right"><small><b>Lisää <a href="/wiki/Wikipedia:Suositellut_artikkelit" title="Wikipedia:Suositellut artikkelit">suositeltuja</a>, <a href="/wiki/Wikipedia:Hyv%C3%A4t_artikkelit" title="Wikipedia:Hyvät artikkelit">hyviä</a> ja <a href="/wiki/Wikipedia:Lupaavat_artikkelit" title="Wikipedia:Lupaavat artikkelit">lupaavia artikkeleita</a></b></small></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#eee; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Miten_voit_auttaa">Miten voit auttaa</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">Wikipedia tarvitsee apuasi! <font color="#BA0000">Punainen linkki</font> tarkoittaa, että aiheesta ei vielä ole artikkelia. Voit auttaa kirjoittamalla puuttuvista aiheista.<br />
+<p><small><a href="/w/index.php?title=Johan_Winter&amp;action=edit&amp;redlink=1" class="new" title="Johan Winter (sivua ei ole)"><span title="Viipurin kuvernementin kuvernööri 1811-12">Johan Winter</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Viipurin kuvernementin kuvernööri 1811-12">(?)</span></sup> · <a href="/w/index.php?title=Alexander_Thesleff&amp;action=edit&amp;redlink=1" class="new" title="Alexander Thesleff (sivua ei ole)"><span title="Mikkelin läänin maaherra 1847-53">Alexander Thesleff</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Mikkelin läänin maaherra 1847-53">(?)</span></sup> · <a href="/w/index.php?title=Juhani_Komulainen&amp;action=edit&amp;redlink=1" class="new" title="Juhani Komulainen (sivua ei ole)"><span title="säveltäjä">Juhani Komulainen</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="säveltäjä">(?)</span></sup> · <a href="/w/index.php?title=Aktiengesellschaft&amp;action=edit&amp;redlink=1" class="new" title="Aktiengesellschaft (sivua ei ole)">Aktiengesellschaft</a> · <a href="/w/index.php?title=Viktor_T%C5%A1anov&amp;action=edit&amp;redlink=1" class="new" title="Viktor Tšanov (sivua ei ole)"><span title="Neuvostoliittolainen jalkapallomaalivahti">Viktor Tšanov</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Neuvostoliittolainen jalkapallomaalivahti">(?)</span></sup> · <a href="/w/index.php?title=Haplorrhini&amp;action=edit&amp;redlink=1" class="new" title="Haplorrhini (sivua ei ole)"><span title="Kädellisten alalahko">Haplorrhini</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Kädellisten alalahko">(?)</span></sup> · <a href="/w/index.php?title=Oldenburgin_suurherttuakunta&amp;action=edit&amp;redlink=1" class="new" title="Oldenburgin suurherttuakunta (sivua ei ole)">Oldenburgin suurherttuakunta</a> · <a href="/w/index.php?title=Geologinen_muodostuma&amp;action=edit&amp;redlink=1" class="new" title="Geologinen muodostuma (sivua ei ole)"><span title="tai muodostuma">Geologinen muodostuma</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="tai muodostuma">(?)</span></sup> · <a href="/w/index.php?title=Okakalat&amp;action=edit&amp;redlink=1" class="new" title="Okakalat (sivua ei ole)"><span title="Stephanoberyciformes, kalojen lahko">Okakalat</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Stephanoberyciformes, kalojen lahko">(?)</span></sup> · <a href="/w/index.php?title=Nokia_Lumia_550&amp;action=edit&amp;redlink=1" class="new" title="Nokia Lumia 550 (sivua ei ole)"><span title="matkapuhelin">Nokia Lumia 550‏‎</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="matkapuhelin">(?)</span></sup> · <a href="/w/index.php?title=Yhdistynyt_joukkue_olympialaisissa&amp;action=edit&amp;redlink=1" class="new" title="Yhdistynyt joukkue olympialaisissa (sivua ei ole)">Yhdistynyt joukkue olympialaisissa‏‎</a> · <a href="/w/index.php?title=Sairaalamuseo&amp;action=edit&amp;redlink=1" class="new" title="Sairaalamuseo (sivua ei ole)">Sairaalamuseo</a> · <a href="/w/index.php?title=Kreikan%E2%80%93Turkin_sota_(1919%E2%80%931922)&amp;action=edit&amp;redlink=1" class="new" title="Kreikan–Turkin sota (1919–1922) (sivua ei ole)">Kreikan–Turkin sota (1919–1922)‏‎</a> · <a href="/w/index.php?title=Qajar&amp;action=edit&amp;redlink=1" class="new" title="Qajar (sivua ei ole)"><span title="Persiaa 1785-1925 hallinnut dynastia">Qajar</span></a><sup><span style="cursor: help; border-bottom: 1px dotted;" title="Persiaa 1785-1925 hallinnut dynastia">(?)</span></sup> · <a href="/w/index.php?title=Gerard_Kuiper_(t%C3%A4htitieteilij%C3%A4)&amp;action=edit&amp;redlink=1" class="new" title="Gerard Kuiper (tähtitieteilijä) (sivua ei ole)">Gerard Kuiper (tähtitieteilijä)</a> · <a href="/w/index.php?title=Pietarhovin_palatsi&amp;action=edit&amp;redlink=1" class="new" title="Pietarhovin palatsi (sivua ei ole)">Pietarhovin palatsi</a></small><br /></p>
+<div align="right"><small><a href="/wiki/Wikipedia:Viikon_kilpailu" title="Wikipedia:Viikon kilpailu">Viikon kilpailun</a> aiheena on <a href="/wiki/Wikipedia:Viikon_kilpailu/Viikon_kilpailu_2017-18" title="Wikipedia:Viikon kilpailu/Viikon kilpailu 2017-18">tällä viikolla</a> <b>Päivitystä kaipaavat sivut</b>.</small></div>
+<div align="right" style="font-size: 80%; font-weight: bold;">Lisää <a href="/wiki/Wikipedia:Artikkelitoiveet" title="Wikipedia:Artikkelitoiveet">artikkelitoiveita</a> · Osallistu <a href="/wiki/Wikipedia:Wikiprojekti" title="Wikipedia:Wikiprojekti">Wikiprojekteihin</a> · <a href="/wiki/Wikipedia:Huomiota_kaipaavat_sivut" title="Wikipedia:Huomiota kaipaavat sivut">Paranna sivuja</a><br />
+Osallistu artikkeleiden <a href="/wiki/Wikipedia:Vertaisarviointi" title="Wikipedia:Vertaisarviointi">vertaisarviointiin</a> · Laajenna <a href="/wiki/Luokka:Tyng%C3%A4t" title="Luokka:Tyngät">tynkiä</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td style="padding:4px;font-size:1px">&#160;</td>
+<td width="50%" valign="top">
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#eee; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Uutisissa">Uutisissa</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div id="mp-itn">
+<div class="today_img"><a href="/wiki/Tiedosto:Aalto-2_Flight_model.jpg" class="image"><img alt="Aalto-2 Flight model.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aalto-2_Flight_model.jpg/110px-Aalto-2_Flight_model.jpg" width="110" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aalto-2_Flight_model.jpg/165px-Aalto-2_Flight_model.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aalto-2_Flight_model.jpg/220px-Aalto-2_Flight_model.jpg 2x" data-file-width="640" data-file-height="960" /></a> <a href="/wiki/Aalto-2" title="Aalto-2">Aalto-2</a>-satelliitti</div>
+<ul>
+<li>Suomessa <b><a href="/wiki/Antti_H%C3%A4kk%C3%A4nen" title="Antti Häkkänen">Antti Häkkänen</a></b> (kok.) nimitettiin oikeusministeriksi, <b><a href="/wiki/Jari_Lepp%C3%A4" title="Jari Leppä">Jari Leppä</a></b> (kesk.) maa- ja metsätalousministeriksi sekä <b><a href="/wiki/Sampo_Terho" title="Sampo Terho">Sampo Terho</a></b> (ps.) eurooppa-, kulttuuri- ja urheiluministeriksi. <small>(<a href="/wiki/5._toukokuuta" title="5. toukokuuta">5.5.</a>)</small></li>
+<li><a href="/wiki/Tappara" title="Tappara">Tappara</a> voitti <b><a href="/wiki/J%C3%A4%C3%A4kiekon_SM-liigakausi_2016%E2%80%932017" title="Jääkiekon SM-liigakausi 2016–2017">jääkiekon Suomen mestaruuden</a></b>. <small>(<a href="/wiki/27._huhtikuuta" title="27. huhtikuuta">27.4.</a>)</small></li>
+<li><b><a href="/wiki/Ranskan_presidentinvaali_2017" title="Ranskan presidentinvaali 2017">Ranskan presidentinvaalien</a></b> toiselle kierrokselle menivät <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a> ja <a href="/wiki/Marine_Le_Pen" title="Marine Le Pen">Marine Le Pen</a>. <small>(<a href="/wiki/23._huhtikuuta" title="23. huhtikuuta">23.4.</a>)</small></li>
+<li>Ensimmäinen suomalaisvalmisteinen satelliitti, <b><a href="/wiki/Aalto-2" title="Aalto-2">Aalto-2</a></b>, laukaistiin <a href="/wiki/Kansainv%C3%A4linen_avaruusasema" title="Kansainvälinen avaruusasema">kansainväliselle avaruusasemalle</a> Orbital ATK:n <a href="/wiki/Cygnus_CRS_OA-7" title="Cygnus CRS OA-7">CRS OA-7</a> -rahtilennolla. <small>(<a href="/wiki/18._huhtikuuta" title="18. huhtikuuta">18.4.</a>)</small></li>
+<li><a href="/wiki/Turkki" title="Turkki">Turkissa</a> pidettiin <b><a href="/wiki/Turkin_kansan%C3%A4%C3%A4nestys_perustuslaista_2017" title="Turkin kansanäänestys perustuslaista 2017">kansanäänestys</a></b>, jossa enemmistö kannatti maan hallintomuodon muuttamista <a href="/wiki/Presidenttijohtoinen_j%C3%A4rjestelm%C3%A4" title="Presidenttijohtoinen järjestelmä">presidenttijohtoiseksi</a>. <small>(<a href="/wiki/16._huhtikuuta" title="16. huhtikuuta">16.4.</a>)</small></li>
+</ul>
+<div style="clear:both;"></div>
+<div align="right"><small><small><b><a href="https://fi.wikinews.org/wiki/Wikiuutiset:Etusivu" class="extiw" title="n:Wikiuutiset:Etusivu">Wikiuutiset</a> – Lisää <a href="/wiki/Wikipedia:Uutisarkisto" title="Wikipedia:Uutisarkisto">uutisia</a></b></small></small></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#eee; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="6._toukokuuta">6. toukokuuta</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div id="mf-tanaan" title="6. toukokuuta">
+<div style="border:none 0px solid #bbb; float:right; padding: 1px; margin-left: 2px; width: 104px; text-align: center;"><a href="/wiki/Tiedosto:Hindenburg_burning.jpg" class="image"><img alt="Hindenburg burning.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/100px-Hindenburg_burning.jpg" width="100" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/150px-Hindenburg_burning.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/200px-Hindenburg_burning.jpg 2x" data-file-width="3000" data-file-height="2283" /></a>
+<p><span style="font-size: 80%; line-height: 1.2;">Hindenburgin tuho</span></p>
+</div>
+<ul>
+<li><a href="/wiki/1527" title="1527">1527</a> – Keisari <a href="/wiki/Kaarle_V_(keisari)" title="Kaarle V (keisari)">Kaarle V:n</a> joukot <a href="/wiki/Rooman_ry%C3%B6st%C3%B6_(1527)" title="Rooman ryöstö (1527)">ryöstivät Rooman</a>. Tätä pidetään <a href="/wiki/Renessanssi" title="Renessanssi">renessanssin</a> loppuna.</li>
+<li><a href="/wiki/1856" title="1856">1856</a> – <a href="/wiki/Psykoanalyysi" title="Psykoanalyysi">Psykoanalyysin</a> perustaja <a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a> syntyi.</li>
+<li><a href="/wiki/1877" title="1877">1877</a> – Suomen kansallisrunoilija <a href="/wiki/Johan_Ludvig_Runeberg" title="Johan Ludvig Runeberg">Johan Ludvig Runeberg</a> kuoli.</li>
+<li><a href="/wiki/1889" title="1889">1889</a> – <a href="/wiki/Eiffel-torni" title="Eiffel-torni">Eiffel-torni</a> avattiin <a href="/wiki/Pariisin_maailmann%C3%A4yttely" class="mw-disambig" title="Pariisin maailmannäyttely">Pariisin maailmannäyttelyssä</a>.</li>
+<li><a href="/wiki/1937" title="1937">1937</a> – Saksalainen ilmalaiva <a href="/wiki/Hindenburg_(zeppeliini)" title="Hindenburg (zeppeliini)">Hindenburg</a> <a href="/wiki/Herbert_Morrison" title="Herbert Morrison">tuhoutui</a> Lakehurstissa <a href="/wiki/New_Jersey" title="New Jersey">New Jerseyssä</a>.</li>
+<li><a href="/wiki/1961" title="1961">1961</a> – Näyttelijä <a href="/wiki/George_Clooney" title="George Clooney">George Clooney</a> syntyi.</li>
+</ul>
+<div align="right"><small><b>Lisää <a href="/wiki/6._toukokuuta" title="6. toukokuuta">tapahtumia</a> sekä <a href="/wiki/Luettelo_vuosip%C3%A4ivist%C3%A4" title="Luettelo vuosipäivistä">vuosipäiviä</a></b></small></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#eee; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id=".C3.84skett.C3.A4in_kuolleita">Äskettäin kuolleita</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div class="today_img"><a href="/wiki/Tiedosto:Timo_M%C3%A4kinen_(1966)_(cropped).jpg" class="image"><img alt="Timo Mäkinen (1966) (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg/100px-Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg" width="100" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg/150px-Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg/200px-Timo_M%C3%A4kinen_%281966%29_%28cropped%29.jpg 2x" data-file-width="477" data-file-height="695" /></a></div>
+<p><b><a href="/wiki/Timo_M%C3%A4kinen_(ralliautoilija)" title="Timo Mäkinen (ralliautoilija)">Timo Mäkinen</a></b> (<a href="/wiki/1938" title="1938">1938</a>–<a href="/wiki/2017" title="2017">2017</a>) oli suomalainen <a href="/wiki/Moottoriurheilija" class="mw-redirect" title="Moottoriurheilija">moottoriurheilija</a>. Mäkinen voitti <a href="/wiki/Jyv%C3%A4skyl%C3%A4n_suurajot" class="mw-redirect" title="Jyväskylän suurajot">Jyväskylän suurajot</a> neljästi ja ylsi kolmesti <a href="/wiki/Rallin_SM-sarja" title="Rallin SM-sarja">rallin Suomen-mestaruuteen</a>.</p>
+<i>Katso myös:</i>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Benjamin_Elon" title="Benjamin Elon">Benjamin Elon</a></li>
+<li><a href="/wiki/Adolph_Kiefer" title="Adolph Kiefer">Adolph Kiefer</a></li>
+<li><a href="/wiki/Ely_Ould_Mohamed_Vall" title="Ely Ould Mohamed Vall">Ely Ould Mohamed Vall</a></li>
+<li><a href="/wiki/Lukas_Ammann" title="Lukas Ammann">Lukas Ammann</a></li>
+<li><a href="/wiki/George_Hugh_Niederauer" title="George Hugh Niederauer">George Hugh Niederauer</a></li>
+<li><a href="/wiki/Anatoli_Aleksin" title="Anatoli Aleksin">Anatoli Aleksin</a></li>
+<li><a href="/wiki/Pierre_Gaspard-Huit" title="Pierre Gaspard-Huit">Pierre Gaspard-Huit</a></li>
+</ul>
+</div>
+<div align="right"><small><b>Lisää <a href="/wiki/Luettelo_vuonna_2017_kuolleista_henkil%C3%B6ist%C3%A4" title="Luettelo vuonna 2017 kuolleista henkilöistä">äskettäin kuolleita</a></b></small></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="mp-upper" style="margin:0 0 0 0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #bbb; background:#fff; vertical-align:top; color:#000;">
+<table class="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#fff;">
+<tr>
+<th>
+<h2 style="margin:0; background:#EEEEEE; font-size:120%; font-weight:bold; border:1px solid #bbb; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Tiesitk.C3.B6.2C_ett.C3.A4...">Tiesitkö, että...</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div class="today_img"><a href="/wiki/Tiedosto:Orosm%C3%A4en_tunneli.jpg" class="image"><img alt="Orosmäen tunneli.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Orosm%C3%A4en_tunneli.jpg/100px-Orosm%C3%A4en_tunneli.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Orosm%C3%A4en_tunneli.jpg/150px-Orosm%C3%A4en_tunneli.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Orosm%C3%A4en_tunneli.jpg/200px-Orosm%C3%A4en_tunneli.jpg 2x" data-file-width="1280" data-file-height="960" /></a> <a href="/wiki/Orosm%C3%A4en_tunneli" title="Orosmäen tunneli">Orosmäen tunneli</a></div>
+<ul>
+<li>…<b><a href="/wiki/Orosm%C3%A4en_tunneli" title="Orosmäen tunneli">Orosmäen tunneli</a></b> <a href="/wiki/Valtatie_1" title="Valtatie 1">valtatiellä 1</a> <a href="/wiki/Lohja" title="Lohja">Lohjalla</a> muistuttaa <a href="/wiki/Urho_Kekkonen" title="Urho Kekkonen">Urho Kekkosen</a> kasvoja?</li>
+<li>…<i><b><a href="/wiki/On_Suurten_Muinaisten_aika" title="On Suurten Muinaisten aika">On Suurten Muinaisten aika</a></b></i> on kokoelma <a href="/wiki/Paavo_V%C3%A4yrynen" title="Paavo Väyrynen">Paavo Väyrystä</a> käsitteleviä <a href="/wiki/Kauhukirjallisuus" title="Kauhukirjallisuus">kauhunovelleja</a>?</li>
+<li>…<b><a href="/wiki/Tupolev_Tu-124" title="Tupolev Tu-124">Tupolev Tu-124</a></b> oli ensimmäinen <a href="/wiki/Suihkumoottori#Ohivirtausmoottori" title="Suihkumoottori">puhallinturbiinikäyttöinen</a> matkustajalentokone?</li>
+</ul>
+<p><br /></p>
+<div align="right"><small><b>Lisää <a href="/wiki/Wikipedia:Tiesitk%C3%B6,_ett%C3%A4..." title="Wikipedia:Tiesitkö, että...">nippelitietoa</a></b></small></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2 style="text-align: center;"><span class="mw-headline" id="Wikipedian_sisarhankkeet">Wikipedian sisarhankkeet</span></h2>
+<p style="font-size:90%;">Wikipediaa ylläpitää voittoa tavoittelematon <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, joka ylläpitää muitakin monikielisiä vapaan sisällön hankkeita:</p>
+<table align="center" cellpadding="2" style="width:100%; margin:auto; text-align:left; background:inherit;">
+<tr>
+<td style="text-align:center"><a href="https://commons.wikimedia.org/wiki/Etusivu" title="commons:Etusivu"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td style="width:33%;"><b><a href="https://commons.wikimedia.org/wiki/Etusivu" class="extiw" title="commons:Etusivu">Commons</a></b><br />
+Yhteisiä mediatiedostoja</td>
+<td style="text-align:center"><a href="https://www.mediawiki.org/wiki/" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></td>
+<td style="width:33%;"><b><a href="https://www.mediawiki.org/wiki/MediaWiki/fi" class="extiw" title="mw:MediaWiki/fi">MediaWiki</a></b><br />
+Wiki-ohjelmiston kehitys</td>
+<td style="text-align:center"><a href="https://meta.wikimedia.org/wiki/Etusivu" title="m:Etusivu"><img alt="Wikimedia Community Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td style="width:33%;"><b><a href="https://meta.wikimedia.org/wiki/Etusivu" class="extiw" title="m:Etusivu">Meta-Wiki</a></b><br />
+Wikimedian hankkeiden koordinaatio</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://fi.wikisource.org/wiki/" title="s:"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikisource.org/wiki/" class="extiw" title="s:">Wikiaineisto</a></b><br />
+Vapaiden tekstien arkisto</td>
+<td style="text-align:center"><a href="https://www.wikidata.org/wiki/Wikidata:Etusivu" title="d:Wikidata:Etusivu"><img alt="Wikidata-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" width="35" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td style="width:33%;"><b><a href="https://www.wikidata.org/wiki/Wikidata:Etusivu" class="extiw" title="d:Wikidata:Etusivu">Wikidata</a></b><br />
+Vapaa tietopankki</td>
+<td style="text-align:center"><a href="https://fi.wikibooks.org/wiki/" title="b:"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikibooks.org/wiki/" class="extiw" title="b:">Wikikirjasto</a></b><br />
+Vapaita oppikirjoja ja oppaita</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://fi.wikivoyage.org/wiki/" title="voy:"><img alt="Wikivoyage-Logo-v3-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikimatkat</a></b><br />
+Matkaopas</td>
+<td style="text-align:center"><a href="https://fi.wikiversity.org/wiki/Etusivu" title="v:Etusivu"><img alt="Wikiversity-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/35px-Wikiversity-logo.svg.png" width="35" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/53px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/70px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikiversity.org/wiki/Etusivu" class="extiw" title="v:Etusivu">Wikiopisto</a></b><br />
+Vapaa oppimisen verkkoyhteisö</td>
+<td style="text-align:center"><a href="https://fi.wiktionary.org/wiki/" title="wikt:"><img alt="Wiktionary-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/35px-Wiktionary-logo.svg.png" width="35" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/53px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/70px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wiktionary.org/wiki/" class="extiw" title="wikt:">Wikisanakirja</a></b><br />
+Sanakirjoja</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://fi.wikiquote.org/wiki/" title="q:"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikiquote.org/wiki/" class="extiw" title="q:">Wikisitaatit</a></b><br />
+Sitaattikokoelmia</td>
+<td style="text-align:center"><a href="https://species.wikimedia.org/wiki/Etusivu" title="wikispecies:Etusivu"><img alt="Wikispecies-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td style="width:33%;"><b><a href="https://species.wikimedia.org/wiki/Etusivu" class="extiw" title="wikispecies:Etusivu">Wikispecies</a></b><br />
+Lajien luettelo</td>
+<td style="text-align:center"><a href="https://fi.wikinews.org/wiki/" title="n:"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/35px-Wikinews-logo.svg.png" width="35" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/53px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/70px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td style="width:33%;"><b><a href="https://fi.wikinews.org/wiki/" class="extiw" title="n:">Wikiuutiset</a></b><br />
+Uutispalvelu</td>
+</tr>
+</table>
+<h2 style="text-align: center;"><span class="mw-headline" id="Wikipedia_muilla_kielill.C3.A4">Wikipedia muilla kielillä</span></h2>
+<div style="font-size: 90%;">
+<div style="font-weight: bold; text-align: center;">Kymmenen suurinta Wikipediaa artikkeleiden määrällä mitaten:</div>
+<div style="font-size: 100%; padding: 0 2em; text-align: center;">
+<p><a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">English&#160;(englanti)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">Cebuano&#160;(cebuano)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">Svenska&#160;(ruotsi)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">Deutsch&#160;(saksa)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">Nederlands&#160;(hollanti)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">Français&#160;(ranska)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">Русский&#160;(venäjä)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">Italiano&#160;(italia)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">Español&#160;(espanja)</a><span style="font-weight:bold;">&#160;·</span> <a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">Winaray&#160;(Waray-waray)</a></p>
+</div>
+<div style="text-align: center; font-size: 90%;">
+<p><b><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">Täydellinen luettelo</a></b></p>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20170506125537
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.072 seconds
+Real time usage: 0.115 seconds
+Preprocessor visited node count: 344/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18115/2097152 bytes
+Template argument size: 1309/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.005/10.000 seconds
+Lua memory usage: 619 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.380      1 -total
+ 32.63%   14.153      1 Malline:Viikon_kilpailu_etusivu
+ 29.95%   12.992      1 Malline:Viikon_kilpailu_luettelo
+ 22.50%    9.762      1 Malline:Äskettäin_kuolleita
+ 18.26%    7.919      1 Malline:Hlist
+  8.69%    3.770      1 Malline:Artikkelitoiveet
+  6.76%    2.933      1 Malline:Uutisissa
+  6.18%    2.683      1 Malline:Suomi100
+  6.14%    2.663      1 Malline:Wikipedia_muilla_kielillä
+  4.29%    1.861      9 Malline:Etusivutoive
+-->
+
+<!-- Saved in parser cache with key fiwiki:pcache:idhash:291-0!*!0!!*!5!* and timestamp 20170506125537 and revision id 16439355
+ -->
+<noscript><img src="//fi.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Noudettu kohteesta <a dir="ltr" href="https://fi.wikipedia.org/w/index.php?title=Wikipedia:Etusivu&amp;oldid=16439355">https://fi.wikipedia.org/w/index.php?title=Wikipedia:Etusivu&amp;oldid=16439355</a>					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigointivalikko</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Henkilökohtaiset työkalut</h3>
+						<ul>
+							<li id="pt-anonuserpage">Et ole kirjautunut</li><li id="pt-anontalk"><a href="/wiki/Toiminnot:Oma_keskustelu" title="Keskustelu tämän IP-osoitteen muokkauksista [n]" accesskey="n">Keskustelu</a></li><li id="pt-anoncontribs"><a href="/wiki/Toiminnot:Omat_muokkaukset" title="Luettelo tästä IP-osoitteesta tehdyistä muokkauksista [y]" accesskey="y">Muokkaukset</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Toiminnot:Luo_tunnus&amp;returnto=Wikipedia%3AEtusivu" title="On suositeltavaa luoda käyttäjätunnus ja kirjautua sisään. Se ei kuitenkaan ole pakollista.">Luo tunnus</a></li><li id="pt-login"><a href="/w/index.php?title=Toiminnot:Kirjaudu_sis%C3%A4%C3%A4n&amp;returnto=Wikipedia%3AEtusivu" title="Kirjaudu sisään tai luo tunnus [o]" accesskey="o">Kirjaudu sisään</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Nimiavaruudet</h3>
+						<ul>
+															<li  id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Etusivu"  title="Näytä projektisivu [a]" accesskey="a">Etusivu</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Keskustelu_Wikipediasta:Etusivu"  title="Keskustele sisällöstä [t]" accesskey="t" rel="discussion">Keskustelu</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Kirjoitusjärjestelmät</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Näkymät</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Etusivu" >Lue</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Wikipedia:Etusivu&amp;action=edit"  title="Tämä sivu on suojattu muutoksilta.&#10;Voit katsella sivun lähteenä olevaa wikitekstiä. [e]" accesskey="e">Näytä wikiteksti</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Etusivu&amp;action=history"  title="Sivun aikaisemmat versiot [h]" accesskey="h">Näytä historia</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Muut</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Haku</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Hae Wikipediasta" title="Hae Wikipediasta [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Toiminnot:Haku" name="title"/><input type="submit" name="fulltext" value="Hae" title="Hae sivuilta tätä tekstiä" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Siirry" title="Siirry sivulle, joka on tarkalleen tällä nimellä" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Etusivu"  title="Etusivu"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Valikko</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Etusivu" title="Siirry etusivulle [z]" accesskey="z">Etusivu</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:Tietoja">Tietoja Wikipediasta</a></li><li id="n-allarticles"><a href="/wiki/Wikipedia:Selaa_luokittain">Kaikki sivut</a></li><li id="n-randompage"><a href="/wiki/Toiminnot:Satunnainen_sivu" title="Avaa satunnainen sivu [x]" accesskey="x">Satunnainen artikkeli</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Osallistuminen</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Ohje:Sis%C3%A4llys" title="Ohjeita">Ohje</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Kahvihuone" title="Keskustelua projektista">Kahvihuone</a></li><li id="n-currentevents"><a href="/wiki/Wikipedia:Ajankohtaista" title="Taustatietoa tämänhetkisistä tapahtumista">Ajankohtaista</a></li><li id="n-Tuoreet-odottavat"><a href="//fi.wikipedia.org/w/index.php?title=Special:Recentchanges&amp;hidepatrolled=1&amp;hideReviewed=1">Tuoreet odottavat</a></li><li id="n-recentchanges"><a href="/wiki/Toiminnot:Tuoreet_muutokset" title="Luettelo tuoreista muutoksista [r]" accesskey="r">Tuoreet muutokset</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fi.wikipedia.org&amp;uselang=fi" title="Tue meitä">Lahjoitukset</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Työkalut</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Toiminnot:T%C3%A4nne_viittaavat_sivut/Wikipedia:Etusivu" title="Lista sivuista, jotka viittaavat tänne [j]" accesskey="j">Tänne viittaavat sivut</a></li><li id="t-recentchangeslinked"><a href="/wiki/Toiminnot:Linkitetyt_muutokset/Wikipedia:Etusivu" rel="nofollow" title="Viimeisimmät muokkaukset sivuissa, joille viitataan tältä sivulta [k]" accesskey="k">Linkitettyjen sivujen muutokset</a></li><li id="t-specialpages"><a href="/wiki/Toiminnot:Toimintosivut" title="Näytä toimintosivut [q]" accesskey="q">Toimintosivut</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Etusivu&amp;oldid=16439355" title="Ikilinkki sivun tähän versioon">Ikilinkki</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Etusivu&amp;action=info" title="Enemmän tietoa tästä sivusta">Sivun tiedot</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Linkki yhdistettyyn keskustietovaraston kohteeseen [g]" accesskey="g">Wikidata-kohde</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Tulosta tai vie</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Toiminnot:Kirja&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AEtusivu">Luo kirja</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Toiminnot:Kirja&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AEtusivu&amp;returnto=Wikipedia%3AEtusivu&amp;oldid=16439355&amp;writer=rdf2latex">Lataa PDF-tiedostona</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Etusivu&amp;printable=yes" title="Tulostettava versio [p]" accesskey="p">Tulostettava versio</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Muissa projekteissa</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://fi.wikibooks.org/wiki/Wikikirjasto:Etusivu" hreflang="fi">Wikikirjasto</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://fi.wikinews.org/wiki/Wikiuutiset:Etusivu" hreflang="fi">Wikiuutiset</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://fi.wikiquote.org/wiki/Etusivu" hreflang="fi">Wikisitaatit</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://fi.wikisource.org/wiki/Etusivu" hreflang="fi">Wikiaineisto</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://fi.wikiversity.org/wiki/Wikiopisto:Etusivu" hreflang="fi">Wikiopisto</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://fi.wikivoyage.org/wiki/Etusivu" hreflang="fi">Wikimatkat</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Muilla kielillä</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arabia" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonesia" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="malaiji" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/" title="minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="bulgaria" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="katalaani" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/" title="cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="tšekki" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="tanska" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="saksa" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="viro" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="kreikka" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="englanti" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="espanja" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="baski" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="farsi" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="ranska" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="galicia" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="korea" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/" title="armenia" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="kroatia" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="italia" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="heprea" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/" title="kazakki" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="latina" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="liettua" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="unkari" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="hollanti" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japani" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="norja" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="norjan nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/" title="uzbekki" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="puola" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugali" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="romania" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="venäjä" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="slovakki" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="sloveeni" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="serbia" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="serbokroaatti" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="ruotsi" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vietnam" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turkki" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukraina" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/" title="waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="kiina" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Sivua on viimeksi muutettu 25. huhtikuuta 2017 kello 11.39.</li>
+											<li id="footer-info-copyright">Teksti on saatavilla <a href="//fi.wikipedia.org/wiki/Wikipedia:Creative_Commons_Attribution-Share_Alike_3.0_Unported_-lisenssiehdot">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä.
+Katso <a href="//wikimediafoundation.org/wiki/Terms_of_Use/fi">käyttöehdot</a>.<br />
+Wikipedia&reg; on <a href="http://www.wikimediafoundation.org">Wikimedia Foundationin</a> rekisteröimä tavaramerkki.<br />
+<a href="//fi.wikipedia.org/wiki/Wikipedia:Artikkelien_ongelmat">Ongelma artikkelissa?</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Tietosuojakäytäntö</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:Tietoja" title="Wikipedia:Tietoja">Tietoja Wikipediasta</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Vastuuvapaus" title="Wikipedia:Vastuuvapaus">Vastuuvapaus</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Kehittäjät</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Evästekäytäntö</a></li>
+											<li id="footer-places-mobileview"><a href="//fi.m.wikipedia.org/w/index.php?title=Wikipedia:Etusivu&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobiilinäkymä</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.072","walltime":"0.115","ppvisitednodes":{"value":344,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18115,"limit":2097152},"templateargumentsize":{"value":1309,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   43.380      1 -total"," 32.63%   14.153      1 Malline:Viikon_kilpailu_etusivu"," 29.95%   12.992      1 Malline:Viikon_kilpailu_luettelo"," 22.50%    9.762      1 Malline:Äskettäin_kuolleita"," 18.26%    7.919      1 Malline:Hlist","  8.69%    3.770      1 Malline:Artikkelitoiveet","  6.76%    2.933      1 Malline:Uutisissa","  6.18%    2.683      1 Malline:Suomi100","  6.14%    2.663      1 Malline:Wikipedia_muilla_kielillä","  4.29%    1.861      9 Malline:Etusivutoive"]},"scribunto":{"limitreport-timeusage":{"value":"0.005","limit":"10.000"},"limitreport-memusage":{"value":633780,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20170506125537","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1210"});});</script>
+	</body>
+</html>

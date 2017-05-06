@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="lv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vikipēdija</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sākumlapa","wgTitle":"Sākumlapa","wgCurRevisionId":2591476,"wgRevisionId":2591476,"wgArticleId":40,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"lv","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ydm","wgMonthNames":["","janvāris","februāris","marts","aprīlis","maijs","jūnijs","jūlijs","augusts","septembris","oktobris","novembris","decembris"],"wgMonthNamesShort":["","janvāris","februāris","marts","aprīlis","maijs","jūnijs","jūlijs","augusts","septembris","oktobris","novembris","decembris"],"wgRelevantPageName":"Sākumlapa","wgRelevantArticleId":40,"wgRequestId":"WQ2QGApAAEIAAPPyCJMAAAAB","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"lv","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"lv","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"latviešu","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.5"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@198b1xf",function($,jQuery,require,module){mw.user.options.set({"variant":"lv"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.inputBox","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.opacity-edit","ext.gadget.refToolbar","ext.gadget.edittop","ext.gadget.Editpage","ext.gadget.switcher","ext.gadget.wikibugs","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=lv&amp;modules=ext.dismissableSiteNotice.styles%7Cext.gadget.ReferenceTooltips%2Cedittop%2Copacity-edit%2Cwikibugs%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=lv&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=lv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d3/Michael_Schumacher_Ferrari_2004.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/lv.m.wikipedia.org/wiki/S%C4%81kumlapa"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipēdija (lv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//lv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://lv.wikipedia.org/wiki/S%C4%81kumlapa"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sākumlapa rootpage-Sākumlapa skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Epaslēpt\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"lv\" dir=\"ltr\"\u003E\u003Cdiv class=\"plainlinks\" style=\"border: 1px solid #ddd; margin: 0 0 3px;\"\u003E\n\u003Cdiv class=\"nomobile\" style=\"float:right\"\u003E\u003Ca href=\"/wiki/Vikip%C4%93dija:Centr%C4%81l%C4%81s_un_Austrumeiropas_pavasaris_2017\" title=\"Vikipēdija:Centrālās un Austrumeiropas pavasaris 2017\"\u003E\u003Cimg alt=\"Logo original-t.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_original-t.png/171px-Logo_original-t.png\" width=\"171\" height=\"95\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_original-t.png/258px-Logo_original-t.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_original-t.png/342px-Logo_original-t.png 2x\" data-file-width=\"1800\" data-file-height=\"1000\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cdiv style=\"color: grey; max-width:1280px; margin: 12px auto; font-family: Tahoma, \u0026#39;DejaVu Sans Condensed\u0026#39;, sans-serif; text-align: center; font-size: 16pt; position: relative;\"\u003ENo 21. marta līdz 31. maijam piedalies \u003Ca href=\"/wiki/Vikip%C4%93dija:Centr%C4%81l%C4%81s_un_Austrumeiropas_pavasaris_2017\" title=\"Vikipēdija:Centrālās un Austrumeiropas pavasaris 2017\"\u003Estarptautiskā rakstu konkursā\u003C/a\u003E\u003Cbr\u003Epar Centrālās un Austrumeiropas valstīm un saņem atzinības balvas!\u003C/div\u003E\n\u003Cdiv style=\"clear: both;\"\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="lv">Sākumlapa</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Vikipēdijas lapa</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Pārlēkt uz:					<a href="#mw-head">navigācija</a>, 					<a href="#p-search">meklēt</a>
+				</div>
+				<div id="mw-content-text" lang="lv" dir="ltr" class="mw-content-ltr"><table id="mp-topbanner" style="width:100%; background-color:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;">
+<tr>
+<td style="width:61%; color:#000;">
+<table style="width:280px; border:none; background-color:none;">
+<tr>
+<td style="width:280px; text-align:center; white-space:nowrap; color:#000000;">
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000000;"><a href="/wiki/Vikip%C4%93dija:Esi_sveicin%C4%81ts_Vikip%C4%93dij%C4%81" title="Vikipēdija:Esi sveicināts Vikipēdijā">Laipni lūdzam</a> <a href="/wiki/Vikip%C4%93dija" title="Vikipēdija">Vikipēdijā</a>,</div>
+<div style="top:+0.2em; font-size:95%;">brīvajā enciklopēdijā, kuru arī Tu vari <a href="/wiki/Pal%C4%ABdz%C4%ABba:Redi%C4%A3%C4%93%C5%A1ana,_noform%C4%93%C5%A1ana" title="Palīdzība:Rediģēšana, noformēšana">papildināt</a>!</div>
+<div id="articlecount" style="font-size:85%;">Šobrīd <a href="/wiki/Latvie%C5%A1u_valoda" title="Latviešu valoda">latviešu valodā</a> ir <b><a href="/wiki/Special:Statistics" title="Special:Statistics">77&#160;069 raksti</a></b>.</div>
+<div style="width:90%; height:18px; background-color:#CCC; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin:0 auto">
+<div style="position:relative; max-width:100%; width:77.07%; height:18px; background-color:#008B6D; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px">
+<div style="position:relative; text-align:center; color:white;"><b><abbr title="Līdz maratona finišam — 22&#160;931 raksts">77,07%</abbr></b></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="width:40%; font-size:95%;">
+<div class="hlist plainlist" style="margin-left: 0em;">
+<ul>
+<li>Pagājušajā nedēļā skatītākais:<br />
+<a href="/wiki/2017._gada_Pasaules_%C4%8Dempion%C4%81ts_hokej%C4%81" title="2017. gada Pasaules čempionāts hokejā">2017. gada Pasaules čempionāts hokejā</a></li>
+<li><a href="/wiki/Latvija" title="Latvija">Latvija</a></li>
+<li><a href="/wiki/Latvijas_sv%C4%93tku,_atceres_un_atz%C4%ABm%C4%93jam%C4%81s_dienas" title="Latvijas svētku, atceres un atzīmējamās dienas">Latvijas svētku, atceres un atzīmējamās dienas</a></li>
+<li><a href="/wiki/UgunsGr%C4%93ks" title="UgunsGrēks">UgunsGrēks</a></li>
+<li><a href="/wiki/M%C4%81tes_diena" title="Mātes diena">Mātes diena</a></li>
+<li><a href="/wiki/Eiropas_Savien%C4%ABba" title="Eiropas Savienība">Eiropas Savienība</a></li>
+<li><a href="/wiki/Par_Latvijas_Republikas_neatkar%C4%ABbas_atjauno%C5%A1anu" title="Par Latvijas Republikas neatkarības atjaunošanu">Par Latvijas Republikas neatkarības atjaunošanu</a></li>
+<li><a href="/wiki/1._maijs" title="1. maijs">1. maijs</a></li>
+<li><a href="/wiki/Otrais_pasaules_kar%C5%A1" title="Otrais pasaules karš">Otrais pasaules karš</a></li>
+<li><a href="/wiki/R%C4%ABga" title="Rīga">Rīga</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table style="width: 100%; margin:4px 0 0 0; background-color:none; border-spacing: 0px;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background-color:#f5faff; vertical-align:top; color:#000000;">
+<table style="vertical-align:top; background-color:#f5fffa;">
+<tr>
+<th style="padding:2px;">
+<h2 style="margin:3px; background-color:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000000; padding:0.2em 0.4em;"><span class="mw-headline" id="V.C4.93rt.C4.ABgs_raksts">Vērtīgs raksts</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000000;">
+<div id="mf-VR" title="Vērtīgs raksts" style="padding:2px 5px">
+<div class="floatright"><a href="/wiki/Att%C4%93ls:2005-11-21_U2_@_MSG_by_ZG.JPG" class="image" title="U2 2005. gada novembrī Ņujorkā"><img alt="U2 2005. gada novembrī Ņujorkā" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/2005-11-21_U2_%40_MSG_by_ZG.JPG/200px-2005-11-21_U2_%40_MSG_by_ZG.JPG" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/2005-11-21_U2_%40_MSG_by_ZG.JPG/300px-2005-11-21_U2_%40_MSG_by_ZG.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/2005-11-21_U2_%40_MSG_by_ZG.JPG/400px-2005-11-21_U2_%40_MSG_by_ZG.JPG 2x" data-file-width="1280" data-file-height="960" /></a></div>
+<b><a href="/wiki/U2" title="U2">U2</a></b> ir <a href="/wiki/Rokm%C5%ABzika" title="Rokmūzika">rokgrupa</a> no <a href="/wiki/%C4%AArija" title="Īrija">Īrijas</a> galvaspilsētas <a href="/wiki/Dublina" title="Dublina">Dublinas</a>. Tās dalībnieki jau kopš pirmsākumiem ir <a href="/wiki/Bono" title="Bono">Bono</a> (vadošais vokāls, ritma ģitāra), <i><a href="/wiki/The_Edge" title="The Edge">The Edge</a></i> (<a href="/wiki/%C4%A2it%C4%81ra" title="Ģitāra">vadošā ģitāra</a>, <a href="/wiki/Tausti%C5%86instrumenti" title="Taustiņinstrumenti">taustiņinstrumenti</a> un fona vokāls), <a href="/wiki/%C4%80dams_Kleitons" title="Ādams Kleitons">Ādams Kleitons</a> (<a href="/wiki/Bas%C4%A3it%C4%81ra" title="Basģitāra">basģitāra</a>) un <a href="/wiki/Lerijs_Mullens" title="Lerijs Mullens">Lerijs Mullens</a> (<a href="/wiki/Bungas" title="Bungas">bungas</a>, sitamie instrumenti). U2 jau kopš <a href="/wiki/1980._gadi" title="1980. gadi">1980. gadu</a> vidus ir bijuši vieni no pasaules populārākajiem mūzikas izpildītājiem; viņu albumi ir pārdoti vairāk nekā 170 miljonos kopiju, grupa ir ieguvusi 22 <a href="/wiki/Grammy_balva" title="Grammy balva">Grammy</a> balvas, kas ir vairāk nekā jebkurai citai rokgrupai. U2 tika izveidota <a href="/wiki/1976" class="mw-redirect" title="1976">1976</a>. gadā, kad tās dalībnieki vēl bija pusaudži ar ierobežotām muzikālajām spējām. Taču jau 1980. gadu vidū grupa, pateicoties tās himniskajam skanējumam, Bono izjustajam vokālam un The Edge neparastajai ģitārspēles manierei, kļuva starptautiski populāra. Viņu panākumi kā koncertgrupai bija lielāki nekā pārdoto albumu kopiju ziņā, līdz <a href="/wiki/1987" class="mw-redirect" title="1987">1987</a>. gadā izdotais albums <i><a href="/wiki/The_Joshua_Tree" title="The Joshua Tree">The Joshua Tree</a></i> palīdzēja grupai nokļūt līdz slavas virsotnei. Viņu <a href="/wiki/1991" class="mw-redirect" title="1991">1991</a>. gada albums <i><a href="/wiki/Achtung_Baby" title="Achtung Baby">Achtung Baby</a></i> un tam sekojošā <i>Zoo TV</i> koncertturneja bija daļa no nozīmīgās grupas atjaunināšanas; tā bija kā atbilde uz viņu pašu izjūtām par muzikālo stagnāciju, <a href="/wiki/Elektronisk%C4%81_m%C5%ABzika" title="Elektroniskā mūzika">elektroniskās mūzikas</a> un <a href="/wiki/Alternat%C4%ABvais_roks" title="Alternatīvais roks">alternatīvā roka</a> revolūcijām, un kritiku par viņu stilu. Šie eksperimenti turpinājās visus 1990. gadus.&#160;
+<div style="white-space:nowrap"><small>(<a href="/wiki/U2" title="U2">lasīt visu rakstu</a>)</small>
+<div style="float:right"><span class="plainlinks" id="purgelink"><a class="external text" href="//lv.wikipedia.org/w/index.php?title=S%C4%81kumlapa&amp;action=purge"><small>Cits</small></a></span>&#160;·&#160;<small><a href="/wiki/Vikip%C4%93dija:V%C4%93rt%C4%ABgi_raksti" title="Vikipēdija:Vērtīgi raksti">Visi vērtīgie raksti</a></small></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:2px;">
+<h2 style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000000; padding:0.2em 0.4em;"><span class="mw-headline" id="Vai_Tu_zin.C4.81ji.2C_ka...">Vai Tu zināji, ka...</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000000; padding:2px 5px 5px;">
+<div id="mf-dyk" title="Vai Tu zināji, ka..."><i>No Vikipēdijas latviešu valodā <a href="/wiki/Special:NewPages" title="Special:NewPages">jaunākajiem rakstiem</a>:</i>
+<div class="floatright"><a href="/wiki/Att%C4%93ls:Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg" class="image"><img alt="Coat of arms of the People's Republic of Albania.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg/150px-Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg.png" width="150" height="161" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg/225px-Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg/300px-Coat_of_arms_of_the_People%27s_Republic_of_Albania.svg.png 2x" data-file-width="464" data-file-height="498" /></a></div>
+<ul>
+<li>... <a href="/wiki/1967._gads" title="1967. gads">1967. gadā</a> <a href="/wiki/Alb%C4%81nija" title="Albānija">Albānijā</a> tika izvērsta kampaņa pret <a href="/wiki/Reli%C4%A3ija" title="Reliģija">reliģiju</a>, un <b><a href="/wiki/Alb%C4%81nijas_Tautas_Republika" title="Albānijas Tautas Republika">Albānijas Tautas Republika</a></b> <small>(attēlā ģerbonis)</small> oficiāli kļuva par pirmo <a href="/wiki/Ateisms" title="Ateisms">ateistu</a> <a href="/wiki/Valsts" title="Valsts">valsti</a> pasaulē?</li>
+<li>... <a href="/wiki/Krievijas_imp%C4%93rija" class="mw-redirect" title="Krievijas impērija">Krievijas impērijas</a> armijas <a href="/wiki/%C4%A2ener%C4%81lis" title="Ģenerālis">ģenerālis</a>, <a href="/wiki/Kurzemes_gubernatoru_uzskait%C4%ABjums" title="Kurzemes gubernatoru uzskaitījums">Kurzemes guberņas civilgubernators</a> un <b><a href="/wiki/Brizules_mui%C5%BEa" title="Brizules muiža">Brizules muižas</a></b> īpašnieks <b><a href="/wiki/Gustavs_Matiass_fon_der_Venge-Lambsdorfs" title="Gustavs Matiass fon der Venge-Lambsdorfs">Gustavs Matiass fon der Venge-Lambsdorfs</a></b> bija arī <a href="/wiki/Krievijas_imperators" class="mw-redirect" title="Krievijas imperators">Krievijas imperatora</a> <a href="/wiki/Nikolajs_I_Romanovs" title="Nikolajs I Romanovs">Nikolaja I</a> audzinātājs?</li>
+<li>... leģendārais <a href="/wiki/Padomju_Savien%C4%ABba" title="Padomju Savienība">padomju</a> <a href="/wiki/Spiegs" class="mw-redirect" title="Spiegs">spiegs</a> <b><a href="/wiki/Rihards_Zorge" title="Rihards Zorge">Rihards Zorge</a></b> tika apcietināts misijas laikā <a href="/wiki/Jap%C4%81na" title="Japāna">Japānā</a> un <a href="/wiki/1944._gads" title="1944. gads">1944. gada</a> novembrī <a href="/wiki/N%C4%81ves_sods" class="mw-redirect" title="Nāves sods">sodīts ar nāvi</a>?</li>
+</ul>
+<ul>
+<li>... lai arī <b><a href="/wiki/Pundur%C4%93rglis" title="Pundurērglis">pundurērglis</a></b> ir salīdzinoši neliels, tomēr tas ir spēcīgs plēsējs — upuris var būt pat piecas reizes smagāks par pašu ērgli?</li>
+<li>... <a href="/wiki/Augi" title="Augi">augu</a> augšanas un attīstības izmaiņas <a href="/wiki/Gaisma" title="Gaisma">gaismas</a> signālu ietekmē sauc par <b><a href="/wiki/Fotomorfo%C4%A3en%C4%93ze" title="Fotomorfoģenēze">fotomorfoģenēzi</a></b>?</li>
+<li>... <b><a href="/wiki/30._%C5%A1aha_olimpi%C4%81de" title="30. šaha olimpiāde">30. šaha olimpiādē</a></b>, kas <a href="/wiki/1992._gads" title="1992. gads">1992. gadā</a> notika <a href="/wiki/Filip%C4%ABnas" title="Filipīnas">Filipīnu</a> galvaspilsētā <a href="/wiki/Manila" title="Manila">Manilā</a>, pirmoreiz pēc neatkarības atgūšanas spēlēja <a href="/wiki/Baltijas_valstis" title="Baltijas valstis">Baltijas valstu</a>, arī <a href="/wiki/Latvija" title="Latvija">Latvijas</a>, šahisti?</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:1px solid transparent;"></td>
+<td class="MainPageBG" style="width:45%; border:1px solid #cedff2; background-color:#f5faff; vertical-align:top;">
+<table style="width:100%; vertical-align:top; background-color:#f5faff;">
+<tr>
+<th style="padding:2px;">
+<h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000000; padding:0.2em 0.4em;"><span class="mw-headline" id=".C5.A0.C4.AB_diena_v.C4.93stur.C4.93">Šī diena vēsturē</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000000; padding:2px 5px;">
+<div id="mf-SDV" title="Šī diena vēsturē">
+<div style="float:right;margin-left:0.5em">
+<p><a href="/wiki/Att%C4%93ls:Tour_Eiffel_3c02660.jpg" class="image" title="Eifeļa tornis"><img alt="Eifeļa tornis" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tour_Eiffel_3c02660.jpg/121px-Tour_Eiffel_3c02660.jpg" width="121" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tour_Eiffel_3c02660.jpg/181px-Tour_Eiffel_3c02660.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tour_Eiffel_3c02660.jpg/242px-Tour_Eiffel_3c02660.jpg 2x" data-file-width="2960" data-file-height="3672" /></a></p>
+</div>
+<ul>
+<li><a href="/wiki/1861._gads" title="1861. gads">1861</a>. — <a href="/wiki/Amerikas_Pilso%C5%86u_kar%C5%A1" class="mw-redirect" title="Amerikas Pilsoņu karš">Amerikas Pilsoņu karš</a>: <a href="/wiki/%C4%80rkanzasa" title="Ārkanzasa">Ārkanzasa</a> izstājās no <a href="/wiki/Amerikas_Savienot%C4%81s_Valstis" title="Amerikas Savienotās Valstis">ASV</a>.</li>
+<li><a href="/wiki/1889._gads" title="1889. gads">1889</a>. — <a href="/wiki/Eife%C4%BCa_tornis" title="Eifeļa tornis">Eifeļa tornis</a> <small>(attēlā)</small> <a href="/wiki/Par%C4%ABze" title="Parīze">Parīzē</a>, <a href="/wiki/Francija" title="Francija">Francijā</a>, tika atvērts publikai.</li>
+<li><a href="/wiki/1910._gads" title="1910. gads">1910</a>. — <a href="/wiki/D%C5%BEord%C5%BEs_V_Vindzors" title="Džordžs V Vindzors">Džordžs V</a> kļuva par <a href="/wiki/Apvienot%C4%81_Karaliste" title="Apvienotā Karaliste">Apvienotās Karalistes</a> karali pēc sava tēva <a href="/wiki/Edvards_VII" class="mw-redirect" title="Edvards VII">Edvarda VII</a> nāves.</li>
+<li><a href="/wiki/1994._gads" title="1994. gads">1994</a>. — atklāts <a href="/wiki/Dzelzce%C4%BC%C5%A1" title="Dzelzceļš">dzelzceļa</a> <a href="/wiki/Laman%C5%A1a_tunelis" title="Lamanša tunelis">Lamanša tunelis</a>, kas savienoja <a href="/wiki/Anglija" title="Anglija">Angliju</a> ar <a href="/wiki/Francija" title="Francija">Franciju</a>; tā celtniecība ilga septiņus gadus.</li>
+<li><a href="/wiki/2007._gads" title="2007. gads">2007</a>. — <a href="/wiki/Francija" title="Francija">Francijas</a> prezidenta vēlēšanu otrajā kārtā ar 53% balsu tika ievēlēts <a href="/wiki/Nikol%C4%81_Sarkoz%C4%AB" title="Nikolā Sarkozī">Nikolā Sarkozī</a>.</li>
+</ul>
+<p>Vairāk notikumu: <a href="/wiki/5._maijs" title="5. maijs">5.&#160;maijā</a> — <b><a href="/wiki/6._maijs" title="6. maijs">6.&#160;maijā</a></b> — <a href="/wiki/7._maijs" title="7. maijs">7.&#160;maijā</a></p>
+<div style="text-align: right; clear: both;" class="noprint"><b><a href="/wiki/Vikip%C4%93dija:Izmekl%C4%93ti_notikumi/Maijs" title="Vikipēdija:Izmeklēti notikumi/Maijs">Arhīvs</a></b></div>
+<div style="text-align: right;"><small>Šobrīd ir <a href="/wiki/2017._gads" title="2017. gads">2017</a>. gada <a href="/wiki/6._maijs" title="6. maijs">6. maijs</a> (<a href="/wiki/Univers%C4%81lais_koordin%C4%93tais_laiks" title="Universālais koordinētais laiks">UTC</a>) – <span class="plainlinks" id="purgelink"><a class="external text" href="//lv.wikipedia.org/w/index.php?title=S%C4%81kumlapa&amp;action=purge">Atjaunināt lapu</a></span></small></div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:2px;">
+<h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000000; padding:0.2em 0.4em;"><span class="mw-headline" id="Izveido_rakstu">Izveido rakstu</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000000; padding:2px 5px 5px;">
+<div id="mf-IBOX" style="margin-top:15px; margin-bottom:15px;">
+<div class="mw-inputbox-centered" style="">
+<form name="createbox" class="createbox" action="/w/index.php" method="get" id="createbox">
+<p><input type="hidden" value="edit" name="action" /><input type="hidden" name="preload" /><input type="hidden" name="editintro" /><input type="hidden" name="summary" /><input type="hidden" name="nosummary" /><input type="hidden" name="prefix" /><input type="hidden" name="minor" /><input type="text" name="title" class="mw-inputbox-input mw-ui-input mw-ui-input-inline createboxInput" value="" placeholder="Raksta nosaukums" size="50" dir="ltr" /><br />
+<input type="submit" name="create" class="mw-ui-button mw-ui-progressive createboxButton" value="Izveidot/labot rakstu" /></p>
+</form>
+</div>
+</div>
+<div style="font-size:85%; border-top:1px solid #cedff2; padding-top:5px;" class="hlist center">
+<ul>
+<li><a href="/wiki/Vikip%C4%93dija:Raksta_izveido%C5%A1ana" title="Vikipēdija:Raksta izveidošana">Raksta izveidošana</a></li>
+<li><a href="/wiki/Vikip%C4%93dija:Rakstu_vednis" title="Vikipēdija:Rakstu vednis">Rakstu vednis</a></li>
+<li><a href="/wiki/Vikip%C4%93dija:Vajadz%C4%ABgo_rakstu_lapu_uzskait%C4%ABjums" class="mw-redirect" title="Vikipēdija:Vajadzīgo rakstu lapu uzskaitījums">Iedvesmai</a></li>
+<li><a href="/wiki/Vikip%C4%93dija:Smil%C5%A1u_kaste" title="Vikipēdija:Smilšu kaste">Smilšu kaste eksperimentiem</a></li>
+<li><a href="/wiki/Vikip%C4%93dija:Dal%C4%ABbnieku_uzved%C4%ABbas_noteikumi" title="Vikipēdija:Dalībnieku uzvedības noteikumi">Dalībnieku uzvedības noteikumi</a></li>
+<li><a href="/wiki/Vikip%C4%93dija:Administr%C4%81cija" class="mw-redirect" title="Vikipēdija:Administrācija">Administrācija</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:2px;">
+<h2 style="margin:3px; background-color:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Vikikr.C4.81tuves_dienas_att.C4.93ls"><a href="https://commons.wikimedia.org/wiki/Commons:Picture_of_the_day" class="extiw" title="commons:Commons:Picture of the day">Vikikrātuves dienas attēls</a></span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000000; padding:2px 5px 5px;">
+<div id="mf-DB" title="Dienas attēls" class="center"><a href="/wiki/Att%C4%93ls:Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg" class="image"><img alt="Brockhampton Estate - gatehouse and manor house 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg/320px-Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg" width="320" height="209" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg/480px-Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg/640px-Brockhampton_Estate_-_gatehouse_and_manor_house_2.jpg 2x" data-file-width="4628" data-file-height="3024" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="width: 100%; margin:4px 0 0 0; background-color:none; border-spacing: 0px;">
+<tr>
+<td class="MainPageBG">
+<div style="text-align: center; font-size: 90%; width:100%; border:1px solid #dddddd; background-color:#f9f9f9;">
+<table class="center" width="100%">
+<tr>
+<td>Vikipēdija ir pieejama arī <a href="https://meta.wikimedia.org/wiki/Complete_list_of_language_Wikipedias_available" class="extiw" title="m:Complete list of language Wikipedias available">citās valodās</a>, to skaitā:</td>
+</tr>
+</table>
+<table class="center" width="90%" style="font-weight:bold;">
+<tr>
+<td><a href="https://incubator.wikimedia.org/wiki/Wp/liv/Kuodl%C4%93%E1%B8%91" class="extiw" title="incubator:Wp/liv/Kuodlēḑ">Līvõ</a></td>
+<td><a href="https://ltg.wikipedia.org/wiki/" class="extiw" title="ltg:">Latgaļu</a></td>
+<td><a href="https://fiu-vro.wikipedia.org/wiki/" class="extiw" title="fiu-vro:">Võro</a></td>
+<td><a href="https://bat-smg.wikipedia.org/wiki/" class="extiw" title="bat-smg:">Žemaitiu</a></td>
+<td><a href="https://et.wikipedia.org/wiki/" class="extiw" title="et:">Eesti</a></td>
+<td><a href="https://lt.wikipedia.org/wiki/" class="extiw" title="lt:">Lietuvių</a></td>
+<td><a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">Русский</a></td>
+<td><a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">Français</a></td>
+<td><a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">Deutsch</a></td>
+<td><a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">English</a></td>
+</tr>
+</table>
+<p style="text-align: center;">Vikipēdija ir bezpeļņas organizācijas <i><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></i> projekts, kas saistīts arī ar vairākiem citiem <a href="https://en.wikipedia.org/wiki/Wikipedia:Copyrights" class="extiw" title="w:Wikipedia:Copyrights">brīvi pieejama satura</a> projektiem:</p>
+<table class="center" cellpadding="2" width="70%">
+<tr>
+<td>
+<div class="noresize"><a href="https://en.wiktionary.org/wiki/lv:S%C4%81kumlapa" title="wiktionary:lv:Sākumlapa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/25px-Wiktionary-logo-en.png" width="25" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/38px-Wiktionary-logo-en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wiktionary-logo-en.png/50px-Wiktionary-logo-en.png 2x" data-file-width="1000" data-file-height="1089" /></a></div>
+</td>
+<td><a href="https://en.wiktionary.org/wiki/lv:S%C4%81kumlapa" class="extiw" title="wiktionary:lv:Sākumlapa"><b>Wiktionary</b></a><br />
+Vārdnīca</td>
+<td>
+<div class="noresize"><a href="https://incubator.wikimedia.org/wiki/Wb/lv/S%C4%81kumlapa" title="incubator:Wb/lv/Sākumlapa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</td>
+<td><a href="https://incubator.wikimedia.org/wiki/Wb/lv/S%C4%81kumlapa" class="extiw" title="incubator:Wb/lv/Sākumlapa"><b>Wikibooks</b></a><br />
+Rokasgrāmatas un pamācības</td>
+<td>
+<div class="noresize"><a href="https://incubator.wikimedia.org/wiki/Wq/lv/S%C4%81kumlapa" title="incubator:Wq/lv/Sākumlapa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/50px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</td>
+<td><a href="https://incubator.wikimedia.org/wiki/Wq/lv/S%C4%81kumlapa" class="extiw" title="incubator:Wq/lv/Sākumlapa"><b>Wikiquote</b></a><br />
+Citātu kolekcija</td>
+<td>
+<div class="noresize"><a href="https://wikisource.org/wiki/Main_Page:Latvian" title="oldwikisource:Main Page:Latvian"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/25px-Wikisource-logo.svg.png" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/50px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</td>
+<td><a href="https://wikisource.org/wiki/Main_Page:Latvian" class="extiw" title="oldwikisource:Main Page:Latvian"><b>Wikisource</b></a><br />
+<i>Free source</i> dokumenti</td>
+</tr>
+<tr>
+<td>
+<div class="noresize"><a href="https://incubator.wikimedia.org/wiki/Wy/lv/S%C4%81kumlapa" title="incubator:Wy/lv/Sākumlapa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/25px-Wikivoyage-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/38px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/50px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</td>
+<td><a href="https://incubator.wikimedia.org/wiki/Wy/lv/S%C4%81kumlapa" class="extiw" title="incubator:Wy/lv/Sākumlapa"><b>Wikivoyage</b></a><br />
+Ceļvedis</td>
+<td>
+<div class="noresize"><a href="https://www.wikidata.org/wiki/" title="d:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/30px-Wikidata-logo-en.svg.png" width="30" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/45px-Wikidata-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/60px-Wikidata-logo-en.svg.png 2x" data-file-width="1052" data-file-height="744" /></a></div>
+</td>
+<td><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:"><b>Vikidati</b></a><br />
+Brīva zinību bāze</td>
+<td>
+<div class="noresize"><a href="https://commons.wikimedia.org/wiki/S%C4%81kumlapa" title="commons:Sākumlapa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</td>
+<td><a href="https://commons.wikimedia.org/wiki/S%C4%81kumlapa" class="extiw" title="commons:Sākumlapa"><b>Commons</b></a><br />
+Kopīga multimediju krātuve</td>
+<td>
+<div class="noresize"><a href="https://meta.wikimedia.org/wiki/" title="meta:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/25px-Wikimedia_Community_Logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/38px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/50px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></div>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/" class="extiw" title="meta:"><b>Meta-Wiki</b></a><br />
+Vikimediju fonda projektu koordinēšana</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1183
+Cached time: 20170506085727
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.084 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 824/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19231/2097152 bytes
+Template argument size: 2247/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.003/10.000 seconds
+Lua memory usage: 506 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   81.874      1 -total
+ 25.32%   20.731      1 Vikipēdija:Izmeklēti_notikumi/6._maijs
+ 23.10%   18.915      1 Veidne:Izmeklēta_notikuma_kājene
+ 21.10%   17.274      1 Veidne:Citi_Vikiprojekti
+ 19.85%   16.252      3 Veidne:Dat
+ 18.49%   15.136      1 Veidne:Skatītākie_raksti_Vikipēdijā
+ 17.11%   14.006      3 Veidne:Diena.mēnesis-saite
+ 16.72%   13.690      1 Veidne:Hlist
+ 11.95%    9.783      1 Veidne:Vērtīgais_raksts
+ 11.51%    9.423      1 Veidne:Commons_dienas_bilde
+-->
+
+<!-- Saved in parser cache with key lvwiki:pcache:idhash:40-0!*!0!!lv!4!* and timestamp 20170506085727 and revision id 2591476
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");mw.log.warn("Gadget \"opacity-edit\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");mw.log.warn("Gadget \"edittop\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");mw.log.warn("Gadget \"wikibugs\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//lv.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Saturs iegūts no "<a dir="ltr" href="https://lv.wikipedia.org/w/index.php?title=Sākumlapa&amp;oldid=2591476">https://lv.wikipedia.org/w/index.php?title=Sākumlapa&amp;oldid=2591476</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigācijas izvēlne</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Dalībnieka rīki</h3>
+						<ul>
+							<li id="pt-anonuserpage">Neesi iegājis</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Diskusija par labojumiem, kas izdarīti no šīs IP adreses [n]" accesskey="n">Diskusijas</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="Labojumi, kas veikti no šīs IP adreses [y]" accesskey="y">Devums</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=S%C4%81kumlapa" title="Ieteicams izveidot kontu un pieslēgties; tomēr tas nav obligāti.">Izveidot jaunu Vikipēdijas kontu</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=S%C4%81kumlapa" title="Aicinām tevi ieiet Vikipēdijā, tomēr tas nav obligāti. [o]" accesskey="o">Ieiet Vikipēdijā</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Vārdtelpas</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/S%C4%81kumlapa"  title="Apskatīt rakstu [c]" accesskey="c">Sākumlapa</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Diskusija:S%C4%81kumlapa"  title="Diskusija par šī raksta lapu [t]" accesskey="t" rel="discussion">Diskusija</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Varianti</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Apskates</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/S%C4%81kumlapa" >Skatīt</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=S%C4%81kumlapa&amp;action=edit"  title="Šī lapa ir aizsargāta. Tu vari apskatīt tās izejas kodu. [e]" accesskey="e">Aplūkot kodu</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=S%C4%81kumlapa&amp;action=history"  title="Šīs lapas iepriekšējās versijas. [h]" accesskey="h">Hronoloģija</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Vairāk</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Meklēt</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Meklēt Vikipēdijā" title="Meklēt Vikipēdijā [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Meklēt" title="Meklēt lapās šo tekstu" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Aiziet!" title="Aiziet uz lapu ar precīzi šādu nosaukumu, ja tāda pastāv" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/S%C4%81kumlapa"  title="Sākumlapa"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigācija</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/S%C4%81kumlapa" title="Iet uz sākumlapu [z]" accesskey="z">Sākumlapa</a></li><li id="n-portal"><a href="/wiki/Vikip%C4%93dija:Kopienas_port%C4%81ls" title="Šeit Tu vari uzdot sev interesējošus jautājumus">Kopienas portāls</a></li><li id="n-currentevents"><a href="/wiki/Vikip%C4%93dija:Aktualit%C4%81tes" title="Uzzini, kas nesen noticis Vikipēdijā">Aktualitātes</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="Izmaiņas, kas nesen izdarītas Vikipēdijā [r]" accesskey="r">Pēdējās izmaiņas</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Iet uz nejauši izvēlētu lapu [x]" accesskey="x">Nejauša lapa</a></li><li id="n-help"><a href="https://lv.wikipedia.org/wiki/Pal%C4%ABdz%C4%ABba:Saturs" title="Vieta, kur uzzināt par Vikipēdiju vairāk">Palīdzība</a></li><li id="n-bug_in_article"><a href="/wiki/Vikip%C4%93dija:Pazi%C5%86ojumi_par_k%C4%BC%C5%ABd%C4%81m">Paziņot par kļūdu</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_lv.wikipedia.org&amp;uselang=lv" title="Atbalsti mūs">Ziedojumi</a></li><li id="n-contact"><a href="//lv.wikipedia.org/wiki/Vikipēdija:Kontakti">Kontakti</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Rīki</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/S%C4%81kumlapa" title="Visas Vikipēdijas lapas, kurās ir saites uz šejieni [j]" accesskey="j">Norādes uz šo rakstu</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/S%C4%81kumlapa" rel="nofollow" title="Izmaiņas, kas nesen izdarītas lapās, kurās ir saites uz šo lapu [k]" accesskey="k">Saistītās izmaiņas</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="Visu īpašo lapu uzskaitījums [q]" accesskey="q">Īpašās lapas</a></li><li id="t-permalink"><a href="/w/index.php?title=S%C4%81kumlapa&amp;oldid=2591476" title="Paliekoša saite uz šo lapas versiju">Pastāvīgā saite</a></li><li id="t-info"><a href="/w/index.php?title=S%C4%81kumlapa&amp;action=info" title="More information about this page">Lapas informācija</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Saistītais Vikidatu ieraksts [g]" accesskey="g">Ieraksts Vikidatos</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=S%C4%81kumlapa&amp;id=2591476" title="Kā pareizi atsaukties uz šo rakstu">Atsauce uz šo lapu</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Drukāt/eksportēt</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=S%C4%81kumlapa">Izveidot grāmatu</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=S%C4%81kumlapa&amp;returnto=S%C4%81kumlapa&amp;oldid=2591476&amp;writer=rdf2latex">Lejupielādēt kā PDF</a></li><li id="t-print"><a href="/w/index.php?title=S%C4%81kumlapa&amp;printable=yes" title="Drukājama lapas versija [p]" accesskey="p">Drukājama versija</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Citos projektos</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Vikikrātuve</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://lv.wikibooks.org/wiki/S%C4%81kumlapa" hreflang="lv">Vikigrāmatas</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Vikidati</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Citās valodās</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arābu" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/" title="baltkrievu" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/" title="беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="katalāņu" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="čehu" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="dāņu" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="vācu" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="grieķu" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="angļu" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="spāņu" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="igauņu" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="persiešu" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="somu" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="franču" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="ivrits" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="ungāru" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonēziešu" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="itāļu" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japāņu" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="korejiešu" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="latīņu" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="lietuviešu" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/" title="Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="holandiešu" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="norvēģu" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="poļu" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugāļu" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="rumāņu" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="krievu" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="slovāku" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="serbu" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="zviedru" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turku" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukraiņu" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vjetnamiešu" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="ķīniešu" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Šī lapa pēdējoreiz labota: 2016. gada 27. septembris plkst. 15.28.</li>
+											<li id="footer-info-copyright">Teksts ir pieejams saskaņā ar <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>; var pastāvēt papildu ierobežojumi. Plašākai informācijai skatīt <a href="//lv.wikipedia.org/wiki/Vikipēdija:Lietošanas_noteikumi">lietošanas noteikumus</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privātuma politika</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikip%C4%93dija:Par" title="Vikipēdija:Par">Par Vikipēdiju</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikip%C4%93dija:Saist%C4%ABbu_atrunas" title="Vikipēdija:Saistību atrunas">Saistību atrunas</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Izstrādātāji</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Sīkdatņu deklarācija</a></li>
+											<li id="footer-places-mobileview"><a href="//lv.m.wikipedia.org/w/index.php?title=S%C4%81kumlapa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobilais skats</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.122","ppvisitednodes":{"value":824,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19231,"limit":2097152},"templateargumentsize":{"value":2247,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   81.874      1 -total"," 25.32%   20.731      1 Vikipēdija:Izmeklēti_notikumi/6._maijs"," 23.10%   18.915      1 Veidne:Izmeklēta_notikuma_kājene"," 21.10%   17.274      1 Veidne:Citi_Vikiprojekti"," 19.85%   16.252      3 Veidne:Dat"," 18.49%   15.136      1 Veidne:Skatītākie_raksti_Vikipēdijā"," 17.11%   14.006      3 Veidne:Diena.mēnesis-saite"," 16.72%   13.690      1 Veidne:Hlist"," 11.95%    9.783      1 Veidne:Vērtīgais_raksts"," 11.51%    9.423      1 Veidne:Commons_dienas_bilde"]},"scribunto":{"limitreport-timeusage":{"value":"0.003","limit":"10.000"},"limitreport-memusage":{"value":517948,"limit":52428800}},"cachereport":{"origin":"mw1183","timestamp":"20170506085727","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

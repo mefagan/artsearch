@@ -18,6 +18,6 @@ def BuildSearchEngine(url, number, domain):
       #  out_2, errs_2 = p2.communicate()
 
 def main():
-    BuildSearchEngine("https://en.wikipedia.org/", 10, "wikipedia.org")
+    BuildSearchEngine("https://en.wikipedia.org/", 200, "wikipedia.org")
 if __name__ == '__main__':
     main()

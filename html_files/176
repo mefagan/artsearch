@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="lt" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vikipedija</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pagrindinis_puslapis","wgTitle":"Pagrindinis puslapis","wgCurRevisionId":5144910,"wgRevisionId":5144910,"wgArticleId":20,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"lt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","sausio","vasario","kovo","balandžio","gegužės","birželio","liepos","rugpjūčio","rugsėjo","spalio","lapkričio","gruodžio"],"wgMonthNamesShort":["","Sausio","Vasario","Kov","Bal","Geg","Bir","Lie","Rgp","Rgs","Spa","Lap","Gru"],"wgRelevantPageName":"Pagrindinis_puslapis","wgRelevantArticleId":20,"wgRequestId":"WQtZcgpAEK8AABzPAnEAAACL","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"lt","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"lt","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"lietuvių","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.5"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0jrqjwt",function($,jQuery,require,module){mw.user.options.set({"variant":"lt"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=lt&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=lt&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=lt&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/lt/thumb/e/e6/A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg/1200px-A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/lt.m.wikipedia.org/wiki/Pagrindinis_puslapis"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipedija (lt)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//lt.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://lt.wikipedia.org/wiki/Pagrindinis_puslapis"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pagrindinis_puslapis rootpage-Pagrindinis_puslapis skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Epaslėpti\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"lt\" dir=\"ltr\"\u003E\u003Cp\u003EŠios \u003Ca href=\"/wiki/Vikipedija:Savait%C4%97s_iniciatyva\" title=\"Vikipedija:Savaitės iniciatyva\"\u003Esavaitės iniciatyva\u003C/a\u003E: \u003Cb\u003EEuropos paveldo ženklas\u003C/b\u003E. \u003Ca href=\"/wiki/Vikiprojektas:M%C4%97nesio_%C5%A1alis\" title=\"Vikiprojektas:Mėnesio šalis\"\u003EMėnesio regionas\u003C/a\u003E: \u003Cb\u003EVidurio ir Rytų Europa (\u003Ca href=\"https://meta.wikimedia.org/wiki/Wikimedia_CEE_Spring_2017\" class=\"extiw\" title=\"m:Wikimedia CEE Spring 2017\"\u003EVikimedijos VRE 2017 m. konkursas\u003C/a\u003E)\u003C/b\u003E. Kviečiame prisidėti!\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="lt">Pagrindinis puslapis</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Straipsnis iš Vikipedijos, laisvosios enciklopedijos.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Peršokti į:					<a href="#mw-head">navigacija</a>, 					<a href="#p-search">paiešką</a>
+				</div>
+				<div id="mw-content-text" lang="lt" dir="ltr" class="mw-content-ltr"><table style="text-align:center; border:0; margin-top:1.2em; margin-bottom:2ex; background-color:#fcfcfc; width:100%; clear:both;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2" class="globegris" style="border:1px solid #ccc; background-color:#fcfcfc; background-repeat:no-repeat; background-position:-40px −14px; -webkit-border-radius:7px; -moz-border-radius:7px; border-radius:7px">
+<table style="width:100%; margin-top:.7em; background:transparent; border:0px solid #ccc">
+<tr>
+<td style="width:70%; color:#000; text-align:center; background:transparent;">
+<center><span style="font-family:Palatino,'Palatino Linotype','URW Palladio L',serif;font-size: 120%;line-height: 1.3;margin-left:5px"><big><b>Sveiki atvykę į Vikipediją</b> –</big></span><br />
+<p style="font-size:90%;margin-left:5px"><b>laisvąją enciklopediją, kurią kurti gali kiekvienas.</b></p>
+</center>
+<center><big><b><a href="/wiki/Specialus:Prisijungimas" title="Specialus:Prisijungimas">Prisijunk</a></b> ir pasidalink savo žiniomis su pasauliu!</big><br />
+<center>Šiuo metu yra <b><a href="/wiki/Specialus:Statistika" title="Specialus:Statistika">181&#160;783</a></b> straipsniai</center>
+</center>
+<table style="width:100%; border:solid 0px; background:transparent"></table>
+</td>
+<td style="width:30%; font-size:95%; color:#000; text-align:left;">
+<table style="width:100%; background:transparent;">
+<tr>
+<td style="width:7%; font-size:95%; vertical-align:top;">
+<p><a href="/wiki/Pagalba:Sveiki_atvyk%C4%99_%C4%AF_Laisv%C4%85j%C4%85_enciklopedij%C4%85!" title="Pagalba:Sveiki atvykę į Laisvąją enciklopediją!">Sveiki atvykę</a><br />
+<a href="/wiki/Pagalba:DUK" title="Pagalba:DUK">Dažniausi klausimai</a><br />
+<a href="/wiki/Pagalba:Turinys" title="Pagalba:Turinys">Pagalba</a></p>
+</td>
+<td style="width:7%; font-size:95%;">
+<p><a href="/wiki/Vikipedija:Senbuviai" title="Vikipedija:Senbuviai">Klausk</a><br />
+<a href="/wiki/Vikipedija:Taisykl%C4%97s_ir_susitarimai" title="Vikipedija:Taisyklės ir susitarimai">Taisyklės ir susitarimai</a><br />
+<a href="/wiki/Pagalba:Paveiksl%C4%97liai" title="Pagalba:Paveikslėliai">Paveikslėlių naudojimas</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="border-spacing:8px;margin:0px -8px">
+<tr>
+<td class="MainPageBG" style="width: 60%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top; border-radius: 10px; -moz-border-radius:10px">
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/350px-Green-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/525px-Green-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/700px-Green-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" data-file-width="1500" data-file-height="1500" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Apie_Vikipedij.C4.85">Apie Vikipediją</span></h2>
+</div>
+</div>
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff; border-radius: 10px; -moz-border-radius:10px">
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS',Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<p><b><a href="/wiki/Vikipedija" title="Vikipedija">Vikipedija</a></b> yra interneto enciklopedija, kurią nemokamai ir be jokių apribojimų gali skaityti, tobulinti ir pildyti visi žmonės. Vikipediją galima skaityti daugiau nei dviem šimtais kalbų, o lietuviškuosiuose puslapiuose jau yra daugiau nei <b><a href="/wiki/Specialus:Visi_puslapiai" title="Specialus:Visi puslapiai">181 tūkstantis straipsnių</a></b> ir jų skaičius nuolat auga.</p>
+<p><br /></p>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Purple-bg_rounded.svg/350px-Purple-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Purple-bg_rounded.svg/525px-Purple-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Purple-bg_rounded.svg/700px-Purple-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/38px-HSBra.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/57px-HSBra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/76px-HSBra.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Savait.C4.97s_straipsnis">Savaitės straipsnis</span></h2>
+</div>
+</div>
+<table>
+<tr>
+<td style="; font-family:'Segoe UI','Trebuchet MS',Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Vaizdas:A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/lt/thumb/e/e6/A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg/240px-A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg" width="240" height="254" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/lt/thumb/e/e6/A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg/360px-A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg 1.5x, //upload.wikimedia.org/wikipedia/lt/thumb/e/e6/A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg/480px-A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg 2x" data-file-width="1992" data-file-height="2106" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Vaizdas:A_Matuliausko_mozaika_Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dioje-1991.jpeg" class="internal" title="Padidinti"></a></div>
+Natūralaus akmens mozaika „Rūpintojėlis“. Mozaikos autorius Adomas Matuliauskas (1991 m.)</div>
+</div>
+</div>
+<p><b><a href="/wiki/R%C5%ABpintoj%C4%97lis_(mozaika)" title="Rūpintojėlis (mozaika)">Natūralaus akmens mozaika „Rūpintojėlis“</a></b> <a href="/wiki/Klaip%C4%97dos_Marijos_Taikos_Karalien%C4%97s_ba%C5%BEny%C4%8Dia" title="Klaipėdos Marijos Taikos Karalienės bažnyčia">Klaipėdos Marijos Taikos Karalienės bažnyčios</a> <a href="/wiki/Apsid%C4%97_(architekt%C5%ABra)" title="Apsidė (architektūra)">apsidėje</a> – monumentaliosios sakralinės dailės kūrinys (<a href="/wiki/Mozaika" title="Mozaika">mozaika</a>). Jame pavaizduotas susimąstęs Kristus su erškėčių vainiku. <a href="/wiki/Mozaika" title="Mozaika">Mozaika</a> sukurta <a href="/wiki/1958" class="mw-redirect" title="1958">1958</a>–<a href="/wiki/1960" class="mw-redirect" title="1960">1960</a> m., <a href="/wiki/1962" class="mw-redirect" title="1962">1962</a> m. – sunaikinta, <a href="/wiki/1989" class="mw-redirect" title="1989">1989</a>–<a href="/wiki/1991" class="mw-redirect" title="1991">1991</a> m. mozaika vėl naujai atkurta.</p>
+<p>Mozaikos formatas 395 x 395 cm. Mozaika sukurta iš natūralių Lietuvos laukų akmenų. Mozaika atlikta <a href="/wiki/Florencijos_provincija" title="Florencijos provincija">florentietiška</a> technika, įkomponuota vakarinėje Klaipėdos Marijos Taikos Karalienės bažnyčios pastato pusėje, eksterjere, apskritimo formos nišoje, 10 metrų aukštyje virš pastato cokolio.</p>
+<p><a href="/wiki/1958" class="mw-redirect" title="1958">1958</a>–<a href="/wiki/1960" class="mw-redirect" title="1960">1960</a> m. pirmąjį šios akmens mozaikos variantą sukūrė dailininkas <a href="/wiki/Adomas_Matuliauskas_(1914)" title="Adomas Matuliauskas (1914)">Adomas Matuliauskas vyresnysis</a>. Sovietų režimui uždarius bažnyčią, <a href="/wiki/1962" class="mw-redirect" title="1962">1962</a> m. centrinė mozaikos dalis buvo iškapota ir negrįžtamai sunaikinta – išliko vos keletas stambesnių fono akmenų. <a href="/wiki/1989" class="mw-redirect" title="1989">1989</a>–<a href="/wiki/1991" class="mw-redirect" title="1991">1991</a> m., bažnyčią grąžinus tikintiesiems, šią mozaiką naujai atkūrė dailininko sūnus <a href="/wiki/Adomas_Matuliauskas_(1963)" title="Adomas Matuliauskas (1963)">Adomas Matuliauskas jaunesnysis</a>.</p>
+<p>Klaipėdos Marijos Taikos Karalienės bažnyčios meno kūrinių istoriją yra nagrinėjusi menotyrininkė Neringa Markauskaitė. <a href="/wiki/1956_m." title="1956 m.">1956 m</a>. buvo gautas leidimas statyti naują bažnyčią pagal architekto Juozo Baltrėno projektą. <a href="/wiki/1958_m." title="1958 m.">1958 m</a>. kun. Bronislovas Burneikis bažnyčią papuošti meno kūriniais pasitelkė įvairių sričių menininkus. Tarp jų buvo ir trys dailininkai – <a href="/wiki/Antanas_Kmieliauskas" title="Antanas Kmieliauskas">Antanas Kmieliauskas</a>, <a href="/wiki/Adomas_Matuliauskas_(1914)" title="Adomas Matuliauskas (1914)">Adomas Matuliauskas vyresnysis</a> ir <a href="/wiki/Vytautas_%C5%A0erys" title="Vytautas Šerys">Vytautas Šerys</a>. Bažnyčios altoriuje <a href="/wiki/Antanas_Kmieliauskas" title="Antanas Kmieliauskas">A. Kmieliauskas</a> nutapė freską, kurioje pavaizduota Šv. Mergelė Marija su kūdikiu ant rankų, <a href="/wiki/Vytautas_%C5%A0erys" title="Vytautas Šerys">V. Šerys</a> – Šv. Mergelės Marijos skulptūrą virš pagrindinio įėjimo į bažnyčią. <a href="/wiki/Adomas_Matuliauskas_(1914)" title="Adomas Matuliauskas (1914)">A. Matuliauskas vyresnysis</a> bažnyčios apsidėje įkomponavo akmens mozaiką, vaizduojančią susimąsčiusį Kristų su erškėčių vainiku. <a href="/wiki/1960" class="mw-redirect" title="1960">1960</a> m. vasarą bažnyčia buvo pastatyta. Tačiau 1961 m. pradžioje paaiškėjo, kad bažnyčios nebus leista atidaryti. <a href="/wiki/1962" class="mw-redirect" title="1962">1962</a> m. prasidėjo bažnyčios griovimo darbai. Nugriauti bokštai, akmens mozaika „Rūpintojėlis“ ir kiti meno kūriniai sunaikinti. 1962 m. bažnyčios pastatas buvo perduotas „Lietuvos TSR Liaudies Filharmonijai“. <a href="/wiki/1988_m." title="1988 m.">1988 m</a>. lapkričio 25 d. bažnyčia grąžinta tikintiesiems. Kun. B. Burneikis vėl sukvietė tuos pačius dailininkus, dirbusius ir <a href="/wiki/1958" class="mw-redirect" title="1958">1958</a> m. <a href="/wiki/Antanas_Kmieliauskas" title="Antanas Kmieliauskas">A. Kmieliauskas</a> iš naujo nutapė altoriaus freską, <a href="/wiki/Vytautas_%C5%A0erys" title="Vytautas Šerys">V. Šerys</a> virš pagrindinio įėjimo atkūrė skulptūrą. Kadangi „Rūpintojėlio“ mozaikos autorius <a href="/wiki/Adomas_Matuliauskas_(1914)" title="Adomas Matuliauskas (1914)">A. Matuliauskas vyresnysis</a> buvo miręs, mozaiką atkurti buvo patikėta jo sūnui dailininkui <a href="/wiki/Adomas_Matuliauskas_(1963)" title="Adomas Matuliauskas (1963)">A. Matuliauskui jaunesniajam</a>. Ranka parėmusio galvą Kristaus įvaizdis perteikia visos lietuvių tautos istorijos tėkmėje patirtą sielvartą ir išgyventą skausmą. Kurdamas mozaiką, dailininkas įkomponavo ir simbolinius akmenis, surinktus įvairiose Lietuvos istorinėse bei sakralinėse vietose: <a href="/wiki/%C5%A0iluva" title="Šiluva">Šiluvoje</a>, <a href="/wiki/Ugioniai" title="Ugioniai">Ugionyse</a>, <a href="/wiki/Kry%C5%BEi%C5%B3_kalnas" title="Kryžių kalnas">Kryžių kalne</a>, <a href="/wiki/%C5%BDemai%C4%8Di%C5%B3_Kalvarijos_piliakalnis" title="Žemaičių Kalvarijos piliakalnis">Žemaičių Kalvarijose</a>, <a href="/wiki/Kernav%C4%97" title="Kernavė">Kernavėje</a>, <a href="/wiki/Dubingiai" title="Dubingiai">Dubingiuose</a>, <a href="/wiki/Mol%C4%97tai" title="Molėtai">Molėtuose</a>, <a href="/wiki/Debeiki%C5%B3_seni%C5%ABnija" title="Debeikių seniūnija">Debeikiuose</a>, <a href="/wiki/Tauragn%C5%B3_seni%C5%ABnija" title="Tauragnų seniūnija">Tauragnuose</a> ir <a href="/wiki/Baltijos_j%C5%ABra" title="Baltijos jūra">Baltijos pajūryje</a>.</p>
+<p><b><a href="/wiki/R%C5%ABpintoj%C4%97lis_(mozaika)" title="Rūpintojėlis (mozaika)">Daugiau…</a></b></p>
+<p><br /></p>
+<div style="text-align:right"><small><b><a href="/wiki/Vikipedija:Pavyzdiniai_straipsniai" title="Vikipedija:Pavyzdiniai straipsniai">Pavyzdiniai straipsniai</a></b> • <b><a href="/wiki/Vikipedija:Verta_paskaityti" class="mw-redirect" title="Vikipedija:Verta paskaityti">Verta paskaityti</a></b> • <a href="/wiki/Vikiprojektas:Savait%C4%97s_straipsnis/Straipsnis" title="Vikiprojektas:Savaitės straipsnis/Straipsnis">Keisti</a> • <a href="/wiki/Vikiprojektas:Savait%C4%97s_straipsnis" title="Vikiprojektas:Savaitės straipsnis">Rinkti straipsnį</a></small></div>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Red-bg_rounded.svg/350px-Red-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Red-bg_rounded.svg/525px-Red-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Red-bg_rounded.svg/700px-Red-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/lt/thumb/0/0a/Kal-Gegu%C5%BE%C4%97s_4.png/38px-Kal-Gegu%C5%BE%C4%97s_4.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/lt/thumb/0/0a/Kal-Gegu%C5%BE%C4%97s_4.png/57px-Kal-Gegu%C5%BE%C4%97s_4.png 1.5x, //upload.wikimedia.org/wikipedia/lt/thumb/0/0a/Kal-Gegu%C5%BE%C4%97s_4.png/76px-Kal-Gegu%C5%BE%C4%97s_4.png 2x" data-file-width="130" data-file-height="130" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="gegu.C5.BE.C4.97s_4_dienos_.C4.AFvykiai"><a href="/wiki/Gegu%C5%BE%C4%97s_4" title="Gegužės 4">gegužės 4</a> dienos įvykiai</span></h2>
+</div>
+</div>
+<table>
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS',Tahoma, Arial, Helvetica, sans-serif; font-size: 98%">
+<p><b>Lietuvoje</b></p>
+<ul>
+<li><a href="/wiki/1918" class="mw-redirect" title="1918">1918</a> − <a href="/wiki/Vokietijos_imperija" title="Vokietijos imperija">Vokietijos imperija</a> <a href="/wiki/Lietuvos_Taryba" title="Lietuvos Taryba">Lietuvos Tarybai</a> įteikė Lietuvos nepriklausomybės pripažinimo dokumentą.</li>
+</ul>
+<p><br /></p>
+<p><b>Pasaulyje</b></p>
+<ul>
+<li><a href="/wiki/1493" class="mw-redirect" title="1493">1493</a> − <a href="/wiki/Popie%C5%BEius" title="Popiežius">popiežius</a> <a href="/wiki/Aleksandras_VI" title="Aleksandras VI">Aleksandras VI</a> padalino <a href="/wiki/Naujasis_pasaulis" title="Naujasis pasaulis">Naująjį pasaulį</a> <a href="/wiki/Ispanija" title="Ispanija">Ispanijai</a> ir <a href="/wiki/Portugalija" title="Portugalija">Portugalijai</a> demarkacijos linija.</li>
+<li><a href="/wiki/1494" class="mw-redirect" title="1494">1494</a> − <a href="/wiki/Kristupas_Kolumbas" title="Kristupas Kolumbas">Kristupas Kolumbas</a> išsilaipino <a href="/wiki/Jamaika" title="Jamaika">Jamaikoje</a>.</li>
+<li><a href="/wiki/1626" class="mw-redirect" title="1626">1626</a> − olandų keliautojas Piteris Minui (<i>Peter Minuit</i>) atvyko į Naujosios Olandijos salą (dabar <a href="/wiki/Manhetenas" class="mw-redirect" title="Manhetenas">Manhetenas</a>), kurią <a href="/wiki/Gegu%C5%BE%C4%97s_24" title="Gegužės 24">gegužės 24</a> d. iš vietinių <a href="/wiki/Ind%C4%97nas" class="mw-redirect" title="Indėnas">indėnų</a> nusipirko už prekes, vertas 60 guldenų (apie 24 dolerius).</li>
+<li><a href="/wiki/1715" class="mw-redirect" title="1715">1715</a> − <a href="/wiki/Pranc%C5%ABzija" title="Prancūzija">Prancūzijoje</a> pagamintas pirmasis sudedamas <a href="/wiki/Sk%C4%97tis" title="Skėtis">skėtis</a>.</li>
+<li><a href="/wiki/1924" class="mw-redirect" title="1924">1924</a> − <a href="/wiki/Pary%C5%BEius" title="Paryžius">Paryžiuje</a> atidarytos VIII vasaros <a href="/wiki/Olimpin%C4%97s_%C5%BEaidyn%C4%97s" title="Olimpinės žaidynės">olimpinės žaidynės</a>.</li>
+</ul>
+<div style="text-align:right"><small><a href="/wiki/%C5%A0ablonas:Gegu%C5%BE%C4%97s_4_dienos_%C4%AFvykiai" title="Šablonas:Gegužės 4 dienos įvykiai">Keisti</a></small></div>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/French_Beige-bg_rounded.svg/350px-French_Beige-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/French_Beige-bg_rounded.svg/525px-French_Beige-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/French_Beige-bg_rounded.svg/700px-French_Beige-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/38px-HS_geo.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/57px-HS_geo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/76px-HS_geo.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="M.C4.97nesio_.C5.A1alys">Mėnesio šalys</span></h2>
+</div>
+</div>
+<table>
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS',Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<p><br /></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:162px;"><a href="/wiki/Vaizdas:Dunav.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dunav.jpg/160px-Dunav.jpg" width="160" height="107" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dunav.jpg/240px-Dunav.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dunav.jpg/320px-Dunav.jpg 2x" data-file-width="1600" data-file-height="1074" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Vaizdas:Dunav.jpg" class="internal" title="Padidinti"></a></div>
+Dunojus Bulgarijoje</div>
+</div>
+</div>
+<p>Šio <b><a href="/wiki/Vikiprojektas:M%C4%97nesio_%C5%A1alis" title="Vikiprojektas:Mėnesio šalis">mėnesio regionas</a></b> yra <b><a href="/wiki/Vidurio_Europa" title="Vidurio Europa">Vidurio</a> ir <a href="/wiki/Ryt%C5%B3_Europa" title="Rytų Europa">Rytų Europa</a></b>. Labai prašome prisidėti prie straipsnių apie šį kraštą plėtojimo. Reikalingiausių straipsnių sąrašą rasite <a href="/wiki/Vikiprojektas:M%C4%97nesio_%C5%A1alis" title="Vikiprojektas:Mėnesio šalis">čia</a>. Žymiau prisidėję naudotojai bus atitinkamai pagerbti.</p>
+<p><b><a href="/wiki/Dunojus" title="Dunojus">Dunojus</a></b> (<a href="/wiki/Senov%C4%97s_graik%C5%B3_kalba" title="Senovės graikų kalba">sen. gr.</a> <i>Ἴστρος</i>&#160;= <i>Istros</i>; <a href="/wiki/Vokie%C4%8Di%C5%B3_kalba" title="Vokiečių kalba">vok.</a> <i>Donau</i>; <a href="/wiki/Vengr%C5%B3_kalba" title="Vengrų kalba">veng.</a> <i>Duna</i>; <a href="/wiki/Kroat%C5%B3_kalba" title="Kroatų kalba">kroat.</a> <i>Dunav</i>; <a href="/wiki/Bulgar%C5%B3_kalba" title="Bulgarų kalba">bulg.</a>, <a href="/wiki/Serb%C5%B3_kalba" title="Serbų kalba">serb.</a> <i>Дунав</i>; <a href="/wiki/Slovak%C5%B3_kalba" title="Slovakų kalba">svk.</a> <i>Dunaj</i>; <a href="/wiki/Rumun%C5%B3_kalba" title="Rumunų kalba">rumun.</a> <i>Dunăre</i>) – upė <a href="/wiki/Europa" title="Europa">Europoje</a>, antroji pagal ilgį po <a href="/wiki/Volga" title="Volga">Volgos</a>. Ilgis 2850 km, baseino plotas 817 000 km².</p>
+<p>Prasideda Vokietijoje, <a href="/wiki/%C5%A0varcvaldas" title="Švarcvaldas">Švarcvaldo</a> rajono šlaituose iš susiliejusių Bregės ir Brigacho upelių, įteka į <a href="/wiki/Juodoji_j%C5%ABra" title="Juodoji jūra">Juodąją jūrą</a>. Į baseino teritoriją įeina <a href="/wiki/Vokietija" title="Vokietija">Vokietija</a>, <a href="/wiki/Austrija" title="Austrija">Austrija</a>, <a href="/wiki/Slovakija" title="Slovakija">Slovakija</a>, <a href="/wiki/Vengrija" title="Vengrija">Vengrija</a>, <a href="/wiki/Kroatija" title="Kroatija">Kroatija</a>, <a href="/wiki/Serbija" title="Serbija">Serbija</a>, <a href="/wiki/Bulgarija" title="Bulgarija">Bulgarija</a>, <a href="/wiki/Rumunija" title="Rumunija">Rumunija</a>, maža dalis Moldavijos, <a href="/wiki/Ukraina" title="Ukraina">Ukrainos</a>, <a href="/wiki/%C5%A0veicarija" title="Šveicarija">Šveicarijos</a>.</p>
+<p>Upės aukštupys (iki <a href="/wiki/Viena" title="Viena">Vienos</a>, ~920 km) teka per Švarcvaldą ir Bavarijos plynaukštę. Slėniai siauri, gilūs, krantai aukšti, statūs. Vagos plotis iki <a href="/wiki/Ulmas" title="Ulmas">Ulmo</a> miesto 20–100 m, žemiau – 100–350 m. Srovės greitis 1–2,8 m/s.</p>
+<p><br /></p>
+<div style="text-align:right"><small><b><a href="/wiki/Vikiprojektas:M%C4%97nesio_%C5%A1alis" title="Vikiprojektas:Mėnesio šalis">Projekto puslapis</a></b> • <a href="/wiki/%C5%A0ablonas:M%C4%97nesio_%C5%A1alis" title="Šablonas:Mėnesio šalis">Keisti</a></small></div>
+</td>
+</tr>
+</table>
+</td>
+<td class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; border-radius: 10px; -moz-border-radius:10px">
+<div style="margin: 4px 4px 2px 4px; text-align: left;">
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Rinktin.C4.97_iliustracija">Rinktinė iliustracija</span></h2>
+</div>
+</div>
+<table width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS', Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<center>
+<table width="400px" border="0px">
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Sunrise_at_viru_bog.jpg" class="image"><img alt="Sunrise at viru bog.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sunrise_at_viru_bog.jpg/400px-Sunrise_at_viru_bog.jpg" width="400" height="183" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sunrise_at_viru_bog.jpg/600px-Sunrise_at_viru_bog.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sunrise_at_viru_bog.jpg/800px-Sunrise_at_viru_bog.jpg 2x" data-file-width="10026" data-file-height="4576" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<center><a href="/wiki/Lahemos_nacionalinis_parkas" title="Lahemos nacionalinis parkas">Lahemos nacionalinis parkas</a><br />
+<small><b><a href="/wiki/Vikiprojektas:Straipsni%C5%B3_iliustravimas" title="Vikiprojektas:Straipsnių iliustravimas">Straipsnių iliustravimo projekto puslapis</a></b></small></center>
+</td>
+</tr>
+</table>
+</center>
+<div style="text-align:right"><small><a href="/wiki/%C5%A0ablonas:Prad%C5%BEia-Rinktin%C4%97-illu" class="mw-redirect" title="Šablonas:Pradžia-Rinktinė-illu">Keisti</a></small></div>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grey-bg_rounded.svg/350px-Grey-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grey-bg_rounded.svg/525px-Grey-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grey-bg_rounded.svg/700px-Grey-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" data-file-width="61" data-file-height="61" /></div>
+<div style="position:absolute; left:40px; top:0px;">
+<h2 style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Savait.C4.97s_iniciatyva">Savaitės iniciatyva</span></h2>
+</div>
+</div>
+<table>
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS', Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Vaizdas:Kauno_menininku_namai.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kauno_menininku_namai.jpg/240px-Kauno_menininku_namai.jpg" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kauno_menininku_namai.jpg/360px-Kauno_menininku_namai.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kauno_menininku_namai.jpg/480px-Kauno_menininku_namai.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Vaizdas:Kauno_menininku_namai.jpg" class="internal" title="Padidinti"></a></div>
+Kauno menininkų namai</div>
+</div>
+</div>
+<p><b>Kauno menininkų namai</b> (<b>KMN</b>) – <a href="/wiki/Kaunas" title="Kaunas">Kauno</a> miesto profesionaliųjų menų centras, vykdantis kultūrinę veiklą, plėtojantis profesionalųjį meną, organizuojantis ir pristatantis visuomenei kultūrines programas. Steigėjas – <a href="/wiki/Kauno_miesto_savivaldyb%C4%97s_taryba" title="Kauno miesto savivaldybės taryba">Kauno miesto savivaldybės taryba</a>.</p>
+<p>Namas V. Putvinskio g. 56, kuriame įsikūrę menininkų namai, statytas <a href="/wiki/1930" class="mw-redirect" title="1930">1930</a> m. pagal architekto <a href="/wiki/Vytautas_Landsbergis-%C5%BDemkalnis" title="Vytautas Landsbergis-Žemkalnis">Vytauto Landsbergio-Žemkalnio</a> projektą, Lietuvos valstybės lėšomis, buvo skirtas <a href="/wiki/Vatikanas" title="Vatikanas">Vatikano</a> diplomatinei atstovybei (nunciatūrai) Lietuvoje. Pirmajame aukšte į gatvės pusę buvo darbo kambarys, salonas ir valgomasis su žiemos sodu, patalpas skyrė mobilios pertvaros. Centriniame vestibiulyje prie įėjimo – laukiamasis su rūbine. Sparnuose buvo personalo kambariai. Antrasis aukštas neapėmė viso tūrio. Prie gatvės buvo miegamieji, vakarinėje pusėje – nedidelė koplyčia. Tačiau atstovybė pastate taip ir neįsikūrė. <a href="/wiki/1932" class="mw-redirect" title="1932">1932</a> m. buvo atlikti neesminiai pakeitimai, namas pritaikytas vaikų ligoninei.</p>
+<p>Sovietmečiu šiame pastate veikė vaikų darželis, nuo <a href="/wiki/1971" class="mw-redirect" title="1971">1971</a> m. Kauno kultūros skyrius, nuo <a href="/wiki/1972" class="mw-redirect" title="1972">1972</a> m. Kauno meno darbuotojų namai, nuo <a href="/wiki/1973" class="mw-redirect" title="1973">1973</a> m. Kauno menininkų namai. 1972 m. ir <a href="/wiki/1979" class="mw-redirect" title="1979">1979</a> m. rekonstruotas pagal architektų Z. Dargio, S. Savicko, J. Rakštienės projektus. 1972 m. ant šiaurės vakarų fligelio užstatytas antrasis aukštas (parodų salė), pirmajame aukšte, išgriovus pertvaras, įrengta kavinė, pietinėje pusėje padaryta salė su scena. 1979 m. šiaurės rytų sparne pakeista laiptų į rūsį vieta, įrengta rūbinė. Perkeltos kai kurios pertvaros antrame aukšte. <a href="/wiki/1980" class="mw-redirect" title="1980">1980</a> m. langai papuošti vitražais (dail. Vytautas Banys), holas – keraminiu pano (dail. <a href="/wiki/Aldona_Keturakien%C4%97" title="Aldona Keturakienė">Aldona Keturakienė</a>), salės lubos dekoruotos gipsatūromis.</p>
+<p>Nuo <a href="/wiki/1999" class="mw-redirect" title="1999">1999</a> m. KMN veikia kaip biudžetinė kultūros įstaiga, išlaikoma iš miesto savivaldybės biudžeto. <a href="/wiki/2005" class="mw-redirect" title="2005">2005</a> m. sukurtas informacinis profesionalaus meno portalas <i>www.kamane.lt</i>. Kauno menininkų namuose, vienintelėje Lietuvoje visas meno sritis pristatančioje įstaigoje, per metus įvyksta apie 200 renginių: koncertų, spektaklių, festivalių, konkursų, knygų pristatymų, kino, džiazo, folkloro, humoro, vokalinės muzikos vakarų, menininkų jubiliejų ir svarbių Lietuvos respublikos datų paminėjimų, taip pat seminarų, susitikimų. Jų metu savo kūrybą pristato žymiausi Lietuvos menininkai ir užsienio svečiai. Parodų salėje dailininkai ir fotografai, kitų vaizduojamojo meno sričių atstovai rengia personalines parodas, performansus. Nuo <a href="/wiki/1998" class="mw-redirect" title="1998">1998</a> m. namams vadovauja <a href="/wiki/Viktoras_Vala%C5%A1inas" title="Viktoras Valašinas">Viktoras Valašinas</a>.</p>
+<p>Šios <a href="/wiki/Vikipedija:Savait%C4%97s_iniciatyva" title="Vikipedija:Savaitės iniciatyva">savaitės iniciatyva</a> yra <b>Europos paveldo ženklas</b>.</p>
+<p><a href="/wiki/Kauno_meninink%C5%B3_namai" title="Kauno menininkų namai">Daugiau…</a></p>
+<div style="text-align:right"><small><b><a href="/wiki/Vikipedija:Savait%C4%97s_iniciatyva" title="Vikipedija:Savaitės iniciatyva">Projekto puslapis</a></b> • <a href="/wiki/%C5%A0ablonas:Savait%C4%97s_tema" title="Šablonas:Savaitės tema">Keisti</a></small></div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#fff58a; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius:8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Yellow-bg_rounded_cropped.svg/250px-Yellow-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Yellow-bg_rounded_cropped.svg/375px-Yellow-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Yellow-bg_rounded_cropped.svg/500px-Yellow-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSPortal.svg/38px-HSPortal.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSPortal.svg/57px-HSPortal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSPortal.svg/76px-HSPortal.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Vikisritys">Vikisritys</span></h2>
+</div>
+</div>
+<table width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;">
+<tr>
+<td style="font-family:'Segoe UI','Trebuchet MS', Tahoma, Arial, Helvetica, sans-serif; font-size: 100%">
+<div class="portale" align="center">
+<p><span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:Q_space.svg" class="image"><img alt="Q space.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Q_space.svg/30px-Q_space.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Q_space.svg/45px-Q_space.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Q_space.svg/60px-Q_space.svg.png 2x" data-file-width="820" data-file-height="740" /></a>&#160;</span><a href="/wiki/Vikisritis:Astronomija" title="Vikisritis:Astronomija">Astronomija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_vip.svg" class="image"><img alt="P vip.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/30px-P_vip.svg.png" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/45px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/60px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></a>&#160;</span><a href="/wiki/Vikisritis:Biografijos" title="Vikisritis:Biografijos">Biografijos</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_biology.svg" class="image"><img alt="P biology.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/30px-P_biology.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/45px-P_biology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/60px-P_biology.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Biologija" title="Vikisritis:Biologija">Biologija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:Socrates_blue_version2.png" class="image"><img alt="Socrates blue version2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/30px-Socrates_blue_version2.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/45px-Socrates_blue_version2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/60px-Socrates_blue_version2.png 2x" data-file-width="300" data-file-height="300" /></a>&#160;</span><a href="/wiki/Vikisritis:Filosofija" title="Vikisritis:Filosofija">Filosofija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_physics.svg" class="image"><img alt="P physics.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_physics.svg/30px-P_physics.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_physics.svg/45px-P_physics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_physics.svg/60px-P_physics.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Fizika" title="Vikisritis:Fizika">Fizika</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_countries-vector.svg" class="image"><img alt="P countries-vector.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/P_countries-vector.svg/30px-P_countries-vector.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/P_countries-vector.svg/45px-P_countries-vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/P_countries-vector.svg/60px-P_countries-vector.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Geografija" title="Vikisritis:Geografija">Geografija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_computing.svg" class="image"><img alt="P computing.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_computing.svg/30px-P_computing.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_computing.svg/45px-P_computing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_computing.svg/60px-P_computing.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Informatika" title="Vikisritis:Informatika">Informatika</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_history.svg" class="image"><img alt="P history.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/30px-P_history.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/45px-P_history.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/60px-P_history.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Istorija" title="Vikisritis:Istorija">Istorija</a>&#160;&#160;&#160;</span><br />
+<span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:Logo_of_Spanish_language.svg" class="image"><img alt="Logo of Spanish language.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_of_Spanish_language.svg/30px-Logo_of_Spanish_language.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_of_Spanish_language.svg/45px-Logo_of_Spanish_language.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_of_Spanish_language.svg/60px-Logo_of_Spanish_language.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Kalbos" title="Vikisritis:Kalbos">Kalbos</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_mathematics.svg" class="image"><img alt="P mathematics.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/30px-P_mathematics.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/45px-P_mathematics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/P_mathematics.svg/60px-P_mathematics.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Matematika" title="Vikisritis:Matematika">Matematika</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_art.png" class="image"><img alt="P art.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_art.png/30px-P_art.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_art.png/45px-P_art.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/P_art.png/60px-P_art.png 2x" data-file-width="200" data-file-height="183" /></a>&#160;</span><a href="/wiki/Vikisritis:Menas" title="Vikisritis:Menas">Menas</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:XXX_P_icon.png" class="image"><img alt="XXX P icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/XXX_P_icon.png/30px-XXX_P_icon.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/XXX_P_icon.png/45px-XXX_P_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/XXX_P_icon.png/60px-XXX_P_icon.png 2x" data-file-width="500" data-file-height="450" /></a>&#160;</span><a href="/wiki/Vikisritis:Metai" title="Vikisritis:Metai">Metai</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_antiquity.PNG" class="image"><img alt="P antiquity.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/P_antiquity.PNG/30px-P_antiquity.PNG" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/P_antiquity.PNG/45px-P_antiquity.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/P_antiquity.PNG/60px-P_antiquity.PNG 2x" data-file-width="275" data-file-height="250" /></a>&#160;</span><a href="/wiki/Vikisritis:Mitologija" title="Vikisritis:Mitologija">Mitologija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_religion_world.svg" class="image"><img alt="P religion world.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/30px-P_religion_world.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/45px-P_religion_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/60px-P_religion_world.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Religija" title="Vikisritis:Religija">Religija</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_sport.svg" class="image"><img alt="P sport.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/30px-P_sport.svg.png" width="30" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/45px-P_sport.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/60px-P_sport.svg.png 2x" data-file-width="75" data-file-height="66" /></a>&#160;</span><a href="/wiki/Vikisritis:Sportas" title="Vikisritis:Sportas">Sportas</a>&#160;&#160;&#160;</span> <span style="white-space:nowrap;"><span class="icon"><a href="/wiki/Vaizdas:P_derecho.svg" class="image"><img alt="P derecho.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/P_derecho.svg/30px-P_derecho.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/P_derecho.svg/45px-P_derecho.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/P_derecho.svg/60px-P_derecho.svg.png 2x" data-file-width="400" data-file-height="360" /></a>&#160;</span><a href="/wiki/Vikisritis:Teis%C4%97" title="Vikisritis:Teisė">Teisė</a>&#160;&#160;&#160;</span></p>
+</div>
+<div style="font-variant: small-caps; text-align: center;">
+<p><a href="/wiki/Specialus:Visi_puslapiai" title="Specialus:Visi puslapiai">Straipsnių abėcėlinis sąrašas</a>&#160;– <a href="/wiki/Vikipedija:Pagal_temas" title="Vikipedija:Pagal temas">Straipsniai pagal temas</a>&#160;– <a href="/wiki/Specialus:Kategorijos" title="Specialus:Kategorijos">Visos straipsnių kategorijos</a><br />
+<a href="/wiki/Kategorija:Vikisritys" title="Kategorija:Vikisritys">Visų Vikisričių sąrašas</a>&#160;– <a href="/wiki/Vikipedija:Vikiprojektai" title="Vikipedija:Vikiprojektai">Visų Vikiprojektų sąrašas</a></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#ffb957; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius:8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orange-bg_rounded_cropped.svg/250px-Orange-bg_rounded_cropped.svg.png" width="250" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orange-bg_rounded_cropped.svg/375px-Orange-bg_rounded_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orange-bg_rounded_cropped.svg/500px-Orange-bg_rounded_cropped.svg.png 2x" data-file-width="250" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" data-file-width="700" data-file-height="700" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:120%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Kiti_projektai">Kiti projektai</span></h2>
+</div>
+</div>
+<table align="center" cellpadding="2" style="font-size:90%">
+<tr valign="top">
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:WiktionaryLt.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/WiktionaryLt.png/35px-WiktionaryLt.png" width="35" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/WiktionaryLt.png/53px-WiktionaryLt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/WiktionaryLt.png/70px-WiktionaryLt.png 2x" data-file-width="563" data-file-height="463" /></a></div>
+</div>
+</td>
+<td><a href="https://lt.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Vikižodynas</b></a><br />
+<i>Laisvasis žodynas</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</td>
+<td><a href="https://lt.wikiquote.org/wiki/" class="extiw" title="q:"><b>Vikicitatos</b></a><br />
+<i>Aforizmai, sentencijos</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikinews-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/35px-Wikinews-logo.svg.png" width="35" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/53px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/70px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</td>
+<td><span class="plainlinks"><a class="external text" href="http://wikinews.org"><b>Vikinaujienos</b></a></span><br />
+<i>Naujausios žinios, aktualijos</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Commons-logo.svg" class="image"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</td>
+<td><a href="https://commons.wikimedia.org/wiki/Pagrindinis_puslapis" class="extiw" title="commons:Pagrindinis puslapis"><b>Vikiteka (<i>Wikimedia Commons</i>)</b></a><br />
+<i>Mediateka</i></td>
+</tr>
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</td>
+<td><a href="https://lt.wikisource.org/wiki/" class="extiw" title="s:"><b>Vikišaltiniai</b></a><br />
+<i>Įvairūs tekstai</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikibooks-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</td>
+<td><a href="https://lt.wikibooks.org/wiki/" class="extiw" title="b:"><b>Vikiknygos</b></a><br />
+<i>Vadovėliai, knygos</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+</div>
+</td>
+<td><a href="https://species.wikimedia.org/wiki/" class="extiw" title="wikispecies:"><b>Vikirūšys (<i>wikispecies</i>)</b></a><br />
+<i>Rūšių katalogas</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikimedia-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024" /></a></div>
+</div>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/Pagrindinis_puslapis" class="extiw" title="m:Pagrindinis puslapis"><b>Metaviki</b></a><br />
+<i>Vikimedijos projektų koordinavimas</i></td>
+</tr>
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikidata-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" width="35" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</div>
+</td>
+<td><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:"><b>Vikiduomenys</b></a><br />
+<i>Žinių bazė</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikiversity-logo-41px.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wikiversity-logo-41px.png/35px-Wikiversity-logo-41px.png" width="35" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/e/e3/Wikiversity-logo-41px.png 1.5x" data-file-width="41" data-file-height="32" /></a></div>
+</div>
+</td>
+<td><a href="https://lt.wikiversity.org/wiki/en:" class="extiw" title="v:en:"><b>Vikiversitetas</b></a><br />
+<i>Mokomoji medžiaga</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</div>
+</td>
+<td><a href="https://en.wikivoyage.org/wiki/" class="extiw" title="wikivoyage:"><b>Vikikelionės</b></a><br />
+<i>Kelionių vadovas</i></td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/Vaizdas:Mediawiki-logo.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></div>
+</div>
+</td>
+<td><a href="https://www.mediawiki.org/wiki/" class="extiw" title="mw:"><b>MediaWiki</b></a><br />
+<i>Viki programinė įranga</i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20170504155156
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.100 seconds
+Real time usage: 0.171 seconds
+Preprocessor visited node count: 330/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17153/2097152 bytes
+Template argument size: 1620/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   32.702      1 -total
+ 34.36%   11.236      1 Šablonas:Mėnesio_šalis
+ 12.84%    4.199      1 Šablonas:Gegužės_4_dienos_įvykiai
+ 11.67%    3.815      1 Šablonas:Savaitės_tema
+ 10.71%    3.502      1 Šablonas:Pradžia-Rinktinė-illu
+  8.10%    2.649      1 Šablonas:Dienos_įvykiai
+  6.60%    2.157      1 Vikipedija:Savaitės_iniciatyva/Tema
+  6.42%    2.098      1 Vikiprojektas:Savaitės_straipsnis/Straipsnis
+  6.10%    1.995      1 Šablonas:Sk
+  5.82%    1.904      1 Šablonas:Apie
+-->
+
+<!-- Saved in parser cache with key ltwiki:pcache:idhash:20-0!*!0!!*!4!* and timestamp 20170504155155 and revision id 5144910
+ -->
+<noscript><img src="//lt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Rodomas puslapis "<a dir="ltr" href="https://lt.wikipedia.org/w/index.php?title=Pagrindinis_puslapis&amp;oldid=5144910">https://lt.wikipedia.org/w/index.php?title=Pagrindinis_puslapis&amp;oldid=5144910</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Naršymo meniu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Asmeniniai įrankiai</h3>
+						<ul>
+							<li id="pt-anonuserpage">Neprisijungęs</li><li id="pt-anontalk"><a href="/wiki/Specialus:Mano_aptarimas" title="Pakeitimų aptarimas, darytus naudojant šį IP adresą [n]" accesskey="n">Šio IP aptarimų puslapis</a></li><li id="pt-anoncontribs"><a href="/wiki/Specialus:Mano_ind%C4%97lis" title="Keitimų sąrašas, padarytų iš šio IP adreso [y]" accesskey="y">Indėlis</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Specialus:Sukurti_paskyr%C4%85&amp;returnto=Pagrindinis+puslapis" title="Skatiname susikurti paskyrą ir prisijungti, tačiau, tai nėra privaloma">Sukurti paskyrą</a></li><li id="pt-login"><a href="/w/index.php?title=Specialus:Prisijungimas&amp;returnto=Pagrindinis+puslapis" title="Rekomenduojame prisijungti, nors tai nėra privaloma [o]" accesskey="o">Prisijungti</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Vardų sritys</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pagrindinis_puslapis"  title="Rodyti puslapio turinį [c]" accesskey="c">Pagrindinis puslapis</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Aptarimas:Pagrindinis_puslapis"  title="Puslapio turinio aptarimas [t]" accesskey="t" rel="discussion">Aptarimas</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantai</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Žiūrėti</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pagrindinis_puslapis" >Skaityti</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Pagrindinis_puslapis&amp;action=edit"  title="Puslapis yra užrakintas. Galite pažiūrėti turinį. [e]" accesskey="e">Žiūrėti kodą</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pagrindinis_puslapis&amp;action=history"  title="Ankstesnės puslapio versijos [h]" accesskey="h">Istorija</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Daugiau</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Paieška</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Ieškoti" title="Ieškoti lietuviškame wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Specialus:Paieška" name="title"/><input type="submit" name="fulltext" value="Paieška" title="Ieškokite šio teksto puslapių" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Rodyti" title="Eiti į puslapį su tokiu pavadinimu, jei toks yra" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Pagrindinis_puslapis"  title="Eiti į pradinį puslapį"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Naršymas</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/Pagrindinis_puslapis" title="Eiti į pradinį puslapį [z]" accesskey="z">Pagrindinis puslapis</a></li><li id="n-portal"><a href="/wiki/Vikipedija:Bendruomen%C4%97" title="Apie projektą, ką galima daryti, kur ką rasti">Bendruomenė</a></li><li id="n-forumas"><a href="/wiki/Vikipedija:Forumas">Forumas</a></li><li id="n-recentchanges"><a href="/wiki/Specialus:Naujausi_keitimai" title="Paskutinių keitimų sąrašas wiki projekte [r]" accesskey="r">Naujausi keitimai</a></li><li id="n-randompage"><a href="/wiki/Specialus:Atsitiktinis_puslapis" title="Įkelti atsitiktinį puslapį [x]" accesskey="x">Atsitiktinis straipsnis</a></li><li id="n-pagalba"><a href="/wiki/Pagalba:Turinys">Pagalba</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_lt.wikipedia.org&amp;uselang=lt" title="Paremkite mus">Parama</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Spausdinti/eksportuoti</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Specialus:Book&amp;bookcmd=book_creator&amp;referer=Pagrindinis+puslapis">Kurti knygą</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Specialus:Book&amp;bookcmd=render_article&amp;arttitle=Pagrindinis+puslapis&amp;returnto=Pagrindinis+puslapis&amp;oldid=5144910&amp;writer=rdf2latex">Parsisiųsti kaip PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pagrindinis_puslapis&amp;printable=yes" title="Šio puslapio versija spausdinimui [p]" accesskey="p">Versija spausdinimui</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Kituose projektuose</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://lt.wikibooks.org/wiki/Pagrindinis_puslapis" hreflang="lt">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://lt.wikiquote.org/wiki/Pagrindinis_puslapis" hreflang="lt">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://lt.wikisource.org/wiki/Pagrindinis_puslapis" hreflang="lt">Wikisource</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Įrankiai</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Specialus:Kas_%C4%AF_%C4%8Dia_rodo/Pagrindinis_puslapis" title="Wiki puslapių sąrašas, kuris nurodo čia [j]" accesskey="j">Susiję straipsniai</a></li><li id="t-recentchangeslinked"><a href="/wiki/Specialus:Pakeitimai_susijusiuose_puslapiuose/Pagrindinis_puslapis" rel="nofollow" title="Paskutiniai keitimai puslapiuose, pasiekiamuose iš šio puslapio [k]" accesskey="k">Susiję keitimai</a></li><li id="t-specialpages"><a href="/wiki/Specialus:Specialieji_puslapiai" title="Specialiųjų puslapių sąrašas [q]" accesskey="q">Specialieji puslapiai</a></li><li id="t-permalink"><a href="/w/index.php?title=Pagrindinis_puslapis&amp;oldid=5144910" title="Nuolatinė nuoroda į šią puslapio versiją">Nuolatinė nuoroda</a></li><li id="t-info"><a href="/w/index.php?title=Pagrindinis_puslapis&amp;action=info" title="Daugiau žinių apie šį puslapį">Puslapio informacija</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Nuoroda į susietą duomenų saugyklos įrašą [g]" accesskey="g">Wikidata įrašas</a></li><li id="t-cite"><a href="/w/index.php?title=Specialus:CiteThisPage&amp;page=Pagrindinis_puslapis&amp;id=5144910" title="Informacija kaip cituoti šį puslapį">Cituoti straipsnį</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Kitomis kalbomis</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arabų" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/" title="Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/" title="baltarusių" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="bulgarų" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="čekų" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="danų" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="vokiečių" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="anglų" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="ispanų" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="estų" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="persų" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="prancūzų" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="vengrų" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="italų" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japonų" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="gruzinų" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="lotynų" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/" title="latgalių" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/" title="latvių" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="olandų" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="norvegų" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="lenkų" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugalų" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="rusų" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="serbų" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="švedų" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turkų" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/" title="totorių" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukrainiečių" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vietnamiečių" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="kinų" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Šis puslapis paskutinį kartą keistas 5 kovo 2017 13:30.</li>
+											<li id="footer-info-copyright">Tekstas pateikiamas pagal <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Licenciją</a>;
+gali būti taikomos papildomos sąlygos.
+Detaliau – <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> .</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privatumo politika</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikipedija:Apie" class="mw-redirect" title="Vikipedija:Apie">Apie Vikipediją</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikipedija:General_disclaimer" class="mw-redirect" title="Vikipedija:General disclaimer">Jokių garantijų</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Kūrėjai</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Slapukų politika</a></li>
+											<li id="footer-places-mobileview"><a href="//lt.m.wikipedia.org/w/index.php?title=Pagrindinis_puslapis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobili peržiūra</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.171","ppvisitednodes":{"value":330,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17153,"limit":2097152},"templateargumentsize":{"value":1620,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   32.702      1 -total"," 34.36%   11.236      1 Šablonas:Mėnesio_šalis"," 12.84%    4.199      1 Šablonas:Gegužės_4_dienos_įvykiai"," 11.67%    3.815      1 Šablonas:Savaitės_tema"," 10.71%    3.502      1 Šablonas:Pradžia-Rinktinė-illu","  8.10%    2.649      1 Šablonas:Dienos_įvykiai","  6.60%    2.157      1 Vikipedija:Savaitės_iniciatyva/Tema","  6.42%    2.098      1 Vikiprojektas:Savaitės_straipsnis/Straipsnis","  6.10%    1.995      1 Šablonas:Sk","  5.82%    1.904      1 Šablonas:Apie"]},"cachereport":{"origin":"mw1263","timestamp":"20170504155156","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1220"});});</script>
+	</body>
+</html>

@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="gl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, a enciclopedia libre</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portada","wgTitle":"Portada","wgCurRevisionId":3934229,"wgRevisionId":3934229,"wgArticleId":62904,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Índice"],"wgBreakFrames":false,"wgPageContentLanguage":"gl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","xaneiro","febreiro","marzo","abril","maio","xuño","xullo","agosto","setembro","outubro","novembro","decembro"],"wgMonthNamesShort":["","xan","feb","mar","abr","maio","xuñ","xul","ago","set","out","nov","dec"],"wgRelevantPageName":"Portada","wgRelevantArticleId":62904,"wgRequestId":"WQ2G7ApAME4AABoB8YwAAAAW","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"gl","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"gl","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"galego","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1378jzu",function($,jQuery,require,module){mw.user.options.set({"variant":"gl"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.charinsert","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=gl&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=gl&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=gl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/53/Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/gl.m.wikipedia.org/wiki/Portada"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (gl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//gl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://gl.wikipedia.org/wiki/Portada"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Portada rootpage-Portada skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="gl">Portada</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Na Galipedia, a Wikipedia en galego.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Ir a:					<a href="#mw-head">navegación</a>, 					<a href="#p-search">procura</a>
+				</div>
+				<div id="mw-content-text" lang="gl" dir="ltr" class="mw-content-ltr"><div id="portada_t.C3.ADtulo">
+<table style="width:100%; margin-bottom:2px; background:#f5faff;">
+<tr>
+<td class="fonslogo" style="background-repeat:no-repeat; background-position:-40px -25px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent">
+<tr>
+<td style="height:3em; padding-left:155px">
+<div style="font-size:185%;"><a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">Benvid@</a> á <a href="/wiki/Galipedia" title="Galipedia">Galipedia</a></div>
+<div style="margin-left:15px">A <a href="/wiki/Wikipedia:Introduci%C3%B3n" title="Wikipedia:Introdución">enciclopedia libre</a> que <a href="/wiki/Wikipedia:Como_editar_unha_p%C3%A1xina" title="Wikipedia:Como editar unha páxina">calquera pode editar</a></div>
+</td>
+<td style="padding:1em;text-align:right;line-height:1.3"><a href="/wiki/S%C3%A1bado" title="Sábado">sábado</a>, <a href="/wiki/6_de_maio" title="6 de maio">6 de maio</a> de <a href="/wiki/2017" title="2017">2017</a><br />
+<span class="plainlinks" style="font-size:80%;"><a class="external text" href="http://gl.m.wikipedia.org">Versión para móbiles</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"></td>
+</tr>
+</table>
+<div style="margin:0 0 0; text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:100%">Nesta versión en <a href="/wiki/Lingua_galega" title="Lingua galega">galego</a>, que comezou o <a href="/wiki/8_de_marzo" title="8 de marzo">8 de marzo</a> de <a href="/wiki/2003" title="2003">2003</a>, xa temos <b><a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">138&#160;873</a> artigos</b>.</div>
+<p style="margin: 2px 0 2px 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding: 0; text-align: center;"><a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">Benvida</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Categor%C3%ADa:COMOs" title="Categoría:COMOs">COMOs</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Wikipedia:Preguntas_m%C3%A1is_frecuentes" title="Wikipedia:Preguntas máis frecuentes">Preguntas frecuentes</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Wikipedia:Portal_da_comunidade" title="Wikipedia:Portal da comunidade">Comunidade</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Wikipedia:Pol%C3%ADticas_e_normas" title="Wikipedia:Políticas e normas">Políticas</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Wikipedia:Artigos_de_calidade" title="Wikipedia:Artigos de calidade">Artigos de calidade</a> <img alt="Bullet black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" data-file-width="16" data-file-height="16" /> <a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">Axuda</a></p>
+</td>
+</tr>
+</table>
+</div>
+<table style="margin-top:10px; background:none">
+<tr>
+<td style="width:65%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="secci.C3.B3n-destacadoHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Artigo_destacado">Artigo destacado</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="secci.C3.B3n-destacado" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+<div id="artigo_destacado" title="Artigo destacado">
+<div style="float:left;margin-right:0.9em">
+<div class="floatnone"><a href="/wiki/Ficheiro:Bundesarchiv_Bild_101I-575-1822-30A,_Italien,_Fallschirmj%C3%A4ger,_rauchend.jpg" class="image"><img alt="Bundesarchiv Bild 101I-575-1822-30A, Italien, Fallschirmjäger, rauchend.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg/140px-Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg" width="140" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg/210px-Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg/280px-Bundesarchiv_Bild_101I-575-1822-30A%2C_Italien%2C_Fallschirmj%C3%A4ger%2C_rauchend.jpg 2x" data-file-width="800" data-file-height="536" /></a></div>
+</div>
+<p>O <b><a href="/wiki/Movemento_antitabaco_na_Alema%C3%B1a_nazi" title="Movemento antitabaco na Alemaña nazi">movemento antitabaco na Alemaña nazi</a></b> comezou no <a href="/wiki/Alema%C3%B1a_nazi" title="Alemaña nazi">Terceiro Reich</a> despois de que os médicos alemáns fosen os primeiros en descubrir a relación entre o <a href="/wiki/Cancro_de_pulm%C3%B3n" title="Cancro de pulmón">cancro de pulmón</a> e o <a href="/wiki/Tabaco" title="Tabaco">tabaco</a>, liderando a primeira <a href="/w/index.php?title=Campa%C3%B1a_antitabaco&amp;action=edit&amp;redlink=1" class="new" title="Campaña antitabaco (a páxina aínda non existe)">campaña antitabaco</a> da historia moderna. Os movementos antitabaco medraron en moitas nacións dende comezos do <a href="/wiki/S%C3%A9culo_XX" title="Século XX">século XX</a>, pero tiveron pouco éxito agás en Alemaña, onde a campaña recibiu o apoio do goberno despois do ascenso dos <a href="/wiki/Nazi" class="mw-redirect" title="Nazi">Nazis</a> no poder. Este foi o movemento en contra do tabaco máis poderoso do mundo nos anos 1930 e comezos dos anos 1940.</p>
+<p>A campaña antitabaco dos nazis consistiu en prohibir fumar nos tranvías, autobuses e trens urbanos, promover a educación saudable, limitar as racións de cigarros na <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a>, organizar clases médicas para os soldados e incrementar os impostos sobre o tabaco. O movemento antitabaco non tivo demasiada eficacia nos primeiros anos do <a href="/wiki/R%C3%A9xime_nazi" class="mw-redirect" title="Réxime nazi">réxime nazi</a> e malia os esforzos da campaña o consumo de tabaco medrou entre os anos 1933 e 1939, mais posteriormente diminuíu entre os anos 1939 e 1945.</p>
+</div>
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/Wikipedia:Artigo_destacado" title="Wikipedia:Artigo destacado">Outros artigos destacados</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Wikipedia:Artigos_de_calidade" title="Wikipedia:Artigos de calidade">Artigos de calidade</a></span></i></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/38px-HSGalicia.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/57px-HSGalicia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/76px-HSGalicia.png 2x" data-file-width="700" data-file-height="700" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="secci.C3.B3n-sobregaliciaHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Sobre_Galicia">Sobre Galicia</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="secci.C3.B3n-sobregalicia" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+<div id="sobre_galicia" title="Sobre Galicia">
+<div style="float:left;margin-right:0.9em">
+<div class="floatnone"><a href="/wiki/Ficheiro:Carlos_Casares.jpg" class="image"><img alt="Carlos Casares.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Carlos_Casares.jpg/120px-Carlos_Casares.jpg" width="120" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Carlos_Casares.jpg/180px-Carlos_Casares.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Carlos_Casares.jpg/240px-Carlos_Casares.jpg 2x" data-file-width="2000" data-file-height="3008" /></a></div>
+</div>
+<p><b><a href="/wiki/Carlos_Casares" title="Carlos Casares">Carlos Casares Mouriño</a></b>, nado en <a href="/wiki/Ourense" title="Ourense">Ourense</a> o <a href="/wiki/24_de_agosto" title="24 de agosto">24 de agosto</a> de <a href="/wiki/1941" title="1941">1941</a> e finado na <a href="/wiki/A_Ramallosa,_Nigr%C3%A1n" title="A Ramallosa, Nigrán">Ramallosa</a>, <a href="/wiki/Nigr%C3%A1n" title="Nigrán">Nigrán</a>, o <a href="/wiki/9_de_marzo" title="9 de marzo">9 de marzo</a> de <a href="/wiki/2002" title="2002">2002</a>, foi un escritor en <a href="/wiki/Lingua_galega" title="Lingua galega">lingua galega</a>, <a href="/wiki/Cr%C3%ADtica_literaria" title="Crítica literaria">crítico literario</a> e <a href="/wiki/Pol%C3%ADtica" title="Política">político</a>. Estudou en <a href="/wiki/Santiago_de_Compostela" title="Santiago de Compostela">Santiago de Compostela</a>, cidade na que entrou en contacto con representantes do <a href="/wiki/Galeguismo_(pol%C3%ADtica)" title="Galeguismo (política)">galeguismo</a>, como <a href="/wiki/Ram%C3%B3n_Pi%C3%B1eiro" title="Ramón Piñeiro">Ramón Piñeiro</a>. Foi director da <a href="/wiki/Editorial_Galaxia" title="Editorial Galaxia">editorial Galaxia</a> e da revista <a href="/wiki/Grial_(revista)" title="Grial (revista)"><i>Grial</i></a>. Cultivou sobre todo a <a href="/wiki/Narrativa" title="Narrativa">narrativa</a>. Nos anos sesenta publicou o libro de relatos <i><a href="/wiki/Vento_ferido" title="Vento ferido">Vento ferido</a></i> e <i>Cambio en tres</i>.</p>
+<p>En 1975 aparece <i><a href="/wiki/Xoguetes_pra_un_tempo_prohibido" class="mw-redirect" title="Xoguetes pra un tempo prohibido">Xoguetes pra un tempo prohibido</a></i>. Viñeron logo o libro de relatos <i><a href="/wiki/Os_escuros_so%C3%B1os_de_Cl%C3%ADo" title="Os escuros soños de Clío">Os escuros soños de Clío</a></i> e as novelas <i><a href="/wiki/Ilustr%C3%ADsima" title="Ilustrísima">Ilustrísima</a></i>, <i>Os mortos daquel verán</i>, <i>Deus sentado nun sillón azul</i> e <i><a href="/wiki/O_sol_do_ver%C3%A1n" title="O sol do verán">O sol do verán</a></i>. É de destacar, tamén, o traballo como columnista, principalmente en <i><a href="/wiki/La_Voz_de_Galicia" title="La Voz de Galicia">La Voz de Galicia</a></i> entre 1992 e 1998, recollido en sete <a href="/wiki/Volume_(libro)" title="Volume (libro)">volumes</a> publicados por Galaxia de 2005 a 2008, titulados <i>Á marxe</i>. No ano 2017 adícaselle o <a href="/wiki/D%C3%ADa_das_Letras_Galegas" title="Día das Letras Galegas">Día das Letras Galegas</a>.</p>
+</div>
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/Wikipedia:Sobre_Galicia" title="Wikipedia:Sobre Galicia">Outros artigos destacados sobre Galicia</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Maio_na_cultura_popular_galega" title="Maio na cultura popular galega">O mes de maio na cultura popular galega</a></span></i></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/38px-Datum06.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/57px-Datum06.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/76px-Datum06.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="secci.C3.B3n-efem.C3.A9ridesHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Tal_d.C3.ADa_como_hoxe_no_ano...">Tal día como hoxe no ano...</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="secci.C3.B3n-efem.C3.A9rides" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+<div id="efemerides" title="Efemérides destacadas">
+<div style="float:left; margin-right:1.5em;">
+<div class="floatleft"><a href="/wiki/Torre_Eiffel" title="Torre Eiffel"><img alt="Vista aérea de París, mostrando a Torre Eiffel no centro, durante a Exposición Universal de 1889" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Paris-LOC_cph_3b40741.jpg/160px-Paris-LOC_cph_3b40741.jpg" width="160" height="108" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Paris-LOC_cph_3b40741.jpg/240px-Paris-LOC_cph_3b40741.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Paris-LOC_cph_3b40741.jpg/320px-Paris-LOC_cph_3b40741.jpg 2x" data-file-width="1488" data-file-height="1004" /></a></div>
+</div>
+<ul>
+<li><a href="/wiki/1861" title="1861">1861</a>, nace <a href="/wiki/Rabindranath_Tagore" title="Rabindranath Tagore">Rabindranath Tagore</a>, escritor, poeta e músico indio (m. <a href="/wiki/1941" title="1941">1941</a>).</li>
+<li><a href="/wiki/1889" title="1889">1889</a>, a <a href="/wiki/Torre_Eiffel" title="Torre Eiffel">Torre Eiffel</a> é oficialmente aberta ao público durante a <a href="/w/index.php?title=Exposici%C3%B3n_Universal_de_Par%C3%ADs&amp;action=edit&amp;redlink=1" class="new" title="Exposición Universal de París (a páxina aínda non existe)">Exposición Universal de París</a>.</li>
+<li><a href="/wiki/1937" title="1937">1937</a>, acontece o <a href="/w/index.php?title=Desastre_do_Hindenburg&amp;action=edit&amp;redlink=1" class="new" title="Desastre do Hindenburg (a páxina aínda non existe)">desastre do Hindenburg</a>: prende o lume no <a href="/wiki/Cepel%C3%ADn" class="mw-redirect" title="Cepelín">cepelín</a> alemán <i>Hindenburg</i> e destrúese en menos de un minuto ao tentar pousar en <a href="/w/index.php?title=Lakehurst,_Nova_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Lakehurst, Nova Jersey (a páxina aínda non existe)">Lakehurst, Nova Jersey</a>, causando 36 mortos.</li>
+<li><a href="/wiki/1992" title="1992">1992</a>, morre <a href="/wiki/Marlene_Dietrich" title="Marlene Dietrich">Marlene Dietrich</a>, actriz alemá.</li>
+<li><a href="/wiki/1994" title="1994">1994</a>, inaugúrase o <a href="/wiki/Eurot%C3%BAnel" title="Eurotúnel">Eurotúnel</a> que atravesa o <a href="/wiki/Canal_da_Mancha" title="Canal da Mancha">Canal da Mancha</a>.</li>
+</ul>
+</div>
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/6_de_maio" title="6 de maio">Máis efemérides do día de hoxe</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Wikipedia:Efem%C3%A9rides_destacadas" title="Wikipedia:Efemérides destacadas">Outras Efemérides destacadas</a></span></i></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:5px solid transparent;"></td>
+<td style="width:35%; border:1px solid #a7d7f9; background:none; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<table id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent; text-align: left;">
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="secci.C3.B3n-imaxedestacadaHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Imaxe_da_semana">Imaxe da semana</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="secci.C3.B3n-imaxedestacada" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+<table style="margin: 0 0 1em 1em; border:none; margin:auto; text-align: center;">
+<tr>
+<td style="padding:0;" align="center"><a href="/wiki/Ficheiro:RUS-2016-Aerial-SPB-Peterhof_Palace.jpg" class="image"><img alt="RUS-2016-Aerial-SPB-Peterhof Palace.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RUS-2016-Aerial-SPB-Peterhof_Palace.jpg/350px-RUS-2016-Aerial-SPB-Peterhof_Palace.jpg" width="350" height="233" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RUS-2016-Aerial-SPB-Peterhof_Palace.jpg/525px-RUS-2016-Aerial-SPB-Peterhof_Palace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RUS-2016-Aerial-SPB-Peterhof_Palace.jpg/700px-RUS-2016-Aerial-SPB-Peterhof_Palace.jpg 2x" data-file-width="4207" data-file-height="2804" /></a></td>
+</tr>
+<tr>
+<td style="font-size:95%;">Foto aérea do <a href="/w/index.php?title=Palacio_de_Peterhof&amp;action=edit&amp;redlink=1" class="new" title="Palacio de Peterhof (a páxina aínda non existe)">Palacio de Peterhof</a>, en <a href="/w/index.php?title=Petergof&amp;action=edit&amp;redlink=1" class="new" title="Petergof (a páxina aínda non existe)">Petergof</a>, <a href="/wiki/San_Petersburgo" title="San Petersburgo">San Petersburgo</a>, <a href="/wiki/Rusia" title="Rusia">Rusia</a></td>
+</tr>
+<tr>
+<td style="font-size:95%;"><b>Vexa o artigo <a href="/wiki/Pedro_o_Grande" class="mw-redirect" title="Pedro o Grande">Pedro o Grande</a></b></td>
+</tr>
+</table>
+<div align="right" style="font-size:85%;">
+<div style="clear:both;"></div>
+<i><span style="white-space:nowrap"><a href="/wiki/Wikipedia:Imaxe_da_semana" title="Wikipedia:Imaxe da semana">Outras imaxes destacadas</a> •</span> <a href="https://commons.wikimedia.org/wiki/Featured_pictures" class="extiw" title="commons:Featured pictures">Imaxes destacadas en Commons</a></i></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" data-file-width="1500" data-file-height="1500" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Presentaci.C3.B3n">Presentación</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+<p>A <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> é unha enciclopedia universal en liña <a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/gl" class="extiw" title="m:List of Wikipedias/gl">multilingüe</a>, colaborativa e gratuíta. O propósito da Wikipedia é fornecer un contido <a href="/wiki/Wikipedia:Dereitos_de_autor%C3%ADa" title="Wikipedia:Dereitos de autoría">libre</a>, <a href="/wiki/WP:PVN" class="mw-redirect" title="WP:PVN">obxectivo</a> e <a href="/wiki/WP:V" class="mw-redirect" title="WP:V">verificable</a> que todos poidan editar e mellorar.</p>
+O proxecto está baseado en <a href="/wiki/Wikipedia:Cinco_piares" title="Wikipedia:Cinco piares">cinco principios</a> básicos, todo o contido está dispoñible baixo a licenza <span class="plainlinks"><a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons BY-SA</a></span> e pode ser copiado e reutilizado baixo esta mesma licenza.
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">Benvida</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">Índice da Axuda</a></span></i></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" data-file-width="61" data-file-height="61" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Participaci.C3.B3n">Participación</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">Podes consultar a <a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">Axuda</a> e a <a href="/wiki/Wikipedia:Gu%C3%ADa" title="Wikipedia:Guía">Guía</a> para obter máis información de como participar, nas que atoparás información de como <a href="/wiki/Wikipedia:Como_comezar_a_colaborar" title="Wikipedia:Como comezar a colaborar">comezar a colaborar</a>, <a href="/wiki/Wikipedia:Gu%C3%ADa" title="Wikipedia:Guía">editar artigos</a> e <a href="/wiki/Wikipedia:Pol%C3%ADtica_de_uso_de_imaxes" title="Wikipedia:Política de uso de imaxes">usar imaxes libres</a>. En caso de dúbidas séntete libre de <a href="/wiki/Wikipedia:A_Taberna_(axuda)" title="Wikipedia:A Taberna (axuda)">preguntar</a>.
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/Categor%C3%ADa:COMOs" title="Categoría:COMOs">COMOs</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Wikipedia:Preguntas_m%C3%A1is_frecuentes" title="Wikipedia:Preguntas máis frecuentes">Preguntas máis frecuentes</a></span></i></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" width="350" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/38px-HSSamarbete.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/57px-HSSamarbete.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/76px-HSSamarbete.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0"><span class="mw-headline" id="Comunidade">Comunidade</span></h2>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">De acordo as <a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">nosas estatísticas</a>, temos un total de 75&#160;607 contas de usuario rexistradas na Galipedia, e entre elas 317 estiveron activas durante o último mes. Todos os editores da Wikipedia son voluntarios, integrando unha comunidade colaborativa e coordinando os esforzos por medio de <a href="/wiki/Wikipedia:Wikiproxecto" title="Wikipedia:Wikiproxecto">proxectos temáticos</a> e diversos <a href="/wiki/Wikipedia:A_Taberna" title="Wikipedia:A Taberna">espazos de conversa</a>.
+<div align="right" style="font-size:85%;"><i><span style="white-space:nowrap"><a href="/wiki/Wikipedia:Portal_da_comunidade" title="Wikipedia:Portal da comunidade">Portal da comunidade</a> •</span> <span style="white-space:nowrap"><a href="/wiki/Wikipedia:Pol%C3%ADticas_e_normas" title="Wikipedia:Políticas e normas">Políticas e normas</a></span></i></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; border-radius:10px; font-size:90%">
+<tr>
+<td>
+<table style="width:100%; padding:0px; margin-top:0px; margin-bottom:0px; background:#F1FAFF; padding:0.5em 1em 0.5em 1em; text-align:center;">
+<tr style="text-align:center; font-size:85%;" valign="bottom">
+<td>
+<div class="noresize"><a href="https://meta.wikimedia.org/wiki/Portada/gl" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/80px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></div>
+<p><a href="https://meta.wikimedia.org/wiki/Portada/gl" class="extiw" title="m:Portada/gl"><b>Meta-Wiki</b></a><br />
+Coordinación</p>
+</td>
+<td>
+<div class="noresize"><a href="https://commons.wikimedia.org/wiki/Portada_galega" title="Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+<p><a href="https://commons.wikimedia.org/wiki/Portada_galega" class="extiw" title="commons:Portada galega"><b>Commons</b></a><br />
+Multimedia</p>
+</td>
+<td>
+<div class="noresize"><a href="https://gl.wiktionary.org/wiki/" title="Galizionario"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/40px-Wiktionary-logo-gl.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/60px-Wiktionary-logo-gl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/80px-Wiktionary-logo-gl.png 2x" data-file-width="120" data-file-height="120" /></a></div>
+<p><a href="https://gl.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Galizionario</b></a><br />
+Dicionario</p>
+</td>
+<td>
+<div class="noresize"><a href="https://gl.wikibooks.org/wiki/" title="Galilibros"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+<p><a href="https://gl.wikibooks.org/wiki/" class="extiw" title="b:"><b>Galilibros</b></a><br />
+Libros</p>
+</td>
+<td>
+<div class="noresize"><a href="https://gl.wikisource.org/wiki/" title="Galifontes"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/80px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+<p><a href="https://gl.wikisource.org/wiki/" class="extiw" title="s:"><b>Galifontes</b></a><br />
+Documentos</p>
+</td>
+<td>
+<div class="noresize"><a href="https://gl.wikiquote.org/wiki/" title="Galicitas"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/80px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+<p><a href="https://gl.wikiquote.org/wiki/" class="extiw" title="q:"><b>Galicitas</b></a><br />
+Citas</p>
+</td>
+<td>
+<div class="noresize"><a href="https://species.wikimedia.org/wiki/Portada_galega" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/80px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+<p><a href="https://species.wikimedia.org/wiki/Portada_galega" class="extiw" title="wikispecies:Portada galega"><b>Wikispecies</b></a><br />
+Especies</p>
+</td>
+<td>
+<div class="noresize"><a href="//wikinews.org/" class="plainlinks" rel="nofollow" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/65px-Wikinews-logo.svg.png" width="65" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/98px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/130px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+<p><span class="plainlinks noprint"><a class="external text" href="//wikinews.org/"><b>Wikinews</b></a></span><br />
+Novas</p>
+</td>
+<td>
+<div class="noresize"><a href="//wikiversity.org/" class="plainlinks" rel="nofollow" title="Wikiversity"><img alt="Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/50px-Wikiversity-logo.svg.png" width="50" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/75px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/100px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+<p><span class="plainlinks noprint"><a class="external text" href="//wikiversity.org/"><b>Wikiversity</b></a></span><br />
+Aprendizaxe</p>
+</td>
+<td>
+<div class="noresize"><a href="//wikivoyage.org/" class="plainlinks" rel="nofollow" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/43px-Wikivoyage-Logo-v3-icon.svg.png" width="43" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/65px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/86px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+<p><span class="plainlinks noprint"><a class="external text" href="//wikivoyage.org/"><b>Wikivoyage</b></a></span><br />
+Viaxes</p>
+</td>
+<td>
+<div class="noresize"><a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/67px-Wikidata-logo.svg.png" width="67" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/101px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/134px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+<p><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:"><b>Wikidata</b></a><br />
+Datos</p>
+</td>
+<td>
+<div class="noresize"><a href="https://www.mediawiki.org/wiki/MediaWiki/gl" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/55px-Mediawiki-logo.png" width="55" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/83px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/110px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></div>
+<p><a href="https://www.mediawiki.org/wiki/MediaWiki/gl" class="extiw" title="mw:MediaWiki/gl"><b>MediaWiki</b></a><br />
+Desenvolvemento</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20170506081539
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.068 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 441/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22542/2097152 bytes
+Template argument size: 9216/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.003/10.000 seconds
+Lua memory usage: 526 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   56.847      1 -total
+ 37.37%   21.243      1 Modelo:PortadaIrmáns
+ 31.39%   17.845      7 Modelo:PortadaCadro
+ 27.25%   15.490      1 Modelo:PortadaTítulo
+ 25.71%   14.616      2 Modelo:Substituír
+  4.89%    2.780      1 Wikipedia:Artigo_destacado/maio_2017
+  4.60%    2.612      1 Modelo:PortadaComunidade
+  3.22%    1.831      1 Modelo:InterwikiPortada
+  2.56%    1.454      1 Wikipedia:Sobre_Galicia/maio_2017
+  2.36%    1.343      1 Wikipedia:Efemérides_destacadas/6_de_maio
+-->
+
+<!-- Saved in parser cache with key glwiki:pcache:idhash:62904-0!*!0!!*!4!* and timestamp 20170506081539 and revision id 3934229
+ -->
+<noscript><img src="//gl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Traído desde "<a dir="ltr" href="https://gl.wikipedia.org/w/index.php?title=Portada&amp;oldid=3934229">https://gl.wikipedia.org/w/index.php?title=Portada&amp;oldid=3934229</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:%C3%8Dndice" title="Categoría:Índice">Índice</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menú de navegación</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas persoais</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non accedeu ao sistema</li><li id="pt-anontalk"><a href="/wiki/Especial:A_mi%C3%B1a_conversa" title="Conversa acerca de edicións feitas desde este enderezo IP [n]" accesskey="n">Conversa</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:As_mi%C3%B1as_contribuci%C3%B3ns" title="Unha lista das modificacións feitas desde este enderezo IP [y]" accesskey="y">Contribucións</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_unha_conta&amp;returnto=Portada" title="Recoméndaselle crear unha conta e acceder ao sistema, se ben non é obrigatorio">Crear unha conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Iniciar_sesi%C3%B3n&amp;returnto=Portada" title="Recoméndaselle rexistrarse, se ben non é obrigatorio [o]" accesskey="o">Acceder ao sistema</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espazos de nomes</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Portada"  title="Ver o contido da páxina [c]" accesskey="c">Portada</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Conversa:Portada"  title="Conversa acerca do contido desta páxina [t]" accesskey="t" rel="discussion">Conversa</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portada" >Ler</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Portada&amp;action=edit"  title="Esta páxina está protexida.&#10;Pode ver o código fonte. [e]" accesskey="e">Ver o código fonte</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portada&amp;action=history"  title="Versións anteriores desta páxina [h]" accesskey="h">Ver o historial</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Máis</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Procura</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Procurar en Wikipedia" title="Procurar neste wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Especial:Procurar" name="title"/><input type="submit" name="fulltext" value="Procurar" title="Procurar este texto nas páxinas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Artigo" title="Ir a unha páxina con este texto exacto, se existe" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Portada"  title="Visitar a páxina principal"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navegación</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Portada" title="Visitar a páxina principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Portal_da_comunidade" title="Información acerca do proxecto, o que pode facer e os lugares onde atopar as cousas">Portal da comunidade</a></li><li id="n-A-Taberna"><a href="/wiki/Wikipedia:A_Taberna">A Taberna</a></li><li id="n-currentevents"><a href="/wiki/Wikipedia:Actualidade" title="Información acerca de acontecementos de actualidade">Actualidade</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Cambios_recentes" title="A lista de modificacións recentes no wiki [r]" accesskey="r">Cambios recentes</a></li><li id="n-Artigos-de-calidade"><a href="/wiki/Wikipedia:Artigos_de_calidade">Artigos de calidade</a></li><li id="n-randompage"><a href="/wiki/Especial:Ao_chou" title="Cargar unha páxina ao chou [x]" accesskey="x">Páxina aleatoria</a></li><li id="n-help"><a href="/wiki/Wikipedia:Axuda" title="O lugar para informarse">Axuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_gl.wikipedia.org&amp;uselang=gl" title="Apóienos">Doazóns</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimir/exportar</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Portada">Crear un libro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=render_article&amp;arttitle=Portada&amp;returnto=Portada&amp;oldid=3934229&amp;writer=rdf2latex">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portada&amp;printable=yes" title="Versión para imprimir da páxina [p]" accesskey="p">Versión para imprimir</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Noutros proxectos</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://gl.wikibooks.org/wiki/Portada" hreflang="gl">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://gl.wikiquote.org/wiki/Portada" hreflang="gl">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://gl.wikisource.org/wiki/Portada" hreflang="gl">Wikisource</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Ferramentas</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1xinas_que_ligan_con_esta/Portada" title="Lista de todas as páxinas do wiki que ligan cara a aquí [j]" accesskey="j">Páxinas que ligan con esta</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Cambios_relacionados/Portada" rel="nofollow" title="Cambios recentes nas páxinas ligadas desde esta [k]" accesskey="k">Cambios relacionados</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1xinas_especiais" title="Lista de todas as páxinas especiais [q]" accesskey="q">Páxinas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Portada&amp;oldid=3934229" title="Ligazón permanente a esta versión da páxina">Ligazón permanente</a></li><li id="t-info"><a href="/w/index.php?title=Portada&amp;action=info" title="Máis información sobre esta páxina">Información da páxina</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Ligazón ao elemento conectado no repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Cita&amp;page=Portada&amp;id=3934229" title="Información sobre como citar esta páxina">Citar esta páxina</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Outras linguas</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/" title="aragonés" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/" title="asturiano" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="catalán" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/" title="cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="dinamarqués" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="alemán" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="grego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="inglés" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="español" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="éuscaro" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/" title="Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="finés" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="francés" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="hebreo" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="húngaro" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonesio" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="xaponés" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="latín" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="holandés" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="noruegués nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="noruegués" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/" title="occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugués" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="romanés" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="ruso" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="serbocroata" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="sueco" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ucraíno" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/" title="waray-waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="chinés" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> A última edición desta páxina foi o 16 de maio de 2016 ás 10:23.</li>
+											<li id="footer-info-copyright">Todo o texto está dispoñible baixo a <a rel="license" href="//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0">licenza Creative Commons recoñecemento compartir igual 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/deed.gl" style="display:none;"></a>; pódense aplicar termos adicionais. Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl">termos de uso</a> para obter máis información.<br />Wikipedia® é unha marca rexistrada da <a href="//www.wikimediafoundation.org/wiki/Portada_galega">Wikimedia Foundation, Inc.</a>, unha organización sen fins lucrativos.<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/gl" class="extiw" title="m:Privacy policy/gl">Política de protección de datos</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Advertencia_xeral" title="Wikipedia:Advertencia xeral">Advertencias</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desenvolvedores</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaración de cookies</a></li>
+											<li id="footer-places-mobileview"><a href="//gl.m.wikipedia.org/w/index.php?title=Portada&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Vista móbil</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.109","ppvisitednodes":{"value":441,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22542,"limit":2097152},"templateargumentsize":{"value":9216,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   56.847      1 -total"," 37.37%   21.243      1 Modelo:PortadaIrmáns"," 31.39%   17.845      7 Modelo:PortadaCadro"," 27.25%   15.490      1 Modelo:PortadaTítulo"," 25.71%   14.616      2 Modelo:Substituír","  4.89%    2.780      1 Wikipedia:Artigo_destacado/maio_2017","  4.60%    2.612      1 Modelo:PortadaComunidade","  3.22%    1.831      1 Modelo:InterwikiPortada","  2.56%    1.454      1 Wikipedia:Sobre_Galicia/maio_2017","  2.36%    1.343      1 Wikipedia:Efemérides_destacadas/6_de_maio"]},"scribunto":{"limitreport-timeusage":{"value":"0.003","limit":"10.000"},"limitreport-memusage":{"value":539125,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20170506081539","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1243"});});</script>
+	</body>
+</html>

@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="th" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>วิกิพีเดีย สารานุกรมเสรี</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"หน้าหลัก","wgTitle":"หน้าหลัก","wgCurRevisionId":5512633,"wgRevisionId":5512633,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"th","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"thai","wgMonthNames":["","มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"],"wgMonthNamesShort":["","ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."],"wgRelevantPageName":"หน้าหลัก","wgRelevantArticleId":1,"wgRequestId":"WQ1WigpAEK0AAFZjEZUAAABK","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"th","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"th","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"ไทย","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.0"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@03tp6gx",function($,jQuery,require,module){mw.user.options.set({"variant":"th"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=th&amp;modules=ext.dismissableSiteNotice.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=th&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=th&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/th.m.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="วิกิพีเดีย (th)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//th.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-หน้าหลัก rootpage-หน้าหลัก skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Eปิด\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"th\" dir=\"ltr\"\u003E\u003Cp\u003E\u003C/p\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="th">หน้าหลัก</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">จากวิกิพีเดีย สารานุกรมเสรี</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					ไปที่:					<a href="#mw-head">ป้ายบอกทาง</a>, 					<a href="#p-search">ค้นหา</a>
+				</div>
+				<div id="mw-content-text" lang="th" dir="ltr" class="mw-content-ltr"><div style="right:10px; display:none; font-size:90%;" class="metadata topicon"><span style="position:relative; top:1.5em;"><small>6 พฤษภาคม 2560, 11:51 – <span class="plainlinks" id="purgelink"><a class="external text" href="//th.wikipedia.org/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;action=purge">รีเฟรช</a></span></small></span></div>
+<table id="mp-topbanner" class="globegris" style="width:100%; background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px">
+<tr>
+<td style="width:70%;">
+<table style="width:280px; border:none; background:none;">
+<tr>
+<td style="width:280px; text-align:center; white-space:nowrap; color:#000;">
+<div style="font-size:185%;">ยินดีต้อนรับสู่<b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" title="วิกิพีเดีย">วิกิพีเดีย</a></b></div>
+<a href="/wiki/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A1" title="สารานุกรม">สารานุกรม</a><a href="/wiki/%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5" title="เนื้อหาเสรี">เสรี</a>ที่<a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99" title="วิกิพีเดีย:เริ่มต้น">ทุกคนแก้ไขได้</a>
+<div id="articlecount" style="width:100%; font-size:95%;"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2" title="วิกิพีเดียภาษาไทย">วิกิพีเดียภาษาไทย</a>มี <small><b><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%B4" title="พิเศษ:สถิติ">116,295</a></b></small> บทความ</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="width:30%;">
+<table style="width:300px; border:none; background:none;">
+<tr>
+<td style="width:300px; white-space:nowrap; text-align:right; color:#000;">
+<div class="mw-inputbox-centered" style="">
+<form name="searchbox" class="searchbox" action="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2" id="searchbox">
+<p><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /> <input type="submit" name="go" class="mw-ui-button" value="เรียกดู" />&#160;<input type="submit" name="fulltext" class="mw-ui-button" value="ค้นหา" /></p>
+</form>
+</div>
+<div style="top:+0.2em; font-size:90%; text-align:left;"><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2" class="mw-redirect" title="วิกิพีเดีย:ค้นหา">ค้นหา</a></b>: เรียงตาม<a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%94%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%99" title="พิเศษ:ดัชนีตามคำขึ้นต้น">ตัวอักษร</a> • <a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%90%E0%B8%B2%E0%B8%99" title="หมวดหมู่:มูลฐาน">หมวดหมู่</a> | <a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94" title="พิเศษ:หน้าทั้งหมด">ดูหน้าทั้งหมด</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="border-spacing:3px;margin:0px -3px">
+<tr>
+<td class="MainPageBG" style="width: 55%; border: 1px solid #cef2e0; background-color: #f5fffa; vertical-align: top; -moz-border-radius:10px">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5fffa; -moz-border-radius:10px">
+<tr>
+<th style="background-color: #cef2e0; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px">
+<div style="float:right;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></div>
+บทความคัดสรรเดือนนี้</th>
+</tr>
+<tr>
+<td style="; font-size: 100%">
+<div id="mf-fa" title="บทความคัดสรรเดือนนี้">
+<div class="floatleft"><a href="/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Pridi_Banomyong_1947.jpg" class="image" title="ปรีดี พนมยงค์ พ.ศ. 2490"><img alt="ปรีดี พนมยงค์ พ.ศ. 2490" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pridi_Banomyong_1947.jpg/100px-Pridi_Banomyong_1947.jpg" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pridi_Banomyong_1947.jpg/150px-Pridi_Banomyong_1947.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pridi_Banomyong_1947.jpg/200px-Pridi_Banomyong_1947.jpg 2x" data-file-width="640" data-file-height="960" /></a></div>
+<p><b><a href="/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B5_%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C" title="ปรีดี พนมยงค์">ศาสตราจารย์ ดร.ปรีดี พนมยงค์</a></b> หรือ <b>อำมาตย์ตรีหลวงประดิษฐ์มนูธรรม</b> (11 พฤษภาคม พ.ศ. 2443 – 2 พฤษภาคม พ.ศ. 2526) เป็นผู้นำ<a href="/wiki/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3" title="คณะราษฎร">คณะราษฎร</a>สายพลเรือน ผู้ก่อการ<a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1_%E0%B8%9E.%E0%B8%A8._2475" title="การปฏิวัติสยาม พ.ศ. 2475">เปลี่ยนแปลงการปกครอง</a>ของสยามจาก<a href="/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%8D%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A2%E0%B9%8C" class="mw-redirect" title="ระบอบสมบูรณาญาสิทธิราชย์">ระบอบสมบูรณาญาสิทธิราชย์</a> มาเป็น<a href="/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%AD%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B9%84%E0%B8%95%E0%B8%A2" class="mw-redirect" title="ระบอบประชาธิปไตย">ระบอบประชาธิปไตย</a> เมื่อวันที่ 24 มิถุนายน พ.ศ. 2475 และเป็นผู้ให้กำเนิด<a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%8D%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A7_%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A_2475" title="พระราชบัญญัติธรรมนูญการปกครองแผ่นดินสยามชั่วคราว พุทธศักราช 2475">รัฐธรรมนูญฉบับแรกของประเทศไทย</a> เคยดำรงตำแหน่ง<a href="/wiki/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2" class="mw-redirect" title="นายกรัฐมนตรีของประเทศไทย">นายกรัฐมนตรีของประเทศไทย</a> 3 สมัย และรัฐมนตรีว่าการกระทรวงต่าง ๆ อีกหลายสมัย เป็นผู้ก่อตั้งและผู้ประศาสน์การเพียงคนเดียวของ<a href="/wiki/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87" class="mw-redirect" title="มหาวิทยาลัยวิชาธรรมศาสตร์และการเมือง">มหาวิทยาลัยวิชาธรรมศาสตร์และการเมือง</a> และเป็นผู้ก่อตั้งธนาคารชาติไทย (ปัจจุบัน คือ <a href="/wiki/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2" title="ธนาคารแห่งประเทศไทย">ธนาคารแห่งประเทศไทย</a>)</p>
+<p>ในช่วง<a href="/wiki/%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%87" title="สงครามโลกครั้งที่สอง">สงครามโลกครั้งที่สอง</a> ปรีดีเป็นผู้นำ<a href="/wiki/%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%97%E0%B8%A2" class="mw-redirect" title="ขบวนการเสรีไทย">ขบวนการเสรีไทย</a>ต่อต้านกองทัพจักรวรรดิญี่ปุ่น ทำให้ประเทศไทยรอดพ้นจากการเป็นผู้แพ้สงคราม และได้รับพระบรมราชโองการโปรดเกล้าฯ ยกย่องในฐานะ "<a href="/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%82%E0%B8%AA" class="mw-redirect" title="รัฐบุรุษอาวุโส">รัฐบุรุษอาวุโส</a>"</p>
+<p>ปรีดีต้องยุติบทบาททางการเมืองหลัง<a href="/wiki/%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%95%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%94%E0%B8%A5_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3" class="mw-redirect" title="เหตุการณ์สวรรคตของพระบาทสมเด็จพระปรเมนทรมหาอานันทมหิดล พระอัฐมรามาธิบดินทร">เหตุการณ์พระบาทสมเด็จพระปรเมนทรมหาอานันทมหิดลสวรรคต</a> โดยถูกกล่าวหาจากพรรคการเมืองฝ่ายตรงข้ามว่ามีส่วนเกี่ยวข้องกับเหตุการณ์ดังกล่าว ต่อมาเกิดการ<a href="/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2490" title="รัฐประหารในประเทศไทย พ.ศ. 2490">รัฐประหาร พ.ศ. 2490</a> เป็นเหตุให้เขาต้องลี้ภัยการเมืองไปยัง<a href="/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%B5%E0%B8%99" title="ประเทศจีน">ประเทศจีน</a>และ<a href="/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%AA" title="ประเทศฝรั่งเศส">ฝรั่งเศส</a>รวมระยะเวลากว่า 30 ปี และไม่ได้กลับสู่ประเทศไทยอีกเลยจนกระทั่งถึงแก่อสัญกรรม (<b><a href="/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B5_%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C" title="ปรีดี พนมยงค์">อ่านต่อ...</a></b>)</p>
+<p>บทความคัดสรรก่อนหน้านี้: <a href="/wiki/1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%C2%B7_%C2%B7_%C2%B7" title="1 − 2 + 3 − 4 + · · ·">1 − 2 + 3 − 4 + · · ·</a> – <a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7" title="พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว">พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว</a> – <a href="/wiki/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%B9%E0%B9%82%E0%B8%95" title="ดาวพลูโต">ดาวพลูโต</a></p>
+<div style="top:+0.2em; text-align:right;"><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99/%E0%B8%9E.%E0%B8%A8._2560" title="วิกิพีเดีย:บทความคัดสรรประจำเดือน/พ.ศ. 2560">ที่เก็บถาวร</a></b> – <b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A3%E0%B8%A3" title="วิกิพีเดีย:บทความคัดสรร">บทความคัดสรรอื่น ๆ</a></b></div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="background-color: #cef2e0; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px">
+<div style="float:right;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></div>
+รู้ไหมว่า...</th>
+</tr>
+<tr>
+<td style="; font-size: 100%">
+<dl>
+<dd><i>เรื่องน่าสนใจจาก<a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B9%88%E0%B8%B2" title="วิกิพีเดีย:รู้ไหมว่า">บทความล่าสุดและเพิ่งปรับปรุง</a>ของวิกิพีเดีย&#160;:</i></dd>
+</dl>
+<div class="floatright"><a href="/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Dolly_face_closeup.jpg" class="image" title="ดอลลี (แกะ)"><img alt="ดอลลี (แกะ)" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolly_face_closeup.jpg/90px-Dolly_face_closeup.jpg" width="90" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolly_face_closeup.jpg/135px-Dolly_face_closeup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolly_face_closeup.jpg/180px-Dolly_face_closeup.jpg 2x" data-file-width="1024" data-file-height="684" /></a></div>
+<ul>
+<li>...<b><a href="/wiki/%E0%B8%94%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B5_(%E0%B9%81%E0%B8%81%E0%B8%B0)" title="ดอลลี (แกะ)">ดอลลี</a></b> (<i>ในภาพ</i>) เป็นแกะ<a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%99" title="การโคลน">โคลน</a>ตัวแรกที่พิสูจน์ว่าเซลล์จากส่วนหนึ่งของร่างกายสามารถนำมาสร้างสิ่งมีชีวิตได้ทั้งตัว</li>
+<li>...การศึกษาส่วนใหญ่ในสหรัฐพบว่า<b><a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1" title="การเข้าเมืองกับอาชญากรรม">ในหมู่ผู้เข้าเมืองมีอัตราอาชญากรรมต่ำกว่าเมื่อเทียบกับผู้ที่มิได้เข้าเมือง</a></b></li>
+<li>...อัตราล้มเหลวเมื่อใช้<b><a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%94" title="การหลั่งนอกช่องคลอด">การหลั่งนอก</a></b>ใน<a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94" title="การคุมกำเนิด">การคุมกำเนิด</a>เมื่อใช้จริงอยู่ที่ 15–28% ต่อปี</li>
+<li>...<b><a href="/wiki/%E0%B8%84%E0%B8%B2%E0%B8%AE%E0%B8%B9%E0%B8%97!" title="คาฮูท!">คาฮูท!</a></b>เป็นแพลตฟอร์มการเรียนรู้ผ่านเกมที่มีผู้เล่นมากกว่า 50 ล้านคนในกว่า 180 ประเทศ</li>
+<li>...<a href="/wiki/%E0%B8%99%E0%B8%81%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B9%E0%B8%99" title="นกคีรีบูน">นกคีรีบูน</a>เป็น<b><a href="/wiki/%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B9%80%E0%B8%9D%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87" title="สปีชีส์เฝ้าระวัง">สปีชีส์เฝ้าระวัง</a></b>หนึ่งที่มักถูกนำเข้าไปในเหมืองถ่านหินเพื่อตรวจปริมาณก๊าซ<a href="/wiki/%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C" title="คาร์บอนมอนอกไซด์">คาร์บอนมอนอกไซด์</a>ในคริสต์ศตวรรษที่ 20</li>
+<li>...อัตราส่วนของประชากรใน<b><a href="/wiki/%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%95%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%95%E0%B8%B4" title="แปซิฟิกใต้ในอาณัติ">แปซิฟิกใต้ในอาณัติ</a></b>ระหว่างชาวพื้นเมืองต่อชาวญี่ปุ่นเท่ากับ 1:2</li>
+</ul>
+<div style="text-align:center;padding:7px 0px 4px 0px;">
+<div align="right" class="noprint"><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B9%88%E0%B8%B2" title="วิกิพีเดีย:รู้ไหมว่า">เรื่องที่ผ่านมา</a></b> – <b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93" title="วิกิพีเดีย:บทความแรกของคุณ">สร้างบทความใหม่</a></b> – <b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B9%88%E0%B8%B2/%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD" title="วิกิพีเดีย:รู้ไหมว่า/หัวข้อที่ถูกเสนอ">เสนอบทความ</a></b></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="MainPageBG" style="width: 45%; border: 1px solid #cedff2; background-color: #f5faff; vertical-align: top; -moz-border-radius:10px">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5faff; -moz-border-radius:10px">
+<tr>
+<th style="background-color: #cedff2; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px">
+<div style="float:right;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></div>
+เรื่องจากข่าว</th>
+</tr>
+<tr>
+<td style="color:#000">
+<div id="mf-itn" title="เรื่องจากข่าว">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg" title="ภาพวาดระบบดาวเคราะห์แทรพพิสต์-1 ตามจินตนาการของศิลปิน"><img alt="ภาพวาดระบบดาวเคราะห์แทรพพิสต์-1 ตามจินตนาการของศิลปิน" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg/100px-Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg/150px-Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg/200px-Artist%E2%80%99s_impression_of_the_TRAPPIST-1_planetary_system.jpg 2x" data-file-width="1280" data-file-height="732" /></a></p>
+</div>
+<ul>
+<li><a href="/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93_%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B9%E0%B8%A3" title="สมเด็จพระเจ้าอยู่หัวมหาวชิราลงกรณ บดินทรเทพยวรางกูร">สมเด็จพระเจ้าอยู่หัวมหาวชิราลงกรณ บดินทรเทพยวรางกูร</a> ทรงลงพระปรมาภิไธยประกาศใช้<b><a href="/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%8D%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A_2560" title="รัฐธรรมนูญแห่งราชอาณาจักรไทย พุทธศักราช 2560">รัฐธรรมนูญแห่งราชอาณาจักรไทย พุทธศักราช 2560</a></b></li>
+<li>ใน<a href="/wiki/%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2" title="สงครามกลางเมืองซีเรีย">สงครามกลางเมืองซีเรีย</a> <b><a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%B9%E0%B8%99_%E0%B8%9E.%E0%B8%A8._2560" title="การโจมตีเคมีที่คอนชัยคูน พ.ศ. 2560">เหตุโจมตีเคมี</a></b>ในคอนชัยคูนฆ่าประชาชนอย่างน้อย 58 คน และมีผู้ได้รับบาดเจ็บอีกกว่า 300 คน</li>
+<li><a href="/wiki/%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3" title="สหราชอาณาจักร">สหราชอาณาจักร</a><b><a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2_50_%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%AB%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3" class="mw-redirect" title="การใช้มาตรา 50 แห่งสนธิสัญญาว่าด้วยสหภาพยุโรปของสหราชอาณาจักร">ใช้</a></b>มาตรา 50 แห่งสนธิสัญญาว่าด้วยสหภาพยุโรป เริ่มกระบวนการ<a href="/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%AB%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3" title="การออกจากสหภาพยุโรปของสหราชอาณาจักร">เบร็กซิต</a>อย่างเป็นทางการ</li>
+<li>ภาพยนตร์เรื่อง <b><a href="/wiki/%E0%B8%A1%E0%B8%B9%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%95%E0%B9%8C_(%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C)" class="mw-redirect" title="มูนไลต์ (ภาพยนตร์)">มูนไลต์</a></b> ได้รับรางวัล<a href="/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1" title="รางวัลออสการ์ สาขาภาพยนตร์ยอดเยี่ยม">ภาพยนตร์ยอดเยี่ยม</a> ใน<a href="/wiki/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9C%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88_89" title="งานประกาศผลรางวัลออสการ์ ครั้งที่ 89">งานประกาศผลรางวัลออสการ์ ครั้งที่ 89</a></li>
+<li>นักดาราศาสตร์ประกาศว่าดาวฤกษ์ <b><a href="/wiki/%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C-1" class="mw-redirect" title="แทรพพิสต์-1">แทรพพิสต์-1</a></b> มี<a href="/wiki/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A" title="ดาวเคราะห์นอกระบบ">ดาวเคราะห์นอกระบบ</a>โคจรเจ็ดดวง <i>(ภาพวาดศิลปินในภาพ)</i> โดยจำนวนหนึ่งอยู่ใน<a href="/wiki/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AD%E0%B8%B2%E0%B8%A8%E0%B8%B1%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89" title="เขตอาศัยได้">เขตอาศัยได้</a></li>
+<li><b><a href="/wiki/%E0%B8%84%E0%B8%B4%E0%B8%A1_%E0%B8%88%E0%B9%87%E0%B8%AD%E0%B8%87-%E0%B8%99%E0%B8%B1%E0%B8%A1" title="คิม จ็อง-นัม">คิม จ็อง-นัม</a></b> พี่ชายต่างมารดาของผู้นำเกาหลีเหนือ <a href="/wiki/%E0%B8%84%E0%B8%B4%E0%B8%A1_%E0%B8%88%E0%B9%87%E0%B8%AD%E0%B8%87-%E0%B8%AD%E0%B8%B6%E0%B8%99" title="คิม จ็อง-อึน">คิม จ็อง-อึน</a> ถูกฆ่าใน<a href="/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2" title="ประเทศมาเลเซีย">ประเทศมาเลเซีย</a></li>
+</ul>
+<div align="right"><b><a href="/wiki/%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%B5_%E0%B8%9E.%E0%B8%A8._2560" title="บุคคลที่เสียชีวิตในปี พ.ศ. 2560">บุคคลที่เพิ่งเสียชีวิต</a></b> – <b><a href="/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2:%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%99" title="สถานีย่อย:เหตุการณ์ปัจจุบัน">เหตุการณ์ปัจจุบัน</a></b></div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="background-color: #cedff2; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px">
+<div style="float:right;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></div>
+วันนี้ในอดีต</th>
+</tr>
+<tr>
+<td style="color:#000">
+<p><b><a href="/wiki/6_%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1" title="6 พฤษภาคม">6 พฤษภาคม</a></b>:</p>
+<div style="float:right;margin-left:0.5em">
+<p><a href="/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Hindenburg_burning.jpg" class="image" title="ฮินเดนบวร์กติดไฟ"><img alt="ฮินเดนบวร์กติดไฟ" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/100px-Hindenburg_burning.jpg" width="100" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/150px-Hindenburg_burning.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/200px-Hindenburg_burning.jpg 2x" data-file-width="3000" data-file-height="2283" /></a></p>
+</div>
+<ul>
+<li><a href="/wiki/%E0%B8%9E.%E0%B8%A8._2225" title="พ.ศ. 2225">พ.ศ. 2225</a> (ค.ศ. 1682) – <a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88_14_%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%AA" title="พระเจ้าหลุยส์ที่ 14 แห่งฝรั่งเศส">พระเจ้าหลุยส์ที่ 14 แห่งฝรั่งเศส</a> ทรงย้ายราชสำนักและที่ทำการรัฐบาลจากกรุง<a href="/wiki/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA" title="ปารีส">ปารีส</a> ไปยัง<b><a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B8%B2%E0%B8%A2" title="พระราชวังแวร์ซาย">พระราชวังแวร์ซาย</a></b> ในนคร<a href="/wiki/%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B8%B2%E0%B8%A2" title="แวร์ซาย">แวร์ซาย</a></li>
+<li><a href="/wiki/%E0%B8%9E.%E0%B8%A8._2325" title="พ.ศ. 2325">พ.ศ. 2325</a> (ค.ศ. 1782) – เริ่มก่อสร้าง<b><a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87" title="พระบรมมหาราชวัง">พระบรมมหาราชวัง</a></b> ที่ประทับอย่างเป็นทางการของ<a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2" title="พระมหากษัตริย์ไทย">พระมหากษัตริย์ไทย</a></li>
+<li><a href="/wiki/%E0%B8%9E.%E0%B8%A8._2453" title="พ.ศ. 2453">พ.ศ. 2453</a> (ค.ศ. 1910) – <b><a href="/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88_5_%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3" class="mw-redirect" title="สมเด็จพระเจ้าจอร์จที่ 5 แห่งสหราชอาณาจักร">เจ้าชายจอร์จ เจ้าชายแห่งเวลส์</a></b> ราชาภิเษกเป็น<a href="/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9" class="mw-redirect" title="พระมหากษัตริย์อังกฤษ">พระมหากษัตริย์อังกฤษ</a> หลัง<a href="/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88_7_%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3" title="สมเด็จพระเจ้าเอ็ดเวิร์ดที่ 7 แห่งสหราชอาณาจักร">พระเจ้าเอ็ดเวิร์ดที่ 7</a> พระราชบิดา เสด็จสวรรคต</li>
+<li><a href="/wiki/%E0%B8%9E.%E0%B8%A8._2480" title="พ.ศ. 2480">พ.ศ. 2480</a> (ค.ศ. 1937) – <a href="/wiki/%E0%B9%80%E0%B8%8B%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99" title="เซพเพลิน">เซพเพลิน</a> <i><b><a href="/wiki/%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%97_129_%E0%B8%AE%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%81" class="mw-redirect" title="เอลเซท 129 ฮินเดนบวร์ก">ฮินเดนบวร์ก</a></b></i> ของเยอรมนี ลุกติดไฟ <i>(ในภาพ)</i> และ<a href="/w/index.php?title=%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AE%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%81&amp;action=edit&amp;redlink=1" class="new" title="ภัยพิบัติฮินเดนบวร์ก (ไม่มีหน้า)">ถูกทำลาย</a>ขณะพยายามลงจอดที่<a href="/w/index.php?title=%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%84%E0%B9%80%E0%B8%AE%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA&amp;action=edit&amp;redlink=1" class="new" title="สถานีวิศวกรรมอากาศนาวีเลคเฮิร์ส (ไม่มีหน้า)">สถานีวิศวกรรมอากาศนาวีเลคเฮิร์ส</a> ใน<a href="/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B9%8C" title="รัฐนิวเจอร์ซีย์">รัฐนิวเจอร์ซีย์</a> มีผู้เสียชีวิตกว่า 30 คน</li>
+<li><a href="/wiki/%E0%B8%9E.%E0%B8%A8._2537" title="พ.ศ. 2537">พ.ศ. 2537</a> (ค.ศ. 1994) – <b><a href="/wiki/%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9" title="อุโมงค์ช่องแคบอังกฤษ">อุโมงค์ช่องแคบอังกฤษ</a></b> <a href="/wiki/%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B9%8C" title="อุโมงค์">อุโมงค์</a>ระบบรางยาว 50.5 กิโลเมตร ลอด<a href="/wiki/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9" title="ช่องแคบอังกฤษ">ช่องแคบอังกฤษ</a> ณ <a href="/wiki/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%9A%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="ช่องแคบโดเวอร์">ช่องแคบโดเวอร์</a> ซึ่งเชื่อมประเทศอังกฤษกับฝรั่งเศส เปิดใช้งานอย่างเป็นทางการ</li>
+</ul>
+<p>ดูเพิ่ม: <a href="/wiki/5_%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1" title="5 พฤษภาคม">5 พฤษภาคม</a> – <b><a href="/wiki/6_%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1" title="6 พฤษภาคม">6 พฤษภาคม</a></b> – <a href="/wiki/7_%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1" title="7 พฤษภาคม">7 พฤษภาคม</a></p>
+<div align="right">
+<p><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95/%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1" title="วิกิพีเดีย:วันนี้ในอดีต/พฤษภาคม">จดหมายเหตุ</a></b> – <b><a href="/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95" title="รายชื่อบทความวันนี้ในอดีต">รายชื่อบทความวันนี้ในอดีต</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="100%" style="margin:4px 0 0 0; border-spacing: 0px;">
+<tr>
+<td class="MainPageBG" style="width: 100%; border: 1px solid #ddcef2; background-color: #faf5ff; vertical-align: top; -moz-border-radius:10px">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#faf5ff; -moz-border-radius:10px">
+<tr>
+<th style="background-color:#ddcef2; font-size: 125%; border: 1px solid #b0b0b0; text-align: left; padding-left: 7px; -moz-border-radius:7px">
+<div style="float:right;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" /></div>
+สารานุกรม</th>
+</tr>
+<tr>
+<td style="color:#000">
+<table width="100%" cellpadding="10" style="background-color: #faf5ff;font-size: 115%;">
+<tr>
+<td width="20%" style="padding: 0em 0em 0em 0em;" valign="top">
+<div class="wikiblocklist" style="text-align:center;">
+<ul>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" title="หมวดหมู่:ธรรมชาติ"><img alt="หมวดหมู่:ธรรมชาติ" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Crystal_Clear_app_babelfish.png/64px-Crystal_Clear_app_babelfish.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Crystal_Clear_app_babelfish.png/96px-Crystal_Clear_app_babelfish.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/83/Crystal_Clear_app_babelfish.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" title="หมวดหมู่:ธรรมชาติ">ธรรมชาติ</a></b></li>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0" title="หมวดหมู่:ศิลปะ"><img alt="หมวดหมู่:ศิลปะ" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Crystal_Clear_app_gimp.png/64px-Crystal_Clear_app_gimp.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Crystal_Clear_app_gimp.png/96px-Crystal_Clear_app_gimp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/93/Crystal_Clear_app_gimp.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0" title="หมวดหมู่:ศิลปะ">ศิลปะ</a></b></li>
+</ul>
+</div>
+</td>
+<td width="20%" style="padding: 0em 0em 0em 0em;" valign="top">
+<div class="wikiblocklist" style="text-align:center;">
+<ul>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:วิทยาศาสตร์"><img alt="หมวดหมู่:วิทยาศาสตร์" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/64px-Crystal_Clear_app_katomic.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/96px-Crystal_Clear_app_katomic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/6a/Crystal_Clear_app_katomic.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:วิทยาศาสตร์">วิทยาศาสตร์</a></b></li>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:ภูมิศาสตร์"><img alt="หมวดหมู่:ภูมิศาสตร์" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Crystal_Clear_app_internet.png/64px-Crystal_Clear_app_internet.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Crystal_Clear_app_internet.png/96px-Crystal_Clear_app_internet.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/57/Crystal_Clear_app_internet.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:ภูมิศาสตร์">ภูมิศาสตร์</a></b></li>
+</ul>
+</div>
+</td>
+<td width="20%" style="padding: 0em 0em 0em 0em;" valign="top">
+<div class="wikiblocklist" style="text-align:center;">
+<ul>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5" title="หมวดหมู่:เทคโนโลยี"><img alt="หมวดหมู่:เทคโนโลยี" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/64px-Crystal_Clear_app_kcmmemory.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/96px-Crystal_Clear_app_kcmmemory.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4d/Crystal_Clear_app_kcmmemory.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5" title="หมวดหมู่:เทคโนโลยี">เทคโนโลยี</a></b></li>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD" title="หมวดหมู่:ความเชื่อ"><img alt="หมวดหมู่:ความเชื่อ" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Religious_syms.png/64px-Religious_syms.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Religious_syms.png/96px-Religious_syms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Religious_syms.png/128px-Religious_syms.png 2x" data-file-width="450" data-file-height="450" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD" title="หมวดหมู่:ความเชื่อ">ความเชื่อ</a></b></li>
+</ul>
+</div>
+</td>
+<td width="20%" style="padding: 0em 0em 0em 0em;" valign="top">
+<div class="wikiblocklist" style="text-align:center;">
+<ul>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:ประวัติศาสตร์"><img alt="หมวดหมู่:ประวัติศาสตร์" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crystal_Clear_app_kalarm.png/64px-Crystal_Clear_app_kalarm.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crystal_Clear_app_kalarm.png/96px-Crystal_Clear_app_kalarm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/64/Crystal_Clear_app_kalarm.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="หมวดหมู่:ประวัติศาสตร์">ประวัติศาสตร์</a></b></li>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1" title="หมวดหมู่:สังคม"><img alt="หมวดหมู่:สังคม" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/64px-Crystal_Clear_app_Login_Manager.png" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/96px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/ca/Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1" title="หมวดหมู่:สังคม">สังคม</a></b></li>
+</ul>
+</div>
+</td>
+<td width="20%" style="padding: 0em 0em 0em 0em;" valign="top">
+<div class="wikiblocklist" style="text-align:center;">
+<ul>
+<li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2" title="หมวดหมู่:ประเทศไทย"><img alt="หมวดหมู่:ประเทศไทย" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Garuda_Emblem_of_Thailand.svg/64px-Garuda_Emblem_of_Thailand.svg.png" width="64" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Garuda_Emblem_of_Thailand.svg/96px-Garuda_Emblem_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Garuda_Emblem_of_Thailand.svg/128px-Garuda_Emblem_of_Thailand.svg.png 2x" data-file-width="400" data-file-height="425" /></a><b><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2" title="หมวดหมู่:ประเทศไทย">ประเทศไทย</a></b></li>
+<li><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2" title="วิกิพีเดีย:สถานีย่อย"><img alt="วิกิพีเดีย:สถานีย่อย" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/72px-Portal.svg.png" width="72" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/108px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/144px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2" title="วิกิพีเดีย:สถานีย่อย">สถานีย่อย</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id=".E0.B8.9B.E0.B9.89.E0.B8.B2.E0.B8.A2.E0.B8.9A.E0.B8.AD.E0.B8.81.E0.B8.97.E0.B8.B2.E0.B8.87">ป้ายบอกทาง</span></h2>
+<ul>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A1" title="วิกิพีเดีย:ศาลาประชาคม">ศาลาประชาคม</a></b> – กระดานข่าว โครงการ ทรัพยากรและกิจกรรมซึ่งครอบคลุมวิกิพีเดียอย่างกว้างขวาง</li>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" title="วิกิพีเดีย:เลขาชาววิกิพีเดีย">เลขาชาววิกิพีเดีย</a></b> – ถามข้อสงสัยเกี่ยวกับการใช้งานวิกิพีเดีย</li>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9B%E0%B8%B8%E0%B8%88%E0%B8%89%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B2" title="วิกิพีเดีย:ปุจฉา-วิสัชนา">ปุจฉา-วิสัชนา</a></b> – ถามข้อสงสัยทั่วไปที่คุณอยากรู้</li>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7" title="วิกิพีเดีย:ข่าว">ข่าวไซต์</a></b> – ประกาศ อัพเดต บทความและข้อมูลข่าวเกี่ยวกับวิกิพีเดียและมูลนิธิวิกิมีเดีย</li>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99" title="วิกิพีเดีย:ศาลาชุมชน">ศาลาชุมชน</a></b> – สำหรับอภิปรายเกี่ยวกับวิกิพีเดีย รวมถึงรายงานปัญหาเทคนิคและเสนอนโยบาย</li>
+<li><b><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B9%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" title="วิกิพีเดีย:สถานทูตวิกิมีเดีย">Local Embassy</a></b> – For Wikipedia-related discussion in languages other than Thai.</li>
+</ul>
+<h2><span class="mw-headline" id=".E0.B9.82.E0.B8.84.E0.B8.A3.E0.B8.87.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.9E.E0.B8.B5.E0.B9.88.E0.B8.99.E0.B9.89.E0.B8.AD.E0.B8.87">โครงการพี่น้อง</span></h2>
+<p>วิกิพีเดียดำเนินการโดย<a href="/wiki/%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" class="mw-redirect" title="มูลนิธิวิกิมีเดีย">มูลนิธิวิกิมีเดีย</a> องค์กรไม่แสวงผลกำไร ผู้ดำเนินการอีกหลาย<a href="https://wikimediafoundation.org/wiki/Our_projects" class="extiw" title="foundation:Our projects">โครงการ</a> ได้แก่</p>
+<table class="layout" width="100%" align="center" cellpadding="4" style="text-align:left; background-color: transparent;">
+<tr>
+<td align="center">
+<div class="noresize"><a href="https://commons.wikimedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="คอมมอนส์"><img alt="คอมมอนส์" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" width="31" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://commons.wikimedia.org/wiki/หน้าหลัก">คอมมอนส์</a></span></b><br />
+ศูนย์รวมสื่อเสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://www.mediawiki.org/wiki/" title="มีเดียวิกิ"><img alt="มีเดียวิกิ" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://www.mediawiki.org/wiki/MediaWiki">มีเดียวิกิ</a></span></b><br />
+การพัฒนาซอฟต์แวร์เสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://meta.wikimedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="เมต้าวิกิ"><img alt="เมทาวิกิ" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></div>
+</td>
+<td><b><span class="plainlinks"><a class="external text" href="http://meta.wikimedia.org/wiki/หน้าหลัก">เมทาวิกิ</a></span></b><br />
+ศูนย์ประสานงานโครงการวิกิมีเดีย</td>
+</tr>
+<tr>
+<td align="center">
+<div class="noresize"><a href="https://th.wikibooks.org/wiki/" title="วิกิตำรา"><img alt="วิกิตำรา" src="//upload.wikimedia.org/wikipedia/commons/7/7f/Wikibooks-logo-35px.png" width="35" height="35" data-file-width="35" data-file-height="35" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://th.wikibooks.org/">วิกิตำรา</a></span></b><br />
+ตำราและคู่มือเสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://www.wikidata.org/wiki/" title="วิกิเดตา"><img alt="วิกิสนเทศ" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" width="47" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://www.wikidata.org/wiki/Wikidata:หน้าหลัก">วิกิสนเทศ</a></span></b><br />
+ฐานความรู้เสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://th.wikiquote.org/wiki/" title="วิกิคำคม"><img alt="วิกิคำคม" src="//upload.wikimedia.org/wikipedia/commons/4/46/Wikiquote-logo-51px.png" width="51" height="41" data-file-width="51" data-file-height="41" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://th.wikiquote.org/">วิกิคำคม</a></span></b><br />
+แหล่งรวบรวมคำพูดเสรี</td>
+</tr>
+<tr>
+<td align="center">
+<div class="noresize"><a href="https://th.wikisource.org/wiki/" title="วิกิซอร์ซ"><img alt="วิกิซอร์ซ" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/35px-Wikisource-logo.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/53px-Wikisource-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/70px-Wikisource-logo.png 2x" data-file-width="409" data-file-height="431" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://th.wikisource.org/">วิกิซอร์ซ</a></span></b><br />
+เอกสารต้นฉบับเสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://species.wikimedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="วิกิสปีชีส์"><img alt="วิกิสปีชีส์" src="//upload.wikimedia.org/wikipedia/commons/b/bf/Wikispecies-logo-35px.png" width="35" height="41" data-file-width="35" data-file-height="41" /></a></div>
+</td>
+<td><b><span class="plainlinks"><a class="external text" href="http://species.wikimedia.org/wiki/หน้าหลัก">วิกิสปีชีส์</a></span></b><br />
+สารบบอนุกรมวิธานเสรี</td>
+<td align="center">
+<div class="noresize"><a href="https://th.wiktionary.org/wiki/" title="วิกิพจนานุกรม"><img alt="วิกิพจนานุกรม" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wiktsister_en.png/45px-Wiktsister_en.png" width="45" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wiktsister_en.png/68px-Wiktsister_en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wiktsister_en.png/90px-Wiktsister_en.png 2x" data-file-width="110" data-file-height="120" /></a></div>
+</td>
+<td width="33%"><b><span class="plainlinks"><a class="external text" href="http://th.wiktionary.org/">วิกิพจนานุกรม</a></span></b><br />
+พจนานุกรมและอรรถาภิธานเสรี</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id=".E0.B8.A0.E0.B8.B2.E0.B8.A9.E0.B8.B2.E0.B8.AD.E0.B8.B7.E0.B9.88.E0.B8.99">ภาษาอื่น</span></h2>
+<p>นอกจากภาษาไทยแล้ว วิกิพีเดียยังมี<a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">รุ่นภาษาอื่น</a>อีก 290 ภาษา โดยวิกิพีเดียขนาดใหญ่แสดงรายการด้านล่างนี้</p>
+<ul>
+<li id="lang-3">1,000,000 บทความขึ้นไป:
+<div class="hlist" style="display: inline;">
+<ul style="display: inline;">
+<li><a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">English (อังกฤษ)</a></li>
+<li><a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">Nederlands (ดัตช์)</a></li>
+<li><a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">Deutsch (เยอรมัน)</a></li>
+<li><a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">Svenska (สวีเดน)</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">Français (ฝรั่งเศส)</a></li>
+<li><a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">Italiano (อิตาลี)</a></li>
+<li><a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">Русский (รัสเซีย)</a></li>
+<li><a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">Español (สเปน)</a></li>
+<li><a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">Polski (โปแลนด์)</a></li>
+<li><a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">Winaray (วาราย-วาราย)</a></li>
+<li><a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">Sinugboanong Binisaya (เซบู)</a></li>
+<li><a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:">Tiếng Việt (เวียดนาม)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/" class="extiw" title="ja:">日本語 (ญี่ปุ่น)</a></li>
+</ul>
+</div>
+</li>
+<li id="lang-2">200,000 บทความขึ้นไป:
+<div class="hlist" style="display: inline;">
+<ul style="display: inline;">
+<li><a href="https://pt.wikipedia.org/wiki/" class="extiw" title="pt:">Português (โปรตุเกส)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/" class="extiw" title="zh:">中文 (จีน)</a></li>
+<li><a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:">Українська (ยูเครน)</a></li>
+<li><a href="https://ca.wikipedia.org/wiki/" class="extiw" title="ca:">Català (กาตาลัน)</a></li>
+<li><a href="https://no.wikipedia.org/wiki/" class="extiw" title="no:">Norsk (bokmål) (นอร์เวย์)</a></li>
+<li><a href="https://fi.wikipedia.org/wiki/" class="extiw" title="fi:">Suomi (ฟินแลนด์)</a></li>
+<li><a href="https://fa.wikipedia.org/wiki/" class="extiw" title="fa:">فارسی (เปอร์เซีย)</a></li>
+<li><a href="https://id.wikipedia.org/wiki/" class="extiw" title="id:">Bahasa Indonesia (อินโดนีเซีย)</a></li>
+<li><a href="https://cs.wikipedia.org/wiki/" class="extiw" title="cs:">Čeština (เช็ก)</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/" class="extiw" title="ko:">한국어 (เกาหลี)</a></li>
+<li><a href="https://hu.wikipedia.org/wiki/" class="extiw" title="hu:">Magyar (ฮังการี)</a></li>
+<li><a href="https://ar.wikipedia.org/wiki/" class="extiw" title="ar:">العربية (อาหรับ)</a></li>
+<li><a href="https://ms.wikipedia.org/wiki/" class="extiw" title="ms:">Bahasa Melayu (มลายู)</a></li>
+<li><a href="https://ro.wikipedia.org/wiki/" class="extiw" title="ro:">Română (โรมาเนีย)</a></li>
+<li><a href="https://sr.wikipedia.org/wiki/" class="extiw" title="sr:">Српски / Srpski (เซอร์เบีย)</a></li>
+<li><a href="https://min.wikipedia.org/wiki/" class="extiw" title="min:">Minangkabau (มีนังกาเบา)</a></li>
+<li><a href="https://tr.wikipedia.org/wiki/" class="extiw" title="tr:">Türkçe (ตุรกี)</a></li>
+<li><a href="https://kk.wikipedia.org/wiki/" class="extiw" title="kk:">Қазақша (คาซัค)</a></li>
+<li><a href="https://sh.wikipedia.org/wiki/" class="extiw" title="sh:">Srpskohrvatski / српскохрватски (เซิร์บ-โครแอต)</a></li>
+<li><a href="https://eo.wikipedia.org/wiki/" class="extiw" title="eo:">Esperanto (เอสเปรันโต)</a></li>
+<li><a href="https://eu.wikipedia.org/wiki/" class="extiw" title="eu:">Euskara (บาสก์)</a></li>
+</ul>
+</div>
+</li>
+<li id="lang-1">100,000 บทความขึ้นไป:
+<div class="hlist" style="display: inline;">
+<ul style="display: inline;">
+<li><a href="https://sk.wikipedia.org/wiki/" class="extiw" title="sk:">Slovenčina (สโลวัก)</a></li>
+<li><a href="https://da.wikipedia.org/wiki/" class="extiw" title="da:">Dansk (เดนมาร์ก)</a></li>
+<li><a href="https://lt.wikipedia.org/wiki/" class="extiw" title="lt:">Lietuvių (ลิทัวเนีย)</a></li>
+<li><a href="https://bg.wikipedia.org/wiki/" class="extiw" title="bg:">Български (บัลแกเรีย)</a></li>
+<li><a href="https://he.wikipedia.org/wiki/" class="extiw" title="he:">עברית (ฮีบรู)</a></li>
+<li><a href="https://hr.wikipedia.org/wiki/" class="extiw" title="hr:">Hrvatski (โครเอเชีย)</a></li>
+<li><a href="https://sl.wikipedia.org/wiki/" class="extiw" title="sl:">Slovenščina (สโลวีเนีย)</a></li>
+<li><a href="https://uz.wikipedia.org/wiki/" class="extiw" title="uz:">O‘zbek (อุซเบก)</a></li>
+<li><a href="https://vo.wikipedia.org/wiki/" class="extiw" title="vo:">Volapük (โวราปุก)</a></li>
+<li><a href="https://et.wikipedia.org/wiki/" class="extiw" title="et:">Eesti (เอสโตเนีย)</a></li>
+<li><a href="https://hi.wikipedia.org/wiki/" class="extiw" title="hi:">हिन्दी (ฮินดี)</a></li>
+<li><a href="https://gl.wikipedia.org/wiki/" class="extiw" title="gl:">Gallego (กาลิเซีย)</a></li>
+<li><a href="https://nn.wikipedia.org/wiki/" class="extiw" title="nn:">Norsk nynorsk (นือนอสก์)</a></li>
+<li><a href="https://simple.wikipedia.org/wiki/" class="extiw" title="simple:">Simple English (อังกฤษอย่างง่าย)</a></li>
+<li><a href="https://hy.wikipedia.org/wiki/" class="extiw" title="hy:">Հայերեն (อาร์มีเนีย)</a></li>
+<li><a href="https://el.wikipedia.org/wiki/" class="extiw" title="el:">Ελληνικά (กรีก)</a></li>
+<li><a href="https://la.wikipedia.org/wiki/" class="extiw" title="la:">Latina (ละติน)</a></li>
+<li><a href="https://az.wikipedia.org/wiki/" class="extiw" title="az:">Azərbaycanca (อาเซอร์ไบจาน)</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id="metalink" style="text-align:center;" class="plainlinks"><b><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">รายการวิกิพีเดียแบบสมบูรณ์</a></b></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20170506045114
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.100 seconds
+Real time usage: 0.146 seconds
+Preprocessor visited node count: 232/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26721/2097152 bytes
+Template argument size: 864/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   51.689      1 -total
+ 43.32%   22.393      1 แม่แบบ:โครงการพี่น้อง
+ 15.50%    8.010      1 แม่แบบ:เรื่องจากข่าว
+ 11.89%    6.146      1 แม่แบบ:In_the_news/image
+  7.33%    3.788      1 แม่แบบ:หน้าหลัก/ส่วนหัว
+  5.60%    2.895      1 แม่แบบ:Purge
+  5.27%    2.725      1 แม่แบบ:บทความคัดสรร/พฤษภาคม_2560
+  4.85%    2.509      1 วิกิพีเดีย:วันนี้ในอดีต/6_พฤษภาคม
+  4.26%    2.204      1 แม่แบบ:วิกิพีเดียในภาษาอื่น
+  3.30%    1.706      1 แม่แบบ:หน้าหลัก/ลิงก์ข้ามภาษา
+-->
+
+<!-- Saved in parser cache with key thwiki:pcache:idhash:1-0!*!0!!th!4!* and timestamp 20170506045114 and revision id 5512633
+ -->
+<noscript><img src="//th.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						ดึงข้อมูลจาก "<a dir="ltr" href="https://th.wikipedia.org/w/index.php?title=หน้าหลัก&amp;oldid=5512633">https://th.wikipedia.org/w/index.php?title=หน้าหลัก&amp;oldid=5512633</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>รายการเลือกการนำทาง</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">เครื่องมือส่วนตัว</h3>
+						<ul>
+							<li id="pt-anonuserpage">ไม่ได้ล็อกอิน</li><li id="pt-anontalk"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99" title="อภิปรายเกี่ยวกับการแก้ไขจากเลขที่อยู่ไอพีนี้ [n]" accesskey="n">พูดคุย</a></li><li id="pt-anoncontribs"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99" title="รายการการแก้ไขจากเลขที่อยู่ไอพีนี้ [y]" accesskey="y">เรื่องที่เขียน</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&amp;returnto=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="สนับสนุนให้คุณสร้างบัญชีและล็อกอิน แต่ไม่บังคับ">สร้างบัญชี</a></li><li id="pt-login"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99&amp;returnto=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="สนับสนุนให้คุณล็อกอิน แต่ไม่บังคับ [o]" accesskey="o">ล็อกอิน</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">เนมสเปซ</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"  title="ดูหน้าเนื้อหา [c]" accesskey="c">หน้าหลัก</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B8%A2:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"  title="อภิปรายเกี่ยวกับหน้าเนื้อหา [t]" accesskey="t" rel="discussion">อภิปราย</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>สิ่งที่แตกต่าง</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">ดู</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" >เนื้อหา</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;action=edit"  title="หน้านี้ถูกล็อก &#10;แต่ยังดูโค้ดได้ [e]" accesskey="e">ดูโค้ด</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;action=history"  title="รุ่นที่แล้วของหน้านี้ [h]" accesskey="h">ประวัติ</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>เพิ่มเติม</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">ค้นหา</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="ค้นหา วิกิพีเดีย" title="ค้นหาวิกิ [f]" accesskey="f" id="searchInput"/><input type="hidden" value="พิเศษ:ค้นหา" name="title"/><input type="submit" name="fulltext" value="ค้นหา" title="ค้นหาหน้าที่มีข้อความนี้" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="ไป" title="ไปหน้าที่ตรงกับชื่อนี้ (ถ้ามี)" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"  title="เยี่ยมชมหน้าหลัก"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>การนำทาง</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="เยี่ยมชมหน้าหลัก [z]" accesskey="z">หน้าหลัก</a></li><li id="n-ask"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1">ถามคำถาม</a></li><li id="n-featuredcontent"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A3%E0%B8%A3">บทความคัดสรร</a></li><li id="n-goodcontent"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E">บทความคุณภาพ</a></li><li id="n-currentevents"><a href="/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2:%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%99" title="ค้นหาเหตุการณ์ปัจจุบัน">เหตุการณ์ปัจจุบัน</a></li><li id="n-randompage"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%B8%E0%B9%88%E0%B8%A1" title="โหลดหน้าสุ่ม [x]" accesskey="x">สุ่มบทความ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>มีส่วนร่วม</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-about"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A" title="ทำความรู้จักวิกิพีเดีย">เกี่ยวกับวิกิพีเดีย</a></li><li id="n-portal"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A1" title="เกี่ยวกับโครงการ สิ่งที่คุณทำได้ และวิธีการค้นหา">ศาลาประชาคม</a></li><li id="n-recentchanges"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94" title="รายการปรับปรุงล่าสุดในวิกินี้ [r]" accesskey="r">ปรับปรุงล่าสุด</a></li><li id="n-contact"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD" title="วิธีการติดต่อวิกิพีเดีย">ติดต่อวิกิพีเดีย</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_th.wikipedia.org&amp;uselang=th" title="สนับสนุนเรา">บริจาคให้วิกิพีเดีย</a></li><li id="n-help"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D" title="ข้อแนะนำการใช้และแก้ไขวิกิพีเดีย">วิธีใช้</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>เครื่องมือ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%A1%E0%B8%B2/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="รายการหน้าวิกิทุกหน้าที่ลิงก์มาที่นี่ [j]" accesskey="j">หน้าที่ลิงก์มา</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%A1%E0%B8%B2/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" rel="nofollow" title="รายการปรับปรุงล่าสุดในหน้าที่ลิงก์จากหน้านี้ [k]" accesskey="k">การปรับปรุงที่เกี่ยวโยง</a></li><li id="t-upload"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94" title="อัปโหลดไฟล์ [u]" accesskey="u">อัปโหลดไฟล์</a></li><li id="t-specialpages"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9" title="รายการหน้าพิเศษทั้งหมด [q]" accesskey="q">หน้าพิเศษ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;oldid=5512633" title="ลิงก์ถาวรมารุ่นนี้ของหน้า">ลิงก์ถาวร</a></li><li id="t-info"><a href="/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;action=info" title="สารสนเทศเพิ่มเติมเกี่ยวกับหน้านี้">สารสนเทศหน้า</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="ลิงก์เชื่อมต่อข้อมูลที่เก็บไอเท็ม [g]" accesskey="g">Wikidata ไอเท็ม</a></li><li id="t-cite"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87&amp;page=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;id=5512633" title="สารสนเทศเกี่ยวกับวิธีการอ้างอิงหน้านี้">อ้างอิงบทความนี้</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>พิมพ์/ส่งออก</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD&amp;bookcmd=book_creator&amp;referer=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81">สร้างหนังสือ</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD&amp;bookcmd=render_article&amp;arttitle=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;returnto=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;oldid=5512633&amp;writer=rdf2latex">ดาวน์โหลดเป็น PDF</a></li><li id="t-print"><a href="/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;printable=yes" title="รุ่นที่พร้อมพิมพ์ของหน้านี้ [p]" accesskey="p">รุ่นพร้อมพิมพ์</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>ในโครงการอื่น</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://th.wikibooks.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" hreflang="th">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://th.wikinews.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" hreflang="th">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://th.wikiquote.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" hreflang="th">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://th.wikisource.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" hreflang="th">Wikisource</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>ภาษาอื่น</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="อาหรับ" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/" title="อาเซอร์ไบจาน" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="บัลแกเรีย" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="กาตาลัง" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="เช็ก" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="เดนมาร์ก" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="เยอรมัน" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="กรีก" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="อังกฤษ" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="เอสเปอรันโต" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="สเปน" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="เอสโตเนีย" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="บัสเก" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="เปอร์เซีย" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="ฟินแลนด์" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="ฝรั่งเศส" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="กาลิเซีย" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="ฮิบรู" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="ฮินดี" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="โครเอเชีย" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="ฮังการี" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="อินโดนีเชีย" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="อิตาลี" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="ญี่ปุ่น" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="จอร์เจีย" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="เกาหลี" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="ละติน" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="ลิทัวเนีย" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/" title="มาซิโดเนีย" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="มาเลย์" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/" title="เนวาร์" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="ดัตช์" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="นอร์เวย์นีนอสก์" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="นอร์เวย์" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="โปแลนด์" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="โปรตุเกส" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="โรมาเนีย" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="รัสเซีย" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="เซอร์โบ-โครเอเชีย" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="สโลวัก" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="สโลวีเนีย" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="เซอร์เบีย" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="สวีเดน" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/" title="ตากาล็อก" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="ตุรกี" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ยูเครน" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="เวียดนาม" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="โวลาพึค" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="จีน" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> หน้านี้แก้ไขล่าสุดเมื่อวันที่ 4 กรกฎาคม 2557 เวลา 18:48 น.</li>
+											<li id="footer-info-copyright">อนุญาตให้เผยแพร่ภายใต้<a class='internal' href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%9F%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99_3.0" title="วิกิพีเดีย:ข้อความในสัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน ">สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน</a> และอาจมีเงื่อนไขเพิ่มเติม
+ดูรายละเอียดที่ <a class='internal' href="//wikimediafoundation.org/wiki/Terms_of_Use/th" title="ข้อกำหนดการใช้งาน">ข้อกำหนดการใช้งาน</a><br /> Wikipedia&reg; เป็นเครื่องหมายการค้าจดทะเบียนของ<a href="http://www.wikimediafoundation.org">มูลนิธิวิกิมีเดีย</a> องค์กรไม่แสวงผลกำไร<br /></li><li class="noprint"><a class='internal' href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD" title="วิกิพีเดีย:ติดต่อ">ติดต่อเรา</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">นโยบายความเป็นส่วนตัว</a></li>
+											<li id="footer-places-about"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A" title="วิกิพีเดีย:เกี่ยวกับ">เกี่ยวกับวิกิพีเดีย</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%98%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A" title="วิกิพีเดีย:ข้อปฏิเสธความรับผิดชอบ">ข้อปฏิเสธความรับผิดชอบ</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">ผู้พัฒนา</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//th.m.wikipedia.org/w/index.php?title=%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">รุ่นโมบายล์</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.146","ppvisitednodes":{"value":232,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26721,"limit":2097152},"templateargumentsize":{"value":864,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   51.689      1 -total"," 43.32%   22.393      1 แม่แบบ:โครงการพี่น้อง"," 15.50%    8.010      1 แม่แบบ:เรื่องจากข่าว"," 11.89%    6.146      1 แม่แบบ:In_the_news/image","  7.33%    3.788      1 แม่แบบ:หน้าหลัก/ส่วนหัว","  5.60%    2.895      1 แม่แบบ:Purge","  5.27%    2.725      1 แม่แบบ:บทความคัดสรร/พฤษภาคม_2560","  4.85%    2.509      1 วิกิพีเดีย:วันนี้ในอดีต/6_พฤษภาคม","  4.26%    2.204      1 แม่แบบ:วิกิพีเดียในภาษาอื่น","  3.30%    1.706      1 แม่แบบ:หน้าหลัก/ลิงก์ข้ามภาษา"]},"cachereport":{"origin":"mw1273","timestamp":"20170506045114","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>

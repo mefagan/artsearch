@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":5597032,"wgRevisionId":5597032,"wgArticleId":232335,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Main Page"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":232335,"wgRequestId":"WQsbXApAMFsAAGPTLvAAAABN","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.ReferenceTooltips%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echidna_-_melbourne_zoo.jpg/1200px-Echidna_-_melbourne_zoo.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/simple.m.wikipedia.org/wiki/Main_Page"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://simple.wikipedia.org/wiki/Main_Page"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Main Page</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="width: 100%; height: auto; border: 1px solid #88A; background-color: #ACF; vertical-align: top; margin: 0em 0em 0.5em 0em; border-spacing: 0.6em;" cellspacing="6">
+<tr>
+<td style="width: 100%; vertical-align:top; border: 3px double #cccccc; padding: 1em 0 .6em; background-color: #ffffff; background-repeat: no-repeat; background-position: 0% 20%; text-align: center; white-space: nowrap;" colspan="2" id="EnWpMpBook2">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<td>
+<h1 style="font-size: 230%; font-family:'hoefler text','times new roman', serif; font-variant: small-caps; border: none; margin: 0; padding: 5pt"><span class="mw-headline" id="Welcome_to_Wikipedia">Welcome to <a href="/wiki/Wikipedia:About" title="Wikipedia:About">Wikipedia</a></span></h1>
+<div style="margin-top: .3em; font-size: 90%;">
+<p>the <b>free <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a></b> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can change</a></p>
+</div>
+<div style="margin-top: .5em; font-size: 90%;">
+<form name="bodySearchMP" id="bodySearchMP" class="bodySearch" action="/wiki/Special:Search">
+<div class="bodySearchWrap" style=""><input type="text" name="search" class="mw-ui-input mw-ui-input-inline" size="22" id="bodySearchInputMP" dir="ltr" />&#160;<input type="submit" name="go" value="Search" class="mw-ui-button" /></div>
+</form>
+</div>
+<div style="margin: 0; font-size: 90%;">
+<p>Search the <a href="/wiki/Special:Statistics" title="Special:Statistics">124,553</a> articles in the <a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English Wikipedia</a></p>
+</div>
+<div>
+<p><a href="/wiki/Wikipedia:How_to_write_Simple_English_pages" title="Wikipedia:How to write Simple English pages">How to write Simple English pages</a>&#160;<b>·</b> <a href="/wiki/Wikipedia:Useful" title="Wikipedia:Useful">Useful pages</a>&#160;<b>·</b> <a href="/wiki/Wikipedia:Simple_talk" title="Wikipedia:Simple talk">Simple talk</a>&#160;<b>·</b> <a href="/wiki/Special:CategoryTree/Project" title="Special:CategoryTree/Project">Categories</a>&#160;<b>·</b> <a href="/wiki/Help:Contents" title="Help:Contents">Help</a><br />
+<a href="/wiki/Wikipedia:Schools" title="Wikipedia:Schools">Schools Gateway</a> (for users who want to make changes from a school)</p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="width: 100%; height: auto; border: 1px solid #88A; background-color: #ACF; vertical-align: top; margin: 0em 0em 0.5em 0em; border-spacing: 0.6em;" cellspacing="6">
+<tr>
+<td style="width: 55%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_1_1442753195" id="ImageMap_1_1442753195">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_1_1442753195" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="About_Wikipedia"><b>About Wikipedia</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-intro" title="Welcome!">This is the front page of the <b><a href="/wiki/Simple_English_Wikipedia" title="Simple English Wikipedia">Simple English Wikipedia</a></b>. <i>Wikipedias</i> are places where people work together to write <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedias</a> in different languages. We use <a href="/wiki/Wikipedia:Simple_English_Wikipedia#Simple_English" title="Wikipedia:Simple English Wikipedia">Simple English</a> words and <a href="/wiki/Grammar" title="Grammar">grammar</a> here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. There are 124,553 articles on the Simple English Wikipedia. All of the pages are <a href="/wiki/Open_content" title="Open content">free to use</a>. They have all been published under both the <i><a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">Creative Commons Attribution/Share-Alike License 3.0</a></i> and the <i><a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GNU Free Documentation License</a></i>. <b>You can help here!</b> You may change these pages and make new pages. Read the <a href="/wiki/Help:Contents" title="Help:Contents">help pages</a> and other <a href="/wiki/Wikipedia:Useful" title="Wikipedia:Useful">good pages</a> to learn how to <a href="/wiki/Wikipedia:How_to_write_Simple_English_articles" class="mw-redirect" title="Wikipedia:How to write Simple English articles">write pages here</a>. If you need help, you may ask questions at <a href="/wiki/Wikipedia:Simple_talk" title="Wikipedia:Simple talk">Simple talk</a>.</div>
+<div align="center" style="padding: 1em;">
+<hr width="80%" /></div>
+<p>When writing articles here:</p>
+<ul>
+<li><b>Use <a href="/wiki/Basic_English" title="Basic English">Basic English</a> vocabulary and shorter sentences.</b> This allows people to understand normally complex terms or phrases.</li>
+<li><b>Write good pages.</b> The best encyclopedia pages have useful, well-written information.</li>
+<li><b>Use the pages to learn and teach.</b> These pages can help people learn English. You can also use them to <a href="https://meta.wikimedia.org/wiki/How_to_start_a_new_Wikipedia" class="extiw" title="meta:How to start a new Wikipedia">make a new Wikipedia</a> to help other people.</li>
+<li><b>Simple does not mean short.</b> Writing in Simple English means that simple words are used. It does not mean readers want basic information. Articles do not have to be short to be simple; expand articles, add details, but use basic <a href="/wiki/Vocabulary" title="Vocabulary">vocabulary</a>.</li>
+<li><b>Be bold!</b> Your article does not have to be perfect, because other editors will fix it and make it better. And most importantly, do not be afraid to start and make articles better yourself.</li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+<td style="width: 45%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_2_2021095631" id="ImageMap_2_2021095631">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_2_2021095631" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="Selected_article"><b>Selected article</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<div class="floatleft"><a href="/wiki/Jeff_Tesreau" title="Jeff Tesreau wearing the baseball uniform of the New York Giants around 1912–18"><img alt="Jeff Tesreau wearing the baseball uniform of the New York Giants around 1912–18" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tesreau.jpg/140px-Tesreau.jpg" width="140" height="215" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tesreau.jpg/210px-Tesreau.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tesreau.jpg/280px-Tesreau.jpg 2x" data-file-width="1368" data-file-height="2104" /></a></div>
+<p>A <b><a href="/wiki/Baseball_uniform" title="Baseball uniform">baseball uniform</a></b> is a kind of <a href="/wiki/Clothing" title="Clothing">clothing</a> that <a href="/wiki/Baseball_players" class="mw-redirect" title="Baseball players">baseball players</a> wear. They mostly do this to show that their <a href="/wiki/Job" title="Job">job</a> is related to playing the <a href="/wiki/Sport" title="Sport">sport</a>, baseball. Most baseball uniforms have the names and <a href="/wiki/Uniform_number_(Major_League_Baseball)" title="Uniform number (Major League Baseball)">uniform numbers</a> of players who wear them on the uniform somewhere, usually on the backs of the uniforms to tell different baseball players from each other. Baseball <a href="/wiki/Shirt" title="Shirt">shirts</a>, <a href="/wiki/Pants" class="mw-redirect" title="Pants">pants</a>, <a href="/wiki/Shoe" title="Shoe">shoes</a>, <a href="/wiki/Sock" title="Sock">socks</a>, <a href="/wiki/Baseball_cap" title="Baseball cap">caps</a>, and <a href="/wiki/Glove" title="Glove">gloves</a> are parts of baseball uniforms. Most uniforms have different <a href="/wiki/Logo" title="Logo">logos</a> and <a href="/wiki/Color" class="mw-redirect" title="Color">colors</a> to tell which <a href="/wiki/Team" title="Team">team</a> is which.</p>
+<p>Baseball uniforms were first worn by the <a href="/wiki/New_York_Knickerbockers_(baseball)" title="New York Knickerbockers (baseball)">New York Knickerbockers Baseball Club</a> in the 1800s. Their uniforms were pants made of blue <a href="/wiki/Wool" title="Wool">wool</a>, white <a href="/wiki/Flannel" title="Flannel">flannel</a> shirts and <a href="/wiki/Straw" title="Straw">straw</a> hats. Since then, the uniforms have gone through many changes. More items, ideas, and many other improvements were done and added to baseball uniforms over the years. The <a href="/wiki/Style" class="mw-disambig" title="Style">style</a> of baseball uniforms also changed, little by little over time.</p>
+<div style="width:100%; text-align:right"><b><a href="/wiki/Baseball_uniform" title="Baseball uniform">more...</a></b></div>
+<div style="font-weight:bold; text-align: center; margin-top:8px; margin-bottom:4px;"><a href="/wiki/Wikipedia:Very_good_articles" title="Wikipedia:Very good articles">Other very good articles</a> – <a href="/wiki/Wikipedia:Proposed_very_good_articles" title="Wikipedia:Proposed very good articles">Proposals</a> – <a href="/wiki/Wikipedia:Requirements_for_very_good_articles" title="Wikipedia:Requirements for very good articles">Requirements</a></div>
+<div style="text-align: left; direction: ltr; margin-left: 1em;"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 100%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;" colspan="2">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_3_430572452" id="ImageMap_3_430572452">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_3_430572452" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="Did_you_know..."><b>Did you know...</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-dyk" title="Did you know...">
+<p><i>From a collection of Wikipedia's articles:</i></p>
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:Echidna_-_melbourne_zoo.jpg" class="image" title="An Echidna at the Melbourne Zoo"><img alt="An Echidna at the Melbourne Zoo" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echidna_-_melbourne_zoo.jpg/120px-Echidna_-_melbourne_zoo.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echidna_-_melbourne_zoo.jpg/180px-Echidna_-_melbourne_zoo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echidna_-_melbourne_zoo.jpg/240px-Echidna_-_melbourne_zoo.jpg 2x" data-file-width="1600" data-file-height="1067" /></a><br /></p>
+</div>
+<ul>
+<li style="-moz-float-edge: content-box">... that the <b><a href="/wiki/Monotreme" title="Monotreme">monotreme</a></b> <i>(<a href="/wiki/Echidna" title="Echidna">Echidna</a> pictured)</i> are the only surviving animals in the <a href="/wiki/Prototheria" title="Prototheria">Prototheria</a> family?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="/wiki/Pope_John_Paul_II" title="Pope John Paul II">Pope John Paul II</a></b> was the first non-<a href="/wiki/Italy" title="Italy">Italian</a> pope in 455 years?</li>
+<li style="-moz-float-edge: content-box">... that the population of <b><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></b> are mainly <a href="/wiki/Female" title="Female">female</a> with the ratio of 1,921,652 of men and 3,092,589 of women?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="/wiki/Pat_Hingle" title="Pat Hingle">Pat Hingle</a></b> was offered the lead role in <i><a href="/wiki/Elmer_Gantry" title="Elmer Gantry">Elmer Gantry</a></i>, but dropped out because he fell off an <a href="/wiki/Elevator" title="Elevator">elevator</a> leaving him with a <a href="/wiki/Fracture" class="mw-disambig" title="Fracture">fractured</a> <a href="/wiki/Skull" title="Skull">skull</a> and lost a finger?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="/wiki/Chinchilla" title="Chinchilla">chinchillas</a></b> are sexually mature by the time they are eight weeks old?<br style="clear:both;" />
+<div style="text-align: right;" class="noprint"><b><a href="/wiki/Template:Did_you_know/Archives" title="Template:Did you know/Archives">Archives</a></b> – <b><a href="/wiki/Wikipedia:How_to_write_Simple_English_articles" class="mw-redirect" title="Wikipedia:How to write Simple English articles">Start a new article</a></b> – <b><a href="/wiki/T:TDYK#Nominations" class="mw-redirect" title="T:TDYK">Nominate an article</a></b></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="width: 100%; height: auto; border: 1px solid #88A; background-color: #ACF; vertical-align: top; margin: 0em 0em 0.5em 0em; border-spacing: 0.6em;" cellspacing="6">
+<tr>
+<td style="width: 100%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;" colspan="2">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_4_49920292" id="ImageMap_4_49920292">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_4_49920292" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="Knowledge_groups"><b>Knowledge groups</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<table width="100%" cellspacing="0" cellpadding="5" style="background: transparent;">
+<tr valign="top">
+<td width="50%">
+<table width="100%" cellspacing="0" cellpadding="5" style="background: transparent;">
+<tr>
+<td><img alt="Globe-Star of life.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Globe-Star_of_life.svg/50px-Globe-Star_of_life.svg.png" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Globe-Star_of_life.svg/75px-Globe-Star_of_life.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Globe-Star_of_life.svg/100px-Globe-Star_of_life.svg.png 2x" data-file-width="70" data-file-height="65" /></td>
+<td><b>Applied sciences</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Architecture" title="Architecture">Architecture</a> (building) •</span> <span class="nowrap"><a href="/wiki/Communication" title="Communication">Communication</a> •</span> <span class="nowrap"><a href="/wiki/Electronics" title="Electronics">Electronics</a> •</span> <span class="nowrap"><a href="/wiki/Engineering" title="Engineering">Engineering</a> •</span> <span class="nowrap"><a href="/wiki/Farming" title="Farming">Farming</a> •</span> <span class="nowrap"><a href="/wiki/Health" title="Health">Health</a> •</span> <span class="nowrap"><a href="/wiki/Industry" title="Industry">Industry</a> •</span> <span class="nowrap"><a href="/wiki/Medicine" title="Medicine">Medicine</a> •</span> <span class="nowrap"><a href="/wiki/Transport" title="Transport">Transport</a> •</span> <span class="nowrap"><a href="/wiki/Weather" title="Weather">Weather</a></span></span></td>
+</tr>
+<tr>
+<td><img alt="Books-aj.svg aj ashton 01f.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Books-aj.svg_aj_ashton_01f.svg/50px-Books-aj.svg_aj_ashton_01f.svg.png" width="50" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Books-aj.svg_aj_ashton_01f.svg/75px-Books-aj.svg_aj_ashton_01f.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Books-aj.svg_aj_ashton_01f.svg/100px-Books-aj.svg_aj_ashton_01f.svg.png 2x" data-file-width="309" data-file-height="274" /></td>
+<td><b>People and social studies</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a> (study of people) •</span> <span class="nowrap"><a href="/wiki/Archaeology" title="Archaeology">Archaeology</a> (history of civilization) •</span> <span class="nowrap"><a href="/wiki/Geography" title="Geography">Geography</a> •</span> <span class="nowrap"><a href="/wiki/Education" title="Education">Education</a> •</span> <span class="nowrap"><a href="/wiki/History" title="History">History</a> •</span> <span class="nowrap"><a href="/wiki/Language" title="Language">Language</a> •</span> <span class="nowrap"><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a> (abstract ideas) •</span> <span class="nowrap"><a href="/wiki/Psychology" title="Psychology">Psychology</a> •</span> <span class="nowrap"><a href="/wiki/Sociology" title="Sociology">Sociology</a> •</span> <span class="nowrap"><a href="/wiki/Teaching" class="mw-redirect" title="Teaching">Teaching</a></span></span></td>
+</tr>
+<tr>
+<td><img alt="Crystal Project colors.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Crystal_Project_colors.png/50px-Crystal_Project_colors.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Crystal_Project_colors.png/75px-Crystal_Project_colors.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Crystal_Project_colors.png/100px-Crystal_Project_colors.png 2x" data-file-width="256" data-file-height="256" /></td>
+<td><b>Daily life, art and culture</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Animation" title="Animation">Animation</a> •</span> <span class="nowrap"><a href="/wiki/Art" title="Art">Art</a> •</span> <span class="nowrap"><a href="/wiki/Book" title="Book">Book</a> •</span> <span class="nowrap"><a href="/wiki/Cooking" title="Cooking">Cooking</a> •</span> <span class="nowrap"><a href="/wiki/Custom" title="Custom">Custom</a> •</span> <span class="nowrap"><a href="/wiki/Culture" title="Culture">Culture</a> •</span> <span class="nowrap"><a href="/wiki/Dance" title="Dance">Dance</a> •</span> <span class="nowrap"><a href="/wiki/Family" title="Family">Family</a> •</span> <span class="nowrap"><a href="/wiki/Game" title="Game">Games</a> •</span> <span class="nowrap"><a href="/wiki/Gardening" title="Gardening">Gardening</a> •</span> <span class="nowrap"><a href="/wiki/Leisure" title="Leisure">Leisure</a> (free time) •</span> <span class="nowrap"><a href="/wiki/Movie" title="Movie">Movies and films</a> •</span> <span class="nowrap"><a href="/wiki/Music" title="Music">Music</a> •</span> <span class="nowrap"><a href="/wiki/Radio" title="Radio">Radio</a> •</span> <span class="nowrap"><a href="/wiki/Sport" title="Sport">Sports</a> •</span> <span class="nowrap"><a href="/wiki/Theatre" title="Theatre">Theater</a> •</span> <span class="nowrap"><a href="/wiki/Travel" title="Travel">Travel</a> •</span> <span class="nowrap"><a href="/wiki/Television" title="Television">Television</a></span></span></td>
+</tr>
+</table>
+</td>
+<td>&#160;&#160;&#160;</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="5" style="background: transparent;">
+<tr>
+<td><b>Natural sciences and maths</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Algebra" title="Algebra">Algebra</a> •</span> <span class="nowrap"><a href="/wiki/Astronomy" title="Astronomy">Astronomy</a> (stars and space) •</span> <span class="nowrap"><a href="/wiki/Biology" title="Biology">Biology</a> (animals and plants) •</span> <span class="nowrap"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a> •</span> <span class="nowrap"><a href="/wiki/Computer_science" title="Computer science">Computer science</a> •</span> <span class="nowrap"><a href="/wiki/Earth_science" title="Earth science">Earth science</a> •</span> <span class="nowrap"><a href="/wiki/Ecology" title="Ecology">Ecology</a> •</span> <span class="nowrap"><a href="/wiki/Geometry" title="Geometry">Geometry</a> •</span> <span class="nowrap"><a href="/wiki/Mathematics" title="Mathematics">Mathematics</a> •</span> <span class="nowrap"><a href="/wiki/Physics" title="Physics">Physics</a> •</span> <span class="nowrap"><a href="/wiki/Statistics" title="Statistics">Statistics</a> •</span> <span class="nowrap"><a href="/wiki/Zoology" title="Zoology">Zoology</a> (study of animals)</span></span></td>
+<td><img alt="Gnome-applications-science.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/50px-Gnome-applications-science.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/75px-Gnome-applications-science.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gnome-applications-science.svg/100px-Gnome-applications-science.svg.png 2x" data-file-width="48" data-file-height="48" /></td>
+</tr>
+<tr>
+<td><b>Government and law</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Copyright" title="Copyright">Copyright</a> •</span> <span class="nowrap"><a href="/wiki/Defense_(military)" title="Defense (military)">Defense</a> •</span> <span class="nowrap"><a href="/wiki/Economics" title="Economics">Economics</a> (trade and business) •</span> <span class="nowrap"><a href="/wiki/Government" title="Government">Government</a> •</span> <span class="nowrap"><a href="/wiki/Human_rights" title="Human rights">Human rights</a> •</span> <span class="nowrap"><a href="/wiki/Law" title="Law">Laws</a> •</span> <span class="nowrap"><a href="/wiki/Military" title="Military">Military</a> •</span> <span class="nowrap"><a href="/wiki/Politics" title="Politics">Politics</a> •</span> <span class="nowrap"><a href="/wiki/Trade" title="Trade">Trade</a></span></span></td>
+<td><img alt="Gnome-applications.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gnome-applications.svg/50px-Gnome-applications.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gnome-applications.svg/75px-Gnome-applications.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gnome-applications.svg/100px-Gnome-applications.svg.png 2x" data-file-width="60" data-file-height="60" /></td>
+</tr>
+<tr>
+<td><b>Religions and beliefs</b><br />
+<span style="font-size: 0.95em;"><span class="nowrap"><a href="/wiki/Atheism" title="Atheism">Atheism</a> •</span> <span class="nowrap"><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í</a> •</span> <span class="nowrap"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a> •</span> <span class="nowrap"><a href="/wiki/Christianity" title="Christianity">Christianity</a> •</span> <span class="nowrap"><a href="/wiki/Esotericism" title="Esotericism">Esotericism</a> •</span> <span class="nowrap"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a> •</span> <span class="nowrap"><a href="/wiki/Islam" title="Islam">Islam</a> •</span> <span class="nowrap"><a href="/wiki/Jainism" title="Jainism">Jainism</a> •</span> <span class="nowrap"><a href="/wiki/Judaism" title="Judaism">Judaism</a> •</span> <span class="nowrap"><a href="/wiki/Mythology" title="Mythology">Mythology</a> •</span> <span class="nowrap"><a href="/wiki/Paganism" title="Paganism">Paganism</a> •</span> <span class="nowrap"><a href="/wiki/Sect" title="Sect">Sect</a> •</span> <span class="nowrap"><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a> •</span> <span class="nowrap"><a href="/wiki/Taoism" title="Taoism">Taoism</a> •</span> <span class="nowrap"><a href="/wiki/Theology" title="Theology">Theology</a></span></span></td>
+<td><img alt="ReligiousSymbols.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ReligiousSymbols.svg/50px-ReligiousSymbols.svg.png" width="50" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ReligiousSymbols.svg/75px-ReligiousSymbols.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ReligiousSymbols.svg/100px-ReligiousSymbols.svg.png 2x" data-file-width="1150" data-file-height="990" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 100%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;" colspan="2">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_5_2045392763" id="ImageMap_5_2045392763">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_5_2045392763" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="Sister_projects"><b>Sister projects</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<center>Wikipedia is hosted by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, a non-profit organization that also hosts a range of other <a href="https://wikimediafoundation.org/wiki/Our_projects" class="extiw" title="wikimedia:Our projects">projects</a>:</center>
+<table width="100%" align="center" cellpadding="5" style="text-align:left; background-color: transparent;">
+<tr>
+<td colspan="6" align="center" style="font-size: 110%; padding-top: 1em;"><b><u>In Simple English</u>:</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td align="center"><img alt="HSWtionary.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/40px-HSWtionary.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/60px-HSWtionary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/80px-HSWtionary.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td width="33%"><b><a href="https://simple.wiktionary.org/wiki/Main_Page" class="extiw" title="wikt:Main Page"><b>Wiktionary</b></a></b><br />
+Dictionary and thesaurus</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="center"><img alt="HSCommons.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/40px-HSCommons.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/60px-HSCommons.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/80px-HSCommons.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td width="33%"><b><a href="https://commons.wikimedia.org/wiki/Simple_English" class="extiw" title="commons:Simple English">Commons</a></b><br />
+Free media repository</td>
+<td align="center"><img alt="HSWSpecies.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/40px-HSWSpecies.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/60px-HSWSpecies.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/80px-HSWSpecies.svg.png 2x" data-file-width="300" data-file-height="300" /></td>
+<td width="33%"><b><a href="https://species.wikimedia.org/wiki/Main_Page_(Simple_English)" class="extiw" title="species:Main Page (Simple English)">Wikispecies</a></b><br />
+Directory of species</td>
+<td align="center"><img alt="Wikidata-HS-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/40px-Wikidata-HS-icon.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/60px-Wikidata-HS-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/80px-Wikidata-HS-icon.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page_(Simple_English)" class="extiw" title="d:Wikidata:Main Page (Simple English)">Wikidata</a></b><br />
+Free knowledge base</td>
+</tr>
+<tr>
+<td colspan="6" align="center" style="font-size: 110%; padding-top: 1em;"><b><u>In Regular English</u>:</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td align="center"><img alt="HSWPedia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/40px-HSWPedia.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/60px-HSWPedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/80px-HSWPedia.svg.png 2x" data-file-width="1500" data-file-height="1500" /></td>
+<td><a href="https://en.wikipedia.org/wiki/Main_Page" class="extiw" title="w:Main Page"><b>Wikipedia</b></a><br />
+English Wikipedia</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="center"><img alt="HSWNews.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/40px-HSWNews.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/60px-HSWNews.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/80px-HSWNews.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td width="33%"><b><a href="https://simple.wikinews.org/wiki/en:" class="extiw" title="n:en:">Wikinews</a></b><br />
+Free-content news</td>
+<td align="center"><img alt="Wiktionary-logo-en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/40px-Wiktionary-logo-en.svg.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/60px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/80px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td width="33%"><b><a href="https://simple.wiktionary.org/wiki/en:" class="extiw" title="wikt:en:">Wiktionary</a></b><br />
+Dictionary and thesaurus</td>
+<td align="center"><img alt="HSWQuote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/40px-HSWQuote.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/60px-HSWQuote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/80px-HSWQuote.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://simple.wikiquote.org/wiki/en:" class="extiw" title="q:en:">Wikiquote</a></b><br />
+Collection of quotations</td>
+</tr>
+<tr>
+<td align="center"><img alt="HSWBooks.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/40px-HSWBooks.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/60px-HSWBooks.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/80px-HSWBooks.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://simple.wikibooks.org/wiki/en:" class="extiw" title="b:en:">Wikibooks</a></b><br />
+Free textbooks and manuals</td>
+<td align="center"><img alt="HSWSource.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/40px-HSWSource.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/60px-HSWSource.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/80px-HSWSource.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://simple.wikisource.org/wiki/en:" class="extiw" title="s:en:">Wikisource</a></b><br />
+Free-content library</td>
+<td align="center"><img alt="HSWVersity.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/40px-HSWVersity.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/60px-HSWVersity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/80px-HSWVersity.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://simple.wikiversity.org/wiki/en:" class="extiw" title="v:en:">Wikiversity</a></b><br />
+Free learning resources</td>
+</tr>
+<tr>
+<td align="center"><img alt="HSWikimedia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/40px-HSWikimedia.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/60px-HSWikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/80px-HSWikimedia.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:">Meta-Wiki</a></b><br />
+Wikimedia project coordination</td>
+<td align="center"><img alt="HSWikivoyage.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSWikivoyage.svg/40px-HSWikivoyage.svg.png" width="40" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSWikivoyage.svg/60px-HSWikivoyage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/HSWikivoyage.svg/80px-HSWikivoyage.svg.png 2x" data-file-width="744" data-file-height="1052" /></td>
+<td><b><a href="https://simple.wikivoyage.org/wiki/en:" class="extiw" title="voy:en:">Wikivoyage</a></b><br />
+Free travel guide</td>
+<td align="center"><img alt="HSMediaWiki.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/HSMediaWiki.svg/35px-HSMediaWiki.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/HSMediaWiki.svg/53px-HSMediaWiki.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/HSMediaWiki.svg/70px-HSMediaWiki.svg.png 2x" data-file-width="156" data-file-height="156" /></td>
+<td><b><a href="https://www.mediawiki.org/wiki/" class="extiw" title="mw:">MediaWiki</a></b><br />
+Wiki software development</td>
+</tr>
+</table>
+<div style="font-size:96%; margin-top:20px; text-align: center;" class="plainlinks">
+<p><b>See the pages of the <a href="https://wikimediafoundation.org/wiki/Home" class="extiw" title="wmf:Home">Wikimedia Foundation</a>, too.</b></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 100%; vertical-align:top; color:#000; border: 3px double #AAA; background-color: #ffffff; padding: 0.5em; margin: 0em;" colspan="2">
+<table style="vertical-align: top; margin: 0em; width: 100% !important; width: auto; display: table !important; display: inline; background-color: transparent;">
+<tr>
+<th colspan="2" style="background:#F0F0F0; margin: 0em; height: 1em; font-weight:bold; border:1px solid #AAA; text-align:left; color:#000;">
+<div style="float:right;">
+<div class="noresize"><map name="ImageMap_6_872388555" id="ImageMap_6_872388555">
+<area href="/wiki/Main_Page" shape="poly" coords="0,0,0,0" alt="Main Page" title="Main Page" /></map><img alt="Wikibar2.png" src="//upload.wikimedia.org/wikipedia/commons/1/1b/Wikibar2.png" width="100" height="22" data-file-width="100" data-file-height="22" usemap="#ImageMap_6_872388555" /></div>
+</div>
+<h1 style="text-align: left; font-size: 1.2em; border: none; margin: 0; padding: 1.5px 0 2px 4px;"><span class="mw-headline" id="Other_languages"><b>Other languages</b></span></h1>
+</th>
+</tr>
+<tr>
+<td>
+<div style="font-size:125%; padding-left:5px; margin-bottom: 0.5em; text-align: left"><b>1,000,000 articles or more</b><br /></div>
+<div style="font-size:90%; padding-left:7px; margin-bottom: 1em; text-align: left">
+<p><a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">English</a> &#160;•&#160; <a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">Cebuano (Cebuano)</a> &#160;•&#160; <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">Deutsch (German)</a> &#160;•&#160; <a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">español (Spanish)</a> &#160;•&#160; <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">français (French)</a> &#160;•&#160; <a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">italiano (Italian)</a> &#160;•&#160; <a href="https://ja.wikipedia.org/wiki/" class="extiw" title="ja:">日本語 (Japanese)</a> &#160;•&#160; <a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">Nederlands (Dutch)</a> &#160;•&#160; <a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">polski (Polish)</a> &#160;•&#160; <a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">русский (Russian)</a> &#160;•&#160; <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">svenska (Swedish)</a> &#160;•&#160; <a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:">Tiếng Việt (Vietnamese)</a> &#160;•&#160; <a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">Winaray (Waray)</a></p>
+</div>
+<div style="font-size:115%; padding-left:5px; margin-bottom: 0.5em; text-align: left"><b>500,000 articles or more</b><br /></div>
+<div style="font-size:90%; padding-left:7px; margin-bottom: 1em; text-align: left">
+<p><a href="https://ar.wikipedia.org/wiki/" class="extiw" title="ar:">العربية (Arabic)</a> &#160;•&#160; <a href="https://ca.wikipedia.org/wiki/" class="extiw" title="ca:">català (Catalan)</a> &#160;•&#160; <a href="https://fa.wikipedia.org/wiki/" class="extiw" title="fa:">فارسی (Persian)</a> &#160;•&#160; <a href="https://pt.wikipedia.org/wiki/" class="extiw" title="pt:">português (Portuguese)</a> &#160;•&#160; <a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:">українська (Ukrainian)</a> &#160;•&#160; <a href="https://zh.wikipedia.org/wiki/" class="extiw" title="zh:">中文 (Chinese)</a></p>
+</div>
+<div style="font-size:105%; padding-left:5px; margin-bottom: 0.5em; text-align: left"><b>100,000 articles or more</b><br /></div>
+<div style="font-size:90%; padding-left:7px; margin-bottom: 1em; text-align: left">
+<p><b>Simple English</b> &#160;•&#160; <a href="https://az.wikipedia.org/wiki/" class="extiw" title="az:">azərbaycanca (Azerbaijani)</a> &#160;•&#160; <a href="https://be.wikipedia.org/wiki/" class="extiw" title="be:">беларуская (Belarusian)</a> &#160;•&#160; <a href="https://bg.wikipedia.org/wiki/" class="extiw" title="bg:">български (Bulgarian)</a> &#160;•&#160; <a href="https://ce.wikipedia.org/wiki/" class="extiw" title="ce:">нохчийн (Chechen)</a> &#160;•&#160; <a href="https://cs.wikipedia.org/wiki/" class="extiw" title="cs:">čeština (Czech)</a> &#160;•&#160; <a href="https://da.wikipedia.org/wiki/" class="extiw" title="da:">dansk (Danish)</a> &#160;•&#160; <a href="https://el.wikipedia.org/wiki/" class="extiw" title="el:">Ελληνικά (Greek)</a> &#160;•&#160; <a href="https://eo.wikipedia.org/wiki/" class="extiw" title="eo:">Esperanto (Esperanto)</a> &#160;•&#160; <a href="https://et.wikipedia.org/wiki/" class="extiw" title="et:">eesti (Estonian)</a> &#160;•&#160; <a href="https://eu.wikipedia.org/wiki/" class="extiw" title="eu:">euskara (Basque)</a> &#160;•&#160; <a href="https://fi.wikipedia.org/wiki/" class="extiw" title="fi:">suomi (Finnish)</a> &#160;•&#160; <a href="https://gl.wikipedia.org/wiki/" class="extiw" title="gl:">galego (Galician)</a> &#160;•&#160; <a href="https://he.wikipedia.org/wiki/" class="extiw" title="he:">עברית (Hebrew)</a> &#160;•&#160; <a href="https://hi.wikipedia.org/wiki/" class="extiw" title="hi:">हिन्दी (Hindi)</a> &#160;•&#160; <a href="https://hr.wikipedia.org/wiki/" class="extiw" title="hr:">hrvatski (Croatian)</a> &#160;•&#160; <a href="https://hu.wikipedia.org/wiki/" class="extiw" title="hu:">magyar (Hungarian)</a> &#160;•&#160; <a href="https://hy.wikipedia.org/wiki/" class="extiw" title="hy:">Հայերեն (Armenian)</a> &#160;•&#160; <a href="https://id.wikipedia.org/wiki/" class="extiw" title="id:">Bahasa Indonesia (Indonesian)</a> &#160;•&#160; <a href="https://ka.wikipedia.org/wiki/" class="extiw" title="ka:">ქართული (Georgian)</a> &#160;•&#160; <a href="https://kk.wikipedia.org/wiki/" class="extiw" title="kk:">қазақша (Kazakh)</a> &#160;•&#160; <a href="https://ko.wikipedia.org/wiki/" class="extiw" title="ko:">한국어 (Korean)</a> &#160;•&#160; <a href="https://la.wikipedia.org/wiki/" class="extiw" title="la:">Latina (Latin)</a> &#160;•&#160; <a href="https://lt.wikipedia.org/wiki/" class="extiw" title="lt:">lietuvių (Lithuanian)</a> &#160;•&#160; <a href="https://min.wikipedia.org/wiki/" class="extiw" title="min:">Baso Minangkabau (Minangkabau)</a> &#160;•&#160; <a href="https://ms.wikipedia.org/wiki/" class="extiw" title="ms:">Bahasa Melayu (Malay)</a> &#160;•&#160; <a href="https://nn.wikipedia.org/wiki/" class="extiw" title="nn:">norsk nynorsk (Norwegian Nynorsk)</a> &#160;•&#160; <a href="https://no.wikipedia.org/wiki/" class="extiw" title="no:">norsk bokmål (Norwegian)</a> &#160;•&#160; <a href="https://ro.wikipedia.org/wiki/" class="extiw" title="ro:">română (Romanian)</a> &#160;•&#160; <a href="https://sh.wikipedia.org/wiki/" class="extiw" title="sh:">srpskohrvatski / српскохрватски (Serbo-Croatian)</a> &#160;•&#160; <a href="https://sk.wikipedia.org/wiki/" class="extiw" title="sk:">slovenčina (Slovak)</a> &#160;•&#160; <a href="https://sl.wikipedia.org/wiki/" class="extiw" title="sl:">slovenščina (Slovenian)</a> &#160;•&#160; <a href="https://sr.wikipedia.org/wiki/" class="extiw" title="sr:">српски / srpski (Serbian)</a> &#160;•&#160; <a href="https://th.wikipedia.org/wiki/" class="extiw" title="th:">ไทย (Thai)</a> &#160;•&#160; <a href="https://tr.wikipedia.org/wiki/" class="extiw" title="tr:">Türkçe (Turkish)</a> &#160;•&#160; <a href="https://ur.wikipedia.org/wiki/" class="extiw" title="ur:">اردو (Urdu)</a> &#160;•&#160; <a href="https://uz.wikipedia.org/wiki/" class="extiw" title="uz:">oʻzbekcha/ўзбекча (Uzbek)</a> &#160;•&#160; <a href="https://vo.wikipedia.org/wiki/" class="extiw" title="vo:">Volapük (Volapük)</a> &#160;•&#160; <a href="https://zh-min-nan.wikipedia.org/wiki/" class="extiw" title="zh-min-nan:">Bân-lâm-gú (Chinese (Min Nan))</a></p>
+</div>
+<div style="padding-right:10px; text-align: center; border-top:1px solid #e6d5ed;">
+<p><b><a href="https://meta.wikimedia.org/wiki/Complete_list_of_language_Wikipedias_available" class="extiw" title="m:Complete list of language Wikipedias available">List of all Wikipedias</a></b> – <b><a href="https://en.wikipedia.org/wiki/Wikipedia:Embassy" class="extiw" title="en:Wikipedia:Embassy">Languages working together</a></b> – <b><a href="https://meta.wikimedia.org/wiki/Language_proposal_policy" class="extiw" title="m:Language proposal policy">Start a Wikipedia for a new language</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20170504120030
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.088 seconds
+Real time usage: 0.130 seconds
+Preprocessor visited node count: 888/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 83775/2097152 bytes
+Template argument size: 51831/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.958      1 -total
+ 89.47%   43.802      3 Template:Main_Page_panel
+ 85.44%   41.827      7 Template:Main_Page_subpanel
+ 18.00%    8.811      1 Main_Page/Other_languages
+ 13.58%    6.646      1 Main_Page/Knowledge_groups
+ 13.43%    6.573      1 Main_Page/Article_16
+  7.37%    3.608      1 Template:Did_you_know
+  5.43%    2.658      1 Template:MainPageInterwikis
+  4.52%    2.212      1 Template:Nobots
+  4.44%    2.176     74 Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key simplewiki:pcache:idhash:232335-0!*!0!!en!4!* and timestamp 20170504120030 and revision id 5597032
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=5597032">https://simple.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=5597032</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Main_Page" title="Category:Main Page">Main Page</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Main_Page"  title="View the content page [c]" accesskey="c">Main page</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Main_Page"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Main_Page" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Main_Page&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Main_Page&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Getting around</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li><li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Main+Page">Make a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Main+Page&amp;returnto=Main+Page&amp;oldid=5597032&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://simple.wikibooks.org/wiki/Main_Page" hreflang="simple">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://simple.wikiquote.org/wiki/Main_Page" hreflang="simple">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Main_Page&amp;oldid=5597032" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Main_Page&amp;id=5597032" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>In other languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/" title="Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/" title="Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/" title="Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/" title="Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/" title="Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/" title="Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/" title="Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/" title="Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/" title="Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/" title="Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/" title="Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/" title="Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li><li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/" title="Chavacano de Zamboanga" lang="cbk-zam" hreflang="cbk-zam" class="interlanguage-link-target">Chavacano de Zamboanga</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/" title="Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/" title="Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/" title="Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/" title="Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/" title="Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/" title="Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/" title="Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/" title="Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/" title="Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/" title="Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/" title="Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/" title="Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/" title="Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/" title="Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/" title="Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/" title="Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/" title="Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/" title="Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/" title="Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/" title="Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/" title="Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/" title="Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/" title="Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/" title="Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-cr"><a href="https://cr.wikipedia.org/wiki/" title="Cree" lang="cr" hreflang="cr" class="interlanguage-link-target">Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/" title="Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/" title="Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/" title="Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/" title="Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/" title="Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/" title="Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/" title="Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/" title="Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/" title="Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/" title="Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/" title="Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/" title="Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/" title="Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last changed on 10 February 2017, at 01:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.130","ppvisitednodes":{"value":888,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":83775,"limit":2097152},"templateargumentsize":{"value":51831,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   48.958      1 -total"," 89.47%   43.802      3 Template:Main_Page_panel"," 85.44%   41.827      7 Template:Main_Page_subpanel"," 18.00%    8.811      1 Main_Page/Other_languages"," 13.58%    6.646      1 Main_Page/Knowledge_groups"," 13.43%    6.573      1 Main_Page/Article_16","  7.37%    3.608      1 Template:Did_you_know","  5.43%    2.658      1 Template:MainPageInterwikis","  4.52%    2.212      1 Template:Nobots","  4.44%    2.176     74 Template:Nowrap"]},"cachereport":{"origin":"mw1279","timestamp":"20170504120030","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1256"});});</script>
+	</body>
+</html>

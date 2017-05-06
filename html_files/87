@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1757 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1757","wgTitle":"1757","wgCurRevisionId":771916137,"wgRevisionId":771916137,"wgArticleId":34900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: editors list","Use mdy dates from March 2011","1757"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1757","wgRelevantArticleId":34900,"wgRequestId":"WQwuIwpAMEgAAC7Z6a8AAAAX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7635","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1757"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1757&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1757&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1757"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1757 rootpage-1757 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1757</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the year 1757.</div>
+<table class="infobox" style="text-align: center;">
+<tr>
+<th style="text-align:right;"><a href="/wiki/Millennium" title="Millennium">Millennium</a>:</th>
+<td><a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a></td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_centuries" title="List of centuries">Centuries</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/17th_century" title="17th century">17th&#160;century</a></li>
+<li><b><a href="/wiki/18th_century" title="18th century">18th&#160;century</a></b></li>
+<li><a href="/wiki/19th_century" title="19th century">19th&#160;century</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_decades" title="List of decades">Decades</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1730s" title="1730s">1730s</a></li>
+<li><a href="/wiki/1740s" title="1740s">1740s</a></li>
+<li><b><a href="/wiki/1750s" title="1750s">1750s</a></b></li>
+<li><a href="/wiki/1760s" title="1760s">1760s</a></li>
+<li><a href="/wiki/1770s" title="1770s">1770s</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="text-align:right;"><a href="/wiki/List_of_years" title="List of years">Years</a>:</th>
+<td class="hlist">
+<ul>
+<li><a href="/wiki/1754" title="1754">1754</a></li>
+<li><a href="/wiki/1755" title="1755">1755</a></li>
+<li><a href="/wiki/1756" title="1756">1756</a></li>
+<li><b><a class="mw-selflink selflink">1757</a></b></li>
+<li><a href="/wiki/1758" title="1758">1758</a></li>
+<li><a href="/wiki/1759" title="1759">1759</a></li>
+<li><a href="/wiki/1760" title="1760">1760</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table class="infobox" width="275">
+<tr>
+<td style="text-align:center;" colspan="2"><b><a href="/wiki/Category:1757" title="Category:1757">1757 by topic</a>:</b></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Arts and Sciences</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1757_in_archaeology" class="mw-redirect" title="1757 in archaeology">Archaeology</a> – <a href="/wiki/1757_in_architecture" title="1757 in architecture">Architecture</a> – <a href="/wiki/1757_in_art" title="1757 in art">Art</a> – <a href="/wiki/1757_in_literature" title="1757 in literature">Literature</a> (<a href="/wiki/1757_in_poetry" title="1757 in poetry">Poetry</a>) – <a href="/wiki/1757_in_music" title="1757 in music">Music</a> – <a href="/wiki/1757_in_science" title="1757 in science">Science</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Countries</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/1757_in_Austria" title="1757 in Austria">Austria</a> – <a href="/wiki/1757_in_Canada" title="1757 in Canada">Canada</a> – <a href="/wiki/1757_in_Denmark" title="1757 in Denmark">Denmark</a> – <a href="/wiki/1757_in_France" title="1757 in France">France</a> – <a href="/wiki/1757_in_Great_Britain" title="1757 in Great Britain">Great Britain</a> – <a href="/wiki/1757_in_Ireland" title="1757 in Ireland">Ireland</a> – <a href="/wiki/1757_in_Norway" title="1757 in Norway">Norway</a> – <a href="/wiki/1757_in_Russia" title="1757 in Russia">Russia</a> – <a href="/wiki/1757_in_Scotland" title="1757 in Scotland">Scotland</a> – <a href="/wiki/1757_in_Sweden" title="1757 in Sweden">Sweden</a> –</td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Lists of leaders</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/List_of_state_leaders_in_1757" title="List of state leaders in 1757">State leaders</a> – <a href="/wiki/List_of_governors_of_dependent_territories_in_the_18th_century" title="List of governors of dependent territories in the 18th century">Colonial governors</a> – <a href="/wiki/List_of_18th-century_religious_leaders" title="List of 18th-century religious leaders">Religious leaders</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Birth and death categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1757_births" title="Category:1757 births">Births</a> – <a href="/wiki/Category:1757_deaths" title="Category:1757 deaths">Deaths</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Establishments and disestablishments categories</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1757_establishments" title="Category:1757 establishments">Establishments</a> – <a href="/wiki/Category:1757_disestablishments" title="Category:1757 disestablishments">Disestablishments</a></td>
+</tr>
+<tr style="background-color:#f3f3f3">
+<td style="text-align:center;"><i>Works category</i></td>
+</tr>
+<tr>
+<td style="text-align:center;"><a href="/wiki/Category:1757_works" title="Category:1757 works">Works</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:C18_year_in_topic" title="Template:C18 year in topic"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:C18_year_in_topic" title="Template talk:C18 year in topic"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:C18_year_in_topic&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption style="font-size:125%"><span class="summary dtstart">1757 in various <a href="/wiki/Calendar_era" title="Calendar era">calendars</a></span></caption>
+<tr>
+<td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a></td>
+<td>1757<br />
+<span style="font-family: serif;"><i>MDCCLVII</i></span></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></td>
+<td>2510</td>
+</tr>
+<tr>
+<td><a href="/wiki/Armenian_calendar" title="Armenian calendar">Armenian calendar</a></td>
+<td>1206<br />
+ԹՎ ՌՄԶ</td>
+</tr>
+<tr>
+<td><a href="/wiki/Assyrian_calendar" title="Assyrian calendar">Assyrian calendar</a></td>
+<td>6507</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balinese_saka_calendar" title="Balinese saka calendar">Balinese saka calendar</a></td>
+<td>1678–1679</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bengali_calendar" class="mw-redirect" title="Bengali calendar">Bengali calendar</a></td>
+<td>1164</td>
+</tr>
+<tr>
+<td><a href="/wiki/Berber_calendar" title="Berber calendar">Berber calendar</a></td>
+<td>2707</td>
+</tr>
+<tr>
+<td><a href="/wiki/Regnal_years_of_English_monarchs" title="Regnal years of English monarchs">British Regnal year</a></td>
+<td>30&#160;<a href="/wiki/George_II_of_Great_Britain" title="George II of Great Britain">Geo.&#160;2</a>&#160;–&#160;31&#160;<a href="/wiki/George_II_of_Great_Britain" title="George II of Great Britain">Geo.&#160;2</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Buddhist_calendar" title="Buddhist calendar">Buddhist calendar</a></td>
+<td>2301</td>
+</tr>
+<tr>
+<td><a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese calendar</a></td>
+<td>1119</td>
+</tr>
+<tr>
+<td><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine calendar</a></td>
+<td>7265–7266</td>
+</tr>
+<tr>
+<td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a></td>
+<td><a href="/wiki/Chinese_sexagenary_cycle" title="Chinese sexagenary cycle">丙子</a>年 <small>(Fire&#160;<a href="/wiki/Rat_(zodiac)" title="Rat (zodiac)">Rat</a>)</small><br />
+4453 or 4393<br />
+&#160;&#160;&#160;&#160;<i>—&#160;to&#160;—</i><br />
+丁丑年 <small>(Fire&#160;<a href="/wiki/Ox_(zodiac)" title="Ox (zodiac)">Ox</a>)</small><br />
+4454 or 4394</td>
+</tr>
+<tr>
+<td><a href="/wiki/Coptic_calendar" title="Coptic calendar">Coptic calendar</a></td>
+<td>1473–1474</td>
+</tr>
+<tr>
+<td><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian calendar</a></td>
+<td>2923</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethiopian_calendar" title="Ethiopian calendar">Ethiopian calendar</a></td>
+<td>1749–1750</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></td>
+<td>5517–5518</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendars</a></td>
+<td></td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a></i></td>
+<td>1813–1814</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Shaka Samvat</a></i></td>
+<td>1678–1679</td>
+</tr>
+<tr>
+<td>&#160;- <i><a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali Yuga</a></i></td>
+<td>4857–4858</td>
+</tr>
+<tr>
+<td><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene calendar</a></td>
+<td>11757</td>
+</tr>
+<tr>
+<td><a href="/wiki/Igbo_calendar" title="Igbo calendar">Igbo calendar</a></td>
+<td>757–758</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian calendar</a></td>
+<td>1135–1136</td>
+</tr>
+<tr>
+<td><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td>
+<td>1170–1171</td>
+</tr>
+<tr>
+<td><a href="/wiki/Japanese_calendar" title="Japanese calendar">Japanese calendar</a></td>
+<td><a href="/wiki/H%C5%8Dreki" title="Hōreki">Hōreki</a> 7<br />
+<small>(宝暦７年)</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Javanese_calendar" title="Javanese calendar">Javanese calendar</a></td>
+<td>1682–1683</td>
+</tr>
+<tr>
+<td><a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a></td>
+<td>Gregorian minus 11 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Korean_calendar" title="Korean calendar">Korean calendar</a></td>
+<td>4090</td>
+</tr>
+<tr>
+<td><a href="/wiki/Minguo_calendar" title="Minguo calendar">Minguo calendar</a></td>
+<td>155 before <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" class="mw-redirect" title="Republic of China (1912–1949)">ROC</a><br />
+<small>民前155年</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/Nanakshahi_calendar" title="Nanakshahi calendar">Nanakshahi calendar</a></td>
+<td>289</td>
+</tr>
+<tr>
+<td><a href="/wiki/Thai_solar_calendar" title="Thai solar calendar">Thai solar calendar</a></td>
+<td>2299–2300</td>
+</tr>
+<tr>
+<td><a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a></td>
+<td>阳火鼠年<br />
+<small>(male Fire-<a href="/wiki/Rat_(zodiac)" title="Rat (zodiac)">Rat</a>)</small><br />
+1883 or 1502 or 730<br />
+&#160;&#160;&#160;&#160;<i>—&#160;to&#160;—</i><br />
+阴火牛年<br />
+<small>(female Fire-<a href="/wiki/Ox_(zodiac)" title="Ox (zodiac)">Ox</a>)</small><br />
+1884 or 1503 or 731</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="plainlinks hlist navbar"><span style="word-spacing:0">This box:</span>
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Year_in_various_calendars" title="Template:Year in various calendars"><span title="View this template">view</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Year_in_various_calendars" title="Template talk:Year in various calendars"><span title="Discuss this template">talk</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Year_in_various_calendars&amp;action=edit"><span title="Edit this template">edit</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1757" class="extiw" title="commons:Category:1757">1757</a></b></i>.</td>
+</tr>
+</table>
+<p><br /></p>
+<p><b>1757 (<a href="/wiki/Roman_numerals" title="Roman numerals">MDCCLVII</a>)</b> was a <a href="/wiki/Common_year" title="Common year">common year</a> <a href="/wiki/Common_year_starting_on_Saturday" title="Common year starting on Saturday">starting on Saturday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> B) of the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>&#160;and a <a href="/wiki/Common_year_starting_on_Wednesday" title="Common year starting on Wednesday">common year starting on Wednesday</a> (<a href="/wiki/Dominical_letter" title="Dominical letter">dominical letter</a> E) of the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, the 1757th year of the <a href="/wiki/Common_Era" title="Common Era">Common Era</a> (CE) and <i><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a></i> (AD) designations, the 757th year of the <a href="/wiki/2nd_millennium" title="2nd millennium">2nd&#160;millennium</a>, the 57th year of the <a href="/wiki/18th_century" title="18th century">18th&#160;century</a>, and the 8th year of the <a href="/wiki/1750s" title="1750s">1750s</a> decade. As of the start of 1757, the Gregorian calendar was 11 days ahead of the Julian calendar, which remained in localized use until 1923.</p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=1" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="January.E2.80.93June">January–June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=2" title="Edit section: January–June">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/January_2" title="January 2">January 2</a> – <a href="/wiki/Kingdom_of_Great_Britain" title="Kingdom of Great Britain">Britain</a> captures <a href="/wiki/Kolkata" title="Kolkata">Calcutta</a> (part of the fighting in the <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a>).</li>
+<li><a href="/wiki/January_5" title="January 5">January 5</a> – <a href="/wiki/Robert-Fran%C3%A7ois_Damiens" title="Robert-François Damiens">Robert-François Damiens</a> makes an unsuccessful assassination attempt on <a href="/wiki/Louis_XV_of_France" title="Louis XV of France">Louis XV of France</a>. On <a href="/wiki/March_28" title="March 28">March 28</a> Damiens is publicly executed by dismemberment, the last person in France to suffer this punishment.</li>
+<li><a href="/wiki/March_14" title="March 14">March 14</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a>: British Admiral Sir <a href="/wiki/John_Byng" title="John Byng">John Byng</a> is <a href="/wiki/Executed_by_firing_squad" class="mw-redirect" title="Executed by firing squad">executed by firing squad</a> aboard <a href="/wiki/HMS_Monarch_(1747)" title="HMS Monarch (1747)">HMS&#160;<i>Monarch</i></a> for breach of the <a href="/wiki/Articles_of_War" title="Articles of War">Articles of War</a> in failing to "do his utmost" at the <a href="/wiki/Battle_of_Minorca_(1756)" title="Battle of Minorca (1756)">Battle of Minorca (1756)</a>.</li>
+<li><a href="/wiki/May_6" title="May 6">May 6</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Prague_(1757)" title="Battle of Prague (1757)">Battle of Prague (1757)</a>: <a href="/wiki/Frederick_the_Great" title="Frederick the Great">Frederick the Great</a> defeats an <a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Austrian</a> army and begins to besiege the city.</li>
+<li><a href="/wiki/June_18" title="June 18">June 18</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Kol%C3%ADn" title="Battle of Kolín">Battle of Kolín</a>: Frederick is defeated by an Austrian army under <a href="/wiki/Count_Leopold_Joseph_von_Daun" title="Count Leopold Joseph von Daun">Marshal Daun</a>, forcing him to evacuate <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a>.</li>
+<li><a href="/wiki/June_23" title="June 23">June 23</a> – <a href="/wiki/Battle_of_Plassey" title="Battle of Plassey">Battle of Plassey</a>: 3,000 troops serving with the British <a href="/wiki/East_India_Company" title="East India Company">East India Company</a> under <a href="/wiki/Robert_Clive" title="Robert Clive">Robert Clive</a> defeat a 50,000 strong Indian army under <a href="/wiki/Siraj_ud-Daulah" title="Siraj ud-Daulah">Siraj ud-Daulah</a> through conspiracy, at <a href="/wiki/Plassey" class="mw-redirect" title="Plassey">Plassey</a> in India marking the first victory of the <a href="/wiki/East_India_Company" title="East India Company">East India Company</a> upon <a href="/wiki/India" title="India">India</a> .</li>
+</ul>
+<h3><span class="mw-headline" id="July.E2.80.93December">July–December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=3" title="Edit section: July–December">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/July_26" title="July 26">July 26</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Hastenbeck" title="Battle of Hastenbeck">Battle of Hastenbeck</a>: An Anglo-Hanoverian army under the <a href="/wiki/Prince_William,_Duke_of_Cumberland" title="Prince William, Duke of Cumberland">Duke of Cumberland</a> is defeated by the French under <a href="/wiki/Louis_d%27Estr%C3%A9es" class="mw-redirect" title="Louis d'Estrées">Louis d'Estrées</a> and forced out of <a href="/wiki/Hanover" title="Hanover">Hanover</a>.</li>
+<li><a href="/wiki/August_3" title="August 3">August 3</a> – <a href="/wiki/August_9" title="August 9">August 9</a> – <a href="/wiki/French_and_Indian_War" title="French and Indian War">French and Indian War</a>: A French army under Louis-Joseph de Montcalm forces the English to surrender <a href="/wiki/Fort_William_Henry" title="Fort William Henry">Fort William Henry</a>. The French army's Indian allies slaughter the survivors for unclear reasons.</li>
+<li><a href="/wiki/August_30" title="August 30">August 30</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Gross-J%C3%A4gersdorf" title="Battle of Gross-Jägersdorf">Battle of Gross-Jägersdorf</a>: A Prussian army under <a href="/wiki/Hans_von_Lehwaldt" title="Hans von Lehwaldt">Hans von Lehwaldt</a> is defeated by the <a href="/wiki/Russian_Empire" title="Russian Empire">Russian</a> army of Marshal <a href="/wiki/Stepan_Fyodorovich_Apraksin" title="Stepan Fyodorovich Apraksin">Stepan Apraksin</a>.</li>
+<li>September – <a href="/wiki/1757_Hajj_caravan_raid" title="1757 Hajj caravan raid">1757 Hajj caravan raid</a>: Massive assault against the <a href="/wiki/Hajj" title="Hajj">Hajj</a> caravan by the <a href="/wiki/Beni_Sakhr" class="mw-redirect" title="Beni Sakhr">Beni Sakhr</a> tribe. The caravan was plundered and 20,000 pilgrims were killed or died as a result of the raid.</li>
+<li><a href="/wiki/October_16" title="October 16">October 16</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a>: Hungarian raiders plunder <a href="/wiki/Berlin" title="Berlin">Berlin</a> in <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Prussia</a>.</li>
+<li><a href="/wiki/October_30" title="October 30">October 30</a> – <a href="/wiki/Osman_III" title="Osman III">Osman III</a> dies and is succeeded as <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> <a href="/wiki/Sultan" title="Sultan">Sultan</a> by <a href="/wiki/Mustafa_III" title="Mustafa III">Mustafa III</a>.</li>
+<li><a href="/wiki/November_5" title="November 5">November 5</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Rossbach" title="Battle of Rossbach">Battle of Rossbach</a>: Frederick defeats the French-Imperial army under the Duc de Soubise and <a href="/wiki/Prince_Joseph_of_Saxe-Hildburghausen" title="Prince Joseph of Saxe-Hildburghausen">Prince Joseph of Saxe-Hildburghausen</a>, forcing the French to withdraw from <a href="/wiki/Saxony" title="Saxony">Saxony</a>.</li>
+<li><a href="/wiki/November_22" title="November 22">November 22</a> – <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Breslau_(1757)" title="Battle of Breslau (1757)">Battle of Breslau</a>: An Austrian army under <a href="/wiki/Prince_Charles_Alexander_of_Lorraine" title="Prince Charles Alexander of Lorraine">Prince Charles Alexander of Lorraine</a> defeats the Prussian army of Wilhelm of Brunswick-Bevern and forces the Prussians behind the <a href="/wiki/Oder" title="Oder">Oder</a>.</li>
+<li><a href="/wiki/December_6" title="December 6">December 6</a>
+<ul>
+<li><a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a> – <a href="/wiki/Battle_of_Leuthen" title="Battle of Leuthen">Battle of Leuthen</a>: Frederick defeats Prince Charles's Austrian army in what is generally considered the Prussian king's greatest tactical victory.</li>
+<li>In Buddhist tradition <a href="/wiki/Jigme_Lingpa" title="Jigme Lingpa">Jigme Lingpa</a> discovers the <a href="/wiki/Longchen_Nyingthig" title="Longchen Nyingthig">Longchen Nyingthig</a> <a href="/wiki/Terma_(religion)" title="Terma (religion)">terma</a> through a meditative vision which brought him to <a href="/wiki/Boudhanath" title="Boudhanath">Boudhanath</a>. The Longchen Nyingtig is a popular cycle of teachings in the <a href="/wiki/Nyingma" title="Nyingma">Nyingma</a> school of <a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan Buddhism</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/December_14" title="December 14">December 14</a> – <a href="/wiki/Battle_of_Khresili" title="Battle of Khresili">Battle of Khresili</a>: King <a href="/wiki/Solomon_I_of_Imereti" title="Solomon I of Imereti">Solomon I of Imereti</a> defeats the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> army and an allied faction of nobles in what is now western <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Date_unknown">Date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=4" title="Edit section: Date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Conclusion of <a href="/wiki/Nam_ti%E1%BA%BFn" title="Nam tiến">Nam tiến</a>, the southward expansion of the territory of <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> into the <a href="/wiki/Indochina" title="Indochina">Indochina</a> Peninsula.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/Robert_Wood_(antiquarian)" title="Robert Wood (antiquarian)">Robert Wood</a> publishes <i>The ruins of Balbec, otherwise Heliopolis in Coelosyria</i> in English and French, making the ancient city of <a href="/wiki/Baalbek" title="Baalbek">Baalbek</a> in <a href="/wiki/Syria" title="Syria">Syria</a> known to the West.</li>
+<li><a href="/wiki/Emanuel_Swedenborg" title="Emanuel Swedenborg">Emanuel Swedenborg</a> claims to have witnessed the <a href="/wiki/Last_Judgment" title="Last Judgment">Last Judgment</a> occurring in the spiritual world.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+<p><br /></p>
+<h2><span class="mw-headline" id="Births">Births</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=5" title="Edit section: Births">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/January_16" title="January 16">January 16</a> – <a href="/wiki/Richard_Goodwin_Keats" title="Richard Goodwin Keats">Richard Goodwin Keats</a>, British admiral and Governor of Newfoundland (d. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/February_3" title="February 3">February 3</a> – <a href="/wiki/Joseph_Forlenze" title="Joseph Forlenze">Joseph Forlenze</a>, Italian ophthalmologist (d. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/February_20" title="February 20">February 20</a> – <a href="/wiki/John_%27Mad_Jack%27_Fuller" class="mw-redirect" title="John 'Mad Jack' Fuller">John 'Mad Jack' Fuller</a>, English philanthropist (d. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/April_9" title="April 9">April 9</a> – <a href="/wiki/Edward_Pellew,_1st_Viscount_Exmouth" title="Edward Pellew, 1st Viscount Exmouth">Edward Pellew, 1st Viscount Exmouth</a>, British admiral (d. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a> – <a href="/wiki/Ludwig_von_Brauchitsch" title="Ludwig von Brauchitsch">Ludwig von Brauchitsch</a>, Prussian general (d. <a href="/wiki/1827" title="1827">1827</a>)</li>
+<li><a href="/wiki/May_25" title="May 25">May 25</a> – <a href="/wiki/Louis-S%C3%A9bastien_Lenormand" title="Louis-Sébastien Lenormand">Louis-Sébastien Lenormand</a>, French chemist, physicist and inventor (d. <a href="/wiki/1837" title="1837">1837</a>)</li>
+<li><a href="/wiki/May_30" title="May 30">May 30</a> – <a href="/wiki/Henry_Addington,_1st_Viscount_Sidmouth" title="Henry Addington, 1st Viscount Sidmouth">Henry Addington, 1st Viscount Sidmouth</a>, Prime Minister of the United Kingdom (d. <a href="/wiki/1844" title="1844">1844</a>)</li>
+<li><a href="/wiki/June_18" title="June 18">June 18</a> – <a href="/wiki/Gervasio_Antonio_de_Posadas" title="Gervasio Antonio de Posadas">Gervasio Antonio de Posadas</a>, Argentine leader (d. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/June_22" title="June 22">June 22</a> – <a href="/wiki/George_Vancouver" title="George Vancouver">George Vancouver</a>, British explorer (d. <a href="/wiki/1798" title="1798">1798</a>)</li>
+<li><a href="/wiki/July_20" title="July 20">July 20</a> – <a href="/wiki/Garsevan_Chavchavadze" title="Garsevan Chavchavadze">Garsevan Chavchavadze</a>, Georgian diplomat and politician (d. <a href="/wiki/1811" title="1811">1811</a>)</li>
+<li><a href="/wiki/August_9" title="August 9">August 9</a> – <a href="/wiki/Elizabeth_Schuyler" class="mw-redirect" title="Elizabeth Schuyler">Elizabeth Schuyler</a>, wife of <a href="/wiki/Alexander_Hamilton" title="Alexander Hamilton">Alexander Hamilton</a> and co-founder of New York's first orphanage (d. <a href="/wiki/1854" title="1854">1854</a>)</li>
+<li><a href="/wiki/August_9" title="August 9">August 9</a> – <a href="/wiki/Thomas_Telford" title="Thomas Telford">Thomas Telford</a>, British engineer &amp; architect (d. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/August_23" title="August 23">August 23</a> – <a href="/wiki/Marie_Magdalene_Charlotte_Ackermann" title="Marie Magdalene Charlotte Ackermann">Marie Magdalene Charlotte Ackermann</a>, German actress (d. <a href="/wiki/1775" title="1775">1775</a>)</li>
+<li><a href="/wiki/September_6" title="September 6">September 6</a> – <a href="/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette" title="Gilbert du Motier, Marquis de Lafayette">Gilbert du Motier, Marquis de Lafayette</a>, French soldier and statesman (d. <a href="/wiki/1834" title="1834">1834</a>)</li>
+<li><a href="/wiki/October_9" title="October 9">October 9</a> – King <a href="/wiki/Charles_X_of_France" title="Charles X of France">Charles X of France</a> (d. <a href="/wiki/1836" title="1836">1836</a>)</li>
+<li><a href="/wiki/October_21" title="October 21">October 21</a> – <a href="/wiki/Pierre_Augereau" title="Pierre Augereau">Pierre Augereau</a>, <a href="/wiki/Marshal_of_France" class="mw-redirect" title="Marshal of France">Marshal of France</a> and duc de Castiglione (d. <a href="/wiki/1816" title="1816">1816</a>)</li>
+<li><a href="/wiki/November_1" title="November 1">November 1</a> – <a href="/wiki/Antonio_Canova" title="Antonio Canova">Antonio Canova</a>, Italian sculptor (d. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/November_25" title="November 25">November 25</a> – <a href="/wiki/Henry_Brockholst_Livingston" title="Henry Brockholst Livingston">Henry Brockholst Livingston</a>, <a href="/wiki/Associate_Justice_of_the_Supreme_Court_of_the_United_States" title="Associate Justice of the Supreme Court of the United States">Associate Justice of the Supreme Court of the United States</a> (d. <a href="/wiki/1823" title="1823">1823</a>)</li>
+<li><a href="/wiki/November_28" title="November 28">November 28</a> – <a href="/wiki/William_Blake" title="William Blake">William Blake</a>, English poet (d. <a href="/wiki/1827" title="1827">1827</a>)</li>
+<li><a href="/wiki/December_17" title="December 17">December 17</a> – <a href="/wiki/Nathaniel_Macon" title="Nathaniel Macon">Nathaniel Macon</a>, American politician (d. <a href="/wiki/1837" title="1837">1837</a>)</li>
+<li><a href="/wiki/December_25" title="December 25">December 25</a> – <a href="/wiki/Benjamin_Pierce_(governor)" title="Benjamin Pierce (governor)">Benjamin Pierce</a>, American politician (d. <a href="/wiki/1839" title="1839">1839</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="date_unknown_2">date unknown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=6" title="Edit section: date unknown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/William_Bradley_(Royal_Navy_officer)" title="William Bradley (Royal Navy officer)">William Bradley</a>, British naval officer and cartographer (d. <a href="/wiki/1833" title="1833">1833</a>)</li>
+<li><a href="/wiki/Agnes_Ibbetson" title="Agnes Ibbetson">Agnes Ibbetson</a>, English plant physiologist (d. <a href="/wiki/1823" title="1823">1823</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Deaths">Deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=7" title="Edit section: Deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/January_9" title="January 9">January 9</a> – <a href="/wiki/Bernard_Le_Bovier_de_Fontenelle" title="Bernard Le Bovier de Fontenelle">Bernard Le Bovier de Fontenelle</a>, French scientist and man of letters (b. <a href="/wiki/1657" title="1657">1657</a>)</li>
+<li><a href="/wiki/January_19" title="January 19">January 19</a> – <a href="/wiki/Thomas_Ruddiman" title="Thomas Ruddiman">Thomas Ruddiman</a>, Scottish classical scholar (b. <a href="/wiki/1664" title="1664">1664</a>)</li>
+<li><a href="/wiki/March_1" title="March 1">March 1</a> – <a href="/wiki/Edward_Moore_(dramatist)" title="Edward Moore (dramatist)">Edward Moore</a>, English writer (b. <a href="/wiki/1712" title="1712">1712</a>)</li>
+<li><a href="/wiki/March_8" title="March 8">March 8</a> – <a href="/wiki/Thomas_Blackwell_(scholar)" title="Thomas Blackwell (scholar)">Thomas Blackwell</a>, Scottish classical scholar (b. <a href="/wiki/1701" title="1701">1701</a>)</li>
+<li><a href="/wiki/March_12" title="March 12">March 12</a> – <a href="/wiki/Giuseppe_Galli_Bibiena" title="Giuseppe Galli Bibiena">Giuseppe Galli Bibiena</a>, Italian architect/painter (b. <a href="/wiki/1696" title="1696">1696</a>)</li>
+<li><a href="/wiki/March_14" title="March 14">March 14</a> – <a href="/wiki/John_Byng" title="John Byng">John Byng</a>, British admiral (executed) (b. <a href="/wiki/1704" title="1704">1704</a>)</li>
+<li><a href="/wiki/March_27" title="March 27">March 27</a> – <a href="/wiki/Johann_Stamitz" title="Johann Stamitz">Johann Stamitz</a>, Czech-born composer (b. <a href="/wiki/1717" title="1717">1717</a>)</li>
+<li><a href="/wiki/April_28" title="April 28">April 28</a> – <a href="/wiki/Edmund_Butcher" title="Edmund Butcher">Edmund Butcher</a>, minister (b. <a href="/wiki/1822" title="1822">1822</a>)</li>
+<li><a href="/wiki/May_6" title="May 6">May 6</a>
+<ul>
+<li><a href="/wiki/Maximilian_Ulysses_Browne" title="Maximilian Ulysses Browne">Maximilian Ulysses Count Browne</a>, Austrian field marshal (b. <a href="/wiki/1705" title="1705">1705</a>)</li>
+<li><a href="/wiki/Charles_FitzRoy,_2nd_Duke_of_Grafton" title="Charles FitzRoy, 2nd Duke of Grafton">Charles FitzRoy, 2nd Duke of Grafton</a>, British politician (b. <a href="/wiki/1683" title="1683">1683</a>)</li>
+<li><a href="/wiki/Kurt_Christoph_Graf_von_Schwerin" title="Kurt Christoph Graf von Schwerin">Kurt Christoph Graf von Schwerin</a>, Prussian field marshal (b. <a href="/wiki/1684" title="1684">1684</a>)</li>
+</ul>
+</li>
+<li><a href="/wiki/July_23" title="July 23">July 23</a> – <a href="/wiki/Domenico_Scarlatti" title="Domenico Scarlatti">Domenico Scarlatti</a>, Italian composer (b. <a href="/wiki/1685" title="1685">1685</a>)</li>
+<li><a href="/wiki/August_28" title="August 28">August 28</a> – <a href="/wiki/David_Hartley_(philosopher)" title="David Hartley (philosopher)">David Hartley</a>, English philosopher (b. <a href="/wiki/1705" title="1705">1705</a>)</li>
+<li><a href="/wiki/October_17" title="October 17">October 17</a> – <a href="/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur" title="René Antoine Ferchault de Réaumur">René Antoine Ferchault de Réaumur</a>, French scientist (b. <a href="/wiki/1683" title="1683">1683</a>)</li>
+<li><a href="/wiki/October_25" title="October 25">October 25</a> – <a href="/wiki/Antoine_Augustin_Calmet" title="Antoine Augustin Calmet">Antoine Augustin Calmet</a>, French theologian (b. <a href="/wiki/1672" title="1672">1672</a>)</li>
+<li><a href="/wiki/October_30" title="October 30">October 30</a> – <a href="/wiki/Osman_III" title="Osman III">Osman III</a>, Ottoman Sultan (b. <a href="/wiki/1699" title="1699">1699</a>)</li>
+<li><a href="/wiki/November_12" title="November 12">November 12</a> – <a href="/wiki/Colley_Cibber" title="Colley Cibber">Colley Cibber</a>, English poet (b. <a href="/wiki/1671" title="1671">1671</a>)</li>
+<li><a href="/wiki/December_11" title="December 11">December 11</a> – <a href="/wiki/Edmund_Curll" title="Edmund Curll">Edmund Curll</a>, English bookseller and publisher (b. <a href="/wiki/1675" title="1675">1675</a>)</li>
+<li><a href="/wiki/December_14" title="December 14">December 14</a> – <a href="/wiki/Levan_Abashidze_(died_1757)" title="Levan Abashidze (died 1757)">Levan Abashidze</a>, Georgian politician</li>
+<li><i>date unknown</i> – <a href="/wiki/Rika_Maja" title="Rika Maja">Rika Maja</a>, Sami shaman (b. <a href="/wiki/1661" title="1661">1661</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1757&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Nguyen The Anh (1989). "Le Nam tien dans les textes Vietnamiens". In Lafont, P. B. (ed). <i>Les frontieres du Vietnam</i>. Paris: Edition l’Harmattan.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1757&amp;rft.atitle=Le+Nam+tien+dans+les+textes+Vietnamiens&amp;rft.au=Nguyen+The+Anh&amp;rft.btitle=Les+frontieres+du+Vietnam&amp;rft.date=1989&amp;rft.genre=bookitem&amp;rft.place=Paris&amp;rft.pub=Edition+l%E2%80%99Harmattan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: editors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">link</a>)</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Miller, Craig. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110725151135/http://craigwmiller.tripod.com/interest.htm">"Did Emanuel Swedenborg Influence LDS Doctrine?"</a>. Archived from <a rel="nofollow" class="external text" href="http://craigwmiller.tripod.com/interest.htm">the original</a> on July 25, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">3 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1757&amp;rft.aufirst=Craig&amp;rft.aulast=Miller&amp;rft.btitle=Did+Emanuel+Swedenborg+Influence+LDS+Doctrine%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcraigwmiller.tripod.com%2Finterest.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1237
+Cached time: 20170505074747
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.258 seconds
+Preprocessor visited node count: 4792/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29304/2097152 bytes
+Template argument size: 2267/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 17/500
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.214      1 -total
+ 37.36%   79.288      1 Template:C18_year_in_topic
+ 19.01%   40.333     19 Template:Dr
+ 18.06%   38.335     19 Template:Dr-make
+ 17.71%   37.583      1 Template:Year_nav
+ 17.50%   37.132      1 Template:Year_in_various_calendars
+ 16.64%   35.306      1 Template:Reflist
+ 12.45%   26.413      1 Template:Cite_book
+ 12.20%   25.888      1 Template:Commons_category
+ 12.17%   25.831      1 Template:Year_article_header
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34900-0!*!0!!*!4!* and timestamp 20170505074747 and revision id 771916137
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1757&amp;oldid=771916137">https://en.wikipedia.org/w/index.php?title=1757&amp;oldid=771916137</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1757" title="Category:1757">1757</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">CS1 maint: Extra text: editors list</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2011" title="Category:Use mdy dates from March 2011">Use mdy dates from March 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1757" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1757" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1757"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1757"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1757" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1757&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1757&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1757" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1757" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1757&amp;oldid=771916137" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1757&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7635" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1757&amp;id=771916137" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1757">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1757&amp;returnto=1757&amp;oldid=771916137&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1757&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1757" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/1757" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/1757" title="1757 – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/1757" title="1757 – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/1757_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1757 እ.ኤ.አ. – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/1757" title="1757 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/1757" title="1757 – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/1757" title="1757 – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/1757" title="1757 – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AD%E0%A7%AB%E0%A7%AD" title="১৭৫৭ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/1757_n%C3%AE" title="1757 nî – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/1757" title="1757 – Basa Banyumasan" lang="map-bms" hreflang="map-bms" class="interlanguage-link-target">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/1757_%D0%B9%D1%8B%D0%BB" title="1757 йыл – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/1757" title="1757 – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/1757" title="1757 – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="१७५७ – भोजपुरी" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/1757" title="1757 – Bikol Central" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/1757" title="1757 – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/1757" title="1757 – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/1757." title="1757. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/1757" title="1757 – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/1757" title="1757 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/1757" title="1757 – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/1757" title="1757 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/1757" title="1757 – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/1757" title="1757 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/1757" title="1757 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/1757" title="1757 – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/1757" title="1757 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/1757" title="1757 – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/1757_%D0%B8%D0%B5" title="1757 ие – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/1757" title="1757 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/1757" title="1757 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/1757" title="1757 – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B7%DB%B5%DB%B7_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۷۵۷ (میلادی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/1757" title="1757 – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/1757" title="1757 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/1757" title="1757 – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/1757" title="1757 – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/1757" title="1757 – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/1757" title="1757 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/1757%E5%B9%B4" title="1757年 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/1757%EB%85%84" title="1757년 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/1757" title="1757 – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="१७५७ – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/1757" title="1757 – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/1757." title="1757. – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/1757" title="1757 – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/1757" title="1757 – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AD%E0%A7%AB%E0%A7%AD" title="মারি ১৭৫৭ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/1757" title="1757 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/1757" title="1757 – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/1757-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1757-æм аз – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/1757" title="1757 – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/1757" title="1757 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/1757" title="1757 – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/1757" title="1757 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B3%A7%E0%B3%AD%E0%B3%AB%E0%B3%AD" title="೧೭೫೭ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/1757_%D0%B4%D0%B6%D1%8B%D0%BB" title="1757 джыл – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/1757" title="1757 – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/1757" title="1757 – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/1757_%D0%B6%D1%8B%D0%BB" title="1757 жыл – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/1757" title="1757 – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/1757_(almanak_gregoryen)" title="1757 (almanak gregoryen) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/1757" title="1757 – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/1757_%D0%B8" title="1757 и – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/1757" title="1757 – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/1757._gads" title="1757. gads – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/1757" title="1757 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/1757_m." title="1757 m. – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/1757" title="1757 – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/1757" title="1757 – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/1757" title="1757 – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="१७५७ – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/1757" title="1757 – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/1757" title="1757 – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="इ.स. १७५७ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/1757" title="1757 – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/1757" title="1757 – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%87%E1%81%85%E1%81%87" title="၁၇၅၇ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/1757" title="1757 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/1757" title="1757 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="सन् १७५७ – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="सन् १७५७ – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/1757%E5%B9%B4" title="1757年 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/1757" title="1757 – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/1757" title="1757 – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/1757" title="1757 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/1757" title="1757 – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/1757" title="1757 – Nouormand" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/1757" title="1757 – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/1757" title="1757 – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AD%E0%AD%AB%E0%AD%AD" title="୧୭୫୭ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/1757" title="1757 – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/1757" title="1757 – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="१७५७ – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/1757" title="1757 – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/1757" title="1757 – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/1757" title="1757 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/1757" title="1757 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/1757" title="1757 – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Joohr_1757" title="Joohr 1757 – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/1757" title="1757 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/1757" title="1757 – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/1757" title="1757 – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/1757_%D0%B3%D0%BE%D0%B4" title="1757 год – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/1757" title="1757 – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/1757" title="1757 – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AD%E0%A5%AB%E0%A5%AD" title="१७५७ – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/1757" title="1757 – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/1757" title="1757 – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/1757" title="1757 – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/1757" title="1757 – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/1757" title="1757 – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/1757" title="1757 – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/1757%D8%B9" title="1757ع – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/1757" title="1757 – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/1757" title="1757 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A7%D9%A5%D9%A7" title="١٧٥٧ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/1757" title="1757 – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/1757" title="1757 – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/1757" title="1757 – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/1757" title="1757 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/1757" title="1757 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/1757" title="1757 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/1757" title="1757 – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/1757_%D0%B5%D0%BB" title="1757 ел – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/1757" title="1757 – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2300" title="พ.ศ. 2300 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1757" title="Соли 1757 – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/1757" title="1757 – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/1757" title="1757 – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/1757" title="1757 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/1757%D8%A1" title="1757ء – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/1757" title="1757 – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/1757" title="1757 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/1757" title="1757 – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/1757" title="1757 – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/1757" title="1757 – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/1757" title="1757 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/1757" title="1757 – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/1757" title="1757 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/1757%E5%B9%B4" title="1757年 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/1757%E5%B9%B4" title="1757年 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7635#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 24 March 2017, at 07:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1757&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.258","ppvisitednodes":{"value":4792,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29304,"limit":2097152},"templateargumentsize":{"value":2267,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  212.214      1 -total"," 37.36%   79.288      1 Template:C18_year_in_topic"," 19.01%   40.333     19 Template:Dr"," 18.06%   38.335     19 Template:Dr-make"," 17.71%   37.583      1 Template:Year_nav"," 17.50%   37.132      1 Template:Year_in_various_calendars"," 16.64%   35.306      1 Template:Reflist"," 12.45%   26.413      1 Template:Cite_book"," 12.20%   25.888      1 Template:Commons_category"," 12.17%   25.831      1 Template:Year_article_header"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":3206813,"limit":52428800}},"cachereport":{"origin":"mw1237","timestamp":"20170505074747","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":333,"wgHostname":"mw1237"});});</script>
+	</body>
+</html>

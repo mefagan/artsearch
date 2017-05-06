@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="id" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia bahasa Indonesia, ensiklopedia bebas</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Halaman_Utama","wgTitle":"Halaman Utama","wgCurRevisionId":12590633,"wgRevisionId":12590633,"wgArticleId":42,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Halaman Utama"],"wgBreakFrames":false,"wgPageContentLanguage":"id","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","Mei","Jun","Jul","Ags","Sep","Okt","Nov","Des"],"wgRelevantPageName":"Halaman_Utama","wgRelevantArticleId":42,"wgRequestId":"WQ32jQpAMFwAAJJmST8AAACR","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":12590633,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"id","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"id","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Bahasa Indonesia","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.13"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0xsugnk",function($,jQuery,require,module){mw.user.options.set({"variant":"id"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.MatikanFiturBeta","ext.gadget.AdvancedSiteNotices","ext.gadget.Bagikan","ext.gadget.CurIDLink","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=id&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=id&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=id&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Food_in_Israel.jpg/1200px-Food_in_Israel.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/id.m.wikipedia.org/wiki/Halaman_Utama"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (id)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//id.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://id.wikipedia.org/wiki/Halaman_Utama"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Halaman_Utama rootpage-Halaman_Utama skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Etutup\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"id\" dir=\"ltr\"\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="id">Halaman Utama</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Dari Wikipedia bahasa Indonesia, ensiklopedia bebas</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Lompat ke:					<a href="#mw-head">navigasi</a>, 					<a href="#p-search">cari</a>
+				</div>
+				<div id="mw-content-text" lang="id" dir="ltr" class="mw-content-ltr"><div id="atas">
+<table style="width:100%; margin-bottom:2px;">
+<tr>
+<td class="logoWikipedia" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+<table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;">
+<tr>
+<td style="height:3em; padding-left:155px;">
+<div style="font-size:185%;">Selamat datang di <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
+<div style="margin-left:8px">Sebuah ensiklopedia bebas yang dibangun oleh sukarelawan.</div>
+</td>
+<td style="padding: 1em; text-align: right; line-height: 1.3;"><b><a href="/wiki/Istimewa:Statistik" title="Istimewa:Statistik">402.242 artikel</a></b> dalam <b><a href="/wiki/Bahasa_Indonesia" title="Bahasa Indonesia">bahasa Indonesia</a></b>.
+<div class="hlist">
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//id.m.wikipedia.org">Versi Wikipedia pada perangkat selular</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="hlist" style="text-align: center;">
+<ul>
+<li><a href="/wiki/Portal:Biografi" title="Portal:Biografi">Biografi</a></li>
+<li><a href="/wiki/Portal:Geografi" title="Portal:Geografi">Geografi</a></li>
+<li><a href="/wiki/Portal:Ilmu" title="Portal:Ilmu">Ilmu</a></li>
+<li><a href="/wiki/Portal:Sejarah" title="Portal:Sejarah">Sejarah</a></li>
+<li><a href="/wiki/Portal:Kimia" title="Portal:Kimia">Kimia</a></li>
+<li><a href="/wiki/Portal:Teknologi" title="Portal:Teknologi">Teknologi</a></li>
+<li><a href="/wiki/Portal:Komunitas" title="Portal:Komunitas">Komunitas</a></li>
+<li><a href="/wiki/Portal:Seni" title="Portal:Seni">Seni</a></li>
+<li><b><a href="/wiki/Portal:Daftar_portal" title="Portal:Daftar portal">Semua portal</a></b></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table style="margin-top:10px; background:none;">
+<tr>
+<td style="width:60%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/38px-HSutvald2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/57px-HSutvald2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/76px-HSutvald2.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-artikelpilihanHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Artikel_pilihan">Artikel pilihan</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-artikelpilihan" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<div class="thumb tleft" style="border:1px solid silver; width:150px; padding: 3px;"><a href="/wiki/Berkas:Food_in_Israel.jpg" title="Sajian restoran di Yerusalem meliputi falafel, hummus dan salad Israel"><img alt="Sajian restoran di Yerusalem meliputi falafel, hummus dan salad Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Food_in_Israel.jpg/150px-Food_in_Israel.jpg" width="150" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Food_in_Israel.jpg/225px-Food_in_Israel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Food_in_Israel.jpg/300px-Food_in_Israel.jpg 2x" data-file-width="2390" data-file-height="1620" /></a></div>
+<p><b><a href="/wiki/Masakan_Israel" title="Masakan Israel">Masakan Israel</a></b> meliputi hidangan lokal dari orang pribumi di Israel dan hidangan yang dibawa ke <a href="/wiki/Israel" title="Israel">Israel</a> oleh Yahudi dari <a href="/wiki/Diaspora" title="Diaspora">Diaspora</a>. Sejak sebelum pendirian <a href="/wiki/Israel" title="Israel">Negara Israel</a> pada 1948, dan sebagian sejak akhir 1970an, <a href="/wiki/Masakan_fusion" title="Masakan fusion">masakan fusion</a> <a href="/wiki/Yahudi" title="Yahudi">Yahudi</a> Israel telah dikembangkan. Masakan Israel mengadopsi, dan kemudian mengadaptasi, unsur-unsur dari berbagai gaya <a href="/wiki/Masakan_Yahudi" title="Masakan Yahudi">masakan Yahudi</a> dan <a href="/wiki/Masakan_Arab" title="Masakan Arab">masakan Arab</a>, sebagian bergaya masak <a href="/wiki/Masakan_Yahudi_Mizrahi" title="Masakan Yahudi Mizrahi">Mizrahi</a>, <a href="/wiki/Masakan_Yahudi_Sefardim" title="Masakan Yahudi Sefardim">Sefardim</a> dan <a href="/wiki/Ashkenazi" class="mw-disambig" title="Ashkenazi">Ashkenazi</a>. Masakan tersebut meliputi beberapa makanan yang biasanya disantap dalam <a href="/wiki/Masakan_Levantin" title="Masakan Levantin">masakan Levantin</a>, <a href="/wiki/Masakan_Timur_Tengah" title="Masakan Timur Tengah">Timur Tengah</a> dan <a href="/wiki/Masakan_Mediterania" title="Masakan Mediterania">Mediterania</a>, dan makanan-makanan seperti <a href="/wiki/Falafel" title="Falafel">falafel</a>, <a href="/wiki/Hummus" title="Hummus">hummus</a>, <a href="/wiki/Msabbha" title="Msabbha">msabbha</a>, <a href="/wiki/Shakshouka" title="Shakshouka">shakshouka</a>, <a href="/wiki/Couscous" title="Couscous">couscous</a>, dan <a href="/wiki/Za%27atar" title="Za'atar">za'atar</a> sekarang terkenal di Israel. Pengaruh lain pada masakan tersebut terdapat pada makanan umum di kawasan Mediterania, khususnya jenis-jenis buah dan sayuran, produk susu dan ikan; makanan tradisional yang khas dihidangkan pada masa hari raya; tradisi menaati hukum <a href="/wiki/Kosher" title="Kosher">kosher</a>; dan <a href="/wiki/Minhag" title="Minhag">tradisi</a> memakan makanan tertentu pada hari <a href="/wiki/Sabat" title="Sabat">Sabat</a> dan hari-<a href="/wiki/Hari_raya_Yahudi" class="mw-redirect" title="Hari raya Yahudi">hari raya Yahudi</a> yang berbeda, seperti <a href="/wiki/Challah" title="Challah">challah</a>, <a href="/wiki/Jachnun" title="Jachnun">jachnun</a>, <a href="/wiki/Malawach" title="Malawach">malawach</a>, <a href="/wiki/Ikan_gefilte" class="mw-redirect" title="Ikan gefilte">ikan gefilte</a>, <a href="/wiki/Hamin" class="mw-redirect" title="Hamin">hamin</a> dan <a href="/wiki/Sufganiyah" title="Sufganiyah">sufganiyot</a>. <b>(<a href="/wiki/Masakan_Israel" title="Masakan Israel">Selengkapnya...</a>)</b></p>
+<div style="padding: 0px 0px 0px 0px; font-size: 90%;" align="left" class="noprint">
+<p>Artikel pilihan sebelumnya: <a href="/wiki/Masjidil_Haram" title="Masjidil Haram">Masjidil Haram</a> – <a href="/wiki/Sepuluh_Perintah_Allah_dalam_teologi_Katolik" title="Sepuluh Perintah Allah dalam teologi Katolik">Sepuluh Perintah Allah dalam teologi Katolik</a> – <a href="/wiki/%3F_(film)" title="? (film)">? (film)</a></p>
+</div>
+<div style="font-weight: bold;" align="right" class="noprint">
+<p><a href="/wiki/Wikipedia:Artikel_pilihan/2017" class="mw-redirect" title="Wikipedia:Artikel pilihan/2017">Arsip</a> – <a href="/wiki/Wikipedia:Artikel_pilihan" title="Wikipedia:Artikel pilihan">Artikel pilihan lainnya...</a></p>
+</div>
+<div style="clear: both"></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/38px-HSAktuell.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/57px-HSAktuell.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HSAktuell.svg/76px-HSAktuell.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-peristiwaterkiniHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Peristiwa_terkini">Peristiwa terkini</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-peristiwaterkini" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<ul>
+<li><a href="/wiki/Puerto_Riko" title="Puerto Riko">Puerto Riko</a> mengajukan <b><a href="/w/index.php?title=Krisis_utang_pemerintahan_Puerto_Riko&amp;action=edit&amp;redlink=1" class="new" title="Krisis utang pemerintahan Puerto Riko (halaman belum tersedia)">kebangkrutan</a></b> <a href="/w/index.php?title=Pemerintahan_lokal_di_Amerika_Serikat&amp;action=edit&amp;redlink=1" class="new" title="Pemerintahan lokal di Amerika Serikat (halaman belum tersedia)">pemerintahan lokal</a> terbesar yang pernah ada di Amerika Serikat.</li>
+<li><a href="/wiki/Tiongkok" class="mw-redirect" title="Tiongkok">Tiongkok</a> melakukan penerbangan perdana <a href="/wiki/Pesawat_penumpang_sipil" title="Pesawat penumpang sipil">pesawat penumpang sipil</a> <b><a href="/wiki/Comac_C919" title="Comac C919">Comac C919</a></b>.</li>
+<li>Dengan dalih untuk menjaga ketertiban umum dan alasan keamanan nasional, pemerintah Turki <b><a href="/wiki/Penyensoran_Wikipedia" title="Penyensoran Wikipedia">memblokir</a></b> <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> untuk semua versi bahasa.</li>
+<li>Tiongkok meluncurkan <a href="/wiki/Kapal_induk_Jenis_001A" title="Kapal induk Jenis 001A"><b>kapal induk buatan domestik pertama</b></a>.</li>
+<li>Kandidat presiden <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a> dari <a href="/wiki/En_marche_!" title="En marche !">En marche !</a> dan <a href="/wiki/Marine_Le_Pen" title="Marine Le Pen">Marine Le Pen</a> dari <a href="/wiki/Barisan_Nasional_(Perancis)" title="Barisan Nasional (Perancis)">Barisan Nasional</a> maju ke putaran kedua <b><a href="/wiki/Pemilihan_umum_Presiden_Perancis_2017" title="Pemilihan umum Presiden Perancis 2017">Pemilihan umum Presiden Perancis 2017</a></b>.</li>
+</ul>
+<p><b><a href="/wiki/Portal:Peristiwa_terkini" title="Portal:Peristiwa terkini">Sedang berlangsung</a></b><br />
+<b><a href="/wiki/Kematian_tahun_2017" title="Kematian tahun 2017">Kematian terkini</a></b>: <span style="white-space:nowrap"><a href="/wiki/Ely_Ould_Mohamed_Vall" title="Ely Ould Mohamed Vall">Ely Ould Mohamed Vall</a> –</span> <span style="white-space:nowrap"><a href="/wiki/Widodo_Budidarmo" title="Widodo Budidarmo">Widodo Budidarmo</a> –</span> <span style="white-space:nowrap"><a href="/wiki/Mbah_Gotho" title="Mbah Gotho">Mbah Gotho</a></span></p>
+<div style="clear: both"></div>
+<div style="text-align: right;" class="noprint"><b><a href="/wiki/Portal:Peristiwa_terkini" title="Portal:Peristiwa terkini">Peristiwa terkini lainnya...</a></b></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/38px-HS_Liste.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/57px-HS_Liste.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/76px-HS_Liste.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-daftarpilihanHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Daftar_pilihan">Daftar pilihan</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-daftarpilihan" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<div class="thumb tleft" style="border:1px solid silver; width:125px; padding: 3px;"><a href="/wiki/Berkas:Akihito_090710-1600b.jpg" title="Kaisar Akihito dari Jepang"><img alt="Kaisar Akihito dari Jepang" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Akihito_090710-1600b.jpg/125px-Akihito_090710-1600b.jpg" width="125" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Akihito_090710-1600b.jpg/188px-Akihito_090710-1600b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Akihito_090710-1600b.jpg/250px-Akihito_090710-1600b.jpg 2x" data-file-width="1773" data-file-height="2328" /></a></div>
+<p><b><a href="/wiki/Daftar_penguasa_monarki_berdaulat_saat_ini" title="Daftar penguasa monarki berdaulat saat ini">Para penguasa monarki saat ini</a></b> dibedakan menurut gelar dan pangkat, yang dalam sebagian besar kasus didefinisikan oleh tradisi, dan dipandu di bawah <a href="/wiki/Konstitusi" title="Konstitusi">konstitusi</a> negara tersebut. <a href="/wiki/Penguasa_monarki" title="Penguasa monarki">Penguasa monarki</a> adalah <a href="/wiki/Kepala_negara" title="Kepala negara">kepala</a> <a href="/wiki/Monarki" title="Monarki">monarki</a>, suatu bentuk pemerintahan berupa negara atau pemerintahan diperintah oleh seseorang yang biasanya memerintah seumur hidup atau sampai <a href="/wiki/Turun_takhta" title="Turun takhta">turun takhta</a>. Dalam pembelajaran politik dan sosio-budaya, penguasa-penguasa monarki biasanya dikaitkan dengan <a href="/w/index.php?title=Monarki_warisan&amp;action=edit&amp;redlink=1" class="new" title="Monarki warisan (halaman belum tersedia)">penguasa warisan</a>; sebagian besar penguasa monarki; sebagian besar penguasa monarki lahir dan dibesarkan dalam sebuah <a href="/wiki/Keluarga_kerajaan" class="mw-redirect" title="Keluarga kerajaan">keluarga kerajaan</a>. Namun, beberapa penguasa monarki tidaklah warisan, dan sebagai gantinya penguasa tersebut ditentukan melalui proses <a href="/w/index.php?title=Monarki_elektif&amp;action=edit&amp;redlink=1" class="new" title="Monarki elektif (halaman belum tersedia)">elektif</a>. Pada umumnya, negara hanya memiliki satu penguasa monarki, tetapi dalam keadaan khusus, yaitu apabila penguasa monarki masih di bawah umur (secara hukum), tidak ada, atau tidak mampu secara hukum melaksanakan kekuasaan, seorang <a href="/w/index.php?title=Regen&amp;action=edit&amp;redlink=1" class="new" title="Regen (halaman belum tersedia)">regen</a> dapat melaksanakan kekuasaan tersebut. <b>(<a href="/wiki/Daftar_penguasa_monarki_berdaulat_saat_ini" title="Daftar penguasa monarki berdaulat saat ini">Selengkapnya...</a>)</b></p>
+<div style="padding: 0px 0px 0px 0px; font-size: 90%;" align="left" class="noprint">
+<p>Daftar pilihan sebelumnya: <a href="/wiki/Daftar_pemilihan_kepausan" title="Daftar pemilihan kepausan">Daftar pemilihan kepausan</a> – <a href="/wiki/Daftar_ketua_menteri_India_saat_ini" title="Daftar ketua menteri India saat ini">Daftar ketua menteri India saat ini</a></p>
+</div>
+<div style="font-weight: bold;" align="right" class="noprint">
+<p><a href="/wiki/Wikipedia:Daftar_pilihan/2017" class="mw-redirect" title="Wikipedia:Daftar pilihan/2017">Arsip</a> – <a href="/wiki/Wikipedia:Daftar_pilihan" title="Wikipedia:Daftar pilihan">Daftar pilihan lainnya...</a></p>
+</div>
+<div style="clear: both"></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/38px-HSDagensdatum.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/57px-HSDagensdatum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/76px-HSDagensdatum.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-hidsHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Hari_ini_dalam_sejarah">Hari ini dalam sejarah</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-hids" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<p><b><a href="/wiki/6_Mei" title="6 Mei">6 Mei</a></b>: <b><a href="/w/index.php?title=Pesta_Santo_Georgius&amp;action=edit&amp;redlink=1" class="new" title="Pesta Santo Georgius (halaman belum tersedia)">Pesta Santo Georgius</a></b> di Bulgaria</p>
+<div style="float:right;margin-left:0.5em;text-align:center; font-style:italic; font-size:90%;"><a href="/wiki/Berkas:Crash_Zeppelin_LZ18_(LII).jpg" class="image" title="Zeppelin"><img alt="{{{title}}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Crash_Zeppelin_LZ18_%28LII%29.jpg/80px-Crash_Zeppelin_LZ18_%28LII%29.jpg" width="80" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Crash_Zeppelin_LZ18_%28LII%29.jpg/120px-Crash_Zeppelin_LZ18_%28LII%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Crash_Zeppelin_LZ18_%28LII%29.jpg/160px-Crash_Zeppelin_LZ18_%28LII%29.jpg 2x" data-file-width="413" data-file-height="640" /></a><br />
+<a href="/wiki/Zeppelin" title="Zeppelin">Zeppelin</a></div>
+<ul>
+<li><b><a href="/wiki/1937" title="1937">1937</a></b> - <a href="/wiki/Zeppelin" title="Zeppelin">Zeppelin</a> <a href="/wiki/Jerman" title="Jerman">Jerman</a>, <b><a href="/wiki/Musibah_Hindenburg" title="Musibah Hindenburg">Hindenburg</a></b>, terbakar dan hancur sepenuhnya di <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, menewaskan 36 orang.</li>
+<li><b><a href="/wiki/1941" title="1941">1941</a></b> - <b><a href="/wiki/Joseph_Stalin" class="mw-redirect" title="Joseph Stalin">Joseph Stalin</a></b> menjadi perdana menteri <a href="/wiki/Rusia" title="Rusia">Rusia</a>.</li>
+<li><b><a href="/wiki/1986" title="1986">1986</a></b> - <a href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">Real Madrid</a> memenangkan pertandingan akhir <b><a href="/wiki/Piala_UEFA" class="mw-redirect" title="Piala UEFA">Piala UEFA</a></b> di <a href="/wiki/Berlin" title="Berlin">Berlin</a>.</li>
+<li><b><a href="/wiki/2003" title="2003">2003</a></b> - <b><a href="/wiki/Ateng" title="Ateng">Ateng</a></b>, <a href="/wiki/Pelawak" title="Pelawak">pelawak</a> kawakan <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> meninggal dunia pada usia 61 tahun karena sakit tenggorokan.</li>
+<li><b><a href="/wiki/2007" title="2007">2007</a></b> - <b><a href="/wiki/Nicolas_Sarkozy" title="Nicolas Sarkozy">Nicolas Sarkozy</a></b> memenangkan pemilihan presiden di <a href="/wiki/Perancis" title="Perancis">Perancis</a>.</li>
+</ul>
+<p>Tanggal lain: <span style="white-space:nowrap"><a href="/wiki/5_Mei" title="5 Mei">5 Mei</a> –</span> <span style="white-space:nowrap"><b><a href="/wiki/6_Mei" title="6 Mei">6 Mei</a></b> –</span> <span style="white-space:nowrap"><a href="/wiki/7_Mei" title="7 Mei">7 Mei</a></span></p>
+<div style="text-align: right;" class="noprint"><span style="white-space:nowrap"><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">Kirim via surel</a></b> –</span> <span style="white-space:nowrap"><b><a href="/wiki/Kalender_peristiwa" class="mw-redirect" title="Kalender peristiwa">Daftar tanggal</a></b></span></div>
+<div style="text-align: right;"><small>Hari ini tanggal <span style="white-space:nowrap">6 Mei 2017</span> (<a href="/wiki/Coordinated_Universal_Time" class="mw-redirect" title="Coordinated Universal Time">UTC</a>) – <span class="plainlinks" id="purgelink"><span style="white-space:nowrap"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Halaman_Utama&amp;action=purge">Muat ulang</a></span></span></small></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/38px-HSVissteduatt.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/57px-HSVissteduatt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/76px-HSVissteduatt.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-tahukahandaHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Tahukah_Anda">Tahukah Anda</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-tahukahanda" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<div style="clear: both"></div>
+<div style="float:right;margin-left:0.5em;text-align:center; font-style:italic; font-size:90%;"><a href="/wiki/Berkas:Viverricula_indica_schlegelii_1868.jpg" class="image" title="Musang rase"><img alt="{{{title}}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Viverricula_indica_schlegelii_1868.jpg/100px-Viverricula_indica_schlegelii_1868.jpg" width="100" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Viverricula_indica_schlegelii_1868.jpg/150px-Viverricula_indica_schlegelii_1868.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Viverricula_indica_schlegelii_1868.jpg/200px-Viverricula_indica_schlegelii_1868.jpg 2x" data-file-width="2588" data-file-height="1809" /></a><br />
+<a href="/wiki/Musang_rase" title="Musang rase">Musang rase</a></div>
+<ul>
+<li>"... bahwa <b><a href="/wiki/Pasukan_Rakyat_Kalimantan_Utara" title="Pasukan Rakyat Kalimantan Utara">Pasukan Rakyat Kalimantan Utara</a></b>, yang mayoritas beranggotakan warga <a href="/wiki/Tionghoa" title="Tionghoa">Tionghoa</a> pro-<a href="/wiki/Komunisme" title="Komunisme">komunisme</a> dari Kalimantan Utara, mendapatkan pelatihan dan persenjataan dari <a href="/wiki/Tentara_Nasional_Indonesia" title="Tentara Nasional Indonesia">Tentara Nasional Indonesia</a> untuk melawan <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a> dalam <a href="/wiki/Konfrontasi_Indonesia-Malaysia" title="Konfrontasi Indonesia-Malaysia">Konfrontasi Indonesia-Malaysia</a>?"</li>
+<li>"... bahwa <b><a href="/wiki/Musang_rase" title="Musang rase">musang rase</a></b> diambil <a href="/wiki/Minyak" title="Minyak">minyaknya</a> yang harum dan diolah menjadi minyak-minyak yang bernama dedes, jebat, dan juga kasturi?"</li>
+<li>"... bahwa <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> diyakini meninggalkan <a href="/wiki/Wina" title="Wina">Wina</a> untuk <b><a href="/wiki/Karier_militer_Adolf_Hitler" title="Karier militer Adolf Hitler">menghindari</a></b> <a href="/wiki/Wajib_militer" title="Wajib militer">wajib militer</a> yang dilaksanakan tentara <a href="/wiki/Austria" title="Austria">Austria</a>?"</li>
+<li>"... bahwa lakon <a href="/wiki/Ketoprak" class="mw-redirect" title="Ketoprak">ketoprak</a> <i><b><a href="/wiki/Baron_Sekeber" title="Baron Sekeber">Baron Sekeber</a></b></i> mengisahkan seorang keturunan bangsawan <a href="/wiki/Belanda" title="Belanda">Belanda</a> atau <a href="/wiki/Spanyol" title="Spanyol">Spanyol</a> yang berperang tanding melawan <a href="/wiki/Panembahan_Senapati" class="mw-redirect" title="Panembahan Senapati">Panembahan Senapati</a> dari <a href="/wiki/Kesultanan_Mataram" title="Kesultanan Mataram">Kesultanan Mataram</a>?"
+<div align="right">
+<div style="clear: both"></div>
+<span style="white-space:nowrap"><a href="/wiki/Wikipedia:Tahukah_Anda" title="Wikipedia:Tahukah Anda">Arsip</a><span style="font-weight:bold;">&#160;·</span>  <a href="/wiki/Wikipedia:Artikel_pertama_Anda" title="Wikipedia:Artikel pertama Anda">Memulai artikel baru</a></span></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:-6px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px;">
+<h2 id="mf-gambarpilihanHead" style="margin-top:0; color:black; font-weight:bold; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; border-bottom:none; font-size:110%; padding:.15em .4em;"><span class="mw-headline" id="Gambar_pilihan">Gambar pilihan</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="mf-gambarpilihan" style="padding-left:10px; padding-bottom:5px; padding-top:0px;">
+<div style="float:center; text-align:center;">
+<div class="thumb tcenter" style="display: inline-block; border:1px solid silver; width:256px;">
+<div style="padding: 3px;"><a href="/wiki/Berkas:Ice_cream_from_Gelateria,_Esino_Lario_(Wikimania_2016).jpg" title="Es krim di Esino Lario, Italia."><img alt="Es krim di Esino Lario, Italia." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg/250px-Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg" width="250" height="443" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg/375px-Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg/500px-Ice_cream_from_Gelateria%2C_Esino_Lario_%28Wikimania_2016%29.jpg 2x" data-file-width="4352" data-file-height="7712" /></a></div>
+</div>
+</div>
+<div style="text-align:center"><a href="/wiki/Es_krim" title="Es krim">Es krim</a> di <a href="/wiki/Esino_Lario" title="Esino Lario">Esino Lario</a>, <a href="/wiki/Italia" title="Italia">Italia</a>.<br />
+<span style="font-size:90%"><i>(ukuran asli 4.352 × 7.712 piksel, 6,05 MB)</i></span></div>
+<div style="float:right; font-size:90%; text-align:right; width:50%;">
+<p><a href="/wiki/Wikipedia:Gambar_pilihan/2017" title="Wikipedia:Gambar pilihan/2017">Arsip&#160;Gambar&#160;Pilihan</a><br />
+«&#160;<a href="/wiki/Berkas:Carnavalesco.jpg" title="Berkas:Carnavalesco.jpg">Daun <i>Hydrangea paniculata</i> pada musim gugur.</a></p>
+</div>
+<div style="text-align:left; width:50%; font-size:90%">
+<p>Oleh: Kenrick95, diunggah oleh <a href="https://commons.wikimedia.org/wiki/User:Kenrick95" class="extiw" title="commons:User:Kenrick95">Kenrick95</a><br />
+Lisensi: <a href="/wiki/Lisensi_Creative_Commons" title="Lisensi Creative Commons">CC-Public Domain</a><br /></p>
+</div>
+<div align="right"><a href="/wiki/Wikipedia:Gambar_pilihan" title="Wikipedia:Gambar pilihan">Lainnya</a></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:5px solid transparent;"></td>
+<td style="width:40%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+<table id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;">
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#C6DEFE; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15" height="25" data-file-width="15" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" data-file-width="1500" data-file-height="1500" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:110%; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Mari_bergabung.21">Mari bergabung!</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div style="margin:0em 1em 1em 1em; padding-right:0px; padding-top:12px;">
+<p><b>Wikipedia</b> adalah sebuah ensiklopedia multibahasa yang dapat disunting, disalin, dan disebarkan secara bebas. Sebanyak <b><a href="/wiki/Istimewa:Statistik" title="Istimewa:Statistik">873.167</a></b> orang sukarelawan telah mencoba menyunting dan menciptakan <b><a href="/wiki/Istimewa:Statistik" title="Istimewa:Statistik">402.242</a></b> artikel dalam bahasa Indonesia.</p>
+<p>Wikipedia terbuka untuk siapa saja, termasuk Anda. <b><a href="/wiki/Wikipedia:Berkontribusi" title="Wikipedia:Berkontribusi">Mari bergabung</a></b> sekarang juga, serta turut berkontribusi bagi penyebaran pengetahuan bebas.</p>
+<div id="mp_signup_button" class="idwp-signup-button" align="center" style="margin-top:20px;">
+<p><span class="plainlinks"><a href="/wiki/Istimewa:Masuk_log/signup" title="Istimewa:Masuk log/signup"><span class="mw-ui-button mw-ui-progressive" role="button" style="">Bergabung menjadi kontributor</span></a></span><br /></p>
+<small>Sudah bergabung? Silakan <b><a href="/wiki/Istimewa:Masuk_log" title="Istimewa:Masuk log">masuk log</a></b>.</small></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#C6DEFE; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15" height="25" data-file-width="15" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" data-file-width="61" data-file-height="61" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:110%; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Tantangan_kolaborasi">Tantangan kolaborasi</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div style="margin:0em 1em 1em 1em; padding-right:0px; padding-top:12px;">
+<p><a href="/wiki/Berkas:AngelHeart.png" class="image"><img alt="AngelHeart.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/AngelHeart.png/25px-AngelHeart.png" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/AngelHeart.png/38px-AngelHeart.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/AngelHeart.png/50px-AngelHeart.png 2x" data-file-width="158" data-file-height="120" /></a> <b>Kolaborasi artikel baru</b></p>
+<div style="clear: both"></div>
+<p>Wikipedia membutuhkan artikel-artikel berikut! Mari bersama-sama menerjemahkan artikel berikut pada: <b>(Mei 2017).</b></p>
+<div style="clear: both"></div>
+<div class="div-col columns column-count column-count-2" style="column-count: 2; -moz-column-count: 2; -webkit-column-count: 2;">
+<ul>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Sungai_Gila&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Sungai Gila</span></a></span> (<a href="https://en.wikipedia.org/wiki/Gila_River" class="extiw" title="en:Gila River">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Gila_River&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Sungai_Gila">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Lyc%C3%A9e_Louis-le-Grand&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Lycée Louis-le-Grand</span></a></span> (<a href="https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand" class="extiw" title="en:Lycée Louis-le-Grand">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Lyc%C3%A9e_Louis-le-Grand&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Lyc%C3%A9e_Louis-le-Grand">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Ponte_Sant%27Angelo&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Ponte Sant'Angelo</span></a></span> (<a href="https://en.wikipedia.org/wiki/Ponte_Sant%27Angelo" class="extiw" title="en:Ponte Sant'Angelo">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Ponte_Sant%27Angelo&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Ponte_Sant%27Angelo">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Negosiasi_perjanjian_pertukaran_tahanan_Australia%E2%80%93Indonesia&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Negosiasi perjanjian pertukaran tahanan Australia–Indonesia</span></a></span> (<a href="https://en.wikipedia.org/wiki/Australia%E2%80%93Indonesia_prisoner_exchange_agreement_negotiations" class="extiw" title="en:Australia–Indonesia prisoner exchange agreement negotiations">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Australia%E2%80%93Indonesia_prisoner_exchange_agreement_negotiations&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Negosiasi_perjanjian_pertukaran_tahanan_Australia%E2%80%93Indonesia">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Adrian_Zecha&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Adrian Zecha</span></a></span> (<a href="https://en.wikipedia.org/wiki/Adrian_Zecha" class="extiw" title="en:Adrian Zecha">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Adrian_Zecha&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Adrian_Zecha">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Ahmed_Kathrada&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Ahmed Kathrada</span></a></span> (<a href="https://en.wikipedia.org/wiki/Ahmed_Kathrada" class="extiw" title="en:Ahmed Kathrada">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Ahmed_Kathrada&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Ahmed_Kathrada">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Jejak_Langkah&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Jejak Langkah</span></a></span> (<a href="https://en.wikipedia.org/wiki/Footsteps_(novel)" class="extiw" title="en:Footsteps (novel)">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Footsteps_(novel)&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Jejak_Langkah">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Krisis_politik_Bangladesh_2006-2008&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Krisis politik Bangladesh 2006-2008</span></a></span> (<a href="https://en.wikipedia.org/wiki/2006%E2%80%9308_Bangladeshi_political_crisis" class="extiw" title="en:2006–08 Bangladeshi political crisis">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=2006%E2%80%9308_Bangladeshi_political_crisis&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Krisis_politik_Bangladesh_2006-2008">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Platonisme&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Platonisme</span></a></span> (<a href="https://en.wikipedia.org/wiki/Platonism" class="extiw" title="en:Platonism">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Platonism&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Platonisme">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Argumen_teleologis&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Argumen teleologis</span></a></span> (<a href="https://en.wikipedia.org/wiki/Teleological_argument" class="extiw" title="en:Teleological argument">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Teleological_argument&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Argumen_teleologis">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Kadipaten_Roma&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Kadipaten Roma</span></a></span> (<a href="https://en.wikipedia.org/wiki/Duchy_of_Rome" class="extiw" title="en:Duchy of Rome">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Duchy_of_Rome&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Kadipaten_Roma">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Markgrafschaft_Baden&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Markgrafschaft Baden</span></a></span> (<a href="https://en.wikipedia.org/wiki/Margraviate_of_Baden" class="extiw" title="en:Margraviate of Baden">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Margraviate_of_Baden&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Markgrafschaft_Baden">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Pemindahan_agama_paksa_umat_Muslim_di_Spanyol&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Pemindahan agama paksa umat Muslim di Spanyol</span></a></span> (<a href="https://en.wikipedia.org/wiki/Forced_conversions_of_Muslims_in_Spain" class="extiw" title="en:Forced conversions of Muslims in Spain">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Forced_conversions_of_Muslims_in_Spain&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Pemindahan_agama_paksa_umat_Muslim_di_Spanyol">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Ekspedisi_Chola_ke_India_Utara&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Ekspedisi Chola ke India Utara</span></a></span> (<a href="https://en.wikipedia.org/wiki/Chola_expedition_to_North_India" class="extiw" title="en:Chola expedition to North India">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Chola_expedition_to_North_India&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Ekspedisi_Chola_ke_India_Utara">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Invasi_Norman_ke_Irlandia&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Invasi Norman ke Irlandia</span></a></span> (<a href="https://en.wikipedia.org/wiki/Norman_invasion_of_Ireland" class="extiw" title="en:Norman invasion of Ireland">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Norman_invasion_of_Ireland&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Invasi_Norman_ke_Irlandia">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Invasi_Norman_ke_Wales&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Invasi Norman ke Wales</span></a></span> (<a href="https://en.wikipedia.org/wiki/Norman_invasion_of_Wales" class="extiw" title="en:Norman invasion of Wales">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Norman_invasion_of_Wales&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Invasi_Norman_ke_Wales">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Penghancuran_al-Baqi&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Penghancuran al-Baqi</span></a></span> (<a href="https://en.wikipedia.org/wiki/Demolition_of_al-Baqi" class="extiw" title="en:Demolition of al-Baqi">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Demolition_of_al-Baqi&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Penghancuran_al-Baqi">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Perpecahan_Tito-Stalin&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Perpecahan Tito-Stalin</span></a></span> (<a href="https://en.wikipedia.org/wiki/Tito%E2%80%93Stalin_Split" class="extiw" title="en:Tito–Stalin Split">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Tito%E2%80%93Stalin_Split&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Perpecahan_Tito-Stalin">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Proyek_bom_atom_Soviet&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Proyek bom atom Soviet</span></a></span> (<a href="https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project" class="extiw" title="en:Soviet atomic bomb project">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Soviet_atomic_bomb_project&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Proyek_bom_atom_Soviet">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Pendaratan_di_Sungai_Kesang&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Pendaratan di Sungai Kesang</span></a></span> (<a href="https://en.wikipedia.org/wiki/Landing_at_Kesang_River" class="extiw" title="en:Landing at Kesang River">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Landing_at_Kesang_River&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Pendaratan_di_Sungai_Kesang">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Pertempuran_Plaman_Mapu&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Pertempuran Plaman Mapu</span></a></span> (<a href="https://en.wikipedia.org/wiki/Battle_of_Plaman_Mapu" class="extiw" title="en:Battle of Plaman Mapu">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Battle_of_Plaman_Mapu&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Pertempuran_Plaman_Mapu">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Pendaratan_di_Pontian&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Pendaratan di Pontian</span></a></span> (<a href="https://en.wikipedia.org/wiki/Landing_at_Pontian" class="extiw" title="en:Landing at Pontian">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Landing_at_Pontian&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Pendaratan_di_Pontian">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Ekonomi_Uni_Soviet&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Ekonomi Uni Soviet</span></a></span> (<a href="https://en.wikipedia.org/wiki/Economy_of_the_Soviet_Union" class="extiw" title="en:Economy of the Soviet Union">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Economy_of_the_Soviet_Union&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Ekonomi_Uni_Soviet">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Ekonomi_Korea_Utara&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Ekonomi Korea Utara</span></a></span> (<a href="https://en.wikipedia.org/wiki/Economy_of_North_Korea" class="extiw" title="en:Economy of North Korea">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Economy_of_North_Korea&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Ekonomi_Korea_Utara">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Supernova_tipe_Ia&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Supernova tipe Ia</span></a></span> (<a href="https://en.wikipedia.org/wiki/Type_Ia_supernova" class="extiw" title="en:Type Ia supernova">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Type_Ia_supernova&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Supernova_tipe_Ia">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Energi_vakum&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Energi vakum</span></a></span> (<a href="https://en.wikipedia.org/wiki/Vacuum_energy" class="extiw" title="en:Vacuum energy">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Vacuum_energy&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Energi_vakum">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Gravitasi_kuantum&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Gravitasi kuantum</span></a></span> (<a href="https://en.wikipedia.org/wiki/Quantum_gravity" class="extiw" title="en:Quantum gravity">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Quantum_gravity&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Gravitasi_kuantum">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Glasiasi_kuarter&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Glasiasi kuarter</span></a></span> (<a href="https://en.wikipedia.org/wiki/Quaternary_glaciation" class="extiw" title="en:Quaternary glaciation">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Quaternary_glaciation&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Glasiasi_kuarter">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Vaksin_influenza&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Vaksin influenza</span></a></span> (<a href="https://en.wikipedia.org/wiki/Influenza_vaccine" class="extiw" title="en:Influenza vaccine">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Influenza_vaccine&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Vaksin_influenza">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Virus_influenza_A_subtipe_H1N1&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Virus influenza A subtipe H1N1</span></a></span> (<a href="https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H1N1" class="extiw" title="en:Influenza A virus subtype H1N1">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Influenza_A_virus_subtype_H1N1&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Virus_influenza_A_subtipe_H1N1">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Amantadine&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Amantadine</span></a></span> (<a href="https://en.wikipedia.org/wiki/Amantadine" class="extiw" title="en:Amantadine">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Amantadine&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Amantadine">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Sofosbuvir&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Sofosbuvir</span></a></span> (<a href="https://en.wikipedia.org/wiki/Sofosbuvir" class="extiw" title="en:Sofosbuvir">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Sofosbuvir&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Sofosbuvir">Terjemahkan!</a></span>)</small></li>
+<li><small><span class="plainlinks"><a class="external text" href="//id.wikipedia.org/w/index.php?title=Prednisolon&amp;action=edit&amp;summary=TantanganMingguan"><span style="color:#BA0000">Prednisolon</span></a></span> (<a href="https://en.wikipedia.org/wiki/Prednisolone" class="extiw" title="en:Prednisolone">en</a><span class="plainlinks">, <a class="external text" href="//id.wikipedia.org/w/index.php?title=Istimewa:ContentTranslation&amp;page=Prednisolone&amp;from=en&amp;to=id&amp;tag=TantanganMingguan&amp;targettitle=Prednisolon">Terjemahkan!</a></span>)</small></li>
+</ul>
+</div>
+<ul>
+<li>Menerjemahkan artikel sekarang jauh lebih mudah dengan <a href="/wiki/Istimewa:ContentTranslation" title="Istimewa:ContentTranslation">ContentTranslation</a> (hanya untuk <a href="/wiki/Wikipedia:Berkontribusi" title="Wikipedia:Berkontribusi">pengguna terdaftar</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#C6DEFE; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15" height="25" data-file-width="15" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/38px-HSSamarbete.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/57px-HSSamarbete.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/76px-HSSamarbete.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:110%; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Komunitas">Komunitas</span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div style="margin:0em 1em 1em 1em; padding-right:0px; padding-top:12px;">
+<p><a href="/wiki/Berkas:Coffee_Cup.png" class="image"><img alt="Coffee Cup.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Coffee_Cup.png/25px-Coffee_Cup.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Coffee_Cup.png/38px-Coffee_Cup.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Coffee_Cup.png/50px-Coffee_Cup.png 2x" data-file-width="128" data-file-height="128" /></a> <b>Jadwal kopi darat</b></p>
+<div style="clear: both"></div>
+<p>Yang direncanakan:</p>
+<dl>
+<dd><i>belum ada kegiatan kopi darat</i></dd>
+</dl>
+<div style="clear: both"></div>
+<p><a href="/wiki/Berkas:Nuvola_filesystems_www.png" class="image"><img alt="Nuvola filesystems www.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nuvola_filesystems_www.png/20px-Nuvola_filesystems_www.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nuvola_filesystems_www.png/30px-Nuvola_filesystems_www.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nuvola_filesystems_www.png/40px-Nuvola_filesystems_www.png 2x" data-file-width="128" data-file-height="128" /></a> <b>Kontributor teraktif</b></p>
+<div style="clear: both"></div>
+<p>Berikut ini adalah 5 kontributor teraktif Wikipedia bahasa Indonesia berdasarkan jumlah suntingan artikel per Februari 2017. <small><b><a class="external text" href="https://stats.wikimedia.org/EN/TablesWikipediaID.htm">(data lengkap)</a></b></small></p>
+<ol>
+<li><b><a href="/wiki/Pengguna:Albertus_Aditya" title="Pengguna:Albertus Aditya">Albertus Aditya</a> — 92.602 suntingan</b> <small><a href="/wiki/Istimewa:Otoritas_pusat/Albertus_Aditya" title="Istimewa:Otoritas pusat/Albertus Aditya"><abbr title="Lihat kontribusi global">(g)</abbr></a></small></li>
+<li><a href="/wiki/Pengguna:JohnThorne" title="Pengguna:JohnThorne">JohnThorne</a> — 90.667 suntingan <small><a href="/wiki/Istimewa:Otoritas_pusat/JohnThorne" title="Istimewa:Otoritas pusat/JohnThorne"><abbr title="Lihat kontribusi global">(g)</abbr></a></small></li>
+<li><a href="/wiki/Pengguna:Bennylin" title="Pengguna:Bennylin">Bennylin</a> — 78.461 suntingan <small><a href="/wiki/Istimewa:Otoritas_pusat/Bennylin" title="Istimewa:Otoritas pusat/Bennylin"><abbr title="Lihat kontribusi global">(g)</abbr></a></small></li>
+<li><a href="/wiki/Pengguna:Wagino_20100516" title="Pengguna:Wagino 20100516">Wagino 20100516</a> — 59.749 suntingan <small><a href="/wiki/Istimewa:Otoritas_pusat/Bennylin" title="Istimewa:Otoritas pusat/Bennylin"><abbr title="Lihat kontribusi global">(g)</abbr></a></small></li>
+<li><a href="/wiki/Pengguna:Mimihitam" title="Pengguna:Mimihitam">Mimihitam</a> — 56.611 suntingan <small><a href="/wiki/Istimewa:Otoritas_pusat/Mimihitam" title="Istimewa:Otoritas pusat/Mimihitam"><abbr title="Lihat kontribusi global">(g)</abbr></a></small></li>
+</ol>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<div style="text-align:left; position:relative; left:8px; top:8px; background:#C6DEFE; height:25px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+<div style="position:relative; left:-5px; top:0px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15" height="25" data-file-width="15" data-file-height="25" /></div>
+<div style="position:absolute; left:1px; top:-7px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" data-file-width="700" data-file-height="700" /></div>
+<div style="position:absolute; left:40px; top:2px; width:95%;">
+<h2 style="margin:0; border-bottom:0; font-size:110%; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;"><span class="mw-headline" id="Proyek_Wikimedia_lain"><span style="white-space:nowrap">Proyek Wikimedia lain</span></span></h2>
+</div>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div style="margin:0em 1em 1em 1em; padding-right:0px; padding-top:12px;">
+<div style="clear: both"></div>
+<b>Wikipedia bahasa Indonesia</b> disediakan secara gratis oleh <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, sebuah organisasi nirlaba. Selain dalam bahasa Indonesia, Wikipedia tersedia dalam bahasa daerah berikut: <a href="https://ace.wikipedia.org/wiki/" class="extiw" title="ace:">Aceh</a>, <a href="https://bjn.wikipedia.org/wiki/" class="extiw" title="bjn:">Banjar</a>, <a href="https://map-bms.wikipedia.org/wiki/" class="extiw" title="map-bms:">Banyumasan</a>, <a href="https://bug.wikipedia.org/wiki/" class="extiw" title="bug:">Bugis</a>, <a href="https://jv.wikipedia.org/wiki/" class="extiw" title="jv:">Jawa</a>, <a href="https://ms.wikipedia.org/wiki/" class="extiw" title="ms:">Melayu</a>, <a href="https://min.wikipedia.org/wiki/" class="extiw" title="min:">Minangkabau</a>, <a href="https://su.wikipedia.org/wiki/" class="extiw" title="su:">Sunda</a>, dan <a href="https://tet.wikipedia.org/wiki/" class="extiw" title="tet:">Tetun</a>.
+<p>Wikimedia Foundation juga mengoperasikan sejumlah <a href="https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects" class="extiw" title="m:Complete list of Wikimedia projects">proyek multibahasa</a> lain:</p>
+<table style="background:transparent; margin: 0 auto;">
+<tr>
+<td style="padding: 8px;"><a href="https://commons.wikimedia.org/wiki/Halaman_Utama" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><b><a href="https://commons.wikimedia.org/wiki/Halaman_Utama" class="extiw" title="commons:Halaman Utama">Commons</a></b><br />
+<div style="font-size: 90%">Gudang media bersama</div>
+</td>
+<td></td>
+<td style="padding: 8px;"><a href="https://id.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/25px-Wiktionary-logo.svg.png" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/38px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/50px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></td>
+<td><b><a href="https://id.wiktionary.org/wiki/" class="extiw" title="wikt:">Wiktionary</a></b><br />
+<div style="font-size: 90%">Kamus dan tesaurus</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 8px;"><a href="https://id.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/25px-Wikisource-logo.svg.png" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/50px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><b><a href="https://id.wikisource.org/wiki/" class="extiw" title="s:">Wikisource</a></b><br />
+<div style="font-size: 90%">Naskah sumber</div>
+</td>
+<td></td>
+<td style="padding: 8px;"><a href="https://id.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td><b><a href="https://id.wikinews.org/wiki/" class="extiw" title="n:">Wikinews</a></b><br />
+<div style="font-size: 90%">Sumber berita</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 8px;"><a href="https://id.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><b><a href="https://id.wikibooks.org/wiki/" class="extiw" title="b:">Wikibooks</a></b><br />
+<div style="font-size: 90%">Buku teks dan manual</div>
+</td>
+<td></td>
+<td style="padding: 8px;"><a href="https://id.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/50px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><b><a href="https://id.wikiquote.org/wiki/" class="extiw" title="q:">Wikiquote</a></b><br />
+<div style="font-size: 90%">Koleksi kutipan</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 8px;"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/25px-Wikispecies-logo.svg.png" width="25" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/38px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/50px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td><b><a href="https://species.wikimedia.org/wiki/" class="extiw" title="wikispecies:">Wikispecies</a></b><br />
+<div style="font-size: 90%">Direktori spesies</div>
+</td>
+<td></td>
+<td style="padding: 8px;"><a href="https://en.wikiversity.org/wiki/" title="Wikiversity"><img alt="Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/25px-Wikiversity-logo.svg.png" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/38px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/50px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td><b><a href="https://en.wikiversity.org/wiki/" class="extiw" title="wikiversity:">Wikiversity</a></b><br />
+<div style="font-size: 90%">Materi belajar</div>
+</td>
+</tr>
+<tr>
+<td style="padding: 8px;"><a href="https://id.wikivoyage.org/wiki/" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><b><a href="https://id.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikivoyage</a></b><br />
+<div style="font-size: 90%">Perjalanan</div>
+</td>
+<td></td>
+<td style="padding: 8px;"><a href="https://www.wikidata.org/wiki/Wikidata:Halaman_Utama" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/25px-Wikidata-logo.svg.png" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/38px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td><b><a href="https://www.wikidata.org/wiki/Wikidata:Halaman_Utama" class="extiw" title="wikidata:Wikidata:Halaman Utama">Wikidata</a></b><br />
+<div style="font-size: 90%">Basis data</div>
+</td>
+</tr>
+<tr>
+<td colspan="5" style="padding: 8px; text-align: center;"><a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/20px-Wikimedia_Community_Logo.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a>&#160;&#160;<b><a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:">Meta-Wiki</a></b> – <span style="font-size: 90%">Koordinasi proyek Wikimedia</span></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;">
+<tr>
+<td style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
+<table width="100%" style="padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;">
+<tr>
+<td align="center"><a href="/wiki/Wikipedia:Penyangkalan_umum" title="Wikipedia:Penyangkalan umum">Wikipedia tidak menjamin keabsahan isi artikel</a>.<br />
+<small><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> tidak bertanggung jawab atas isi Wikipedia. Setiap penulis bertanggung jawab atas suntingannya masing-masing.</small></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin: 0 auto;background-color:transparent">
+<tr>
+<td><a href="/wiki/Wikipedia:Hubungi_kami" title="Wikipedia:Hubungi kami"><img alt="Hubungi kami" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/24px-Crystal_128_mail.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/36px-Crystal_128_mail.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/48px-Crystal_128_mail.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td><i><a href="/wiki/Wikipedia:Hubungi_kami" title="Wikipedia:Hubungi kami">Butuh bantuan? Hubungi kami!</a></i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170506161509
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.172 seconds
+Real time usage: 0.294 seconds
+Preprocessor visited node count: 2071/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119756/2097152 bytes
+Template argument size: 37673/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 34/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.965      1 -total
+ 55.71%   88.004      6 Templat:Halaman_Utama/Box
+ 42.27%   66.773      4 Templat:Halaman_Utama/Box2
+ 33.26%   52.541      1 Templat:Halaman_Utama/Modul_partisipasi
+ 22.79%   35.995     33 Templat:Artikel_tantangan_mingguan
+ 10.96%   17.313      1 Templat:Hari_Ini_Dalam_Sejarah
+  9.70%   15.319      1 Wikipedia:Daftar_Pilihan/05_2017
+  9.45%   14.930      1 Templat:Hari_Ini_Dalam_Sejarah/Mei
+  7.50%   11.851      1 Templat:Random_subpage
+  6.84%   10.803      1 Wikipedia:Gambar_pilihan/32_2017
+-->
+
+<!-- Saved in parser cache with key idwiki:stable-pcache:idhash:42-0!*!0!!*!4!* and timestamp 20170506161509 and revision id 12590633
+ -->
+<noscript><img src="//id.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Diperoleh dari "<a dir="ltr" href="https://id.wikipedia.org/w/index.php?title=Halaman_Utama&amp;oldid=12590633">https://id.wikipedia.org/w/index.php?title=Halaman_Utama&amp;oldid=12590633</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Istimewa:Daftar_kategori" title="Istimewa:Daftar kategori">Kategori</a>: <ul><li><a href="/wiki/Kategori:Halaman_Utama" title="Kategori:Halaman Utama">Halaman Utama</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu navigasi</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Perkakas pribadi</h3>
+						<ul>
+							<li id="pt-anonuserpage">Belum masuk log</li><li id="pt-anontalk"><a href="/wiki/Istimewa:Pembicaraan_saya" title="Pembicaraan tentang suntingan dari alamat IP ini [n]" accesskey="n">Pembicaraan</a></li><li id="pt-anoncontribs"><a href="/wiki/Istimewa:Kontribusi_saya" title="Daftar suntingan yang dibuat dari alamat IP ini [y]" accesskey="y">Kontribusi</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Istimewa:Buat_akun&amp;returnto=Halaman+Utama" title="Anda dianjurkan untuk membuat akun dan masuk log; meskipun, hal itu tidak diwajibkan">Buat akun baru</a></li><li id="pt-login"><a href="/w/index.php?title=Istimewa:Masuk_log&amp;returnto=Halaman+Utama" title="Anda disarankan untuk masuk log, meskipun hal itu tidak diwajibkan. [o]" accesskey="o">Masuk log</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Ruang nama</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Halaman_Utama"  title="Lihat halaman isi [c]" accesskey="c">Utama</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Pembicaraan:Halaman_Utama"  title="Pembicaraan halaman isi [t]" accesskey="t" rel="discussion">Pembicaraan</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Varian</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Tampilan</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Halaman_Utama" >Baca</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Halaman_Utama&amp;action=edit"  title="Halaman ini dilindungi. Anda hanya dapat melihat sumbernya. [e]" accesskey="e">Lihat sumber</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Halaman_Utama&amp;action=history"  title="Revisi sebelumnya dari halaman ini. [h]" accesskey="h">Versi terdahulu</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Lainnya</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Pencarian</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Cari Wikipedia" title="Cari di Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Istimewa:Pencarian" name="title"/><input type="submit" name="fulltext" value="Cari" title="Cari halaman yang memiliki teks seperti ini" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Lanjut" title="Cari suatu halaman dengan nama yang persis seperti ini jika tersedia" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Halaman_Utama"  title="Kunjungi Halaman Utama"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigasi</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/Halaman_Utama" title="Kunjungi Halaman Utama [z]" accesskey="z">Halaman Utama</a></li><li id="n-recentchanges"><a href="/wiki/Istimewa:Perubahan_terbaru" title="Daftar perubahan terbaru dalam wiki. [r]" accesskey="r">Perubahan terbaru</a></li><li id="n-currentevents"><a href="/wiki/Portal:Peristiwa_terkini" title="Temukan informasi tentang peristiwa terkini">Peristiwa terkini</a></li><li id="n-newpage"><a href="/wiki/Istimewa:Halaman_baru">Halaman baru</a></li><li id="n-randompage"><a href="/wiki/Istimewa:Halaman_sembarang" title="Tampilkan sembarang halaman [x]" accesskey="x">Halaman sembarang</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Komunitas' aria-labelledby='p-Komunitas-label'>
+			<h3 id='p-Komunitas-label'>Komunitas</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Warung-Kopi"><a href="/wiki/Wikipedia:Warung_Kopi">Warung Kopi</a></li><li id="n-portal"><a href="/wiki/Portal:Komunitas" title="Tentang proyek, apa yang dapat Anda lakukan, di mana untuk mencari sesuatu">Portal komunitas</a></li><li id="n-help"><a href="/wiki/Bantuan:Isi" title="Tempat mencari bantuan.">Bantuan</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Wikipedia' aria-labelledby='p-Wikipedia-label'>
+			<h3 id='p-Wikipedia-label'>Wikipedia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-aboutsite"><a href="/wiki/Wikipedia:Perihal">Tentang Wikipedia</a></li><li id="n-Pancapilar"><a href="/wiki/Wikipedia:Pancapilar">Pancapilar</a></li><li id="n-Kebijakan"><a href="/wiki/Wikipedia:Kebijakan_dan_pedoman">Kebijakan</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_id.wikipedia.org&amp;uselang=id" title="Dukung kami">Menyumbang</a></li><li id="n-Hubungi-kami"><a href="/wiki/Wikipedia:Hubungi_kami">Hubungi kami</a></li><li id="n-Bak-pasir"><a href="/wiki/Wikipedia:Bak_pasir">Bak pasir</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Bagikan' aria-labelledby='p-Bagikan-label'>
+			<h3 id='p-Bagikan-label'>Bagikan</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Cetak/ekspor</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Istimewa:Buku&amp;bookcmd=book_creator&amp;referer=Halaman+Utama">Buat buku</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Istimewa:Buku&amp;bookcmd=render_article&amp;arttitle=Halaman+Utama&amp;returnto=Halaman+Utama&amp;oldid=12590633&amp;writer=rdf2latex">Unduh versi PDF</a></li><li id="t-print"><a href="/w/index.php?title=Halaman_Utama&amp;printable=yes" title="Versi cetak halaman ini [p]" accesskey="p">Versi cetak</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>Dalam proyek lain</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://id.wikibooks.org/wiki/Halaman_Utama" hreflang="id">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://id.wikiquote.org/wiki/Halaman_Utama" hreflang="id">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://id.wikisource.org/wiki/Halaman_Utama" hreflang="id">Wikisource</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Perkakas</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Istimewa:Pranala_balik/Halaman_Utama" title="Daftar semua halaman wiki yang memiliki pranala ke halaman ini [j]" accesskey="j">Pranala balik</a></li><li id="t-recentchangeslinked"><a href="/wiki/Istimewa:Perubahan_terkait/Halaman_Utama" rel="nofollow" title="Perubahan terbaru halaman-halaman yang memiliki pranala ke halaman ini [k]" accesskey="k">Perubahan terkait</a></li><li id="t-specialpages"><a href="/wiki/Istimewa:Halaman_istimewa" title="Daftar semua halaman istimewa [q]" accesskey="q">Halaman istimewa</a></li><li id="t-permalink"><a href="/w/index.php?title=Halaman_Utama&amp;oldid=12590633" title="Pranala permanen untuk revisi halaman ini">Pranala permanen</a></li><li id="t-info"><a href="/w/index.php?title=Halaman_Utama&amp;action=info" title="Informasi lanjut tentang halaman ini">Informasi halaman</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Pranala untuk menghubungkan butir pada ruang penyimpanan data [g]" accesskey="g">Item di Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Istimewa:Kutip&amp;page=Halaman_Utama&amp;id=12590633" title="Informasi tentang bagaimana mengutip halaman ini">Kutip halaman ini</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Bahasa lain</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/" title="Aceh" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="Arab" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="Bulgaria" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/" title="Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="Katalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="Cheska" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="Dansk" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="Jerman" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="Inggris" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="Spanyol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="Esti" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="Persia" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="Suomi" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="Prancis" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="Galisia" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="Ibrani" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="Kroasia" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/" title="Kreol Haiti" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="Hungaria" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="Italia" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="Jepang" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/" title="Jawa" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="Korea" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="Lituavi" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/" title="Basa Banyumasan" lang="map-bms" hreflang="map-bms" class="interlanguage-link-target">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/" title="Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="Melayu" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/" title="Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="Belanda" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="Nynorsk Norwegia" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="Norwegia" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="Polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="Portugis" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="Rumania" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="Rusia" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="Sloven" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="Serb" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/" title="Sunda" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="Swedia" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/" title="Tetun" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="Turki" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="Ukraina" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="Vietnam" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="Volapuk" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="Tionghoa" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Halaman ini terakhir diubah pada 1 Maret 2017, pukul 02.31.</li>
+											<li id="footer-info-copyright">Teks tersedia di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="https://wikimediafoundation.org/wiki/Terms_of_Use-Summary/id">Ketentuan Penggunaan</a> untuk lebih jelasnya.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Kebijakan privasi</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:Perihal" title="Wikipedia:Perihal">Tentang Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Penyangkalan_umum" title="Wikipedia:Penyangkalan umum">Penyangkalan</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Pengembang</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//id.m.wikipedia.org/w/index.php?title=Halaman_Utama&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Tampilan seluler</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.294","ppvisitednodes":{"value":2071,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":119756,"limit":2097152},"templateargumentsize":{"value":37673,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":34,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  157.965      1 -total"," 55.71%   88.004      6 Templat:Halaman_Utama/Box"," 42.27%   66.773      4 Templat:Halaman_Utama/Box2"," 33.26%   52.541      1 Templat:Halaman_Utama/Modul_partisipasi"," 22.79%   35.995     33 Templat:Artikel_tantangan_mingguan"," 10.96%   17.313      1 Templat:Hari_Ini_Dalam_Sejarah","  9.70%   15.319      1 Wikipedia:Daftar_Pilihan/05_2017","  9.45%   14.930      1 Templat:Hari_Ini_Dalam_Sejarah/Mei","  7.50%   11.851      1 Templat:Random_subpage","  6.84%   10.803      1 Wikipedia:Gambar_pilihan/32_2017"]},"cachereport":{"origin":"mw1257","timestamp":"20170506161509","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":392,"wgHostname":"mw1257"});});</script>
+	</body>
+</html>

@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="sk" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipédia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hlavná_stránka","wgTitle":"Hlavná stránka","wgCurRevisionId":6256659,"wgRevisionId":6256659,"wgArticleId":1,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"sk","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","január","február","marec","apríl","máj","jún","júl","august","september","október","november","december"],"wgMonthNamesShort":["","jan","feb","mar","apr","máj","jún","júl","aug","sep","okt","nov","dec"],"wgRelevantPageName":"Hlavná_stránka","wgRelevantArticleId":1,"wgRequestId":"WQ0TFQpAEKsAAC1yGiYAAABS","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"sk","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"sk","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"slovenčina","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.2"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0oyzabb",function($,jQuery,require,module){mw.user.options.set({"variant":"sk"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.edit-summaries","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=sk&amp;modules=ext.dismissableSiteNotice.styles%7Cext.gadget.ReferenceTooltips%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=sk&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=sk&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b1/Kutuzov1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/sk.m.wikipedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (sk)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sk.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sk.wikipedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hlavná_stránka rootpage-Hlavná_stránka skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Enezobrazovať\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"sk\" dir=\"ltr\"\u003E\u003Ctable width=\"100%\" style=\"background:#FFFFFF; color:#27408B;\"\u003E\n\n\u003Ctr valign=\"top\"\u003E\n\u003Ctd style=\"text-align:center; padding-top:4pt\"\u003E \u003Cdiv style=\"font-size:130%\"\u003E\u003Ca href=\"/wiki/Wikip%C3%A9dia:Wikimedia_Slovensk%C3%A1_republika/2_percent%C3%A1\" title=\"Wikipédia:Wikimedia Slovenská republika/2 percentá\"\u003E2 % z daní – 100 % vedomostí\u003C/a\u003E\u003C/div\u003E\n\u003Cdiv style=\"font-size:90%\"\u003E\u003Cb\u003E\u003Ca href=\"/wiki/Wikip%C3%A9dia:Wikimedia_Slovensk%C3%A1_republika/2_percent%C3%A1\" title=\"Wikipédia:Wikimedia Slovenská republika/2 percentá\"\u003EPodporte Wikipédiu!\u003C/a\u003E\u003C/b\u003E\u003C/div\u003E\n\u003C/td\u003E\u003C/tr\u003E\u003C/table\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="sk">Hlavná stránka</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">z Wikipédie, slobodnej encyklopédie</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Prejsť na:					<a href="#mw-head">navigácia</a>, 					<a href="#p-search">hľadanie</a>
+				</div>
+				<div id="mw-content-text" lang="sk" dir="ltr" class="mw-content-ltr"><table id="hlavnastrankaintro" style="border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%; background-color:transparent; width:100%; font-size:95%; margin-top:12px;">
+<tr>
+<td height="80px" style="padding-left:3em"><span style="font-size:185%">Vitajte vo <a href="/wiki/Wikip%C3%A9dia" title="Wikipédia">Wikipédii</a>,</span>
+<div><b>slobodnej encyklopédii</b>, ktorú môže upravovať <a href="/wiki/Pomoc:Preh%C4%BEad_edit%C3%A1cie_str%C3%A1nok" title="Pomoc:Prehľad editácie stránok">každý</a>.</div>
+</td>
+<td style="padding:1em">
+<div align="right">Dnes je sobota 6.&#160;mája 2017.<br />
+Slovenská verzia má momentálne <a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0tatistika" title="Špeciálne:Štatistika"><b>217&#160;676</b> článkov</a>.</div>
+</td>
+</tr>
+</table>
+<table style="width:100%; background-color: transparent; margin-top:-.75em; margin-bottom:-.75em;">
+<tr>
+<td style="font-size:95%; text-align:left; white-space: nowrap;color:#333"><a href="/wiki/Wikip%C3%A9dia:O_Wikip%C3%A9dii" title="Wikipédia:O Wikipédii">O Wikipédii</a>&#160;<span style="color:#333;"><b>•</b></span> <a href="/wiki/Wikip%C3%A9dia:Pr%C3%ADru%C4%8Dka" title="Wikipédia:Príručka">Príručka</a>&#160;<span style="color:#333;"><b>•</b></span> <a href="/wiki/Pomoc:Obsah" title="Pomoc:Obsah">Pomoc</a></td>
+<td style="font-size:95%; padding-top:12px; padding-bottom:10px; margin:0px; text-align:right; white-space:nowrap; color:#333"><a href="/wiki/Wikip%C3%A9dia:Zoznam_najlep%C5%A1%C3%ADch_%C4%8Dl%C3%A1nkov" title="Wikipédia:Zoznam najlepších článkov">Najlepšie články</a>&#160;<span style="color:#333;"><b>•</b></span> <a href="/wiki/Kateg%C3%B3ria:Wikiport%C3%A1ly" title="Kategória:Wikiportály">Portály</a>&#160;<span style="color:#333;"><b>•</b></span> <a href="/wiki/Kateg%C3%B3ria:Z%C3%A1kladn%C3%A9_kateg%C3%B3rie" title="Kategória:Základné kategórie">Kategórie</a>&#160;<span style="color:#333;"><b>•</b></span> <a href="/wiki/Wikip%C3%A9dia:R%C3%BDchly_index" title="Wikipédia:Rýchly index">A&#160;–&#160;Z index</a></td>
+</tr>
+</table>
+<table id="mp-upper" style="margin:0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:70%; background:transparent; vertical-align:top; color:#000;">
+<table id="mp-left" cellpadding="0" cellspacing="0" style="width:100%; vertical-align:top; background:transparent;">
+<tr>
+<td>
+<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="position:relative; margin-top:-5px;">
+<p><img alt="Bluebg.png" src="//upload.wikimedia.org/wikipedia/commons/9/97/Bluebg.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:4px;"><img alt="Datum06.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/38px-Datum06.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/57px-Datum06.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Datum06.svg/76px-Datum06.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE"><b><a href="/wiki/6._m%C3%A1j" title="6. máj">6. máj</a></b></div>
+</div>
+<div style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto;">
+<table cellspacing="0" style="float:right; margin:0.5em 0.5em 0.4em 0.5em; padding:1px; background:transparent; text-align:center;">
+<tr>
+<td>
+<div style="border: 1px solid none;"><a href="/wiki/S%C3%BAbor:Sigmund_Freud_Anciano.jpg" class="image"><img alt="Sigmund Freud Anciano.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sigmund_Freud_Anciano.jpg/96px-Sigmund_Freud_Anciano.jpg" width="96" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sigmund_Freud_Anciano.jpg/144px-Sigmund_Freud_Anciano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sigmund_Freud_Anciano.jpg/192px-Sigmund_Freud_Anciano.jpg 2x" data-file-width="300" data-file-height="422" /></a></div>
+</td>
+</tr>
+<tr>
+<td><small><a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a></small></td>
+</tr>
+</table>
+<p>Meniny má <a href="/wiki/Herm%C3%ADna" title="Hermína">Hermína</a></p>
+<ul>
+<li><a href="/wiki/1682" title="1682">1682</a> – francúzsky kráľ <a href="/wiki/%C4%BDudov%C3%ADt_XIV." title="Ľudovít XIV.">Ľudovít XIV.</a> presunul svoj kráľovský dvor do <a href="/wiki/Versailles" title="Versailles">Versailles</a></li>
+<li><a href="/wiki/1758" title="1758">1758</a> – narodil sa <a href="/wiki/Maximili%C3%A1n_Robespierre" title="Maximilián Robespierre">Maximilián Robespierre</a>, francúzsky politik (†&#160;<a href="/wiki/1794" title="1794">1794</a>)</li>
+<li><a href="/wiki/1856" title="1856">1856</a> – narodil sa <a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</a>, rakúsky lekár a psychológ (†&#160;<a href="/wiki/1939" title="1939">1939</a>)</li>
+<li><a href="/wiki/1861" title="1861">1861</a> – narodil sa <a href="/wiki/Rab%C3%ADndran%C3%A1th_Th%C3%A1kur" title="Rabíndranáth Thákur">Rabíndranáth Thákur</a>, indický filozof a spisovateľ (†&#160;<a href="/wiki/1941" title="1941">1941</a>)</li>
+<li><a href="/wiki/1862" title="1862">1862</a> – zomrel <a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a>, americký spisovateľ a filozof (*&#160;<a href="/wiki/1817" title="1817">1817</a>)</li>
+<li><a href="/wiki/1953" title="1953">1953</a> – narodil sa <a href="/wiki/Tony_Blair" title="Tony Blair">Tony Blair</a>, ministerský predseda (premiér) Spojeného kráľovstva v rokoch 1997&#160;–&#160;2007</li>
+</ul>
+</div>
+<div style="text-align:right; position:relative;">
+<p><img alt="Bluebg right.png" src="//upload.wikimedia.org/wikipedia/commons/2/2e/Bluebg_right.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; right:5px; top:3px;"><small><a href="/wiki/Wikip%C3%A9dia:V%C3%BDro%C4%8Dia/m%C3%A1j" title="Wikipédia:Výročia/máj">Archív</a> • <a href="/wiki/Zoznam_historick%C3%BDch_v%C3%BDro%C4%8D%C3%AD" title="Zoznam historických výročí">Zoznam historických výročí</a></small></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+<p><img alt="Bluebg.png" src="//upload.wikimedia.org/wikipedia/commons/9/97/Bluebg.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:4px;"><img alt="HSutvald2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/38px-HSutvald2.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/57px-HSutvald2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HSutvald2.svg/76px-HSutvald2.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE"><b>Odporúčaný článok...</b></div>
+</div>
+<div style="margin:0.5em; padding-right:6px; padding-top:5px;text-align: justify;overflow:auto;">
+<div class="floatright"><a href="/wiki/Kriv%C3%A1%C5%88_(vrch_v_Tatr%C3%A1ch)" title="Kriváň (vrch v Tatrách)"><img alt="Kriváň.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kriv%C3%A1%C5%88.JPG/200px-Kriv%C3%A1%C5%88.JPG" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kriv%C3%A1%C5%88.JPG/300px-Kriv%C3%A1%C5%88.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kriv%C3%A1%C5%88.JPG/400px-Kriv%C3%A1%C5%88.JPG 2x" data-file-width="3072" data-file-height="2304" /></a></div>
+<p><b>Kriváň</b> (<a href="/wiki/Po%C4%BE%C5%A1tina" title="Poľština">poľ.</a> <span style="cursor:help" lang="pl" dir="ltr" title="poľsky" xml:lang="pl">Krywań</span>, <a href="/wiki/Nem%C4%8Dina" title="Nemčina">nem.</a> <span style="cursor:help" lang="de" dir="ltr" title="nemecky" xml:lang="de">Kriwan</span>, <a href="/wiki/Ma%C4%8Far%C4%8Dina" title="Maďarčina">maď.</a> <span style="cursor:help" lang="hu" dir="ltr" title="maďarsky" xml:lang="hu">Kriván</span>) je vrch na konci rázsochy, ktorá sa od hlavného hrebeňa Vysokých Tatier odvetvuje v <a href="/wiki/%C4%8Cubrina" title="Čubrina">Čubrine</a>. Leží nad <a href="/wiki/Nefcerka" title="Nefcerka">Nefcerkou</a>, <a href="/wiki/K%C3%B4prov%C3%A1_dolina" title="Kôprová dolina">Kôprovou</a> a <a href="/wiki/Va%C5%BEeck%C3%A1_dolina" title="Važecká dolina">Važeckou dolinou</a> na svojimi J a JZ výbežkami zasahuje do <a href="/wiki/Liptovsk%C3%A1_kotlina" title="Liptovská kotlina">Liptovskej kotliny</a>. Je to jeden z najvyšších vrchov Slovenska. Dosahuje výšku 2&#160;494,7&#160;m&#160;n.&#160;m. Od <a href="/wiki/19._storo%C4%8Dia" class="mw-redirect" title="19. storočia">19. storočia</a> je neoficiálnym symbolom slobody Slovákov a slovanskej súdržnosti.</p>
+<p>Medzi rokmi <a href="/wiki/1960" title="1960">1960</a> až <a href="/wiki/1990" title="1990">1990</a> bol zobrazený s vatrou na znaku Slovenska v štátnom znaku <a href="/wiki/%C4%8Cesko-Slovensko" title="Česko-Slovensko">Česko-Slovenska</a>. Dočasne nahradil tradičný slovenský znak s trojvrším a krížom, ktorý je dnes v štátnej symbolike Slovenskej republiky. V roku <a href="/wiki/2005" title="2005">2005</a> bolo rozhodnuté, že bude zobrazený aj na slovenských <a href="/wiki/Slovensk%C3%A9_euromince" title="Slovenské euromince">eurominciach</a>. Po Kriváni je pomenovaná aj planétka <a href="/wiki/24260_Kriv%C3%A1%C5%88" title="24260 Kriváň">(24260)&#160;Kriváň</a>.</p>
+<b><a href="/wiki/Kriv%C3%A1%C5%88_(vrch_v_Tatr%C3%A1ch)" title="Kriváň (vrch v Tatrách)">celý článok...</a></b></div>
+<div style="text-align:right; position:relative;">
+<p><img alt="Bluebg right.png" src="//upload.wikimedia.org/wikipedia/commons/2/2e/Bluebg_right.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; right:5px; top:3px;"><small><a href="/wiki/Wikip%C3%A9dia:Odpor%C3%BA%C4%8Dan%C3%A9_%C4%8Dl%C3%A1nky" title="Wikipédia:Odporúčané články">Archív</a> • <a href="/wiki/Wikip%C3%A9dia:Zoznam_dobr%C3%BDch_%C4%8Dl%C3%A1nkov" title="Wikipédia:Zoznam dobrých článkov">Dobré články</a> • <a href="/wiki/Wikip%C3%A9dia:Zoznam_najlep%C5%A1%C3%ADch_%C4%8Dl%C3%A1nkov" title="Wikipédia:Zoznam najlepších článkov">Najlepšie články</a></small></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="border:1px solid #c2dfff; padding:1px; margin-bottom:1px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+<p><img alt="Bluebg.png" src="//upload.wikimedia.org/wikipedia/commons/9/97/Bluebg.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:4px;"><img alt="HSVissteduatt.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/38px-HSVissteduatt.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/57px-HSVissteduatt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSVissteduatt.svg/76px-HSVissteduatt.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE"><b>Vedeli ste, že ...</b></div>
+</div>
+<div style="margin:1em; padding-right:6px; padding-top:5px;overflow:auto;">
+<div style="float: right; margin:0.5em 0.5em 0.5em 1.5em; border: 1px solid #c2dfff; padding:1px; margin-bottom:5px; background-color: #f5faff;"></div>
+<ul>
+<li>... švajčiarsky <a href="/wiki/Mikrobiol%C3%B3gia" title="Mikrobiológia">mikrobiológ</a> a <a href="/wiki/Genetika" title="Genetika">genetik</a> <b><a href="/wiki/Werner_Arber" title="Werner Arber">Werner Arber</a></b> bol v roku 2011 ako prvý protestant menový za predsedu <i><a href="/w/index.php?title=Pape%C5%BEsk%C3%A1_akad%C3%A9mia_vied&amp;action=edit&amp;redlink=1" class="new" title="Papežská akadémia vied (stránka neexistuje)">Pápežskej akadémie vied</a></i>?</li>
+<li>... lietadlo <b><a href="/wiki/Antonov_An-225" title="Antonov An-225">Antonov An-225</a></b> bolo pôvodne vyvinuté na prepravu <a href="/wiki/Raketopl%C3%A1n" title="Raketoplán">raketoplánu</a> <a href="/wiki/Buran_(raketopl%C3%A1n)" title="Buran (raketoplán)">Buran</a> a jeho rekordom bola preprava 253 820 kilogramov nákladu?</li>
+<li>... <b><a href="/wiki/Kostol_sv%C3%A4tej_Al%C5%BEbety_(Kremnica)" title="Kostol svätej Alžbety (Kremnica)">Kostol svätej Alžbety</a></b> z rokov <a href="/wiki/1382" title="1382">1382</a> až <a href="/wiki/1383" title="1383">1383</a> je najstarším kostolom v&#160;<a href="/wiki/Kremnica" title="Kremnica">Kremnici</a>?</li>
+<li>... ukrajinská speváčka <b><a href="/wiki/D%C5%BEamala" title="Džamala">Džamala</a></b> vyhrala <a href="/wiki/Eurovision_Song_Contest_2016" title="Eurovision Song Contest 2016">Eurovision Song Contest 2016</a> s pesničkou „1944“, ktorá pojednávala o krymských <a href="/wiki/Tat%C3%A1ri_(etnikum)" title="Tatári (etnikum)">Tatároch</a>, ktorí boli deportovaný sovietskym režimom za <a href="/wiki/Druh%C3%A1_svetov%C3%A1_vojna" title="Druhá svetová vojna">druhej svetovej vojny</a>?</li>
+<li>... otec <b><a href="/wiki/Zuzana_Maur%C3%A9ry" title="Zuzana Mauréry">Zuzany Mauréry</a></b>, <a href="/wiki/Pavol_Maur%C3%A9ry" title="Pavol Mauréry">Pavol Mauréry</a> bol dlhoročným sólistom <a href="/wiki/Opera_Slovensk%C3%A9ho_n%C3%A1rodn%C3%A9ho_divadla" title="Opera Slovenského národného divadla">opery Slovenského národného divadla</a> a matka <a href="/wiki/Darina_Markovi%C4%8Dov%C3%A1" class="mw-redirect" title="Darina Markovičová">Darina Markovičová</a> sopranistkou <a href="/wiki/Opereta" title="Opereta">spevoherného súboru</a>?</li>
+<li>... mestu <b><a href="/wiki/Miami" title="Miami">Miami</a></b> na <a href="/wiki/Florida" title="Florida">Floride</a> sa vďaka <a href="/w/index.php?title=Port_of_Miami&amp;action=edit&amp;redlink=1" class="new" title="Port of Miami (stránka neexistuje)">prístavu</a> a <a href="/wiki/Medzin%C3%A1rodn%C3%A9_letisko_Miami" title="Medzinárodné letisko Miami">letisku</a> tiež hovorí <i>Brána do Ameriky</i>?</li>
+</ul>
+<p><br clear="all" /></p>
+</div>
+<div style="text-align:right; position:relative;">
+<p><img alt="Bluebg right.png" src="//upload.wikimedia.org/wikipedia/commons/2/2e/Bluebg_right.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; right:5px; top:3px;"><small><a href="/wiki/Wikip%C3%A9dia:Zauj%C3%ADmavosti" title="Wikipédia:Zaujímavosti">Archív</a> • <a href="/wiki/Wikip%C3%A9dia:Zauj%C3%ADmavosti/N%C3%A1vrhy" title="Wikipédia:Zaujímavosti/Návrhy">Návrhy ďalších zaujímavostí</a></small></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="border:1px solid #c2dfff; padding:3px; margin-bottom:3px; background-color: #f5faff;">
+<div style="text-align:left; position:relative; margin-top:-5px;">
+<p><img alt="Bluebg.png" src="//upload.wikimedia.org/wikipedia/commons/9/97/Bluebg.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:4px;"><img alt="HSBild.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" width="38" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" data-file-width="156" data-file-height="156" /></div>
+<div style="position:absolute; left:50px; top:4px; font-size:145%; color: #0247FE"><b>Obrázok týždňa</b></div>
+</div>
+<div style="margin:1em; padding-right:6px; padding-top:12px;overflow:auto;">
+<table cellspacing="0" style="padding: 0px; text-align: center; background-color: transparent;margin:0.5em; width: 100%">
+<tr>
+<td style="font-size:150%"></td>
+</tr>
+<tr>
+<td style="padding-right:0.9em; padding:1px;"><a href="/wiki/S%C3%BAbor:Radioisotope_thermoelectric_generator_plutonium_pellet.jpg" class="image" title="Plutóniová peleta"><img alt="Plutóniová peleta" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radioisotope_thermoelectric_generator_plutonium_pellet.jpg/500px-Radioisotope_thermoelectric_generator_plutonium_pellet.jpg" width="500" height="394" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radioisotope_thermoelectric_generator_plutonium_pellet.jpg/750px-Radioisotope_thermoelectric_generator_plutonium_pellet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9c/Radioisotope_thermoelectric_generator_plutonium_pellet.jpg 2x" data-file-width="884" data-file-height="696" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.9em 0.9em 0.9em;"><small>foto: Los Alamos National Laboratory</small>
+<div style="max-width: 650px; margin: 1em auto 0 auto;">
+<div style="text-align: justify">150-gramová <b>plutóniová peleta</b> približne veľkosti cukríku marshmallow, určená pre <a href="/wiki/R%C3%A1dioizotopov%C3%BD_termoelektrick%C3%BD_gener%C3%A1tor" title="Rádioizotopový termoelektrický generátor">rádioizotopový termoelektrický generátor</a> (RTG) sondy <a href="/wiki/Cassini_(sonda)" title="Cassini (sonda)">Cassini</a>, ktorá v&#160;súčasnosti končí svoju 13-ročnú vedeckú misiu v&#160;systéme planéty <a href="/wiki/Saturn" title="Saturn">Saturn</a>. Peleta je samovoľne do červena rozžeravená teplom, produkovaným <a href="/wiki/Alfa_rozpad" title="Alfa rozpad">alfa rozpadom</a> izotopu <sup>238</sup><a href="/wiki/Plut%C3%B3nium" title="Plutónium">Pu</a> (<a href="/wiki/Pol%C4%8Das_premeny" title="Polčas premeny">polčas premeny</a> 87,7 roka), z ktorého oxidu je vyrobená. Na začiatku životnosti disponuje peleta tepelným výkonom 62,5&#160;<a href="/wiki/Watt_(jednotka)" title="Watt (jednotka)">W</a>, na palube sondy je ich celkovo 216 v&#160;troch samostatných RTG jednotkách, čo predstavuje výkon 13&#160;500 W (tepelný) resp. 855 W (elektrický). <sup>238</sup>Pu sa od konca <a href="/wiki/Studen%C3%A1_vojna" title="Studená vojna">studenej vojny</a> vo väčších množstvách nepripravuje a súčasná cena zvyšných zásob je približne 8 mil. <a href="/wiki/Americk%C3%BD_dol%C3%A1r" title="Americký dolár">USD</a> za 1 kg, čo predstavuje 200-násobok ceny zlata.</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:right; position:relative;">
+<p><img alt="Bluebg right.png" src="//upload.wikimedia.org/wikipedia/commons/2/2e/Bluebg_right.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; right:5px; top:3px;"><small><a href="/wiki/Wikip%C3%A9dia:Obr%C3%A1zky_t%C3%BD%C5%BEd%C5%88a/arch%C3%ADv_2017" title="Wikipédia:Obrázky týždňa/archív 2017">Archív</a> <b>•</b> <a href="/wiki/Wikip%C3%A9dia:Obr%C3%A1zky_t%C3%BD%C5%BEd%C5%88a" title="Wikipédia:Obrázky týždňa">Ďalšie odporúčané obrázky</a></small></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:1px solid transparent;"></td>
+<td class="MainPageBG" style="width:30%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; color:#000;">
+<div style="position:relative;">
+<div class="floatright"><img alt="Greenbg right.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenbg_right.png/280px-Greenbg_right.png" width="280" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Greenbg_right.png 1.5x" data-file-width="350" data-file-height="25" /></div>
+<div style="font-size:115%; position:absolute; right:45px; top:0px;"><b>Portály</b></div>
+<div style="position:absolute; right:10px; top:2px;"><img alt="Portal.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/26px-Portal.svg.png" width="26" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/39px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/52px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></div>
+</div>
+<table id="mp-left" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<td style="background:#f5fffa; font-size:90%;">
+<table style="background:none;">
+<tr>
+<td style="line-height:120%;"><b>Prírodné vedy</b><br />
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Astron%C3%B3mia" title="Portál:Astronómia">Astronómia</a> (<a href="/wiki/Port%C3%A1l:Slne%C4%8Dn%C3%A1_s%C3%BAstava" title="Portál:Slnečná sústava">Slnečná sústava</a>)&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Biol%C3%B3gia" title="Portál:Biológia">Biológia</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Fyzika" title="Portál:Fyzika">Fyzika</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Geografia" title="Portál:Geografia">Geografia</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Ch%C3%A9mia" title="Portál:Chémia">Chémia</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Matematika" title="Portál:Matematika">Matematika</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Vedy_o_Zemi" title="Portál:Vedy o Zemi">Vedy o Zemi</a></dd>
+</dl>
+<p><b>Technické vedy</b><br /></p>
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Architekt%C3%BAra" title="Portál:Architektúra">Architektúra</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Informa%C4%8Dn%C3%A9_technol%C3%B3gie" title="Portál:Informačné technológie">Informatika</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Kozmonautika" title="Portál:Kozmonautika">Kozmonautika</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Letectvo" title="Portál:Letectvo">Letectvo</a></dd>
+</dl>
+<p><b>Spoločenské, humanitné a aplikované vedy</b><br /></p>
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Hist%C3%B3ria" title="Portál:História">História</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Jazyk" title="Portál:Jazyk">Jazyk</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Literat%C3%BAra" title="Portál:Literatúra">Literatúra</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Medic%C3%ADna" title="Portál:Medicína">Medicína</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Politika" title="Portál:Politika">Politika</a></dd>
+</dl>
+<p><b>Život a spoločnosť</b><br /></p>
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Divadlo" title="Portál:Divadlo">Divadlo</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Film" title="Portál:Film">Film</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Hudba" title="Portál:Hudba">Hudba</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:%C4%BDudia" title="Portál:Ľudia">Ľudia</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:%C5%A0port" title="Portál:Šport">Šport</a> (<a href="/wiki/Port%C3%A1l:Tenis" title="Portál:Tenis">Tenis</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:%C5%A0ach" title="Portál:Šach">Šach</a>)</dd>
+</dl>
+<p><b>Krajiny a regióny</b><br /></p>
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Belgicko" title="Portál:Belgicko">Belgicko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:%C4%8Cesko" title="Portál:Česko">Česko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:F%C3%ADnsko" title="Portál:Fínsko">Fínsko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Franc%C3%BAzsko" title="Portál:Francúzsko">Francúzsko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Luxembursko" title="Portál:Luxembursko">Luxembursko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Rusko" title="Portál:Rusko">Rusko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Samoa" title="Portál:Samoa">Samoa</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Slovensko" title="Portál:Slovensko">Slovensko</a> (<a href="/wiki/Port%C3%A1l:Bratislava" title="Portál:Bratislava">Bratislava</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Ko%C5%A1ice" title="Portál:Košice">Košice</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:%C5%BDilina" title="Portál:Žilina">Žilina</a>)&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Taliansko" title="Portál:Taliansko">Taliansko</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Vatik%C3%A1n" title="Portál:Vatikán">Vatikán</a></dd>
+</dl>
+<p><b>Ostatné</b><br /></p>
+<dl>
+<dd><a href="/wiki/Port%C3%A1l:Cesty" title="Portál:Cesty">Cesty</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Port%C3%A1l:Pes" title="Portál:Pes">Pes</a></dd>
+</dl>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="position:relative;">
+<div class="floatright"><img alt="Greenbg right.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenbg_right.png/280px-Greenbg_right.png" width="280" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Greenbg_right.png 1.5x" data-file-width="350" data-file-height="25" /></div>
+<div style="font-size:115%; position:absolute; right:45px; top:0px;"><b>Kategórie</b></div>
+<div style="position:absolute; right:10px; top:2px;"><img alt="Vista-xmag.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vista-xmag.png/30px-Vista-xmag.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vista-xmag.png/45px-Vista-xmag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vista-xmag.png/60px-Vista-xmag.png 2x" data-file-width="128" data-file-height="128" /></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="background:#f5fffa; font-size:90%;">
+<table style="background:none;">
+<tr>
+<td style="line-height:120%;"><a href="/wiki/S%C3%BAbor:P_biology.svg" class="image"><img alt="P biology.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/21px-P_biology.svg.png" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/32px-P_biology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/P_biology.svg/42px-P_biology.svg.png 2x" data-file-width="400" data-file-height="360" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Pr%C3%ADroda" title="Kategória:Príroda">Príroda</a></b><br />
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Bakt%C3%A9rie" title="Kategória:Baktérie">Baktérie</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Horniny" title="Kategória:Horniny">Horniny</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Huby" title="Kategória:Huby">Huby</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:%C4%8Clovek" title="Kategória:Človek">Človek</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Miner%C3%A1ly" title="Kategória:Minerály">Minerály</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Prvoky" title="Kategória:Prvoky">Prvoky</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Rastliny" title="Kategória:Rastliny">Rastliny</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Vesm%C3%ADr" title="Kategória:Vesmír">Vesmír</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:V%C3%ADrusy" title="Kategória:Vírusy">Vírusy</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Zem" title="Kategória:Zem">Zem</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:%C5%BDivo%C4%8D%C3%ADchy" title="Kategória:Živočíchy">Živočíchy</a></dd>
+</dl>
+<p><a href="/wiki/S%C3%BAbor:P_Society.png" class="image"><img alt="P Society.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P_Society.png/21px-P_Society.png" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P_Society.png/32px-P_Society.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P_Society.png/42px-P_Society.png 2x" data-file-width="200" data-file-height="183" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Spolo%C4%8Dnos%C5%A5" title="Kategória:Spoločnosť">Spoločnosť</a></b><br /></p>
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Hry" title="Kategória:Hry">Hry</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Kult%C3%BAra" title="Kategória:Kultúra">Kultúra</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:N%C3%A1bo%C5%BEenstvo" title="Kategória:Náboženstvo">Náboženstvo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Etnik%C3%A1,_n%C3%A1rody_a_n%C3%A1rodnosti" title="Kategória:Etniká, národy a národnosti">Národy</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Politika" title="Kategória:Politika">Politika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:%C5%A0port" title="Kategória:Šport">Šport</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Vojna" title="Kategória:Vojna">Vojny</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Z%C3%A1bava" title="Kategória:Zábava">Zábava</a></dd>
+</dl>
+<p><a href="/wiki/S%C3%BAbor:P_parthenon.svg" class="image"><img alt="P parthenon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/21px-P_parthenon.svg.png" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/32px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/42px-P_parthenon.svg.png 2x" data-file-width="400" data-file-height="360" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Pr%C3%ADrodn%C3%A9_vedy" title="Kategória:Prírodné vedy">Prírodné vedy</a></b><br /></p>
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Astron%C3%B3mia" title="Kategória:Astronómia">Astronómia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Biol%C3%B3gia" title="Kategória:Biológia">Biológia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Ekol%C3%B3gia" title="Kategória:Ekológia">Ekológia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Fyzika" title="Kategória:Fyzika">Fyzika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Geografia" title="Kategória:Geografia">Geografia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Ch%C3%A9mia" title="Kategória:Chémia">Chémia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Matematika" title="Kategória:Matematika">Matematika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Vedy_o_Zemi" title="Kategória:Vedy o Zemi">Vedy&#160;o&#160;Zemi</a></dd>
+</dl>
+<p><a href="/wiki/S%C3%BAbor:P_vip.svg" class="image"><img alt="P vip.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/21px-P_vip.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/32px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/42px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Spolo%C4%8Densk%C3%A9_vedy" title="Kategória:Spoločenské vedy">Spoločenské</a>, <a href="/wiki/Kateg%C3%B3ria:Humanitn%C3%A9_vedy" title="Kategória:Humanitné vedy">humanitné</a> a <a href="/wiki/Kateg%C3%B3ria:Aplikovan%C3%A9_vedy" title="Kategória:Aplikované vedy">aplikované</a> vedy<br /></b></p>
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Archeol%C3%B3gia" title="Kategória:Archeológia">Archeológia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Ekonomick%C3%A9_vedy_a_ekonomika" title="Kategória:Ekonomické vedy a ekonomika">Ekonómia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Filozofia" title="Kategória:Filozofia">Filozofia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Hist%C3%B3ria" title="Kategória:História">História</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Medic%C3%ADna" title="Kategória:Medicína">Medicína</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Pedagogika" title="Kategória:Pedagogika">Pedagogika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Psychol%C3%B3gia" title="Kategória:Psychológia">Psychológia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Teol%C3%B3gia" title="Kategória:Teológia">Teológia</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Sociol%C3%B3gia" title="Kategória:Sociológia">Sociológia</a></dd>
+</dl>
+<p><a href="/wiki/S%C3%BAbor:P_mechanics.svg" class="image"><img alt="P mechanics.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/P_mechanics.svg/21px-P_mechanics.svg.png" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/P_mechanics.svg/32px-P_mechanics.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/P_mechanics.svg/42px-P_mechanics.svg.png 2x" data-file-width="400" data-file-height="360" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Technika" title="Kategória:Technika">Technika</a></b><br /></p>
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Doprava" title="Kategória:Doprava">Doprava</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Elektrotechnika" title="Kategória:Elektrotechnika">Elektrotechnika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Informatika" title="Kategória:Informatika">Informatika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Kozmonautika" title="Kategória:Kozmonautika">Kozmonautika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Po%C4%BEnohospod%C3%A1rstvo" title="Kategória:Poľnohospodárstvo">Poľnohospodárstvo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Priemysel" title="Kategória:Priemysel">Priemysel</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Stavebn%C3%ADctvo" title="Kategória:Stavebníctvo">Stavebníctvo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Stroj%C3%A1rstvo" title="Kategória:Strojárstvo">Strojárstvo</a></dd>
+</dl>
+<p><a href="/wiki/S%C3%BAbor:P_art-lightblue.png" class="image"><img alt="P art-lightblue.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/21px-P_art-lightblue.png" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/32px-P_art-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/42px-P_art-lightblue.png 2x" data-file-width="77" data-file-height="68" /></a> <b><a href="/wiki/Kateg%C3%B3ria:Umenie" title="Kategória:Umenie">Umenie</a></b><br /></p>
+<dl>
+<dd><a href="/wiki/Kateg%C3%B3ria:Architekt%C3%BAra" title="Kategória:Architektúra">Architektúra</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Divadlo" title="Kategória:Divadlo">Divadlo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Kinematografia" title="Kategória:Kinematografia">Film</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Fotografia" title="Kategória:Fotografia">Fotografia‎</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Hudba" title="Kategória:Hudba">Hudba</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Literat%C3%BAra" title="Kategória:Literatúra">Literatúra</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Maliarstvo" title="Kategória:Maliarstvo">Maliarstvo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Soch%C3%A1rstvo" title="Kategória:Sochárstvo">Sochárstvo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:Tanec" title="Kategória:Tanec">Tanec</a></dd>
+</dl>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="position:relative;">
+<div class="floatright"><img alt="Greenbg right.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenbg_right.png/280px-Greenbg_right.png" width="280" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Greenbg_right.png 1.5x" data-file-width="350" data-file-height="25" /></div>
+<div style="font-size:115%; position:absolute; right:45px; top:0px;"><b>Cudzojazyčné wikipédie</b></div>
+<div style="position:absolute; right:10px; top:2px;"><img alt="Gnome-globe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/26px-Gnome-globe.svg.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/39px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/52px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="background:#f5fffa; font-size:90%;">
+<table style="background:none;">
+<tr>
+<td>
+<ul>
+<li><b>Viac ako 5 000 000 článkov:</b> <a href="https://en.wikipedia.org/wiki/" class="extiw" title="en:">anglická</a></li>
+<li><b>Viac ako 1 000 000 článkov:</b> <a href="https://sv.wikipedia.org/wiki/" class="extiw" title="sv:">švédska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ceb.wikipedia.org/wiki/" class="extiw" title="ceb:">cebuánska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://de.wikipedia.org/wiki/" class="extiw" title="de:">nemecká</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://nl.wikipedia.org/wiki/" class="extiw" title="nl:">holandská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">francúzska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ru.wikipedia.org/wiki/" class="extiw" title="ru:">ruská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://it.wikipedia.org/wiki/" class="extiw" title="it:">talianska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://es.wikipedia.org/wiki/" class="extiw" title="es:">španielska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://war.wikipedia.org/wiki/" class="extiw" title="war:">warayská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://pl.wikipedia.org/wiki/" class="extiw" title="pl:">poľská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://vi.wikipedia.org/wiki/" class="extiw" title="vi:">vietnamská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ja.wikipedia.org/wiki/" class="extiw" title="ja:">japonská</a></li>
+<li><b>Viac ako 500 000 článkov:</b> <a href="https://pt.wikipedia.org/wiki/" class="extiw" title="pt:">portugalská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://zh.wikipedia.org/wiki/" class="extiw" title="zh:">čínska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://uk.wikipedia.org/wiki/" class="extiw" title="uk:">ukrajinská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ca.wikipedia.org/wiki/" class="extiw" title="ca:">katalánska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://fa.wikipedia.org/wiki/" class="extiw" title="fa:">perzská</a></li>
+<li><b>Viac ako 250 000 článkov:</b> <a href="https://no.wikipedia.org/wiki/" class="extiw" title="no:">nórska (bokmål)</a> &#160;<span style="font-weight:bold;">·</span> <a href="https://ar.wikipedia.org/wiki/" class="extiw" title="ar:">arabská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://sh.wikipedia.org/wiki/" class="extiw" title="sh:">srbochorvátska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://fi.wikipedia.org/wiki/" class="extiw" title="fi:">fínska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://hu.wikipedia.org/wiki/" class="extiw" title="hu:">maďarská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://id.wikipedia.org/wiki/" class="extiw" title="id:">indonézska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ro.wikipedia.org/wiki/" class="extiw" title="ro:">rumunská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://cs.wikipedia.org/wiki/" class="extiw" title="cs:">česká</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ko.wikipedia.org/wiki/" class="extiw" title="ko:">kórejská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://sr.wikipedia.org/wiki/" class="extiw" title="sr:">srbská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://tr.wikipedia.org/wiki/" class="extiw" title="tr:">turecká</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ms.wikipedia.org/wiki/" class="extiw" title="ms:">malajská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://eu.wikipedia.org/wiki/" class="extiw" title="eu:">baskická</a></li>
+<li><b>Viac ako 100 000 článkov:</b> <a href="https://eo.wikipedia.org/wiki/" class="extiw" title="eo:">esperantská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://bg.wikipedia.org/wiki/" class="extiw" title="bg:">bulharská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://min.wikipedia.org/wiki/" class="extiw" title="min:">minangkabauská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://da.wikipedia.org/wiki/" class="extiw" title="da:">dánska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://kk.wikipedia.org/wiki/" class="extiw" title="kk:">kazašská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://hy.wikipedia.org/wiki/" class="extiw" title="hy:">arménska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://zh-min-nan.wikipedia.org/wiki/" class="extiw" title="zh-min-nan:">min-nanská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://he.wikipedia.org/wiki/" class="extiw" title="he:">hebrejská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://lt.wikipedia.org/wiki/" class="extiw" title="lt:">litovská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://hr.wikipedia.org/wiki/" class="extiw" title="hr:">chorvátska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ce.wikipedia.org/wiki/" class="extiw" title="ce:">čečenská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://sl.wikipedia.org/wiki/" class="extiw" title="sl:">slovinská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://et.wikipedia.org/wiki/" class="extiw" title="et:">estónska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://gl.wikipedia.org/wiki/" class="extiw" title="gl:">galícijská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://nn.wikipedia.org/wiki/" class="extiw" title="nn:">nórska (nynorsk)</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://uz.wikipedia.org/wiki/" class="extiw" title="uz:">uzbecká</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://la.wikipedia.org/wiki/" class="extiw" title="la:">latinská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://el.wikipedia.org/wiki/" class="extiw" title="el:">grécka</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://be.wikipedia.org/wiki/" class="extiw" title="be:">bieloruská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://simple.wikipedia.org/wiki/" class="extiw" title="simple:">anglická (simple)</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://vo.wikipedia.org/wiki/" class="extiw" title="vo:">volapükská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://hi.wikipedia.org/wiki/" class="extiw" title="hi:">hindská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://th.wikipedia.org/wiki/" class="extiw" title="th:">thajská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://az.wikipedia.org/wiki/" class="extiw" title="az:">azerbajdžanská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ka.wikipedia.org/wiki/" class="extiw" title="ka:">gruzínska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ur.wikipedia.org/wiki/" class="extiw" title="ur:">urdská</a></li>
+<li><b>Viac ako 50 000 článkov:</b> <a href="https://ta.wikipedia.org/wiki/" class="extiw" title="ta:">tamilská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://mk.wikipedia.org/wiki/" class="extiw" title="mk:">macedónska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://oc.wikipedia.org/wiki/" class="extiw" title="oc:">okcitánska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://mg.wikipedia.org/wiki/" class="extiw" title="mg:">malgašská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://cy.wikipedia.org/wiki/" class="extiw" title="cy:">waleská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://lv.wikipedia.org/wiki/" class="extiw" title="lv:">lotyšská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://new.wikipedia.org/wiki/" class="extiw" title="new:">nevárska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://bs.wikipedia.org/wiki/" class="extiw" title="bs:">bosnianska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://tt.wikipedia.org/wiki/" class="extiw" title="tt:">tatárska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://tg.wikipedia.org/wiki/" class="extiw" title="tg:">tadžičtinská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://te.wikipedia.org/wiki/" class="extiw" title="te:">telugská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://tl.wikipedia.org/wiki/" class="extiw" title="tl:">tagalská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://pms.wikipedia.org/wiki/" class="extiw" title="pms:">piemonská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://sq.wikipedia.org/wiki/" class="extiw" title="sq:">albánska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://br.wikipedia.org/wiki/" class="extiw" title="br:">bretónska</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://be-x-old.wikipedia.org/wiki/" class="extiw" title="be-x-old:">bieloruská (taraškeviča)</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ky.wikipedia.org/wiki/" class="extiw" title="ky:">kirgizská</a>&#160;<span style="font-weight:bold;">·</span> <a href="https://ht.wikipedia.org/wiki/" class="extiw" title="ht:">kreolská</a></li>
+</ul>
+<div style="text-align: center"><b><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="m:List of Wikipedias">všetky jazyky...</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="5px"></td>
+</tr>
+<tr>
+<td>
+<div style="position:relative;">
+<div class="floatright"><img alt="Greenbg right.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenbg_right.png/280px-Greenbg_right.png" width="280" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/5/58/Greenbg_right.png 1.5x" data-file-width="350" data-file-height="25" /></div>
+<div style="font-size:115%; position:absolute; right:45px; top:0px;"><b>O projekte</b></div>
+<div style="position:absolute; right:10px; top:2px;"><img alt="Wikipedia-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/26px-Wikipedia-logo.png" width="26" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/39px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/52px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="background:#f5fffa; font-size:90%;">
+<table style="background:none;">
+<tr>
+<td>
+<dl>
+<dd><a href="/wiki/Wikip%C3%A9dia:%C3%9Avod" title="Wikipédia:Úvod">O Wikipédii</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wikip%C3%A9dia:Mailing_listy" title="Wikipédia:Mailing listy">Mailing listy</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0tatistika" title="Špeciálne:Štatistika">Štatistika</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wikip%C3%A9dia:Wikipedi%C3%A1ni" title="Wikipédia:Wikipediáni">Wikipediáni</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Pomoc:Obsah" title="Pomoc:Obsah">Pomoc</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wikip%C3%A9dia:Kr%C4%8Dma" title="Wikipédia:Krčma">Krčma (diskusia redaktorov)</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wikip%C3%A9dia:Medzin%C3%A1rodn%C3%A1_spolupr%C3%A1ca" title="Wikipédia:Medzinárodná spolupráca">Medzinárodná spolupráca</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wikip%C3%A9dia:Pieskovisko" title="Wikipédia:Pieskovisko">Pieskovisko</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Kateg%C3%B3ria:WikiProjekty" title="Kategória:WikiProjekty">Projekty</a></dd>
+</dl>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table id="mp-tfp" style="margin:4px 0 0 0; width:100%; background:none;">
+<tr>
+<td class="MainPageBG" style="width:100%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff; color:#000; width:100%">
+<tr>
+<td>
+<div style="text-align:left; position:relative; margin-top:-5px;">
+<p><img alt="Bluebg.png" src="//upload.wikimedia.org/wikipedia/commons/9/97/Bluebg.png" width="350" height="25" data-file-width="350" data-file-height="25" /></p>
+<div style="position:absolute; left:5px; top:4px;"><img alt="Wikimedia-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/27px-Wikimedia-logo.svg.png" width="27" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/41px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/54px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024" /></div>
+<div style="position:absolute; left:50px; top:4px; font-size:120%;"><b>Ďalšie projekty</b></div>
+<div style="margin:1em; padding-right:6px; padding-top:12px;overflow:auto;">
+<div style="text-align: center;">
+<p>Wikipédiu prevádzkuje nezisková nadácia <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, ktorá spravuje aj veľa iných <a href="/wiki/Wikip%C3%A9dia:Medzin%C3%A1rodn%C3%A1_spolupr%C3%A1ca" title="Wikipédia:Medzinárodná spolupráca">mnohojazyčných</a> a <a href="/wiki/Wikip%C3%A9dia:Autorsk%C3%A9_pr%C3%A1va" title="Wikipédia:Autorské práva">otvorených</a> projektov:</p>
+<table style="width: 100%; background-color: #f5faff">
+<tr>
+<td><a href="https://sk.wiktionary.org/wiki/" title="Wikislovník"><img alt="Wikislovník" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/50px-Wiktionary-logo.svg.png" width="50" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/75px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/100px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></td>
+<td><a href="https://sk.wikisource.org/wiki/" title="Wikizdroje"><img alt="Wikizdroje" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png" width="48" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/71px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/95px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://sk.wikiquote.org/wiki/" title="Wikicitáty"><img alt="Wikicitáty" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png" width="42" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/63px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/84px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://sk.wikibooks.org/wiki/" title="Wikiknihy"><img alt="Wikiknihy" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/75px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/100px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://sk.wikivoyage.org/wiki/" title="Wikicesty"><img alt="Wikicesty" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/50px-Wikivoyage-logo.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/75px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/100px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://sk.wikinews.org/wiki/" title="Wikinoviny"><img alt="Wikinoviny" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png" width="50" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/75px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/100px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td><a href="https://en.wikipedia.org/wiki/v:Wikiversity:Main_Page" title="Wikiverzita"><img alt="Wikiverzita" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/50px-Wikiversity-logo.svg.png" width="50" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/75px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/100px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td><a href="https://species.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" title="Wikidruhy"><img alt="Wikidruhy" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/43px-Wikispecies-logo.svg.png" width="43" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/64px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/85px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png" width="37" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/56px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/74px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Hlavn%C3%A1_str%C3%A1nka" title="Wikiúdaje"><img alt="Wikiúdaje" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png" width="50" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/75px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/100px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td><a href="https://meta.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/50px-Wikimedia_Community_Logo.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/75px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/100px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+</tr>
+<tr style="font-weight: bold;">
+<td><a href="https://sk.wiktionary.org/wiki/" class="extiw" title="wikt:">Wikislovník</a></td>
+<td><a href="https://sk.wikisource.org/wiki/" class="extiw" title="s:">Wikizdroje</a></td>
+<td><a href="https://sk.wikiquote.org/wiki/" class="extiw" title="q:">Wikicitáty</a></td>
+<td><a href="https://sk.wikibooks.org/wiki/" class="extiw" title="b:">Wikiknihy</a></td>
+<td><a href="https://sk.wikivoyage.org/wiki/" class="extiw" title="voy:">Wikicesty</a></td>
+<td><a href="https://sk.wikinews.org/wiki/" class="extiw" title="n:">Wikinoviny</a></td>
+<td><a href="https://en.wikipedia.org/wiki/v:Wikiversity:Main_Page" class="extiw" title="en:v:Wikiversity:Main Page">Wikiverzita</a></td>
+<td><a href="https://species.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" class="extiw" title="wikispecies:Hlavná stránka">Wikidruhy</a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" class="extiw" title="commons:Hlavná stránka">Commons</a></td>
+<td><a href="https://www.wikidata.org/wiki/Wikidata:Hlavn%C3%A1_str%C3%A1nka" class="extiw" title="d:Wikidata:Hlavná stránka">Wikiúdaje</a></td>
+<td><a href="https://meta.wikimedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" class="extiw" title="m:Hlavná stránka">Meta-Wiki</a></td>
+</tr>
+<tr style="font-size: smaller; font-style: italic; line-height: 1.2; vertical-align: top;">
+<td>Výkladový slovník</td>
+<td>Voľne dostupné dokumenty</td>
+<td>Zbierka citátov</td>
+<td>Voľne dostupné knihy a príručky</td>
+<td>Slobodné cestovné príručky</td>
+<td>Otvorené spravodajstvo</td>
+<td>Voľne dostupné vzdelanie</td>
+<td>Adresár biologických druhov</td>
+<td>Spoločne využívaná zbierka médií</td>
+<td>Štruktúrovaná databáza vedomostí</td>
+<td>Koordinácia všetkých projektov Wikimedia</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="toccolours" style="font-size: smaller; text-align: center;">
+<p>Ak pokladáte Wikipédiu alebo sesterské projekty za užitočné, prosím zvážte <a class="external text" href="https://wikimediafoundation.org/wiki/Zbieranie_pr%C3%ADspevkov">poskytnutie daru</a>. Dary sú primárne určené na nákup vybavenia serverov.</p>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20170506000105
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.112 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 2040/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36360/2097152 bytes
+Template argument size: 1334/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   64.111      1 -total
+ 45.78%   29.350      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017
+ 40.51%   25.971      3 Šablóna:Vjz
+ 27.60%   17.693      3 Šablóna:Cudzojazyčne
+ 17.06%   10.935      3 Šablóna:Cudzojazyčne/iso12názov
+  9.07%    5.817      1 Šablóna:Cudzojazyčné_wikipédie2
+  7.71%    4.940      3 Šablóna:V_jazyku/iso3odkaz
+  7.25%    4.646      1 Šablóna:Úvod_(Hlavná_stránka)
+  6.15%    3.940      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)
+  6.13%    3.931      3 Šablóna:V_jazyku/iso3na12
+-->
+
+<!-- Saved in parser cache with key skwiki:pcache:idhash:1-0!*!0!*!*!4!* and timestamp 20170506000105 and revision id 6256659
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script><noscript><img src="//sk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Zdroj: „<a dir="ltr" href="https://sk.wikipedia.org/w/index.php?title=Hlavná_stránka&amp;oldid=6256659">https://sk.wikipedia.org/w/index.php?title=Hlavná_stránka&amp;oldid=6256659</a>“					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigačné menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Osobné nástroje</h3>
+						<ul>
+							<li id="pt-anonuserpage">Neprihlásený/á</li><li id="pt-anontalk"><a href="/wiki/%C5%A0peci%C3%A1lne:MojaDiskusia" title="Diskusia o úpravách z tejto ip adresy [n]" accesskey="n">Diskusia</a></li><li id="pt-anoncontribs"><a href="/wiki/%C5%A0peci%C3%A1lne:MojePr%C3%ADspevky" title="Zoznam úprav vykonaných z tejto IP adresy [y]" accesskey="y">Príspevky</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%C5%A0peci%C3%A1lne:Vytvorenie%C3%9A%C4%8Dtu&amp;returnto=Hlavn%C3%A1+str%C3%A1nka" title="Odporúčame vytvoriť si vlastný účet a prihlásiť sa, nie je to však povinné.">Vytvoriť účet</a></li><li id="pt-login"><a href="/w/index.php?title=%C5%A0peci%C3%A1lne:Prihl%C3%A1seniePou%C5%BE%C3%ADvate%C4%BEa&amp;returnto=Hlavn%C3%A1+str%C3%A1nka" title="Odporúčame vám prihlásiť sa, nie je to však povinné. [o]" accesskey="o">Prihlásiť sa</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Menné priestory</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hlavn%C3%A1_str%C3%A1nka"  title="Zobraziť obsah stránky [c]" accesskey="c">Hlavná stránka</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Diskusia:Hlavn%C3%A1_str%C3%A1nka"  title="Diskusia o obsahu stránky [t]" accesskey="t" rel="discussion">Diskusia</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Varianty</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Zobrazenia</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hlavn%C3%A1_str%C3%A1nka" >Čítať</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;action=edit"  title="Táto stránka je zamknutá. Môžete však zobraziť jej zdrojový text. [e]" accesskey="e">Zobraziť zdroj</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;action=history"  title="Minulé verzie tejto stránky. [h]" accesskey="h">Zobraziť históriu</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Viac</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Hľadať</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Hľadať" title="Vyhľadávanie na Wikipédii [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Špeciálne:Hľadanie" name="title"/><input type="submit" name="fulltext" value="Hľadať" title="Hľadať tento text na stránkach" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Ísť na" title="Prejsť na stránku s presne takýmto názvom, ak existuje" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Hlavn%C3%A1_str%C3%A1nka"  title="Navštíviť Hlavnú stránku"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigácia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/Hlavn%C3%A1_str%C3%A1nka" title="Navštíviť Hlavnú stránku [z]" accesskey="z">Hlavná stránka</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Port%C3%A1l_komunity" title="O projekte, ako môžete prispieť, kde čo nájsť">Portál komunity</a></li><li id="n-krcma"><a href="/wiki/Wikip%C3%A9dia:Kr%C4%8Dma">Krčma</a></li><li id="n-recentchanges"><a href="/wiki/%C5%A0peci%C3%A1lne:Posledn%C3%A9%C3%9Apravy" title="Zoznam posledných úprav na tejto wiki [r]" accesskey="r">Posledné úpravy</a></li><li id="n-randompage"><a href="/wiki/%C5%A0peci%C3%A1lne:N%C3%A1hodn%C3%A1" title="Zobraziť náhodnú stránku [x]" accesskey="x">Náhodná stránka</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Miesto, kde nájdete pomoc">Pomoc</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_sk.wikipedia.org&amp;uselang=sk" title="Podporte nás">Podpora</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Tlačiť/exportovať</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%C5%A0peci%C3%A1lne:Knihy&amp;bookcmd=book_creator&amp;referer=Hlavn%C3%A1+str%C3%A1nka">Vytvoriť knihu</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%C5%A0peci%C3%A1lne:Knihy&amp;bookcmd=render_article&amp;arttitle=Hlavn%C3%A1+str%C3%A1nka&amp;returnto=Hlavn%C3%A1+str%C3%A1nka&amp;oldid=6256659&amp;writer=rdf2latex">Stiahnuť ako PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;printable=yes" title="Verzia tejto stránky pre tlač [p]" accesskey="p">Verzia na tlač</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>V iných projektoch</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikidruhy</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://sk.wikibooks.org/wiki/Wikiknihy:Hlavn%C3%A1_str%C3%A1nka" hreflang="sk">Wikiknihy</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://sk.wikiquote.org/wiki/Wikicit%C3%A1ty:Hlavn%C3%A1_str%C3%A1nka" hreflang="sk">Wikicitáty</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://sk.wikisource.org/wiki/Wikizdroje:Hlavn%C3%A1_str%C3%A1nka" hreflang="sk">Wikizdroje</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Nástroje</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%C5%A0peci%C3%A1lne:%C4%8CoOdkazujeSem/Hlavn%C3%A1_str%C3%A1nka" title="Zoznam všetkých wiki stránok, ktoré sem odkazujú [j]" accesskey="j">Odkazy na túto stránku</a></li><li id="t-recentchangeslinked"><a href="/wiki/%C5%A0peci%C3%A1lne:S%C3%BAvisiacePosledn%C3%A9%C3%9Apravy/Hlavn%C3%A1_str%C3%A1nka" rel="nofollow" title="Posledné úpravy v stránkach, na ktoré odkazuje táto stránka [k]" accesskey="k">Súvisiace úpravy</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=sk" title="Nahranie súborov [u]" accesskey="u">Nahrať súbor</a></li><li id="t-specialpages"><a href="/wiki/%C5%A0peci%C3%A1lne:%C5%A0peci%C3%A1lneStr%C3%A1nky" title="Zoznam všetkých špeciálnych stránok [q]" accesskey="q">Špeciálne stránky</a></li><li id="t-permalink"><a href="/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;oldid=6256659" title="Trvalý odkaz na túto verziu stránky">Trvalý odkaz</a></li><li id="t-info"><a href="/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;action=info" title="Viac informácií o tejto stránke">Informácie o stránke</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5296" title="Odkaz na prepojenú položku dátového úložiska [g]" accesskey="g">Dátová položka</a></li><li id="t-cite"><a href="/w/index.php?title=%C5%A0peci%C3%A1lne:Citova%C5%A5&amp;page=Hlavn%C3%A1_str%C3%A1nka&amp;id=6256659" title="Ako citovať túto stránku">Citovať túto stránku</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>V iných jazykoch</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="arabčina" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/" title="azerbajdžančina" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="bulharčina" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="katalánčina" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/" title="cebuánčina" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="čeština" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="dánčina" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="nemčina" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="gréčtina" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/" title="angličtina" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="španielčina" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="estónčina" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="baskičtina" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="perzština" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="fínčina" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="francúzština" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="galícijčina" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="hebrejčina" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/" title="hindčina" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="chorvátčina" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="maďarčina" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/" title="arménčina" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="indonézština" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="taliančina" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="japončina" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/" title="kazaština" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="kórejčina" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/" title="latinčina" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="litovčina" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/" title="minangkabaučina" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="malajčina" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="holandčina" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="nórčina (nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="nórčina" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="poľština" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="portugalčina" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="rumunčina" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="ruština" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="srbochorvátčina" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="slovinčina" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="srbčina" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="švédčina" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="turečtina" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="ukrajinčina" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/" title="uzbečtina" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="vietnamčina" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/" title="volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/" title="waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="čínština" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Čas poslednej úpravy tejto stránky je 19:46, 9. apríl 2016.</li>
+											<li id="footer-info-copyright">Text je dostupný za podmienok <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License 3.0 Unported</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Ochrana osobných údajov</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%9Avod" title="Wikipédia:Úvod">O Wikipédii</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Vyl%C3%BA%C4%8Denie_zodpovednosti" title="Wikipédia:Vylúčenie zodpovednosti">Vylúčenie zodpovednosti</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Vývojári</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Vyhlásenie o cookies</a></li>
+											<li id="footer-places-mobileview"><a href="//sk.m.wikipedia.org/w/index.php?title=Hlavn%C3%A1_str%C3%A1nka&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobilné zobrazenie</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.174","ppvisitednodes":{"value":2040,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36360,"limit":2097152},"templateargumentsize":{"value":1334,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   64.111      1 -total"," 45.78%   29.350      1 Šablóna:Wikipédia/Odporúčaný_článok/05_2017"," 40.51%   25.971      3 Šablóna:Vjz"," 27.60%   17.693      3 Šablóna:Cudzojazyčne"," 17.06%   10.935      3 Šablóna:Cudzojazyčne/iso12názov","  9.07%    5.817      1 Šablóna:Cudzojazyčné_wikipédie2","  7.71%    4.940      3 Šablóna:V_jazyku/iso3odkaz","  7.25%    4.646      1 Šablóna:Úvod_(Hlavná_stránka)","  6.15%    3.940      1 Šablóna:Zoznam_portálov_(Hlavná_stránka)","  6.13%    3.931      3 Šablóna:V_jazyku/iso3na12"]},"cachereport":{"origin":"mw1277","timestamp":"20170506000105","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1216"});});</script>
+	</body>
+</html>
