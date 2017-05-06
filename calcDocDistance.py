@@ -4,31 +4,23 @@ from insertionSort import insertion_sort
 from innerProduct import inner_product
 from readFile import read_file
 from mergeSort import merge_sort
+import string
 
 def getWordsFromLineList(line_list):
 	words = []
 	for line in line_list:
 		words_in_line = getWordsFromString(line)
 		words.extend(words_in_line)
+	print("size of words list")
+	print(len(words))
 	return words
 
 def getWordsFromString(line):
-	wordList = []
-	characterList = []
-	#check if each character is alphanumeric and append if yes, or end word and append word if no
-	for c in line:
-		if c.isalnum():
-			characterList.append(c)
-		elif len(characterList) > 0:
-			word = "".join(characterList)
-			word = word.lower()
-			characterList = []
-	#if you make it through the line then add the word to the word list
-	if len(characterList)>0:
-		word = "".join(characterList)
-		word = word.lower()
-		wordList.append(word)
-	return wordList
+	translation_table = string.maketrans(string.uppercase, string.lowercase)
+	line = line.translate(translation_table)
+	line = "".join(c for c in line if c not in ('!','.',':'))
+	word_list = line.split()
+	return word_list
 
 def countFrequency(wordList):
 	#document vector
@@ -54,8 +46,8 @@ def calculateVectorAngle(L1, L2):
 	numberator = inner_product(L1, L2)
 	#distance metric
 	denominator = math.sqrt(inner_product(L1, L1) * inner_product(L2, L2))
-	if denominator==0:
-		return float('inf')
+	#if denominator==0:
+	#	return float('inf')
 	return math.acos(numberator/denominator)
 
 def calculateDistance(filename1, filename2):

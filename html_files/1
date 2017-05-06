@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>Wikipedia, the free encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQpasQpAIDoAAFwACuIAAAAA","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":777395573,"wgRevisionId":777395573,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"WQ3l9ApAME8AAJapjVsAAACP","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
@@ -14,7 +14,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.29.0-wmf.21"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_13_%28cropped%29.jpg/1200px-Mark_Selby_at_Snooker_German_Masters_%28DerHexer%29_2015-02-08_13_%28cropped%29.jpg"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/13/Dura_Europos_fresco_Moses_from_river.jpg"/>
 <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Main_Page"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia picture of the day feed" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia featured articles feed" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
@@ -51,7 +51,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="width:280px; text-align:center; white-space:nowrap;">
 <div style="font-size:162%; border:none; margin:0; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
 <div style="top:+0.2em; font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,398,113</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,399,548</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </td>
 </tr>
 </table>
@@ -90,13 +90,15 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </tr>
 <tr>
 <td style="color:#000;">
-<div id="mp-tfa" style="padding:2px 5px"><i><b><a href="/wiki/Temperatures_Rising" title="Temperatures Rising">Temperatures Rising</a></b></i> is an American television <a href="/wiki/Sitcom" title="Sitcom">sitcom</a> that aired on the <a href="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</a> network with 46 episodes from September 1972 to August 1974. It was developed by <a href="/wiki/William_Asher" title="William Asher">William Asher</a> and <a href="/wiki/Harry_Ackerman" title="Harry Ackerman">Harry Ackerman</a>. The first <a href="/wiki/Season_(television)" class="mw-redirect" title="Season (television)">season</a>, set in a fictional <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> hospital, featured <a href="/wiki/James_Whitmore" title="James Whitmore">James Whitmore</a> as a no-nonsense chief-of-staff who endures the antics of a young intern (<a href="/wiki/Cleavon_Little" title="Cleavon Little">Cleavon Little</a>) and three nurses (<a href="/wiki/Joan_Van_Ark" title="Joan Van Ark">Joan Van Ark</a>, <a href="/wiki/Reva_Rose" title="Reva Rose">Reva Rose</a>, and Nancy Fox). In the 13-episode second season, produced by <a href="/wiki/E._Duke_Vincent" title="E. Duke Vincent">Duke Vincent</a> and Bruce Johnson, everyone except Little was replaced, and the show was retitled <i>The New Temperatures Rising Show</i>. Comedian <a href="/wiki/Paul_Lynde" title="Paul Lynde">Paul Lynde</a> played a penny-pinching chief-of-staff, accompanied by Sudie Bond, <a href="/wiki/Barbara_Cason" title="Barbara Cason">Barbara Cason</a>, <a href="/wiki/Jennifer_Darling" title="Jennifer Darling">Jennifer Darling</a>, <a href="/wiki/Jeff_Morrow" title="Jeff Morrow">Jeff Morrow</a>, and <a href="/wiki/John_Dehner" title="John Dehner">John Dehner</a>. Critics preferred the second-season cast, but the <a href="/wiki/Black_comedy" title="Black comedy">black comedy</a> approach led to lower ratings. In an unsuccessful seven-episode summer revival of the series, Asher returned as producer and restored the series to its original format and title, retaining Paul Lynde in the lead, with a cast of Little, Fox, <a href="/wiki/Alice_Ghostley" title="Alice Ghostley">Alice Ghostley</a> and Barbara Rucker. (<a href="/wiki/Temperatures_Rising" title="Temperatures Rising"><b>Full&#160;article...</b></a>)
+<div id="mp-tfa" style="padding:2px 5px">
+<div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;"><a href="/wiki/File:Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg" class="image" title="Saint Luke Drawing the Virgin, Boston Museum of Fine Arts"><img alt="Saint Luke Drawing the Virgin, Boston Museum of Fine Arts" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg/100px-Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg" width="100" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg/150px-Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg/200px-Rogier_van_der_Weyden_St_Luke_Some_Chick_MFA_Boston.jpg 2x" data-file-width="1293" data-file-height="1600" /></a></div>
+<p><i><b><a href="/wiki/Saint_Luke_Drawing_the_Virgin" title="Saint Luke Drawing the Virgin">Saint Luke Drawing the Virgin</a></b></i> is a large 15th-century <a href="/wiki/Panel_painting" title="Panel painting">panel painting</a>, oil and <a href="/wiki/Tempera" title="Tempera">tempera</a> on oak, attributed to the <a href="/wiki/Early_Netherlandish_painting" title="Early Netherlandish painting">Early Netherlandish</a> painter <a href="/wiki/Rogier_van_der_Weyden" title="Rogier van der Weyden">Rogier van der Weyden</a> and usually dated between 1435 and 1440. Housed in the <a href="/wiki/Museum_of_Fine_Arts,_Boston" title="Museum of Fine Arts, Boston">Museum of Fine Arts</a>, Boston, it shows <a href="/wiki/Luke_the_Evangelist" title="Luke the Evangelist">Luke the Evangelist</a>, patron saint of artists, sketching the <a href="/wiki/Mary_(mother_of_Jesus)" class="mw-redirect" title="Mary (mother of Jesus)">Virgin Mary</a> as she nurses the <a href="/wiki/Child_Jesus" class="mw-redirect" title="Child Jesus">Child Jesus</a>. The figures are positioned in a bourgeois interior which leads out towards a courtyard, river, town and landscape. The <a href="/wiki/Hortus_conclusus" title="Hortus conclusus">enclosed garden</a>, illusionistic carvings of <a href="/wiki/Adam_and_Eve" title="Adam and Eve">Adam and Eve</a> on the arms of Mary's throne, and attributes of St Luke are amongst the painting's iconographic symbols. The face of Luke is accepted as van der Weyden's <a href="/wiki/Self-portrait" title="Self-portrait">self-portrait</a>. The painting's historical significance rests on both the skill behind the design and its merging of earthly and divine realms. By positioning himself in the same space as the Madonna, and showing a painter in the act of portrayal, Van der Weyden brings to the fore the role of artistic creativity in 15th-century society. The panel became widely influential with near copies by the <a href="/wiki/Master_of_the_(Bruges)_legend_of_St._Ursula" class="mw-redirect" title="Master of the (Bruges) legend of St. Ursula">Master of the Legend of Saint Ursula</a> and <a href="/wiki/Hugo_van_der_Goes" title="Hugo van der Goes">Hugo van der Goes</a>. (<a href="/wiki/Saint_Luke_Drawing_the_Virgin" title="Saint Luke Drawing the Virgin"><b>Full&#160;article...</b></a>)</p>
 <div class="tfa-recent" style="text-align: right;">Recently featured:
 <div class="hlist inline">
 <ul>
-<li><a href="/wiki/James_Moore_(Continental_Army_officer)" title="James Moore (Continental Army officer)">James Moore (Continental Army officer)</a></li>
-<li><i><a href="/wiki/Clathrus_ruber" title="Clathrus ruber">Clathrus ruber</a></i></li>
-<li><a href="/wiki/St_Cuthbert_Gospel" title="St Cuthbert Gospel">St Cuthbert Gospel</a></li>
+<li><i><a href="/wiki/Wolfenstein_3D" title="Wolfenstein 3D">Wolfenstein 3D</a></i></li>
+<li><a href="/wiki/Battle_of_the_Coral_Sea" title="Battle of the Coral Sea">Battle of the Coral Sea</a></li>
+<li><i><a href="/wiki/Temperatures_Rising" title="Temperatures Rising">Temperatures Rising</a></i></li>
 </ul>
 </div>
 </div>
@@ -119,19 +121,19 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <td style="color:#000; padding:2px 5px 5px;">
 <div id="mp-dyk">
 <div class="dyk-img" style="float: right; margin-left: 0.5em;">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:PFE_Albee_1886.jpg" class="image" title="PFE Albee in her saleslady's outfit"><img alt="PFE Albee in her saleslady's outfit" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/72px-PFE_Albee_1886.jpg" width="72" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/109px-PFE_Albee_1886.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/PFE_Albee_1886.jpg/145px-PFE_Albee_1886.jpg 2x" data-file-width="150" data-file-height="275" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">PFE Albee in her saleslady's outfit</div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 160px;"><a href="/wiki/File:Dura_Europos_fresco_Moses_from_river.jpg" class="image" title="Dura-Europos fresco"><img alt="Dura-Europos fresco" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dura_Europos_fresco_Moses_from_river.jpg/160px-Dura_Europos_fresco_Moses_from_river.jpg" width="160" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dura_Europos_fresco_Moses_from_river.jpg/240px-Dura_Europos_fresco_Moses_from_river.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dura_Europos_fresco_Moses_from_river.jpg/320px-Dura_Europos_fresco_Moses_from_river.jpg 2x" data-file-width="1064" data-file-height="662" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Dura-Europos fresco</div>
 </div>
 </div>
 <ul>
-<li>... that <b><a href="/wiki/Persis_Foster_Eames_Albee" title="Persis Foster Eames Albee">PFE Albee</a></b> <i>(pictured)</i> is considered the first "<a href="/wiki/Avon_Products" title="Avon Products">Avon Lady</a>", and was followed by over half a million others?</li>
-<li>... that the <b><a href="/wiki/Shooter%27s_sandwich" title="Shooter's sandwich">shooter's sandwich</a></b> became a minor internet meme after an article in <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> declared it to be the best sandwich in the world?</li>
-<li>... that Indonesian <a href="/wiki/Constitutional_Court_of_Indonesia" title="Constitutional Court of Indonesia">Constitutional Court</a> Justice <b><a href="/wiki/Saldi_Isra" title="Saldi Isra">Saldi Isra</a></b> twice failed university entrance exams, but later went on to be awarded <i><a href="/wiki/Summa_cum_laude" class="mw-redirect" title="Summa cum laude">summa cum laude</a></i>?</li>
-<li>... that in order to put the silver <b><a href="/wiki/Kal%C4%81kaua_coinage" title="Kalākaua coinage">Kalākaua coinage</a></b> into circulation, <a href="/wiki/Claus_Spreckels" title="Claus Spreckels">Claus Spreckels</a> formed the Spreckels &amp; Company Bank in Hawaii?</li>
-<li>... that arriving penniless in Oregon in 1903, <b><a href="/wiki/Harley_J._Overturf" title="Harley J. Overturf">Harley J. Overturf</a></b> financed his education at the <a href="/wiki/University_of_Oregon" title="University of Oregon">University of Oregon</a> by filing a <a href="/wiki/Timber_Culture_Act" title="Timber Culture Act">timber claim</a> and selling the property for a profit?</li>
-<li>... that at a show during the <b><a href="/wiki/2nd_Global_Indian_Film_Awards" title="2nd Global Indian Film Awards">2nd Global Indian Film Awards</a></b>, around <span class="nowrap"><span style="white-space: nowrap"><a href="/wiki/Indian_rupee" title="Indian rupee">₹</a></span>2.2 million</span> (US$34,000) was raised by auctioning off costumes of <a href="/wiki/Bollywood" title="Bollywood">Bollywood</a> actors?</li>
-<li>... that the <b><a href="/wiki/Bismuth_phosphate_process" title="Bismuth phosphate process">bismuth phosphate process</a></b> was used by the <a href="/wiki/Manhattan_Project" title="Manhattan Project">Manhattan Project</a> to extract <a href="/wiki/Plutonium" title="Plutonium">plutonium</a> for use in atomic bombs?</li>
-<li>... that after <b><a href="/wiki/Christian_Hamburger" title="Christian Hamburger">Christian Hamburger</a></b> oversaw her sex reassignment, <a href="/wiki/Christine_Jorgensen" title="Christine Jorgensen">Christine Jorgensen</a> chose her new name in his honor?</li>
+<li>... that the earliest visual depiction of the <b><a href="/wiki/Finding_of_Moses" title="Finding of Moses">Finding of Moses</a></b> is a fresco of c. 244 AD <i>(pictured)</i> in the <a href="/wiki/Dura-Europos_synagogue" title="Dura-Europos synagogue">Dura-Europos synagogue</a>?</li>
+<li>... that in 1950, <b><a href="/wiki/Hans_Grischkat" title="Hans Grischkat">Hans Grischkat</a></b> compiled and conducted a concert <i>Vom Reiche Gottes</i> from single <a href="/wiki/Bach_cantata" title="Bach cantata">Bach cantata</a> movements to celebrate the bicentenary of the composer's death?</li>
+<li>... that <a href="/wiki/Frederick_Wiseman" title="Frederick Wiseman">Frederick Wiseman</a> intended his 1969 documentary <i><b><a href="/wiki/Law_and_Order_(1969_film)" title="Law and Order (1969 film)">Law and Order</a></b></i> as "a chance to do in the pigs", but as he made the film he came to understand the "fear that cops live with"?</li>
+<li>... that <a href="/wiki/Professional_wrestling" title="Professional wrestling">professional wrestler</a> <b><a href="/wiki/King_Kaluha" title="King Kaluha">King Kaluha</a></b> was the hand-picked opponent for <a href="/wiki/%22Dr._Death%22_Steve_Williams" title="&quot;Dr. Death&quot; Steve Williams">Dr. Death</a><span class="nowrap" style="padding-left:0.1em;">'</span>s comeback match after battling throat cancer?</li>
+<li>... that over 60,000 pieces of <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a> were used to create the <i><b><a href="/wiki/Roots_of_Knowledge" title="Roots of Knowledge">Roots of Knowledge</a></b></i> installation at <a href="/wiki/Utah_Valley_University" title="Utah Valley University">Utah Valley University</a>?</li>
+<li>... that the population of the endangered <a href="/wiki/Hydrophiinae" title="Hydrophiinae">sea snake</a> <i><b><a href="/wiki/Aipysurus_fuscus" title="Aipysurus fuscus">Aipysurus fuscus</a></b></i> is thought to have declined by at least 70% between 1998 and 2013?</li>
+<li>... that African-American mathematics professor <b><a href="/wiki/Thyrsa_Frazier_Svager" title="Thyrsa Frazier Svager">Thyrsa Frazier Svager</a></b> and her physics professor husband Aleksandar Svager lived on one salary to build a scholarship fund?</li>
+<li>... that <a href="/wiki/Morrison-Knudsen" title="Morrison-Knudsen">Morrison-Knudsen</a> built four <b><a href="/wiki/M-K_TE70-4S" title="M-K TE70-4S">Popsicles</a></b> for the <a href="/wiki/Southern_Pacific_Transportation_Company" title="Southern Pacific Transportation Company">Southern Pacific Railroad</a> in 1978?</li>
 </ul>
 <div class="dyk-footer hlist noprint" style="margin-top: 0.5em; text-align: right;">
 <ul>
@@ -162,11 +164,12 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </div>
 </div>
 <ul>
+<li>The maiden flight of the Chinese <b><a href="/wiki/Comac_C919" title="Comac C919">Comac C919</a></b> airliner takes place.</li>
+<li><a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a> <b><a href="/wiki/Puerto_Rican_government-debt_crisis" title="Puerto Rican government-debt crisis">files</a></b> for <a href="/wiki/Debt_restructuring" title="Debt restructuring">debt restructuring</a>, the largest ever <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> municipal <a href="/wiki/Bankruptcy" title="Bankruptcy">bankruptcy</a> in the United States.</li>
 <li><a href="/wiki/Mark_Selby" title="Mark Selby">Mark Selby</a> <i>(pictured)</i> defeats <a href="/wiki/John_Higgins_(snooker_player)" title="John Higgins (snooker player)">John Higgins</a> to win the <b><a href="/wiki/2017_World_Snooker_Championship" title="2017 World Snooker Championship">World Snooker Championship</a></b>.</li>
 <li>China launches its <a href="/wiki/Type_001A_aircraft_carrier" title="Type 001A aircraft carrier"><b>first domestically built aircraft carrier</b></a>.</li>
 <li>In the <b><a href="/wiki/2017_London_Marathon" title="2017 London Marathon">London Marathon</a></b>, <a href="/wiki/Mary_Jepkosgei_Keitany" title="Mary Jepkosgei Keitany">Mary Keitany</a> and <a href="/wiki/Daniel_Wanjiru" title="Daniel Wanjiru">Daniel Wanjiru</a> win the women's and men's races, respectively.</li>
 <li><b><a href="/wiki/2017_Camp_Shaheen_attack" title="2017 Camp Shaheen attack">A Taliban attack</a></b> on an <a href="/wiki/Afghan_National_Army" title="Afghan National Army">Afghan National Army</a> base kills 140 soldiers.</li>
-<li><a href="/wiki/Turkey" title="Turkey">Turkey</a> votes in <b><a href="/wiki/Turkish_constitutional_referendum,_2017" title="Turkish constitutional referendum, 2017">a constitutional referendum</a></b> in favour of replacing its <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary system</a> of government with an executive presidency.</li>
 </ul>
 <div class="itn-footer" style="margin-top: 0.5em;">
 <div><b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Ongoing</a></b>:
@@ -174,6 +177,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <ul>
 <li><a href="/wiki/Battle_of_Mosul_(2016%E2%80%93present)" title="Battle of Mosul (2016–present)">Battle of Mosul</a></li>
 <li><a href="/wiki/2016%E2%80%9317_Turkish_purges" title="2016–17 Turkish purges">Turkish purges</a></li>
+<li><a href="/wiki/2017_Venezuelan_protests" title="2017 Venezuelan protests">Venezuelan protests</a></li>
 </ul>
 </div>
 </div>
@@ -199,26 +203,26 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <tr>
 <td style="color:#000; padding:2px 5px 5px;">
 <div id="mp-otd">
-<p><b><a href="/wiki/May_3" title="May 3">May 3</a></b></p>
+<p><b><a href="/wiki/May_6" title="May 6">May 6</a></b></p>
 <div style="float:right;margin-left:0.5em;" id="mp-otd-img">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 150px;"><a href="/wiki/File:RAF_Northolt_aerial_view_1917.jpg" class="image" title="Aerial view of RAF Northolt"><img alt="Aerial view of RAF Northolt" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/RAF_Northolt_aerial_view_1917.jpg/150px-RAF_Northolt_aerial_view_1917.jpg" width="150" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/d/df/RAF_Northolt_aerial_view_1917.jpg 1.5x" data-file-width="220" data-file-height="158" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Aerial view of RAF Northolt</div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 133px;"><a href="/wiki/File:Hindenburg_burning.jpg" class="image" title="The Hindenburg disaster"><img alt="The Hindenburg disaster" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/131px-Hindenburg_burning.jpg" width="131" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/197px-Hindenburg_burning.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hindenburg_burning.jpg/262px-Hindenburg_burning.jpg 2x" data-file-width="3000" data-file-height="2283" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;"><i>Hindenburg</i> disaster</div>
 </div>
 </div>
 <ul>
-<li><a href="/wiki/1491" title="1491">1491</a> – Nkuwu Nzinga of the <a href="/wiki/Kingdom_of_Kongo" title="Kingdom of Kongo">Kingdom of Kongo</a> was baptised as <b><span class="nowrap"><a href="/wiki/Jo%C3%A3o_I_of_Kongo" title="João I of Kongo">João I</a></span></b> by Portuguese missionaries.</li>
-<li><a href="/wiki/1791" title="1791">1791</a> – The <b><a href="/wiki/Constitution_of_May_3,_1791" title="Constitution of May 3, 1791">Polish–Lithuanian Constitution of May 3</a></b>, the oldest <a href="/wiki/Codification_(law)" title="Codification (law)">codified</a> national <a href="/wiki/Constitution" title="Constitution">constitution</a> in Europe, was adopted by the <a href="/wiki/Great_Sejm" title="Great Sejm">Great Sejm</a>.</li>
-<li><a href="/wiki/1915" title="1915">1915</a> – The oldest continually operational <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> station, <b><a href="/wiki/RAF_Northolt" title="RAF Northolt">RAF Northolt</a></b> <i>(pictured)</i>, opened as the home to No. 4 Reserve Aeroplane Squadron.</li>
-<li><a href="/wiki/1942" title="1942">1942</a> – <a href="/wiki/World_War_II" title="World War II">Second World War</a>: Japanese forces <b><a href="/wiki/Invasion_of_Tulagi_(May_1942)" title="Invasion of Tulagi (May 1942)">began invading</a></b> <a href="/wiki/Tulagi" title="Tulagi">Tulagi</a> and nearby islands in the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>, enabling them to threaten and interdict the supply and communication routes between the United States and Australia and New Zealand.</li>
-<li><a href="/wiki/2007" title="2007">2007</a> – Three-year-old <b><a href="/wiki/Disappearance_of_Madeleine_McCann" title="Disappearance of Madeleine McCann">Madeleine McCann</a></b> disappeared while on holiday with her family in Portugal, sparking "the most heavily reported missing-person case in modern history".</li>
+<li><a href="/wiki/1757" title="1757">1757</a> – English poet <a href="/wiki/Christopher_Smart" title="Christopher Smart">Christopher Smart</a> was admitted into <a href="/wiki/St_Luke%27s_Hospital_for_Lunatics" title="St Luke's Hospital for Lunatics">St Luke's Hospital for Lunatics</a> in <a href="/wiki/London" title="London">London</a>, beginning <b><a href="/wiki/Christopher_Smart%27s_asylum_confinement" title="Christopher Smart's asylum confinement">his six-year confinement</a></b> to <a href="/wiki/Psychiatric_hospital" title="Psychiatric hospital">mental asylums</a>.</li>
+<li><a href="/wiki/1801" title="1801">1801</a> – <a href="/wiki/French_Revolutionary_Wars" title="French Revolutionary Wars">French Revolutionary Wars</a>: The outmanned and outgunned <a href="/wiki/HMS_Speedy_(1782)" title="HMS Speedy (1782)">HMS&#160;<i>Speedy</i></a> <b><a href="/wiki/Action_of_6_May_1801" title="Action of 6 May 1801">captured</a></b> the 32-gun Spanish frigate <i><a href="/wiki/Spanish_frigate_El_Gamo" title="Spanish frigate El Gamo">El Gamo</a></i>.</li>
+<li><a href="/wiki/1937" title="1937">1937</a> – The German <a href="/wiki/Zeppelin" title="Zeppelin">zeppelin</a> <i><b><a href="/wiki/LZ_129_Hindenburg" title="LZ 129 Hindenburg">Hindenburg</a></b></i> caught fire and was <a href="/wiki/Hindenburg_disaster" title="Hindenburg disaster">destroyed</a> <i>(pictured)</i> during an attempt to dock at <a href="/wiki/Lakehurst_Maxfield_Field" title="Lakehurst Maxfield Field">Lakehurst Naval Air Station</a> in <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, killing 36 people.</li>
+<li><a href="/wiki/1954" title="1954">1954</a> – At <a href="/wiki/Oxford" title="Oxford">Oxford</a>'s <a href="/wiki/Roger_Bannister_running_track" title="Roger Bannister running track">Iffley Road Track</a>, English runner <a href="/wiki/Roger_Bannister" title="Roger Bannister">Roger Bannister</a> became the first person to run the <b><a href="/wiki/Four-minute_mile" title="Four-minute mile">mile in under four minutes</a></b>.</li>
+<li><a href="/wiki/2013" title="2013">2013</a> – Amanda Berry escaped from the <a href="/wiki/Cleveland" title="Cleveland">Cleveland, Ohio</a>, home of her captor <b><a href="/wiki/Ariel_Castro_kidnappings" title="Ariel Castro kidnappings">Ariel Castro</a></b> having been held there with two other women for ten years.</li>
 </ul>
-<p><b><a href="/wiki/Alexios_II_of_Trebizond" title="Alexios II of Trebizond">Alexios II of Trebizond</a></b> (d.&#160;1330)&#160;<b>·</b>  <b><a href="/wiki/Catherine_of_St._Augustine" title="Catherine of St. Augustine">Catherine of St. Augustine</a></b> (b.&#160;1632)&#160;<b>·</b>  <b><a href="/wiki/Len_Shackleton" title="Len Shackleton">Len Shackleton</a></b> (b.&#160;1922)</p>
+<p><b><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></b> (d.&#160;1862)&#160;<b>·</b>  <b><a href="/wiki/Rosemary_Cramp" title="Rosemary Cramp">Rosemary Cramp</a></b> (b.&#160;1929)&#160;<b>·</b>  <b><a href="/wiki/George_Clooney" title="George Clooney">George Clooney</a></b> (b.&#160;1961)</p>
 <div style="margin-top: 0.5em;">More anniversaries:
 <div class="hlist inline nowraplinks">
 <ul>
-<li><a href="/wiki/May_2" title="May 2">May 2</a></li>
-<li><b><a href="/wiki/May_3" title="May 3">May 3</a></b></li>
-<li><a href="/wiki/May_4" title="May 4">May 4</a></li>
+<li><a href="/wiki/May_5" title="May 5">May 5</a></li>
+<li><b><a href="/wiki/May_6" title="May 6">May 6</a></b></li>
+<li><a href="/wiki/May_7" title="May 7">May 7</a></li>
 </ul>
 </div>
 </div>
@@ -250,16 +254,16 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div id="mp-tfp">
 <table style="margin:0 3px 3px; width:100%; text-align:left; background-color:transparent; border-collapse: collapse;">
 <tr>
-<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Paisley_Abbey_from_the_south_east.jpg" class="image" title="Paisley Abbey"><img alt="Paisley Abbey" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/380px-Paisley_Abbey_from_the_south_east.jpg" width="380" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/570px-Paisley_Abbey_from_the_south_east.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paisley_Abbey_from_the_south_east.jpg/760px-Paisley_Abbey_from_the_south_east.jpg 2x" data-file-width="13609" data-file-height="5352" /></a></td>
+<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Yellow-headed_caracara_(Milvago_chimachima)_on_capybara_(Hydrochoeris_hydrochaeris).JPG" class="image" title="A yellow-headed caracara perched on a capybara"><img alt="A yellow-headed caracara perched on a capybara" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG/380px-Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG" width="380" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG/570px-Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG/760px-Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG 2x" data-file-width="4478" data-file-height="2985" /></a></td>
 <td style="padding:0 6px 0 0">
-<p><b><a href="/wiki/Paisley_Abbey" title="Paisley Abbey">Paisley Abbey</a></b> is a <a href="/wiki/Church_of_Scotland" title="Church of Scotland">Church of Scotland</a> parish <a href="/wiki/Kirk" title="Kirk">kirk</a> located on the east bank of the <a href="/wiki/River_Cart" title="River Cart">White Cart Water</a> in <a href="/wiki/Paisley,_Renfrewshire" title="Paisley, Renfrewshire">Paisley, Renfrewshire</a>. The site has been used for religious purposes since the 7th century, and a <a href="/wiki/Cluniac" class="mw-redirect" title="Cluniac">Cluniac</a> monastery was on the site from the 11th century. <a href="/wiki/Marjorie_Bruce" title="Marjorie Bruce">Marjorie Bruce</a>, the mother of <a href="/wiki/Robert_II_of_Scotland" title="Robert II of Scotland">King Robert II</a>, is thought to have been buried in the abbey.</p>
-<p><small>Photograph: <a href="/wiki/User:Colin" title="User:Colin">Colin</a></small></p>
+<p>A <b><a href="/wiki/Yellow-headed_caracara" title="Yellow-headed caracara">yellow-headed caracara</a></b> (<i>Milvago chimachima</i>) on the back of a <b><a href="/wiki/Capybara" title="Capybara">capybara</a></b> (<i>Hydrochoeris hydrochaeris</i>) in the <a href="/wiki/Pantanal" title="Pantanal">Pantanal</a> in the State of <a href="/wiki/Mato_Grosso_do_Sul" title="Mato Grosso do Sul">Mato Grosso do Sul</a>, Brazil. <a href="/wiki/Caracaras" class="mw-redirect" title="Caracaras">Caracaras</a> are a type of falcon that typically <a href="/wiki/Scavenger" title="Scavenger">scavenge</a> for their food, while capybaras are the largest <a href="/wiki/Rodent" title="Rodent">rodents</a> in the world.</p>
+<p><small>Photograph: <a href="/wiki/User:Charlesjsharp" title="User:Charlesjsharp">Charles J. Sharp</a></small></p>
 <div class="potd-recent" style="text-align:right;">Recently featured:
 <div class="hlist inline">
 <ul>
-<li><a href="/wiki/Template:POTD/2017-05-02" title="Template:POTD/2017-05-02"><i>Rhinotia hemistictus</i></a></li>
-<li><a href="/wiki/Template:POTD/2017-05-01" title="Template:POTD/2017-05-01">Sultan Qaboos Grand Mosque</a></li>
-<li><a href="/wiki/Template:POTD/2017-04-30" title="Template:POTD/2017-04-30">Franz Lehár</a></li>
+<li><a href="/wiki/Template:POTD/2017-05-05" title="Template:POTD/2017-05-05">Altoona, Pennsylvania</a></li>
+<li><a href="/wiki/Template:POTD/2017-05-04" title="Template:POTD/2017-05-04">Rubens Peale</a></li>
+<li><a href="/wiki/Template:POTD/2017-05-03" title="Template:POTD/2017-05-03">Paisley Abbey</a></li>
 </ul>
 </div>
 </div>
@@ -343,7 +347,7 @@ Dictionary and thesaurus</td>
 <div id="mp-lang">
 <h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
 <div id="lang" class="nowraplinks nourlexpansion plainlinks">
-<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,398,113</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,399,548</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
 <ul>
 <li id="lang-3">More than 1,000,000 articles:
 <div class="hlist inline">
@@ -415,36 +419,36 @@ Dictionary and thesaurus</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw1210
-Cached time: 20170503223303
+Parsed by mw1281
+Cached time: 20170506150407
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.192 seconds
-Real time usage: 0.267 seconds
-Preprocessor visited node count: 3207/1000000
+CPU time usage: 0.148 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 2963/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 97827/2097152 bytes
-Template argument size: 4904/2097152 bytes
-Highest expansion depth: 18/40
+Post‐expand include size: 96797/2097152 bytes
+Template argument size: 4913/2097152 bytes
+Highest expansion depth: 14/40
 Expensive parser function count: 5/500
-Lua time usage: 0.046/10.000 seconds
-Lua memory usage: 1.9 MB/50 MB
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1.96 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  193.750      1 -total
- 42.00%   81.377      1 Wikipedia:Main_Page/Tomorrow
- 35.97%   69.690      7 Template:Main_page_image
- 26.70%   51.736      1 Template:Did_you_know
- 17.47%   33.845      1 Template:Did_you_know/Queue/2
- 16.67%   32.301      2 Template:Wikipedia_languages
- 15.15%   29.360      7 Template:Str_number/trim
- 13.20%   25.577      1 Template:DYKbotdo
- 12.31%   23.849      1 Template:Mbox
- 12.09%   23.419     88 Template:Wikipedia_languages/core
+100.00%  152.672      1 -total
+ 42.10%   64.276      1 Wikipedia:Main_Page/Tomorrow
+ 29.88%   45.616      6 Template:Main_page_image
+ 19.78%   30.194      1 Template:Did_you_know/Queue/5
+ 16.38%   25.015      2 Template:Wikipedia_languages
+ 14.69%   22.428      8 Template:Remove_file_prefix
+ 14.55%   22.213      1 Template:DYKbotdo
+ 14.15%   21.600      1 Template:Did_you_know
+ 13.68%   20.887      1 Template:Mbox
+ 12.97%   19.802     18 Template:If_empty
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170503223303 and revision id 777395573
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!*!0!!*!4!* and timestamp 20170506150408 and revision id 777395573
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=777395573</a>"					</div>
@@ -583,6 +587,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 									</ul>
 						<div style="clear:both"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.267","ppvisitednodes":{"value":3207,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97827,"limit":2097152},"templateargumentsize":{"value":4904,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  193.750      1 -total"," 42.00%   81.377      1 Wikipedia:Main_Page/Tomorrow"," 35.97%   69.690      7 Template:Main_page_image"," 26.70%   51.736      1 Template:Did_you_know"," 17.47%   33.845      1 Template:Did_you_know/Queue/2"," 16.67%   32.301      2 Template:Wikipedia_languages"," 15.15%   29.360      7 Template:Str_number/trim"," 13.20%   25.577      1 Template:DYKbotdo"," 12.31%   23.849      1 Template:Mbox"," 12.09%   23.419     88 Template:Wikipedia_languages/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1989722,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20170503223303","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1188"});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.224","ppvisitednodes":{"value":2963,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96797,"limit":2097152},"templateargumentsize":{"value":4913,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  152.672      1 -total"," 42.10%   64.276      1 Wikipedia:Main_Page/Tomorrow"," 29.88%   45.616      6 Template:Main_page_image"," 19.78%   30.194      1 Template:Did_you_know/Queue/5"," 16.38%   25.015      2 Template:Wikipedia_languages"," 14.69%   22.428      8 Template:Remove_file_prefix"," 14.55%   22.213      1 Template:DYKbotdo"," 14.15%   21.600      1 Template:Did_you_know"," 13.68%   20.887      1 Template:Mbox"," 12.97%   19.802     18 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":2054328,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20170506150408","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1244"});});</script>
 	</body>
 </html>
