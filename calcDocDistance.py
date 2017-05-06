@@ -6,21 +6,14 @@ from readFile import read_file
 from mergeSort import merge_sort
 import string
 
-def getWordsFromLineList(line_list):
-	words = []
-	for line in line_list:
-		words_in_line = getWordsFromString(line)
-		words.extend(words_in_line)
+def getWordsFromText(text):
+	translation_table = string.maketrans(string.uppercase, string.lowercase)
+	text = text.translate(translation_table)
+	text = "".join(c for c in text if c not in ('!','.',':'))
+	words = text.split()
 	print("size of words list")
 	print(len(words))
 	return words
-
-def getWordsFromString(line):
-	translation_table = string.maketrans(string.uppercase, string.lowercase)
-	line = line.translate(translation_table)
-	line = "".join(c for c in line if c not in ('!','.',':'))
-	word_list = line.split()
-	return word_list
 
 def countFrequency(wordList):
 	#document vector
@@ -37,8 +30,8 @@ def countFrequency(wordList):
 	return dictionary
 
 def getWordFrequency(filename):
-	line_list = read_file(filename)
-	words = getWordsFromLineList(line_list)
+	text = read_file(filename)
+	words = getWordsFromText(text)
 	frequencyMap = countFrequency(words)
 	return frequencyMap
 
