@@ -9,6 +9,7 @@ from lucene import IndexReader
 from lucene import QueryParser
 from lucene import SimpleFSDirectory
 from lucene import Version
+from luceneRetriever import retrieveDocs
 from findMinDistance import findMinDistance
 from maxMinDispersion import calculateMaxMin
 from findMaxDistance import findMaxDistance
@@ -28,62 +29,43 @@ class MainHandler(tornado.web.RequestHandler):
         self.write('<html><body><form action="/" method="post">'
            '<p>Search for query here.</p>'
            '<input type="text" name="query" value="type query here">'
-           '<input type="submit" value="Relevance-based search">'
            '<br>'
            '<br>'
-           '<input type="text" name="Dquery" value="type query here">'
-           '<input type="submit" value="Distance-based search">'
+           '<input type="submit" name="rBased" value="Relevance-based search">'
            '<br>'
+           '<input type="submit" name="dBased" value="Distance-based search">'
            '<br>'
-           '<input type="text" name="Cquery" value="type query here">'
-           '<input type="submit" value="Coverage-based search">'
+           '<input type="submit" name="cBased" value="Coverage-based search">'
            '</form></body></html>')
 
     def post(self):
-        q= self.get_argument("query")
 
-        lucene.initVM()
-        analyzer = StandardAnalyzer(Version.LUCENE_30)
-        reader = IndexReader.open(SimpleFSDirectory(File("index/")))
-        searcher = IndexSearcher(reader)
- 
-        query = QueryParser(Version.LUCENE_30, "text", analyzer).parse(q)
-        MAX = 1000
-        hits = searcher.search(query, MAX)
-        nonDiverse = []
-        docsToScores = {}
-        #create a list of html files with relevant websites
-        rQ = []
-        print "Found %d document(s) that matched query '%s':" % (hits.totalHits, query)
-        for hit in hits.scoreDocs:
-            print hit.score, hit.doc, hit.toString()
-            doc = searcher.doc(hit.doc)
-            print doc.get("text").encode("utf-8")
-            #print(new_urls[str(hit.doc)])
-            result = str(hit.score)+ " " + str(hit.doc) + " " + hit.toString()
-            if (len(nonDiverse)<10):
-                nonDiverse.append(new_urls[str(hit.doc)])
-            #find the document that corresponds to the html website and append to a list for min distance
-            website = new_urls[str(hit.doc)]
-            #html_files numbers of the hit websites added to rQ
-            rQ.append(inv_map[website])
-            docsToScores[int(inv_map[website])] = hit.score
-            print(inv_map[website])
-        #score = functionScore(99, 151, .7, docsToScores)
-        maxarg, u, v = findMaxDistance(rQ, .7, docsToScores)
-        distanceBased = calculateMaxMin(rQ, 10, .7, docsToScores)
-        coverageBased = calculateMaxCoverage(rQ, 10, .7, docsToScores)
-        dBased = []
-        for x in distanceBased:
-            dBased.append(doc_urls[x])
-        cBased = []
-        for x in coverageBased:
-            cBased.append(doc_urls[x])
+        if self.get_argument("rBased", None) != None:
+            q = self.get_argument("query")
+            docsToScores, rQ, nonDiverse = retrieveDocs(q)
+            self.render("index.html", title="Results", items=nonDiverse, query=q)
+        
+        if self.get_argument("dBased", None) != None:
+            q = self.get_argument("query")
+            docsToScores, rQ, nonDiverse = retrieveDocs(q)
+            distanceBased = calculateMaxMin(rQ, 10, .7, docsToScores)
+            dBased = []
+            for x in distanceBased:
+                dBased.append(doc_urls[x])
+            self.render("index.html", title="Results", items=dBased, query=q)
+        
+        if self.get_argument("cBased", None) != None:
+            q = self.get_argument("query")
+            docsToScores, rQ, nonDiverse = retrieveDocs(q)
+            coverageBased = calculateMaxCoverage(rQ, 10, .7, docsToScores)
+            cBased = []
+            for x in coverageBased:
+                cBased.append(doc_urls[x])
+            self.render("index.html", title="Results", items=cBased, query=q)
 
-    
         
 
-        self.render("index.html", title="Results", items=dBased, query=q)
+        
 
 
 def make_app():
