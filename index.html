@@ -5,7 +5,10 @@
    <body>
       <form action="{{ request.path }}" method="post">
        <div>{{ _("Search") }} <input type="text" name="query"/></div>
-       <div><input type="submit" value="{{ _("Search") }}"/></div>
+       <br>
+       <div><input type="submit" name="rBased" value="{{ _("Relevance-based search") }}"/></div>
+       <div><input type="submit" name="dBased" value="{{ _("Distance-based search") }}"/></div>
+       <div><input type="submit" name="cBased" value="{{ _("Coverage-based search") }}"/></div>
        {% module xsrf_form_html() %}
      </form>
     <div> Results for query {{ escape(query) }} </div>

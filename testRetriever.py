@@ -63,11 +63,6 @@ class MainHandler(tornado.web.RequestHandler):
                 cBased.append(doc_urls[x])
             self.render("index.html", title="Results", items=cBased, query=q)
 
-        
-
-        
-
-
 def make_app():
     return tornado.web.Application([
         (r"/", MainHandler),
