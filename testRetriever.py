@@ -25,11 +25,20 @@ inv_map = dict((v, k) for k, v in doc_urls.iteritems())
  
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-      self.write('<html><body><form action="/" method="post">'
+        self.write('<html><body><form action="/" method="post">'
            '<p>Search for query here.</p>'
            '<input type="text" name="query" value="type query here">'
-           '<input type="submit" value="Submit">'
+           '<input type="submit" value="Relevance-based search">'
+           '<br>'
+           '<br>'
+           '<input type="text" name="Dquery" value="type query here">'
+           '<input type="submit" value="Distance-based search">'
+           '<br>'
+           '<br>'
+           '<input type="text" name="Cquery" value="type query here">'
+           '<input type="submit" value="Coverage-based search">'
            '</form></body></html>')
+
     def post(self):
         q= self.get_argument("query")
 
@@ -74,7 +83,7 @@ class MainHandler(tornado.web.RequestHandler):
     
         
 
-        self.render("index.html", title="Results", items=nonDiverse, query=q)
+        self.render("index.html", title="Results", items=dBased, query=q)
 
 
 def make_app():
