@@ -1,3 +1,4 @@
+
 import sys
 import lucene
 from calcDocDistance import calculateDistance
@@ -63,12 +64,14 @@ class MainHandler(tornado.web.RequestHandler):
                 cBased.append(doc_urls[x])
             self.render("index.html", title="Results", items=cBased, query=q)
 
+
 def make_app():
     return tornado.web.Application([
         (r"/", MainHandler),
     ])
 
 if __name__ == "__main__":
+  
     app = make_app()
     app.listen(8888)
     tornado.ioloop.IOLoop.current().start()
