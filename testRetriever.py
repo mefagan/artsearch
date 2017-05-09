@@ -37,6 +37,10 @@ class MainHandler(tornado.web.RequestHandler):
            '<input type="submit" name="dBased" value="Distance-based search">'
            '<br>'
            '<input type="submit" name="cBased" value="Coverage-based search">'
+           '<p>This is a search engine that searches within 200 crawled pages of the Wikipedia domain. It has two options for diversifying search results.</p>'
+           '<p> The first option is a standard relevance-based search, which uses the Lucene package to index and score documents.</p>'
+          ' <p> The second option is a distance-based search, which implements the MaxMinDispersion algorithm described at http://www.ambuehler.ethz.ch/CDstore/www2009/proc/docs/p381.pdf. This favors extreme documents. The documents in this cluster are far from each other, but relevant to the query</p>'
+           '<p> The third option is a coverage-based search, which implements the MaxCoverage algorithm found at http://journal.webscience.org/368/2/websci10_submission_73.pdf. This ensures all relevant documents in a cluster are close to some chosen document.</p>'
            '</form></body></html>')
 
     def post(self):
@@ -49,7 +53,7 @@ class MainHandler(tornado.web.RequestHandler):
         if self.get_argument("dBased", None) != None:
             q = self.get_argument("query")
             docsToScores, rQ, nonDiverse = retrieveDocs(q)
-            distanceBased = calculateMaxMin(rQ, 10, .7, docsToScores)
+            distanceBased = calculateMaxMin(rQ, 10, 5, docsToScores)
             dBased = []
             for x in distanceBased:
                 dBased.append(doc_urls[x])
@@ -58,7 +62,7 @@ class MainHandler(tornado.web.RequestHandler):
         if self.get_argument("cBased", None) != None:
             q = self.get_argument("query")
             docsToScores, rQ, nonDiverse = retrieveDocs(q)
-            coverageBased = calculateMaxCoverage(rQ, 10, .7, docsToScores)
+            coverageBased = calculateMaxCoverage(rQ, 10, 5, docsToScores)
             cBased = []
             for x in coverageBased:
                 cBased.append(doc_urls[x])
